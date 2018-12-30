@@ -1,0 +1,14 @@
+version: '2.0'
+services:
+
+
+
+  mongo_bruno:
+    build:
+      context: .
+      dockerfile: ./mongo/Dockerfile
+    container_name: mongo_bruno
+    volumes:
+      - ./../data/mongo/bruno:/data/db
+    ports:
+      - "37017:27017"

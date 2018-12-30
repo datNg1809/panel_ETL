@@ -1,0 +1,128 @@
+{
+  "GENERAL": {
+    "logger_name": "daily_psa_import",
+    "input_filename": "./data/fichier_psa.csv",
+    "output_filename": "",
+    "context": "psa",
+    "global_index": "VIN"
+  },
+  "enrichment": [
+    {
+      "name": "string_with_comma_to_float",
+      "target": "PRIX_VENTEVO_HT",
+      "column": "PRIX_VENTEVO_HT"
+    },
+    {
+      "name": "string_with_comma_to_float",
+      "target": "PRIX_VENTEVO_TTC",
+      "column": "PRIX_VENTEVO_TTC"
+    }
+  ],
+  "expectations": [
+    {
+      "expectation_type": "expect_table_row_count_to_be_between_depending_on_day",
+      "kwargs": {
+        "column": "VIN",
+        "min_day_of_week": 1,
+        "min_not_day_of_week": 1,
+        "maximum": 999999999999
+      },
+      "logs": {
+        "keyword": "FILE_METRIC"
+      }
+    },
+    {
+      "expectation_type": "expect_returning_column_count",
+      "kwargs": {
+        "column": "CODE_PAYS",
+        "min_column": 30,
+        "max_column": 3000
+      },
+      "logs": {
+        "keyword": "FILE_METRIC"
+      }
+    },
+    {
+      "expectation_type": "expect_column_to_exist",
+      "kwargs": {
+        "column": "VIN"
+      },
+      "logs": {
+        "keyword": "FILE_CHECK"
+      }
+    },
+    {
+      "expectation_type": "expect_column_to_exist",
+      "kwargs": {
+        "column": "MARQUE"
+      },
+      "logs": {
+        "keyword": "FILE_CHECK"
+      }
+    },
+    {
+      "expectation_type": "expect_column_value_lengths_to_equal",
+      "kwargs": {
+        "column": "VIN",
+        "value": 17
+      },
+      "logs": {
+        "keyword": "FILE_CHECK"
+      }
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_of_type",
+      "kwargs": {
+        "column": "VIN",
+        "type_": "string"
+      },
+      "logs": {
+        "keyword": "FILE_CHECK"
+      }
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_between",
+      "kwargs": {
+        "column": "PRIX_VENTEVO_HT",
+        "min_value": 2000,
+        "max_value": 30000
+      },
+      "logs": {
+        "keyword": "FILE_CHECK"
+      }
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_in_set",
+      "kwargs": {
+        "column": "CODE_MARQUE",
+        "values_set": [
+          "AP",
+          "AC",
+          "ACC",
+          "33"
+        ]
+      },
+      "logs": {
+        "keyword": "FILE_CHECK"
+      }
+    },
+    {
+      "expectation_type": "expect_column_pair_values_A_to_be_greater_than_B",
+      "kwargs": {
+        "column_A": "PRIX_VENTEVO_TTC",
+        "column_B": "PRIX_VENTEVO_HT",
+        "or_equal": true
+      },
+      "logs": {
+        "keyword": "FILE_CHECK"
+      }
+    }
+  ]
+}
+
+
+
+
+
+
+

@@ -1,0 +1,67 @@
+version: '2.0'
+services:
+
+
+  nifi_patrick:
+    container_name: nifi_patrick
+    build:
+      context: .
+      dockerfile: ./nifi/Dockerfile
+    #tty: true
+    ports:
+      - 18080:8080
+    volumes:
+      - ./../logs/nifi:/nifi/logs
+      - ./../data/input:/data/input
+      - ./../data/backup:/data/backup
+      - ./nifi/conf:/nifi/conf
+      - ./../application:/usr/local/bin/src
+    networks:
+      - dqc
+
+  mongo_patrick:
+    build:
+      context: .
+      dockerfile: ./mongo/Dockerfile
+    container_name: mongo_patrick
+    volumes:
+      - ./../data/mongo/patrick:/data/db
+    ports:
+      - "27017:27017"
+    networks:
+      - dqc
+#
+#  es_patrick:
+#
+#  kafka_patrick:
+#    container_name: kafka_patrick
+#    build:
+#      context: .
+#      dockerfile: ./kafka/Dockerfile
+#    ports:
+#      - "9092:9092"
+#    environment:
+#      KAFKA_ADVERTISED_HOST_NAME: 149.202.79.37
+#      KAFKA_CREATE_TOPICS: "test:1:1"
+#      KAFKA_ZOOKEEPER_CONNECT: zookeeper_patrick:2181
+#    volumes:
+#      - ./kafka/docker.sock:/var/run/docker.sock
+#    networks:
+#      - dqc
+#    depends_on:
+#      - zookeeper_patrick
+#    stdin_open: true
+#    tty: true
+#
+#
+#
+#  zookeeper_patrick:
+#    container_name: zookeeper_patrick
+#    image: wurstmeister/zookeeper
+#    ports:
+#      - "2181:2181"
+#    networks:
+#      - dqc
+
+networks:
+    dqc:
