@@ -3,8 +3,14 @@
     "logger_name": "panel_vo",
     "input_filename": "stdin",
     "output_filename": "stdout",
-    "context": "panel_vo",
+    "context": "panel",
     "global_index": ""
+  },
+  "dtype": {
+    "TELEPHONE": "str",
+    "TELEPHONE_2": "str",
+    "TELEPHONE_3": "str",
+    "TELEPHONE_4": "str"
   },
   "enrichment": [],
   "expectations": []

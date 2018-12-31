@@ -2,8 +2,8 @@ version: '2.0'
 services:
 
 
-  nifi_panel:
-    container_name: nifi_panel
+  nifi_panel_patrick:
+    container_name: nifi_panel_patrick
     build:
       context: .
       dockerfile: ./nifi/Dockerfile

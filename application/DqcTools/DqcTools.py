@@ -380,9 +380,3 @@ class DqcTools(PandasDataset):
         """
 
         return column.map(self._length_is_between)
-
-
-class Panel(DqcTools):
-
-    def __init__(self, my_df, config):
-        super().__init__(my_df, config)
