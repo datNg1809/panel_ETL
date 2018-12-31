@@ -41,7 +41,7 @@ RUN     pip3 install --upgrade pip  great_expectations elasticsearch python-dote
 
 RUN mkdir -p /data/input && \
     mkdir -p /data/backup && \
-    chmod -R 777/data && \
+    chmod -R 777 /data && \
     mkdir -p /usr/local/src
 
 EXPOSE 8080
