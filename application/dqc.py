@@ -71,7 +71,8 @@ if 'expectations' in config:
     my_expectations_config['meta']['great_expectations.__version__'] = '0.4.4'
     my_expectations_config['expectations'] = config['expectations']
 
-    results = my_df.validate(expectations_config=my_expectations_config, catch_exceptions=False, result_format={'result_format': 'COMPLETE'})
+    results = my_df.validate(expectations_config=my_expectations_config, catch_exceptions=False,
+                             result_format={'result_format': 'COMPLETE'})
 
     # generate error logs
     for result in results['results']:

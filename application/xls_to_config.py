@@ -8,16 +8,18 @@ from datetime import datetime
 import json
 import yaml
 
-filename = 'vo_za_cars_2018_09.xls'
-(file, extention) = filename.split(".")
-(market, country, website,year, month) = file.split("_")
 
-general_config = pd.read_excel('./panel/{}_config_file.xlsx'.format(market), sheet_name=market)
-website_config = pd.read_excel('./panel/{}_config_file.xlsx'.format(market), sheet_name=(country + "_" + website).lower())
+path = os.path.dirname(os.path.realpath(__file__))
+filename = sys.argv[1]
+(file, extention) = filename.split(".")
+(market, country, website, year, month) = file.split("_")
+
+general_config = pd.read_excel(path + '/config/{}_config_file.xlsx'.format(market), sheet_name=market)
+website_config = pd.read_excel(path + '/config/{}_config_file.xlsx'.format(market), sheet_name=(country + "_" + website).lower())
 
 total_config = pd.concat([website_config, general_config])
 
-with open('./panel/{}_general.json'.format(market)) as json_file:
+with open(path + '/config/{}_general.json'.format(market)) as json_file:
     data = json.load(json_file)
 for index, row in total_config.iterrows():
     expectation_type = row['name']
@@ -29,5 +31,6 @@ for index, row in total_config.iterrows():
             logs[index_items] = item
     data["expectations"].append({"expectation_type": expectation_type, "kwargs": kwargs, "logs": logs})
 
-with open('./panel/{}_config.json'.format(market), 'w') as outfile:
+print(json.dumps(data))
+with open(path + '/config/{}_config.json'.format(market), 'w') as outfile:
     json.dump(data, outfile)
