@@ -4,7 +4,8 @@
     "input_filename": "stdin",
     "output_filename": "stdout",
     "context": "panel",
-    "global_index": ""
+    "global_index": "ANNONCE_LINK",
+    "delimiter": ";"
   },
   "dtype": {
     "TELEPHONE": "str",

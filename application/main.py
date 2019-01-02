@@ -4,19 +4,37 @@ from dotenv import load_dotenv
 import json
 import great_expectations as ge
 import os
-
+import pandas as pd
+from io import StringIO
 
 def main(market):
     #
     # read all environnement and config
 
     load_dotenv()
-    with open("./config/" + market + '_config.json', 'r') as f:
+    with open("/usr/local/src/config/" + market + '_config.json', 'r') as f:
         config = json.load(f)
     context = config['GENERAL']['context']
 
-    ge_df = ge.read_csv('./data/' + config['GENERAL']['input_filename'], delimiter=";", index_col=False,
-                        dtype={'TELEPHONE': 'str'})
+    delimiter = config['GENERAL'].get('delimiter', "\t")
+
+    if config['GENERAL']['input_filename'] == "stdin":
+        if not sys.stdin.isatty():
+            file = sys.stdin.readlines() 
+
+        file = ''.join(file)
+        file = StringIO(file)
+        ge_df = ge.read_csv(file, 
+                            delimiter=delimiter, 
+                            index_col=False,
+                            dtype=config['dtype'])
+
+    else:
+        ge_df = ge.read_csv('/usr/local/src/data/' + config['GENERAL']['input_filename'], 
+                            delimiter=delimiter, 
+                            index_col=False,
+                            dtype=config['dtype'])  
+
     module_ = __import__('Panel', fromlist=[context.capitalize()])
     module2_ = getattr(module_, context.capitalize())
     class_ = getattr(module2_, context.capitalize())
