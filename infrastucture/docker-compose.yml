@@ -3,13 +3,13 @@ services:
 
 
   nifi_panel_patrick:
-    container_name: nifi_panel_patrick
+    container_name: nifi_panel_fabien
     build:
       context: .
       dockerfile: ./nifi/Dockerfile
     #tty: true
     ports:
-      - 8081:8080
+      - 48080:8080
     volumes:
       - ./../logs/nifi:/nifi/logs
       - ./../data/input:/data/input

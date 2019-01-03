@@ -4,7 +4,6 @@ from dotenv import load_dotenv
 import json
 import great_expectations as ge
 import os
-import pandas as pd
 from io import StringIO
 
 def main(market):
@@ -39,7 +38,7 @@ def main(market):
     module2_ = getattr(module_, context.capitalize())
     class_ = getattr(module2_, context.capitalize())
     my_df = class_(ge_df, config)
-    dqc = Dqc.Dqc(config, my_df)
+    dqc = Dqc.Dqc(config, my_df, class_)
     dqc.dqc()
 
 
