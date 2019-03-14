@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.7
 
 ENV PATH $PATH:/nifi/bin
 
@@ -30,14 +30,17 @@ RUN set -euxo pipefail && \
     apk del tar wget
 
 RUN apk add --no-cache alpine-sdk  && \
-    apk add --no-cache python3 python3-dev alpine-sdk openblas-dev sqlite && \
+    apk add --no-cache python3 python3-dev alpine-sdk openblas-dev && \
     python3 -m ensurepip && \
     rm -r /usr/lib/python*/ensurepip && \
     pip3 install --upgrade pip setuptools   && \
    if [ ! -e /usr/bin/pip ]; then ln -s pip3 /usr/bin/pip ; fi && \
    if [[ ! -e /usr/bin/python ]]; then ln -sf /usr/bin/python3 /usr/bin/python; fi
 
-RUN     pip3 install --upgrade pip  great_expectations elasticsearch python-dotenv phonenumbers xlrd pyyaml
+COPY nifi/requirements.txt /tmp
+RUN     pip3 install --upgrade numpy==1.16.2 # separate from requirements.txt due to a probable bug in pandas 0.4.1 installer
+
+RUN     pip3 install --upgrade pip -r /tmp/requirements.txt
 
 RUN mkdir -p /data/input && \
     mkdir -p /data/backup && \
