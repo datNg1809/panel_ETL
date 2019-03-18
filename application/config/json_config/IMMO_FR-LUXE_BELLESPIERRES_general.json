@@ -1,0 +1,22 @@
+{
+  "GENERAL": {
+    "logger_name": "panel_immo_fr-luxe_bellespierres",
+    "input_filename": "stdin",
+    "output_filename": "stdout",
+    "context": "panel",
+    "global_index": "ANNONCE_LINK",
+    "delimiter": ";"
+  },
+  "dtype": {
+    "AGENCE_FAX":"str",
+    "AGENCE_TEL":"str"
+  },
+  "enrichment": [],
+  "expectations": []
+}
+
+
+
+
+
+
