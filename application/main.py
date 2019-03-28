@@ -11,7 +11,8 @@ def main(market):
     # read all environnement and config
 
     load_dotenv()
-    with open("/usr/local/src/config/final_config/" + market + '_' + country_ + '_' + website_ + '_config.json', 'r') as f:
+    with open("/usr/local/src/config/final_config/" + market + '_' + country_ + '_' + website_ + '_' + year_ + '_' +
+              month_ + '_config.json', 'r') as f:
         config = json.load(f)
     context = config['GENERAL']['context']
 
