@@ -13,6 +13,7 @@ WORKDIR /
 
 RUN set -euxo pipefail && \
     apk add --no-cache bash openjdk8-jre-base
+RUN apk add --no-cache nss
 
 ENV JAVA_HOME /usr/lib/jvm/java-1.8-openjdk
 RUN export JAVA_HOME
