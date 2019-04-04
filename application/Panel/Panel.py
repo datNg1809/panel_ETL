@@ -1,7 +1,8 @@
 from DqcTools import DqcTools
-import sys
 import logging
 import os
+from time import gmtime, strftime
+
 
 class Panel(DqcTools.DqcTools):
 
@@ -18,7 +19,15 @@ class Panel(DqcTools.DqcTools):
                                                     self.panel_timestamp]))
 
         if os.getenv("use_nifi_logger") == 'yes':
-            fh = logging.FileHandler('/nifi/logs/dqc-app.log')
+            fh = logging.FileHandler('/nifi/logs/dqc_panel_{}_{}_{}_{}_{}_{}.log'.format(
+                                                                                   self.config['GENERAL']['market'],
+                                                                                   self.config['GENERAL']['country'],
+                                                                                   self.config['GENERAL']['website'],
+                                                                                   self.config['GENERAL']['year'],
+                                                                                   self.config['GENERAL']['month'],
+                                                                                   strftime("%Y-%m-%dT%H:%M:%S",
+                                                                                            gmtime()))
+                                                                                   )
             formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
             fh.setFormatter(formatter)
             fh.setLevel(logging.INFO)
