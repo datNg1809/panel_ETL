@@ -46,6 +46,6 @@ def main(market):
 if __name__ == '__main__':
     path = os.path.dirname(os.path.realpath(__file__))
     filename = sys.argv[1]
-    (file, extention) = filename.split(".")
+    file = ".".join(filename.split(".")[:-1])
     (market, country_, website_, year_, month_) = file.split("_")
     main(market)
