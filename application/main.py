@@ -33,7 +33,7 @@ def main(market):
         ge_df = ge.read_csv('/usr/local/src/data/' + config['GENERAL']['input_filename'], 
                             delimiter=delimiter, 
                             index_col=False,
-                            dtype=config['dtype'])  
+                            dtype=config['dtype'])
 
     module_ = __import__('Panel', fromlist=[context.capitalize()])
     module2_ = getattr(module_, context.capitalize())

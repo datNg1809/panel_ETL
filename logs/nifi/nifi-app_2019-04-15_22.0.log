@@ -1,0 +1,519 @@
+2019-04-15 22:00:04,317 ERROR [Timer-Driven Process Thread-8] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:00:04,320 ERROR [Timer-Driven Process Thread-8] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+2019-04-15 22:00:33,534 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2019-04-15 22:00:33,534 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2019-04-15 22:00:33,742 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@34907a49 checkpointed with 1 Records and 0 Swap Files in 5 milliseconds (Stop-the-world time = 1 milliseconds, Clear Edit Logs time = 1 millis), max Transaction ID 346
+2019-04-15 22:00:34,327 ERROR [Timer-Driven Process Thread-8] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:00:34,327 ERROR [Timer-Driven Process Thread-8] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+2019-04-15 22:01:04,333 ERROR [Timer-Driven Process Thread-10] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:01:04,333 ERROR [Timer-Driven Process Thread-10] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+2019-04-15 22:01:34,338 ERROR [Timer-Driven Process Thread-1] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:01:34,338 ERROR [Timer-Driven Process Thread-1] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+2019-04-15 22:02:04,344 ERROR [Timer-Driven Process Thread-5] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:02:04,344 ERROR [Timer-Driven Process Thread-5] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+2019-04-15 22:02:33,535 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2019-04-15 22:02:33,535 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2019-04-15 22:02:33,765 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@34907a49 checkpointed with 1 Records and 0 Swap Files in 21 milliseconds (Stop-the-world time = 4 milliseconds, Clear Edit Logs time = 5 millis), max Transaction ID 346
+2019-04-15 22:02:34,349 ERROR [Timer-Driven Process Thread-5] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:02:34,350 ERROR [Timer-Driven Process Thread-5] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+2019-04-15 22:03:04,357 ERROR [Timer-Driven Process Thread-5] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:03:04,358 ERROR [Timer-Driven Process Thread-5] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+2019-04-15 22:03:34,360 ERROR [Timer-Driven Process Thread-3] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:03:34,360 ERROR [Timer-Driven Process Thread-3] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+2019-04-15 22:04:04,372 ERROR [Timer-Driven Process Thread-8] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:04:04,372 ERROR [Timer-Driven Process Thread-8] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+2019-04-15 22:04:33,537 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2019-04-15 22:04:33,537 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2019-04-15 22:04:33,786 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@34907a49 checkpointed with 1 Records and 0 Swap Files in 20 milliseconds (Stop-the-world time = 4 milliseconds, Clear Edit Logs time = 5 millis), max Transaction ID 346
+2019-04-15 22:04:34,379 ERROR [Timer-Driven Process Thread-10] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:04:34,380 ERROR [Timer-Driven Process Thread-10] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+2019-04-15 22:05:04,386 ERROR [Timer-Driven Process Thread-1] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:05:04,387 ERROR [Timer-Driven Process Thread-1] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+2019-04-15 22:05:34,394 ERROR [Timer-Driven Process Thread-10] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:05:34,395 ERROR [Timer-Driven Process Thread-10] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+2019-04-15 22:06:04,401 ERROR [Timer-Driven Process Thread-9] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:06:04,401 ERROR [Timer-Driven Process Thread-9] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+2019-04-15 22:06:33,541 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2019-04-15 22:06:33,541 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2019-04-15 22:06:33,811 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@34907a49 checkpointed with 1 Records and 0 Swap Files in 22 milliseconds (Stop-the-world time = 5 milliseconds, Clear Edit Logs time = 5 millis), max Transaction ID 346
+2019-04-15 22:06:34,409 ERROR [Timer-Driven Process Thread-8] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:06:34,409 ERROR [Timer-Driven Process Thread-8] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+2019-04-15 22:07:04,416 ERROR [Timer-Driven Process Thread-4] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:07:04,416 ERROR [Timer-Driven Process Thread-4] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+2019-04-15 22:07:34,422 ERROR [Timer-Driven Process Thread-6] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:07:34,423 ERROR [Timer-Driven Process Thread-6] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+2019-04-15 22:08:04,430 ERROR [Timer-Driven Process Thread-7] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:08:04,431 ERROR [Timer-Driven Process Thread-7] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+2019-04-15 22:08:33,541 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2019-04-15 22:08:33,542 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2019-04-15 22:08:33,838 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@34907a49 checkpointed with 1 Records and 0 Swap Files in 25 milliseconds (Stop-the-world time = 4 milliseconds, Clear Edit Logs time = 5 millis), max Transaction ID 346
+2019-04-15 22:08:34,437 ERROR [Timer-Driven Process Thread-2] o.a.n.c.s.StandardControllerServiceNode DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] Failed to invoke @OnEnabled method due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver: {}
+org.apache.nifi.reporting.InitializationException: Can't load Database Driver
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:250)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.onConfigured(DBCPConnectionPool.java:199)
+	at sun.reflect.GeneratedMethodAccessor358.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:142)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:130)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotations(ReflectionUtils.java:75)
+	at org.apache.nifi.util.ReflectionUtils.invokeMethodsWithAnnotation(ReflectionUtils.java:52)
+	at org.apache.nifi.controller.service.StandardControllerServiceNode$2.run(StandardControllerServiceNode.java:433)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: org.sqlite.JDBC
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.apache.nifi.dbcp.DBCPConnectionPool.getDriverClassLoader(DBCPConnectionPool.java:239)
+	... 16 common frames omitted
+2019-04-15 22:08:34,438 ERROR [Timer-Driven Process Thread-2] o.a.n.c.s.StandardControllerServiceNode Failed to invoke @OnEnabled method of DBCPConnectionPool[id=cc4ad16e-0164-1000-5dd1-dacea4c391bf] due to org.apache.nifi.reporting.InitializationException: Can't load Database Driver
