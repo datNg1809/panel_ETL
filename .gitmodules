@@ -2,3 +2,6 @@
 	path = application/DqcTools
 	url = https://sources.autobiz.pro/DQC/DqcTools.git
 
+[submodule "DqcTools"]
+	path = DqcTools
+	url = https://sources.autobiz.pro/DQC/DqcTools.git
