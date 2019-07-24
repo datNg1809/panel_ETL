@@ -32,9 +32,10 @@ do
 
     cat file | python ${LOGDIR}/parsing.py ${FOLDER_HOST} ${PATTERN} ${DESTDIR}
 
-    rsync $TEMPDIR/file $DESTDIR/
+    rsync file $DESTDIR/
+    current_date_time="`date "+%Y-%m-%d %H:%M:%S"`"
     touch $LOG
-    echo "At time {$date}, exporting data $file into dir=$DESTDIR" >> $LOG
+    echo "At time {$current_date_time}, exporting data $file into dir=$DESTDIR" >> $LOG
 done
 rm -rf $TEMPDIR
 
