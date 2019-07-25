@@ -22,20 +22,19 @@ TEMPDIR=$DIR/application/temporary
 DESTDIR=$DIR/data/input
 
 scp -P 2222 tele@127.0.0.1:/home/livraison_user/upload/${FOLDER_HOST}/*${PATTERN}* ${TEMPDIR}
-gunzip -r ${TEMPDIR}
+gunzip -rf ${TEMPDIR}
 
-for file in ${TEMPDIR}/*
+for file in ${TEMPDIR}/*.csv
 do
-    if [[ "DOUBLON" == *${file}* ]] || [[ "_TEL_" == *${file}* ]]; then
+    if [[ ${file} == *"DOUBLON"* ]] || [[ ${file} == *"_TEL_"* ]]; then
         continue
     fi
+    cat .${file} | python ${LOGDIR}/parsing.py ${FOLDER_HOST} ${PATTERN} ${DESTDIR}
 
-    cat file | python ${LOGDIR}/parsing.py ${FOLDER_HOST} ${PATTERN} ${DESTDIR}
-
-    rsync file $DESTDIR/
+    rsync $file $DESTDIR/
     current_date_time="`date "+%Y-%m-%d %H:%M:%S"`"
     touch $LOG
-    echo "At time {$current_date_time}, exporting data $file into dir=$DESTDIR" >> $LOG
+    echo "Exporting $file into dir=$DESTDIR" at time {$current_date_time}, >> $LOG
 done
 rm -rf $TEMPDIR
 

@@ -24,3 +24,4 @@ for web in webs:
     out_name= sys.argv[1] + "_" + str(web).upper() + "_" + sys.argv[2] + ".csv"
     output=os.path.join(sys.argv[3] + out_name)
     outfile.to_csv(output, sep=';', index=False, encoding = 'utf-8')
+    sys.stdout = open(outfile, 'w')
