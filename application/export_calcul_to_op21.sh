@@ -15,11 +15,11 @@ DIR=$3
 
 
 
-LOGDIR=$DIR/application
+LOGDIR=$DIR
 LOG=$LOGDIR/Export_${PATTERN}.log
-TEMPDIR=$DIR/application/temporary
+TEMPDIR=$DIR/temporary
 [[ -e $TEMPDIR ]] || mkdir -p $TEMPDIR
-DESTDIR=$DIR/data/input
+DESTDIR=/data/input
 
 scp -P 2222 tele@127.0.0.1:/home/livraison_user/upload/${FOLDER_HOST}/*${PATTERN}* ${TEMPDIR}
 gunzip -rf ${TEMPDIR}
