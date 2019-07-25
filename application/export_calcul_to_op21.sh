@@ -29,12 +29,16 @@ do
     if [[ ${file} == *"DOUBLON"* ]] || [[ ${file} == *"_TEL_"* ]]; then
         continue
     fi
+
     cat ${file} | python3 /usr/local/src/parsing.py ${FOLDER_HOST} ${PATTERN} ${TEMPDIR}
+
 
     rsync $file $DESTDIR/
     current_date_time="`date "+%Y-%m-%d %H:%M:%S"`"
     touch $LOG
+
     echo "Exporting $file into dir=$DESTDIR at time {$current_date_time}" >> $LOG
+
 done
 rm -rf $TEMPDIR
 
