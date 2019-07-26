@@ -29,13 +29,14 @@ transfer () {
       fi
 
       cat ${file} | python3 $DIR/application/parsing.py ${FOLDER_HOST} ${PATTERN} ${TEMPDIR}
-      rsync $file $DESTDIR/
+      #rsync $file $DESTDIR/
       current_date_time="`date "+%Y-%m-%d %H:%M:%S"`"
       touch $LOG
 
-      echo "$current_date_time : Exporting $file into dir=$DESTDIR" >> $LOG
-
+      echo "$current_date_time : Exporting $(basename ${file}) into dir=$DESTDIR" >> $LOG
+      rm -rf $file
   done
+  rsync $TEMPDIR/ $DESTDIR/
   rm -rf $TEMPDIR
 }
 
