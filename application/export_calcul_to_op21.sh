@@ -27,16 +27,18 @@ transfer () {
       if [[ ${file} == *"DOUBLON"* ]] || [[ ${file} == *"_TEL_"* ]]; then
           continue
       fi
-
       cat ${file} | python3 $DIR/application/parsing.py ${FOLDER_HOST} ${PATTERN} ${TEMPDIR}
       #rsync $file $DESTDIR/
-      current_date_time="`date "+%Y-%m-%d %H:%M:%S"`"
-      touch $LOG
-
-      echo "$current_date_time : Exporting $(basename ${file}) into dir=$DESTDIR" >> $LOG
       rm -rf $file
   done
-  rsync $TEMPDIR/ $DESTDIR/
+
+  for file in ${TEMPDIR}/*.csv
+  do
+      rsync $$file $DESTDIR/
+      current_date_time="`date "+%Y-%m-%d %H:%M:%S"`"
+      touch $LOG
+      echo "$current_date_time : Exporting $(basename ${file}) into dir=$DESTDIR" >> $LOG
+  done
   rm -rf $TEMPDIR
 }
 
