@@ -2,7 +2,8 @@
 import sys
 import csv
 import os
-from io import StringIO
+
+import io 
 from itertools import groupby
 
 """
@@ -15,7 +16,8 @@ os.chdir(sys.argv[3])
 
 #csvfile=sys.stdin.read().splitlines()
 #dialect = csv.Sniffer().sniff(csvfile.read(1024))
-df = csv.reader(sys.stdin)
+f=io.open(sys.stdin.readlines(),mode='r', encoding ='utf_8',errors='ignore')
+df = csv.reader(f)
 header = next(df)
 site_index=header.index("SITE")
 
