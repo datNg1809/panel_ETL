@@ -24,10 +24,18 @@ def main(market):
 
         file = ''.join(file)
         file = StringIO(file)
-        ge_df = ge.read_csv(file, 
-                            delimiter=delimiter, 
-                            index_col=False,
-                            dtype=config['dtype'])
+        try:
+            ge_df = ge.read_csv(file,
+                                delimiter=delimiter,
+                                index_col=False,
+                                dtype=config['dtype'],
+                                encoding="utf-8")
+        except UnicodeDecodeError:
+            ge_df = ge.read_csv(file,
+                                delimiter=delimiter,
+                                index_col=False,
+                                dtype=config['dtype'],
+                                encoding="latin-1")
 
     else:
         ge_df = ge.read_csv('/usr/local/src/data/' + config['GENERAL']['input_filename'], 
