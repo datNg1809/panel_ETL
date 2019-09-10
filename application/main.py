@@ -30,12 +30,15 @@ def main(market):
                                 index_col=False,
                                 dtype=config['dtype'],
                                 encoding="utf-8")
-        except UnicodeDecodeError:
+        except:
             ge_df = ge.read_csv(file,
                                 delimiter=delimiter,
                                 index_col=False,
                                 dtype=config['dtype'],
-                                encoding="latin-1")
+                                encoding="utf-8",
+                                quoting=3,
+                                error_bad_lines=False,
+                                engine="python")
 
     else:
         ge_df = ge.read_csv('/usr/local/src/data/' + config['GENERAL']['input_filename'], 
