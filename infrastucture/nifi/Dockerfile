@@ -32,6 +32,7 @@ RUN set -euxo pipefail && \
     rm -fv  "${TAR}" && \
     apk del tar wget
 
+
 RUN apk add --no-cache alpine-sdk  && \
     apk add --no-cache python3 python3-dev alpine-sdk openblas-dev && \
     python3 -m ensurepip && \
@@ -39,6 +40,7 @@ RUN apk add --no-cache alpine-sdk  && \
     pip3 install --upgrade pip setuptools   && \
    if [ ! -e /usr/bin/pip ]; then ln -s pip3 /usr/bin/pip ; fi && \
    if [[ ! -e /usr/bin/python ]]; then ln -sf /usr/bin/python3 /usr/bin/python; fi
+
 
 COPY nifi/requirements.txt /tmp
 RUN     pip3 install --upgrade numpy==1.16.2 # separate from requirements.txt due to a probable bug in pandas 0.4.1 installer
