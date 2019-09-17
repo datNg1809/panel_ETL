@@ -1,21 +1,87 @@
-version: '2.0'
+version: '3.3'
 services:
 
-
-  nifi_panel_patrick:
-    container_name: nifi_panel_fabien
+  nifi_dqc:
+    container_name: nifi_dqc
     build:
       context: .
-      dockerfile: ./nifi/Dockerfile
+      dockerfile: ./nifi/Dockerfile_dev
     #tty: true
     restart: unless-stopped
     ports:
-      - 48080:8080
+      - 8080:8080
     volumes:
-      - ./../logs/nifi:/nifi/logs
-      - ./../data/input:/data/input
-      - ./../data/sqlite:/db
-      - ./../data/backup:/data/backup
-      - ./nifi/conf:/nifi/conf
-      - ./../application:/usr/local/src
+      - ./nifi/logs/nifi:/nifi/logs
+      - ./nifi/data/input:/usr/local/data/input
+      - ./nifi/data/sqlite:/usr/local/data/db
+      - ./nifi/data/backup:/usr/local/data/backup
+      - ./nifi/conf:/opt/nifi/nifi-current/conf
+      - ./nifi/application:/usr/local/src
+    networks:
+      - elk
+ 
+  elasticsearch:
+   build:
+     context: elasticsearch/
+     args:
+       ELK_VERSION: "7.3.2"
+   volumes:
+     - type: volume
+       source: elasticsearch
+       target: /usr/share/elasticsearch/data
+   ports:
+     - "9200:9200"
+     - "9300:9300"
+   environment:
+     ES_JAVA_OPTS: "-Xmx256m -Xms256m"
+     ELASTIC_PASSWORD: "dqc_panel_pass"
+   networks:
+     - elk
+ 
+  logstash:
+   build:
+     context: logstash/
+     args:
+       ELK_VERSION: "7.3.2"
+   volumes:
+     - type: bind
+       source: ./logstash/config/logstash.yml
+       target: /usr/share/logstash/config/logstash.yml
+       read_only: true
+     - type: bind
+       source: ./logstash/pipeline
+       target: /usr/share/logstash/pipeline
+       read_only: true
+   ports:
+     - "5000:5000"
+     - "9600:9600"
+   environment:
+     LS_JAVA_OPTS: "-Xmx256m -Xms256m"
+   networks:
+     - elk
+   depends_on:
+     - elasticsearch
+ 
+  kibana:
+   build:
+     context: kibana/
+     args:
+       ELK_VERSION: "7.3.2"
+   volumes:
+     - type: bind
+       source: ./kibana/config/kibana.yml
+       target: /usr/share/kibana/config/kibana.yml
+       read_only: true
+   ports:
+     - "5601:5601"
+   networks:
+     - elk
+   depends_on:
+     - elasticsearch
+ 
+networks:
+  elk:
+    driver: bridge
 
+volumes:
+  elasticsearch:
