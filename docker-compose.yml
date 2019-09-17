@@ -78,7 +78,16 @@ services:
      - elk
    depends_on:
      - elasticsearch
- 
+
+  filebeat:
+   build:
+     context: filebeat/
+     args:
+       ELK_VERSION: "7.3.2"
+    networks:
+      - elk
+    volumes:
+      - filebeat:/usr/share/filebeat/data
 networks:
   elk:
     driver: bridge
