@@ -1,7 +1,6 @@
-[submodule "application/DqcTools"]
+[submodule "nifi/application/DqcTools"]
 	path = infrastructure/nifi/application/DqcTools
 	url = https://sources.autobiz.pro/DQC/DqcTools.git
-
 [submodule "DqcTools"]
-	path = DqcTools
+	path = nifi/application/DqcTools
 	url = https://sources.autobiz.pro/DQC/DqcTools.git
