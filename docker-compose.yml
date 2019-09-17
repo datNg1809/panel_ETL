@@ -43,15 +43,15 @@ services:
      context: logstash/
      args:
        ELK_VERSION: "7.3.2"
-   volumes:
-     - type: bind
-       source: ./logstash/config/logstash.yml
-       target: /usr/share/logstash/config/logstash.yml
-       read_only: true
-     - type: bind
-       source: ./logstash/pipeline
-       target: /usr/share/logstash/pipeline
-       read_only: true
+       volumes:
+         - type: bind
+           source: ./logstash/config/logstash.yml
+           target: /usr/share/logstash/config/logstash.yml
+           read_only: true
+         - type: bind
+           source: ./logstash/pipeline
+           target: /usr/share/logstash/pipeline
+           read_only: true
    ports:
      - "5000:5000"
      - "9600:9600"
