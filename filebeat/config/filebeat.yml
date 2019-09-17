@@ -2,32 +2,11 @@ filebeat.inputs:
 
 - type: log
   paths:
-   - '/usr/share/filebeat/logs/dqc_b2bspot/dqc-app.log'
+   - '/usr/share/filebeat/logs/dqc_panel*.log'
   fields_under_root: true
-  fields:
-   attrs:
-    autobiz.app: dqc_b2bspot
-    autobiz.role: report
-    autobiz.env: dev
-
-- type: log
-  paths:
-   - '/usr/share/filebeat/logs/dqc_panel/dqc-app.log'
-  fields_under_root: true
-  include_lines: ['.*panel_.*']
   fields:
    attrs:
     autobiz.app: dqc_panel
-    autobiz.role: report
-    autobiz.env: dev
-
-- type: log
-  paths:
-   - '/usr/share/filebeat/logs/dqc_panel_2/dqc-app.log'
-  fields_under_root: true
-  fields:
-   attrs:
-    autobiz.app: dqc_panel_2
     autobiz.role: report
     autobiz.env: dev
 
