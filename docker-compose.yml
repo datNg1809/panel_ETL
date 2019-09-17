@@ -1,8 +1,8 @@
 version: '3.3'
 services:
 
-  nifi_dqc:
-    container_name: nifi_dqc
+  nifi:
+    container_name: nifi
     build:
       context: .
       dockerfile: ./nifi/Dockerfile_dev
@@ -11,7 +11,7 @@ services:
     ports:
       - 8080:8080
     volumes:
-      - ./nifi/logs/nifi:/nifi/logs
+      - nifi_logs:/opt/nifi/nifi-current/logs
       - ./nifi/data/input:/usr/local/data/input
       - ./nifi/data/sqlite:/usr/local/data/db
       - ./nifi/data/backup:/usr/local/data/backup
@@ -43,15 +43,15 @@ services:
      context: logstash/
      args:
        ELK_VERSION: "7.3.2"
-       volumes:
-         - type: bind
-           source: ./logstash/config/logstash.yml
-           target: /usr/share/logstash/config/logstash.yml
-           read_only: true
-         - type: bind
-           source: ./logstash/pipeline
-           target: /usr/share/logstash/pipeline
-           read_only: true
+   volumes:
+     - type: bind
+       source: "./logstash/config/logstash.yml"
+       target: "/usr/share/logstash/config/logstash.yml"
+       read_only: true
+     - type: bind
+       source: "./logstash/pipeline"
+       target: "/usr/share/logstash/pipeline"
+       read_only: true
    ports:
      - "5000:5000"
      - "9600:9600"
@@ -84,13 +84,27 @@ services:
      context: filebeat/
      args:
        ELK_VERSION: "7.3.2"
-    networks:
-      - elk
-    volumes:
-      - filebeat:/usr/share/filebeat/data
+   networks:
+     - elk
+   volumes:
+     - type: bind
+       source: ./filebeat/config/filebeat.yml
+       target: /usr/share/filebeat/filebeat.yml
+       read_only: true
+     - type: mount
+       source: nifi_logs
+       target: /usr/share/filebeat/logs
+       read_only: true
+       nocopy: true
+     - filebeat:/usr/share/filebeat/data
+       #- nifi_logs:/usr/share/filebeat/logs
+
 networks:
   elk:
     driver: bridge
 
 volumes:
   elasticsearch:
+  nifi_logs:
+  filebeat:
+    driver: local
