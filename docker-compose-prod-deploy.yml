@@ -73,3 +73,5 @@ volumes:
   elasticsearch:
   nifi_logs:
   nifi_db:
+  filebeat:
+    driver: local
