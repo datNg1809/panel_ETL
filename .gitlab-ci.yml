@@ -15,7 +15,7 @@ stages:
   - deploy
 
 services:
-  - docker:18.09-dind 
+  - docker/compose:1.24.1 
 
 before_script:
   - docker login -u ${DOCKER_USER} -p ${DOCKER_USER_TOKEN} ${DOCKER_REGISTRY} 
