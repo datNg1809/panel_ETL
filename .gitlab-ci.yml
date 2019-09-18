@@ -31,7 +31,7 @@ build:
     - pip install docker-compose
     - docker-compose --version
     - docker-compose build --parallel
-    - bash .aux_build_script.sh
+    - bash .aux_build_script.sh ${DOCKER_REGISTRY} ${DOCKER_NAMESPACE} ${CI_COMMIT_SHA:0:8}
   tags:
     - docker
 
