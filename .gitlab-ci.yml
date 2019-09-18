@@ -1,0 +1,68 @@
+image: docker:stable
+
+variables:
+ RABBIT_USER: prometheus 
+ RABBIT_PASSWORD: rgxoYowCl0jxl7ayNQwC 
+
+variables:
+  PRODUCTION_SERVER: 172.16.2.6
+  DOCKER_REGISTRY: docker.autobiz.pro
+  DOCKER_NAMESPACE: infra 
+  PORT_MAPPING: 8080:8080
+
+stages:
+  - testing
+  - build
+  - deploy
+
+services:
+  - docker:18.09-dind 
+
+before_script:
+  - docker login -u ${DOCKER_USER} -p ${DOCKER_USER_TOKEN} ${DOCKER_REGISTRY} 
+  - which ssh-agent || ( apk add openssh-client )
+  - eval $(ssh-agent -s)
+  - echo "${GITLAB_CI_SSHKEY}" | tr -d '\r' | ssh-add - > /dev/null
+  - mkdir -p ~/.ssh
+  - chmod 700 ~/.ssh
+  - echo -e "Host\tBastion\n\tHostname\tb.autobiz.fr\n\tUser\t${DELIVERY_USER}\n\tStrictHostKeyChecking\tno\n\nHost\t* !Bastion\n\tUser\t${DELIVERY_USER}\n\tStrictHostKeyChecking\tno\n\tProxyJump\tBastion\n\n" > /etc/ssh/ssh_config
+  - cat /etc/ssh/ssh_config
+
+build:
+  stage: build
+  script: 
+    - docker-compose -f ./docker-compose.yml build
+    - my_docker_images=($(docker image ls | grep panel | awk '{print $1}'))
+    - for i in "${my_docker_images[@]}"; do new_tag=$(echo "${DOCKER_REGISTRY}/${DOCKER_NAMESPACE}/${i}:${CI_COMMIT_SHA:0:8}"); docker tag "${i}" "${new_tag}";  docker push "${new_tag}"; done
+  tags:
+    - docker
+
+deploy:
+  stage: deploy
+  script: 
+    - sed -i "s/DOCKER_REGISTRY/${DOCKER_REGISTRY}/g" ./docker-compose-prod-deploy.yml
+    - sed -i "s/DOCKER_NAMESPACE/${DOCKER_NAMESPACE}/g" ./docker-compose-prod-deploy.yml
+    - sed -i "s/CI_COMMIT_SHA/${CI_COMMIT_SHA:0:8}/g" ./docker-compose-prod-deploy.yml
+    - |
+      ssh ${PRODUCTION_SERVER} <<EOF
+        if [ -f '/home/gitlab/panel/docker-compose.yml' ]; then
+                cd /home/gitlab/panel;
+                docker-compose down --rmi all;
+                rm -r /home/gitlab/panel;
+        else if [ -d '/home/gitlab/panel/' ]; then
+                rm -r /home/gitlab/panel;
+           fi;
+        fi;
+        mkdir -p /home/gitlab/panel;
+      EOF
+    - scp ./docker-compose-prod-deploy.yml ${PRODUCTION_SERVER}:/home/gitlab/panel/docker-compose.yml 
+    - |
+      ssh ${PRODUCTION_SERVER} <<EOF
+        docker login -u ${DOCKER_USER} -p ${DOCKER_USER_TOKEN} ${DOCKER_REGISTRY};
+        cd /home/gitlab/panel;
+        docker-compose up -d;
+        docker-compose logs;
+      EOF
+  tags:
+    - docker
+  when: manual
