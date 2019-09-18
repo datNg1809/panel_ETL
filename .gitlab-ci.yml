@@ -30,7 +30,7 @@ build:
     - apk add --no-cache py-pip python-dev libffi-dev openssl-dev gcc libc-dev make
     - pip install docker-compose
     - docker-compose --version
-    - docker-compose build
+    - docker-compose build --parallel
     - my_docker_images=($(docker image ls | grep panel | awk '{print $1}'))
     - for i in "${my_docker_images[@]}"; do new_tag=$(echo "${DOCKER_REGISTRY}/${DOCKER_NAMESPACE}/${i}:${CI_COMMIT_SHA:0:8}"); docker tag "${i}" "${new_tag}";  docker push "${new_tag}"; done
   tags:
