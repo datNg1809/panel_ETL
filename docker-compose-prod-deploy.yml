@@ -13,7 +13,7 @@ services:
       - elk
  
   elasticsearch:
-   image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_es:CI_COMMIT_SHA
+   image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_elasticsearch:CI_COMMIT_SHA
    restart: unless-stopped
    volumes:
      - type: volume
