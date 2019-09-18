@@ -90,7 +90,7 @@ services:
        source: ./filebeat/config/filebeat.yml
        target: /usr/share/filebeat/filebeat.yml
        read_only: true
-     - type: mount
+     - type: volume
        source: nifi_logs
        target: /usr/share/filebeat/logs
        read_only: true
