@@ -11,7 +11,6 @@ variables:
   PORT_MAPPING: 8080:8080
 
 stages:
-  - testing
   - build
   - deploy
 
@@ -21,8 +20,8 @@ services:
 before_script:
   - docker login -u ${DOCKER_USER} -p ${DOCKER_USER_TOKEN} ${DOCKER_REGISTRY} 
   - which ssh-agent || ( apk add openssh-client )
-  - eval $(ssh-agent -s)
-  - echo "${GITLAB_CI_SSHKEY}" | tr -d '\r' | ssh-add - > /dev/null
+  - echo "${DELIVERY_SSHKEY}" 
+  - echo "${DELIVERY_SSHKEY}" | tr -d '\r' | ssh-add - > /dev/null
   - mkdir -p ~/.ssh
   - chmod 700 ~/.ssh
   - echo -e "Host\tBastion\n\tHostname\tb.autobiz.fr\n\tUser\t${DELIVERY_USER}\n\tStrictHostKeyChecking\tno\n\nHost\t* !Bastion\n\tUser\t${DELIVERY_USER}\n\tStrictHostKeyChecking\tno\n\tProxyJump\tBastion\n\n" > /etc/ssh/ssh_config
