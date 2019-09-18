@@ -1,0 +1,71 @@
+version: '3.3'
+services:
+
+  nifi:
+    image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_nifi:CI_COMMIT_SHA
+    restart: unless-stopped
+    ports:
+      - 8080:8080
+    volumes:
+      - nifi_logs:/opt/nifi/nifi-current/logs
+      - nifi_db:/usr/local/data/db
+    networks:
+      - elk
+ 
+  elasticsearch:
+   image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_es:CI_COMMIT_SHA
+   volumes:
+     - type: volume
+       source: elasticsearch
+       target: /usr/share/elasticsearch/data
+   ports:
+     - "9200:9200"
+     - "9300:9300"
+   environment:
+     ES_JAVA_OPTS: "-Xmx256m -Xms256m"
+     ELASTIC_PASSWORD: "dqc_panel_pass"
+   networks:
+     - elk
+ 
+  logstash:
+   image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_logstash:CI_COMMIT_SHA
+   ports:
+     - "5044:5044"
+     - "9600:9600"
+   environment:
+     LS_JAVA_OPTS: "-Xmx256m -Xms256m"
+   networks:
+     - elk
+   depends_on:
+     - elasticsearch
+ 
+  kibana:
+   image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_kibana:CI_COMMIT_SHA
+   ports:
+     - "5601:5601"
+   networks:
+     - elk
+   depends_on:
+     - elasticsearch
+
+  filebeat:
+   image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_filebeat:CI_COMMIT_SHA
+   networks:
+     - elk
+   volumes:
+     - type: mount
+       source: nifi_logs
+       target: /usr/share/filebeat/logs
+       read_only: true
+       nocopy: true
+   depends_on:
+     - logstash
+
+networks:
+  elk:
+    driver: bridge
+
+volumes:
+  elasticsearch:
+  nifi_logs:
+  nifi_db:
