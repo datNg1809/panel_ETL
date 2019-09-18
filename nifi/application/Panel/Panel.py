@@ -19,7 +19,7 @@ class Panel(DqcTools.DqcTools):
                                                     self.panel_timestamp]))
 
         #if os.getenv("use_nifi_logger") == 'yes':
-        fh = logging.FileHandler('/nifi/logs/dqc_panel_{}_{}_{}_{}_{}_{}.log'.format(
+        fh = logging.FileHandler('/opt/nifi/nifi-current/logs/dqc_panel_{}_{}_{}_{}_{}_{}.log'.format(
                                                                                self.config['GENERAL']['market'],
                                                                                self.config['GENERAL']['country'],
                                                                                self.config['GENERAL']['website'],
