@@ -5,6 +5,7 @@ variables:
   DOCKER_REGISTRY: docker.autobiz.pro
   DOCKER_NAMESPACE: infra 
   PORT_MAPPING: 8080:8080
+  DWH_PUBLIC_IP: 178.33.60.254
 
 stages:
   - build
@@ -41,6 +42,7 @@ deploy:
     - sed -i "s/DOCKER_REGISTRY/${DOCKER_REGISTRY}/g" ./docker-compose-prod-deploy.yml
     - sed -i "s/DOCKER_NAMESPACE/${DOCKER_NAMESPACE}/g" ./docker-compose-prod-deploy.yml
     - sed -i "s/CI_COMMIT_SHA/${CI_COMMIT_SHA:0:8}/g" ./docker-compose-prod-deploy.yml
+    - sed -i "s/DWH_PUBLIC_IP/${DWH_PUBLIC_IP}/g" ./docker-compose-prod-deploy.yml
     - |
       ssh ${PRODUCTION_SERVER} <<EOF
         if [ -f '/home/gitlab/panel/docker-compose.yml' ]; then

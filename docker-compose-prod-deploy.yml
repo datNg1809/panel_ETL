@@ -11,6 +11,8 @@ services:
       - nifi_db:/usr/local/data/db
     networks:
       - elk
+    extra_hosts:
+       - "dwh:DWH_PUBLIC_IP"
  
   elasticsearch:
    image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_elasticsearch:CI_COMMIT_SHA
