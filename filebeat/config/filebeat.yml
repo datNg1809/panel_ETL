@@ -9,7 +9,6 @@ filebeat.inputs:
     autobiz.app: dqc_panel
     autobiz.role: report
     autobiz.env: dev
-  encoding: iso8859-1
 
 - type: log
   paths:
@@ -20,7 +19,6 @@ filebeat.inputs:
     autobiz.app: dqc_panel_2
     autobiz.role: report
     autobiz.env: dev
-  encoding: iso8859-1
 
 output.logstash:
  hosts: ['logstash:5044']
