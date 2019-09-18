@@ -1,4 +1,4 @@
-version: '3.2'
+version: '3.7'
 services:
 
   nifi:
@@ -14,6 +14,7 @@ services:
  
   elasticsearch:
    image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_es:CI_COMMIT_SHA
+   restart: unless-stopped
    volumes:
      - type: volume
        source: elasticsearch
@@ -29,6 +30,7 @@ services:
  
   logstash:
    image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_logstash:CI_COMMIT_SHA
+   restart: unless-stopped
    ports:
      - "5044:5044"
      - "9600:9600"
@@ -41,6 +43,7 @@ services:
  
   kibana:
    image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_kibana:CI_COMMIT_SHA
+   restart: unless-stopped
    ports:
      - "5601:5601"
    networks:
@@ -50,14 +53,15 @@ services:
 
   filebeat:
    image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_filebeat:CI_COMMIT_SHA
+   restart: unless-stopped
    networks:
      - elk
    volumes:
-     - type: mount
+     - type: volume
        source: nifi_logs
        target: /usr/share/filebeat/logs
        read_only: true
-       nocopy: true
+     - filebeat:/usr/share/filebeat/data
    depends_on:
      - logstash
 
