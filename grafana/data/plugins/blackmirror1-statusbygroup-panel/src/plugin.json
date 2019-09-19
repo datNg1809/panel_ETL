@@ -1,0 +1,33 @@
+{
+  "type": "panel",
+  "name": "Status By Group Panel",
+  "id": "blackmirror1-statusbygroup-panel",
+
+  "info": {
+    "description": "Status By Group Panel for Grafana",
+    "author": {
+      "name": "Sandeep",
+      "url": "https://github.com/black-mirror-1"
+    },
+    "keywords": ["status", "panel"],
+    "logos": {
+      "small": "img/icon_status_panel.svg",
+      "large": "img/icon_status_panel.svg"
+    },
+    "links": [
+      {"name": "Github", "url": "https://github.com/black-mirror-1/Grafana_Status_panel"}
+    ],
+    "screenshots": [
+      {"name": "Ok State", "path": "img/ok.png"},
+      {"name": "Warning State", "path": "img/warning.png"},
+      {"name": "Critical State", "path": "img/error.png"}
+    ],
+    "version": "1.1.1",
+    "updated": "2018-6-05"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "5.x.x",
+    "plugins": [ ]
+  }
+}

@@ -98,6 +98,20 @@ services:
    depends_on:
      - logstash
 
+  grafana:
+   image: grafana/grafana:6.3.5
+   ports:
+     - "3000:3000"
+   networks:
+     - elk
+   volumes:
+     - type: bind
+       source: ./grafana/config/grafana.ini
+       target: /etc/grafana/grafana.ini
+     - type: bind
+       source: ./grafana/data/
+       target: /var/lib/grafana
+
 networks:
   elk:
     driver: bridge

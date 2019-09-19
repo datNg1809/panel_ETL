@@ -1,0 +1,96 @@
+{
+  "type": "app",
+  "name": "stagemonitor Elasticsearch",
+  "id": "stagemonitor-elasticsearch-app",
+
+  "pages": [
+  ],
+
+  "css": {
+  },
+
+  "info": {
+    "description": "stagemonitor Elasticsearch Dashboards",
+    "author": {
+      "name": "stagemonitor",
+      "url": "http://stagemonitor.org"
+    },
+    "keywords": ["stagemonitor"],
+    "logos": {
+      "small": "img/small_logo.png",
+      "large": "img/large_logo.png"
+    },
+    "links": [
+      {"name": "Project site", "url": "http://www.stagemonitor.org/"},
+      {"name": "GitHub", "url": "https://github.com/stagemonitor/stagemonitor"},
+      {"name": "License", "url": "https://github.com/stagemonitor/stagemonitor/blob/master/LICENSE"}
+    ],
+    "screenshots": [
+      {"name": "stagemonitor Application Server dashboard", "path": "img/screenshots/applicationserver.png"},
+      {"name": "stagemonitor DB dashboard", "path": "img/screenshots/db.png"},
+      {"name": "stagemonitor EhCache dashboard", "path": "img/screenshots/ehcache.png"},
+      {"name": "stagemonitor JVM dashboard", "path": "img/screenshots/jvm.png"},
+      {"name": "stagemonitor Requests Dashboard", "path": "img/screenshots/requests.png"},
+      {"name": "stagemonitor Hosts Dashboard", "path": "img/screenshots/hosts.png"}
+    ],
+    "version": "0.83.2",
+    "updated": "2017-09-12"
+  },
+
+  "includes": [
+    {
+        "type": "dashboard",
+        "name": "Application Server",
+        "path": "dashboards/elasticsearchapplicationserver.json",
+        "stagemonitorPlugin": "stagemonitor-web-servlet",
+        "revision": "0.83.2"
+    },
+    {
+        "type": "dashboard",
+        "name": "Custom Metrics",
+        "path": "dashboards/elasticsearchcustommetricsdashboard.json",
+        "stagemonitorPlugin": "stagemonitor-core",
+        "revision": "0.83.2"
+    },
+    {
+        "type": "dashboard",
+        "name": "EhCache",
+        "path": "dashboards/elasticsearchehcache.json",
+        "stagemonitorPlugin": "stagemonitor-ehcache",
+        "revision": "0.83.2"
+    },
+    {
+        "type": "dashboard",
+        "name": "Host",
+        "path": "dashboards/elasticsearchhostdashboard.json",
+        "stagemonitorPlugin": "stagemonitor-os",
+        "revision": "0.83.2"
+    },
+    {
+        "type": "dashboard",
+        "name": "JVM",
+        "path": "dashboards/elasticsearchjvm.json",
+        "stagemonitorPlugin": "stagemonitor-jvm",
+        "revision": "0.83.2"
+    },
+    {
+        "type": "dashboard",
+        "name": "Logging",
+        "path": "dashboards/elasticsearchlogging.json",
+        "stagemonitorPlugin": "stagemonitor-logging",
+        "revision": "0.83.2"
+    },
+    {
+        "type": "dashboard",
+        "name": "Request Metrics",
+        "path": "dashboards/elasticsearchrequestdashboard.json",
+        "stagemonitorPlugin": "stagemonitor-tracing",
+        "revision": "0.83.2"
+    }
+],
+
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": []
+  }
+}

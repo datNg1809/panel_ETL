@@ -1,0 +1,8 @@
+For Grafana to work:
+all the contents of ./grafana should be owned by 472.
+
+sudo chmod -R 472 ./grafana
+
+But for git to work:
+all the contents should be owned by your user.
+sudo chmod -R your_username ./grafana

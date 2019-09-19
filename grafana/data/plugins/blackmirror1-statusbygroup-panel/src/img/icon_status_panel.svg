@@ -1,0 +1,27 @@
+<svg width="148" height="85" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_1_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+  <linearGradient y2="0" x2="1" y1="0" x1="0" id="svg_8">
+   <stop offset="0" stop-color="#000fff"/>
+   <stop offset="1" stop-color="#fff000"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="url(#svg_8)" id="canvas_background" height="87" width="150" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" height="110" width="279"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect filter="url(#svg_1_blur)" rx="18" id="svg_1" height="82" width="145" y="1.848485" x="1.5" stroke-width="1.5" stroke="#000" fill="#fc4f00"/>
+  <rect rx="5" id="svg_2" height="16" width="104" y="18" x="22.5" stroke-width="1.5" stroke="#000" fill="#6b5d5c"/>
+  <rect rx="11" stroke="#000" id="svg_3" height="19" width="126.999996" y="48" x="10.5" stroke-opacity="null" stroke-width="1.5" fill="#665b56"/>
+  <ellipse ry="4.5" rx="4" id="svg_4" cy="25.954545" cx="31.893939" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#1fba1f"/>
+  <path id="svg_6" d="m17.217053,54.906908l1.939592,-2.424488l2.060399,2.575474l2.060399,-2.575474l1.939611,2.424488l-2.060399,2.575495l2.060399,2.575495l-1.939611,2.42451l-2.060399,-2.575496l-2.060399,2.575496l-1.939592,-2.42451l2.060382,-2.575495l-2.060382,-2.575495z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#d61b1b"/>
+ </g>
+</svg>
