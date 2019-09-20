@@ -2,5 +2,6 @@ ARG ELK_VERSION
 
 FROM docker.elastic.co/beats/filebeat:${ELK_VERSION}
 COPY ./config/filebeat.yml /usr/share/filebeat/filebeat.yml
+USER root
 RUN chmod 644 /usr/share/filebeat/filebeat.yml
-
+USER filebeat
