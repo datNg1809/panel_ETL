@@ -67,6 +67,14 @@ services:
    depends_on:
      - logstash
 
+  grafana:
+   image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_grafana:CI_COMMIT_SHA
+   restart: unless-stopped
+   ports:
+     - "3000:3000"
+   networks:
+     - elk
+
 networks:
   elk:
     driver: bridge

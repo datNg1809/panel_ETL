@@ -99,7 +99,8 @@ services:
      - logstash
 
   grafana:
-   image: grafana/grafana:6.3.5
+   build:
+     context: grafana/
    ports:
      - "3000:3000"
    networks:
