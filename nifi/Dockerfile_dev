@@ -7,7 +7,8 @@ RUN  pip3 install --upgrade numpy==1.16.2 &&  pip3 install --upgrade pip -r /tmp
 RUN mkdir -p /usr/local/data/input && \
     mkdir -p /usr/local/data/backup && \
     chmod -R 777 /usr/local/data && \
-    mkdir -p /usr/local/src
+    mkdir -p /usr/local/src && \
+    mkdir -p /usr/local/bin/src
 
 USER nifi
 EXPOSE 8080
