@@ -1,8 +1,9 @@
 FROM docker.autobiz.pro/infra/nifi_autobiz:latest
 
-COPY nifi/requirements.txt /tmp
 USER root
-RUN  pip3 install --upgrade numpy==1.16.2 &&  pip3 install --upgrade pip -r /tmp/requirements.txt
+COPY ./requirements.txt /tmp
+
+RUN  pip3 install -r /tmp/requirements.txt
 
 RUN mkdir -p /usr/local/data/input && \
     mkdir -p /usr/local/data/backup && \
@@ -11,4 +12,3 @@ RUN mkdir -p /usr/local/data/input && \
     mkdir -p /usr/local/bin/src
 
 USER nifi
-EXPOSE 8080

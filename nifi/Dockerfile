@@ -1,15 +1,13 @@
 FROM docker.autobiz.pro/infra/nifi_autobiz:latest
 
-COPY requirements.txt /tmp
-
 USER root
+COPY ./requirements.txt /tmp
 
-RUN  pip3 install --upgrade numpy==1.16.2 &&  pip3 install --upgrade pip -r /tmp/requirements.txt
+RUN  pip3 install -r /tmp/requirements.txt && \
+     mkdir -p /usr/local/data
 
 COPY --chown=nifi:nifi ./conf /opt/nifi/nifi-current/conf
 COPY --chown=nifi:nifi ./application /usr/local/src
 COPY --chown=nifi:nifi ./data /usr/local/data
 
 USER nifi
-
-EXPOSE 8080
