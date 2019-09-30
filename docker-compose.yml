@@ -3,8 +3,8 @@ services:
 
   nifi:
     build:
-      context: .
-      dockerfile: ./nifi/Dockerfile_dev
+      context: ./nifi
+      dockerfile: ./Dockerfile_dev
     #tty: true
     restart: unless-stopped
     ports:
