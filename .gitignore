@@ -24,5 +24,7 @@ application/.local
 .python_history
 .env
 data/mongo/
-infrastucture/nifi/conf/archive/
+nifi/conf/archive/
 grafana/data/png/*
+nifi/application/config/final_config/*
+

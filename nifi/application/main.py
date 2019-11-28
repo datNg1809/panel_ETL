@@ -16,8 +16,8 @@ def main(market):
         config = json.load(f)
     context = config['GENERAL']['context']
 
-    delimiter = config['GENERAL'].get('delimiter', "\t")
-
+    #delimiter = config['GENERAL'].get('delimiter', "\t")
+    delimiter = ','
     if config['GENERAL']['input_filename'] == "stdin":
         if not sys.stdin.isatty():
             file = sys.stdin.readlines() 
@@ -57,6 +57,6 @@ def main(market):
 if __name__ == '__main__':
     path = os.path.dirname(os.path.realpath(__file__))
     filename = sys.argv[1]
-    file = ".".join(filename.split(".")[:-1])
-    (market, country_, website_, year_, month_) = file.split("_")
+    #file = ".".join(filename.split(".")[:-1])
+    (market, country_, website_, year_, month_) = filename.split("_")
     main(market)
