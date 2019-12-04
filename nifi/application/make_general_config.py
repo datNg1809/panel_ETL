@@ -1,37 +1,42 @@
 import pandas as pd
 import os
 import json
+import glob
 
-file_path = "/home/dnguyen/panel/application/config/xlsx_config/"
-name = "VO_ZA_CONFIG.xlsx"
-input = os.path.join(file_path + name)
+file_path = "/home/dnguyen/panel_dqc/nifi/application/config/xlsx_config/"
+for file in glob.glob(file_path + "*.xlsx"):
+    name = os.path.basename(file)
+    market = name.split("_")[0]
+    country = name.split("_")[1]
 
-xlsx = pd.ExcelFile(input)
 
-sheets=len(xlsx.sheet_names)
-template = {
-        "GENERAL": {
-            "logger_name": "",
-            "input_filename": "stdin",
-            "output_filename": "stdout",
-            "context": "panel",
-            "global_index": "ANNONCE_LINK",
-            "delimiter": ";"
-        },
-        "dtype": {
-            "AGENCE_FAX": "str",
-            "AGENCE_TEL": "str",
-            "TELEPHONE": "str",
-            "FAX": "str"
-        },
-        "enrichment": [],
-        "expectations": []
-    }
-for i in xlsx.sheet_names[1:]:
-    if i != 'Glossary of Expectations':
-        template['GENERAL']['logger_name']= "vo_za_" + i.lower()
-        new_file_path="/home/dnguyen/panel/application/config/json_config/"
-        out_name = "VO_ZA_" + i + "_general.json"
+    xlsx = pd.ExcelFile(file)
 
-        with open (new_file_path + out_name, "w") as f:
-            json.dump(template,f)
+    sheets=len(xlsx.sheet_names)
+    template = {
+            "GENERAL": {
+                "logger_name": "",
+                "input_filename": "stdin",
+                "output_filename": "stdout",
+                "context": "panel",
+                "global_index": "ANNONCE_LINK",
+                "delimiter": ","
+            },
+            "dtype": {
+                "AGENCE_FAX": "str",
+                "AGENCE_TEL": "str",
+                "TELEPHONE": "str",
+                "FAX": "str"
+            },
+            "enrichment": [],
+            "expectations": []
+        }
+    for i in xlsx.sheet_names[1:]:
+        if i != 'Glossary of Expectations':
+            template['GENERAL']['logger_name']= market.lower() + "_" + country.lower() + "_" + i.lower()
+            #new_file_path="/home/dnguyen/panel_dqc/nifi/application/config/json_config/"
+            new_file_path=file_path.replace("xlsx_config","json_config")
+            out_name = market.upper() + "_" + country.upper() + "_" + i + "_general.json"
+
+            with open (new_file_path + out_name, "w") as f:
+                json.dump(template,f)

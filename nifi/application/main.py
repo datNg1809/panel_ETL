@@ -16,8 +16,8 @@ def main(market):
         config = json.load(f)
     context = config['GENERAL']['context']
 
-    #delimiter = config['GENERAL'].get('delimiter', "\t")
-    delimiter = ','
+    delimiter = config['GENERAL'].get('delimiter', "\t")
+
     if config['GENERAL']['input_filename'] == "stdin":
         if not sys.stdin.isatty():
             file = sys.stdin.readlines() 

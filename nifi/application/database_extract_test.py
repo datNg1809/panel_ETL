@@ -18,18 +18,16 @@ install sshtunnel:
 # )
 # server.start()
 
-connector = mariadb.connect(user='PANEL-RO', password='PNL-P@n3l', database='DMT_PANEL', host='localhost', port=33306)
+connector = mariadb.connect(user='PANEL-RO', password='PNL-P@n3l', host='localhost', port=33306)
 cursor=connector.cursor()
 query_1= """
 select table_name
 from information_schema.TABLES
-where table_name like "%uk%";
+where table_name like "%%"
+and TABLE_TYPE='BASE TABLE';
 """
 query_2 = """
-select SITE, NOM,
-        ADRESSE, AGENCE_CP
-from vo_uk__uk_2019_09
-limit 20;
+show databases;
 """
 cursor.execute(query_2)
 result = cursor.fetchall()
