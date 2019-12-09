@@ -1,7 +1,7 @@
 image: docker:stable
 
 variables:
-  PRODUCTION_SERVER: 172.16.2.6
+  #PRODUCTION_SERVER: 172.16.2.6
   DOCKER_REGISTRY: docker.autobiz.pro
   DOCKER_NAMESPACE: infra 
   PORT_MAPPING: 8080:8080
