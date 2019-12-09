@@ -52,7 +52,8 @@ query_vo = """select ADRESSE, ANNEE, ANNONCE_LINK,
                         VILLE, VN_IND, MARQUE_CORRECTED,
                         MODELE_CORRECTED, CYLINDRE, DEPARTEMENT
                 From {name}_{year}_{month}
-                Where SITE='{website}' limit 50;"""
+                Where SITE='{website}' 
+                limit 400;"""
 query_immo = """Select ACHAT_LOC, ADRESSE, AGENCE_ADRESSE,
                         AGENCE_CP, AGENCE_ID, AGENCE_NOM,
                         AGENCE_TEL, AGENCE_VILLE, ANNONCE_DATE,

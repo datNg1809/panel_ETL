@@ -23,13 +23,13 @@ cursor=connector.cursor()
 query_1= """
 select table_name
 from information_schema.TABLES
-where table_name like "%%"
-and TABLE_TYPE='BASE TABLE';
+where TABLE_TYPE='BASE TABLE'
+and table_schema='dmt_panel';
 """
 query_2 = """
 show databases;
 """
-cursor.execute(query_2)
+cursor.execute(query_1)
 result = cursor.fetchall()
 for line in result:
     print(line)

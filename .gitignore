@@ -25,6 +25,6 @@ application/.local
 .env
 data/mongo/
 nifi/conf/archive/
-grafana/data/png/*
+grafana/data/png/
 nifi/application/config/final_config/
 
