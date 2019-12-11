@@ -18,7 +18,7 @@ install sshtunnel:
 # )
 # server.start()
 
-connector = mariadb.connect(user='PANEL-RO', password='PNL-P@n3l', host='localhost', port=33306)
+connector = mariadb.connect(user='PANEL-RO', password='PNL-P@n3l', host='dwh', port=3306)
 cursor=connector.cursor()
 query_1= """
 select table_name

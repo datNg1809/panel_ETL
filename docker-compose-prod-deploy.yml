@@ -2,7 +2,7 @@ version: '3.7'
 services:
 
   nifi:
-    image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_nifi:CI_COMMIT_SHA
+    image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel2_nifi:CI_COMMIT_SHA
     restart: unless-stopped
     ports:
       - 18080:8080
@@ -10,12 +10,12 @@ services:
       - nifi_logs:/opt/nifi/nifi-current/logs
       - nifi_db:/usr/local/data/db
     networks:
-      - elk
+      - panel_elk
     extra_hosts:
-       - "dwh:DWH_PUBLIC_IP"
+       - "dwh:DWH_PRIVATE_IP"
  
   elasticsearch:
-   image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_elasticsearch:CI_COMMIT_SHA
+   image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel2_elasticsearch:CI_COMMIT_SHA
    restart: unless-stopped
    volumes:
      - type: volume
@@ -28,10 +28,10 @@ services:
      ES_JAVA_OPTS: "-Xmx256m -Xms256m"
      ELASTIC_PASSWORD: "dqc_panel_pass"
    networks:
-     - elk
+     - panel_elk
  
   logstash:
-   image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_logstash:CI_COMMIT_SHA
+   image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel2_logstash:CI_COMMIT_SHA
    restart: unless-stopped
    ports:
      - "5044:5044"
@@ -39,25 +39,25 @@ services:
    environment:
      LS_JAVA_OPTS: "-Xmx256m -Xms256m"
    networks:
-     - elk
+     - panel_elk
    depends_on:
      - elasticsearch
  
   kibana:
-   image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_kibana:CI_COMMIT_SHA
+   image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel2_kibana:CI_COMMIT_SHA
    restart: unless-stopped
    ports:
      - "5601:5601"
    networks:
-     - elk
+     - panel_elk
    depends_on:
      - elasticsearch
 
   filebeat:
-   image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_filebeat:CI_COMMIT_SHA
+   image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel2_filebeat:CI_COMMIT_SHA
    restart: unless-stopped
    networks:
-     - elk
+     - panel_elk
    volumes:
      - type: volume
        source: nifi_logs
@@ -68,16 +68,17 @@ services:
      - logstash
 
   grafana:
-   image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel_grafana:CI_COMMIT_SHA
+   image: DOCKER_REGISTRY/DOCKER_NAMESPACE/panel2_grafana:CI_COMMIT_SHA
    restart: unless-stopped
    ports:
      - "3000:3000"
    networks:
-     - elk
+     - panel_elk
 
 networks:
-  elk:
-    driver: bridge
+  panel_elk:
+    external: true
+    name: panel_elk
 
 volumes:
   elasticsearch:

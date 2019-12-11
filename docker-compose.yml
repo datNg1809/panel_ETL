@@ -4,8 +4,7 @@ services:
   nifi:
     build:
       context: ./nifi
-      dockerfile: ./Dockerfile_dev
-    #tty: true
+      dockerfile: ./Dockerfile
     restart: unless-stopped
     ports:
       - 8080:8080

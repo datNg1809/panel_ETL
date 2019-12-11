@@ -177,8 +177,8 @@ if __name__ == "__main__":
         logger.addHandler(file_handler)
 
         # Connect to OP6 database
-        connector = mariadb.connect(user='PANEL-RO', password='PNL-P@n3l', database='DMT_PANEL', host='172.17.0.1',
-                                    port=33306)
+        connector = mariadb.connect(user='PANEL-RO', password='PNL-P@n3l', database='DMT_PANEL', host='dwh',
+                                    port=3306)
         main(market, country, year, month, logger)
         # logger.info("successful")
         connector.commit()

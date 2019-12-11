@@ -1,11 +1,15 @@
 image: docker:stable
 
 variables:
-  #PRODUCTION_SERVER: 172.16.2.6
+  PRODUCTION_SERVER: 172.16.2.6
   DOCKER_REGISTRY: docker.autobiz.pro
   DOCKER_NAMESPACE: infra 
   PORT_MAPPING: 8080:8080
-  DWH_PUBLIC_IP: 178.33.60.254
+  DWH_PRIVATE_IP: 172.16.2.6
+  GIT_SUBMODULE_STRATEGY: recursive
+  DOCKER_COMPOSE_FILE_GIT_RELATIVE_PATH: ./docker-compose-prod-deploy.yml
+  SERVER_PROJECT_PATH_DOCKER_COMP_FILE: /home/gitlab/panel/docker-compose.yml
+  SERVER_PROJECT_PATH: /home/gitlab/panel/
 
 stages:
   - build
@@ -15,54 +19,31 @@ services:
   - docker:18.09-dind 
 
 before_script:
-  - docker login -u ${DOCKER_USER} -p ${DOCKER_USER_TOKEN} ${DOCKER_REGISTRY} 
-  - which ssh-agent || ( apk add openssh-client )
-  - eval $(ssh-agent -s)
-  - echo "${DELIVERY_SSHKEY}" 
-  - echo "${DELIVERY_SSHKEY}" | tr -d '\r' | ssh-add - > /dev/null
-  - mkdir -p ~/.ssh
-  - chmod 700 ~/.ssh
-  - echo -e "Host\tBastion\n\tHostname\tb.autobiz.fr\n\tUser\t${DELIVERY_USER}\n\tStrictHostKeyChecking\tno\n\nHost\t* !Bastion\n\tUser\t${DELIVERY_USER}\n\tStrictHostKeyChecking\tno\n\tProxyJump\tBastion\n\n" > /etc/ssh/ssh_config
-  - cat /etc/ssh/ssh_config
+  - source ./.cicd_tools/add_shared_cicd_tools.sh
+  - source ./.cicd_tools_project_specific/add_panel_cicd_overrides_and_functions.sh
+  - set_up_ssh_for_alpine
+  - configure_access_to_bastion
+  - set_up_access_to_docker_registry
+  - make_sure_bash_is_installed
 
 build:
   stage: build
+  image: docker/compose:1.25.0-rc1-alpine
   script: 
-    - apk add --no-cache py-pip python-dev libffi-dev openssl-dev gcc libc-dev make bash
-    - pip install docker-compose
-    - docker-compose --version
-    - docker-compose build --parallel
-    - bash .aux_build_script.sh ${DOCKER_REGISTRY} ${DOCKER_NAMESPACE} ${CI_COMMIT_SHA:0:8}
+    # I use the following script because sh cannot do bash's for-loops.
+    - bash ./.cicd_tools_project_specific/build_and_push_dqc_panel_docker_images.sh ${DOCKER_REGISTRY} ${DOCKER_NAMESPACE} ${CI_COMMIT_SHA:0:8}
   tags:
     - docker
 
 deploy:
   stage: deploy
   script: 
-    - sed -i "s/DOCKER_REGISTRY/${DOCKER_REGISTRY}/g" ./docker-compose-prod-deploy.yml
-    - sed -i "s/DOCKER_NAMESPACE/${DOCKER_NAMESPACE}/g" ./docker-compose-prod-deploy.yml
-    - sed -i "s/CI_COMMIT_SHA/${CI_COMMIT_SHA:0:8}/g" ./docker-compose-prod-deploy.yml
-    - sed -i "s/DWH_PUBLIC_IP/${DWH_PUBLIC_IP}/g" ./docker-compose-prod-deploy.yml
-    - |
-      ssh ${PRODUCTION_SERVER} <<EOF
-        if [ -f '/home/gitlab/panel/docker-compose.yml' ]; then
-                cd /home/gitlab/panel;
-                docker-compose down --rmi all;
-                rm -r /home/gitlab/panel;
-        else if [ -d '/home/gitlab/panel/' ]; then
-                rm -r /home/gitlab/panel;
-           fi;
-        fi;
-        mkdir -p /home/gitlab/panel;
-      EOF
-    - scp ./docker-compose-prod-deploy.yml ${PRODUCTION_SERVER}:/home/gitlab/panel/docker-compose.yml 
-    - |
-      ssh ${PRODUCTION_SERVER} <<EOF
-        docker login -u ${DOCKER_USER} -p ${DOCKER_USER_TOKEN} ${DOCKER_REGISTRY};
-        cd /home/gitlab/panel;
-        docker-compose up -d;
-        docker-compose logs;
-      EOF
+    - set_deploy_server ${PRODUCTION_SERVER} 
+    - remove_the_previous_stack_if_it_exists_and_create_new_deployment_folder
+    - change_docker_compose_for_deployment_server_and_send_new_docker_compose_file
+    - set_up_access_to_docker_registry_in_server
+    - create_network_to_make_dwh_accessible
+    - execute_docker_compose_up
   tags:
     - docker
   when: manual

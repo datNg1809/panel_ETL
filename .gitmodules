@@ -1,3 +1,6 @@
 [submodule "DqcTools"]
 	path = nifi/application/DqcTools
-	url = https://sources.autobiz.pro/DQC/DqcTools.git
+	url = ../DqcTools.git
+[submodule ".cicd_tools"]
+	path = .cicd_tools
+	url = ../../infrastructure/cicd_tools.git 
