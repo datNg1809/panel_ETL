@@ -118,7 +118,7 @@ def main(market, country, year, month, logger):
         query_a = """
                     select table_name
                     from information_schema.TABLES
-                    where table_name like "%{}\_%\_{}\_{}\_%"
+                    where table_name like "%{}\_%\_{}\_{}%"
                     and TABLE_TYPE='BASE TABLE'
                     and table_schema='dmt_panel_{}';
                     """.format(adapt_filename(market, country), year, month, market)
@@ -181,5 +181,6 @@ if __name__ == "__main__":
         main(market, country, year, month, logger)
     except Exception as e:
         logger.error("{}_{}_{}_{} was affected : ".format(market, country, year, month) + str(e))
+        print("{}_{}_{}_{} was affected : ".format(market, country, year, month) + str(e))
 
 
