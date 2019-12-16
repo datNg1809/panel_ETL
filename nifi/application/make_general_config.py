@@ -3,7 +3,7 @@ import os
 import json
 import glob
 
-file_path = "/home/dnguyen/panel_dqc/nifi/application/config/xlsx_config/"
+file_path = "/home/dnguyen/panel2/nifi/application/config/xlsx_config/"
 for file in glob.glob(file_path + "*.xlsx"):
     name = os.path.basename(file)
     market = name.split("_")[0]

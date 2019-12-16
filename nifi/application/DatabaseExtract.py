@@ -15,7 +15,7 @@ def adapt_filename(market, country):
     :param country:
     :return:
     """
-    return market + "_" + country + "__" + country
+    return market + "_" + country
 
 
 def adapt_website_name(market, country, website_name):
@@ -63,7 +63,7 @@ query_immo = """Select ACHAT_LOC, ADRESSE, AGENCE_ADRESSE,
                         MINI_SITE_ID, NOM, PAYS_AD,
                         PHOTO, PIECE, PRIX, VILLE
                 From {};"""
-query_jobs = """Select ANNONCE_LINK, ANNONNCE_TEXT, ANNONCEUR,
+query_jobs = """Select ANNONCE_LINK, ANNONCE_TEXT, ANNONCEUR,
                         ANNONCEUR_ID, ANNONCEUR_ID_3, CABINET,
                         CONTRAT, DEPARTEMENT, ENTREPRISE,
                         ID_CLIENT, LIEU, METIER,
@@ -73,6 +73,9 @@ query_jobs = """Select ANNONCE_LINK, ANNONNCE_TEXT, ANNONCEUR,
 
 
 def main(market, country, year, month, logger):
+    connector = mariadb.connect(user='PANEL-RO', password='PNL-P@n3l', database='DMT_PANEL_{}'.format(market),
+                                host='dwh',
+                                port=3306)
     if market in ["VO", "NPV", "CAMION"]:
         # First query to identify which websites that will be downloaded
         query_a = """
@@ -104,8 +107,9 @@ def main(market, country, year, month, logger):
             official_website = adapt_website_name(market, country,website.upper())
             print("filename=" + market + "_" + country + "_" + official_website.upper() + "_" + year + "_" + month)
             df_b = pd.read_sql_query(query_b, connector)
+            if len(df_b) < 5:
+                continue
             df_b.to_csv(sys.stdout)
-            time.sleep(20)
         for website in website_list:
             official_website = adapt_website_name(market, country, website.upper())
             logger.info("{}_{}_{}_{}_{} has been downloaded".format(market, country, official_website.upper(), year, month))
@@ -114,9 +118,10 @@ def main(market, country, year, month, logger):
         query_a = """
                     select table_name
                     from information_schema.TABLES
-                    where table_name like "%{}_*_{}_{}%"
-                    and TABLE_TYPE='BASE TABLE';
-                    """.format(adapt_filename(market, country), year, month)
+                    where table_name like "%{}\_%\_{}\_{}\_%"
+                    and TABLE_TYPE='BASE TABLE'
+                    and table_schema='dmt_panel_{}';
+                    """.format(adapt_filename(market, country), year, month, market)
         df_a = pd.read_sql_query(query_a, connector)
         # Check log to skip files which are already downloaded in the month
         f = open("./export_log/{}_{}_{}_{}.log".format(market, country, year, month), "r")
@@ -135,12 +140,16 @@ def main(market, country, year, month, logger):
                 query_b = query_immo.format(table)
             elif market == "JOBS":
                 query_b = query_jobs.format(table)
-            website = table.split('_')[4]
+            website = table.split('_')[2]
             official_website = adapt_website_name(market, country,website.upper())
             print("filename=" + market + "_" + country + "_" + official_website.upper() + "_" + year + "_" + month)
             df_b = pd.read_sql_query(query_b, connector)
+            if len(df_b) < 5:
+                continue
             df_b.to_csv(sys.stdout)
             logger.info("{} has been downloaded".format(table))
+    connector.commit()
+    connector.close()
 
 
 if __name__ == "__main__":
@@ -148,13 +157,6 @@ if __name__ == "__main__":
     os.chdir("/usr/local/src/")
     if not os.path.exists("/usr/local/src/export_log/"):
         os.makedirs("/usr/local/src/export_log/")
-    # Setup general logger
-    # main_logger = logging.getLogger(__name__)
-    # main_logger.setLevel(logging.INFO)
-    # main_file_handler = logging.FileHandler("./export_log/main.log")
-    # formatter = logging.Formatter('%(asctime)s : %(levelname)s : %(name)s : %(message)s')
-    # main_file_handler.setFormatter(formatter)
-    # main_logger.addHandler(main_file_handler)
     try:
         # Setup working env & pre set arguments: market, country, year, month
         market = sys.argv[1]
@@ -176,14 +178,7 @@ if __name__ == "__main__":
         file_handler.setFormatter(formatter)
         logger.addHandler(file_handler)
 
-        # Connect to OP6 database
-        connector = mariadb.connect(user='PANEL-RO', password='PNL-P@n3l', database='DMT_PANEL', host='dwh',
-                                    port=3306)
         main(market, country, year, month, logger)
-        # logger.info("successful")
-        connector.commit()
-        connector.close()
-
     except Exception as e:
         logger.error("{}_{}_{}_{} was affected : ".format(market, country, year, month) + str(e))
 
