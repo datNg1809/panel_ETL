@@ -1,0 +1,170 @@
+2019-07-02 19:56:04,324 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,324 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,324 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-07-02 19:56:04,324 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-07-02 19:56:04,324 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 63.17
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 678922120.0 on line 0, value should match a phone number format
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 681314695.0 on line 1, value should match a phone number format
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 565239634.0 on line 2, value should match a phone number format
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 660174300.0 on line 3, value should match a phone number format
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 494609055.0 on line 4, value should match a phone number format
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 678922120.0 on line 5, value should match a phone number format
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 148384353.0 on line 6, value should match a phone number format
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 663449722.0 on line 7, value should match a phone number format
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 612159091.0 on line 8, value should match a phone number format
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 664290286.0 on line 9, value should match a phone number format
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 262692654975.0 on line 10, value should match a phone number format
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 660174300.0 on line 11, value should match a phone number format
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 664034342.0 on line 12, value should match a phone number format
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 146651259.0 on line 13, value should match a phone number format
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 169008134.0 on line 14, value should match a phone number format
+2019-07-02 19:56:04,325 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 344225429.0 on line 15, value should match a phone number format
+2019-07-02 19:56:04,326 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 611552547.0 on line 16, value should match a phone number format
+2019-07-02 19:56:04,326 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 650832585.0 on line 17, value should match a phone number format
+2019-07-02 19:56:04,326 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 618403088.0 on line 18, value should match a phone number format
+2019-07-02 19:56:04,326 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 148578480.0 on line 19, value should match a phone number format
+2019-07-02 19:56:04,326 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 0.0
+2019-07-02 19:56:04,326 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 88.34
+2019-07-02 19:56:04,326 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-07-02 19:56:04,326 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,326 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,326 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-07-02 19:56:04,326 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Maison d&rsquo;archi...] on line  15224, value length should be between 0 and 255
+2019-07-02 19:56:04,326 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Maison au design arc...] on line  15225, value length should be between 0 and 255
+2019-07-02 19:56:04,326 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Compiègne est une ma...] on line  15226, value length should be between 0 and 255
+2019-07-02 19:56:04,326 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Grâce au Lumicène, c...] on line  15227, value length should be between 0 and 255
+2019-07-02 19:56:04,326 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [L&rsquo;ensemble des...] on line  15228, value length should be between 0 and 255
+2019-07-02 19:56:04,326 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Une maison francilie...] on line  15229, value length should be between 0 and 255
+2019-07-02 19:56:04,326 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Une maison classique...] on line  15230, value length should be between 0 and 255
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Elégante, confortabl...] on line  15231, value length should be between 0 and 255
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [En 2014, GAÏA se ren...] on line  15232, value length should be between 0 and 255
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Architecture résolum...] on line  15234, value length should be between 0 and 255
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Maison économique, t...] on line  15235, value length should be between 0 and 255
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Idéale pour une 1ère...] on line  15236, value length should be between 0 and 255
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Maison de plain-pied...] on line  15242, value length should be between 0 and 255
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Maison d&rsquo;archi...] on line  15243, value length should be between 0 and 255
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Une de nos créations...] on line  15245, value length should be between 0 and 255
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Maison au style arch...] on line  15246, value length should be between 0 and 255
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Maison raffinée en c...] on line  15247, value length should be between 0 and 255
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Cette maison parle t...] on line  15267, value length should be between 0 and 255
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Ses lignes pures et ...] on line  15269, value length should be between 0 and 255
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Caractère contempora...] on line  15270, value length should be between 0 and 255
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 60.41
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 86.67
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.17
+2019-07-02 19:56:04,327 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 13100.0 on line 0, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 75013.0 on line 1, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 46000.0 on line 2, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 59000.0 on line 3, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 83340.0 on line 4, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 13100.0 on line 5, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 93350.0 on line 6, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 13090.0 on line 7, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 75005.0 on line 8, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 91120.0 on line 9, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 75001.0 on line 10, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 59000.0 on line 11, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 92200.0 on line 12, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 94230.0 on line 13, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 77185.0 on line 14, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 60110.0 on line 15, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 75012.0 on line 16, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 34000.0 on line 17, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,328 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 75015.0 on line 18, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 94130.0 on line 19, value should match regexp ^[0-9]{5}$
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 0.0
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 99.17
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 41331
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 215.0 on line 0 should be int
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 1 should be int
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 208.0 on line 2 should be int
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 50.0 on line 3 should be int
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 220.0 on line 4 should be int
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 90.0 on line 5 should be int
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 240.0 on line 6 should be int
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 39.0 on line 7 should be int
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 36.0 on line 8 should be int
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 12.0 on line 9 should be int
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 74.0 on line 10 should be int
+2019-07-02 19:56:04,329 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 65.0 on line 11 should be int
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 12 should be int
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 33.0 on line 13 should be int
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 31.0 on line 14 should be int
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 15 should be int
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 16 should be int
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 68.0 on line 17 should be int
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 21.0 on line 18 should be int
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 40.0 on line 19 should be int
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 215.0 on line 0 should be int
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 1 should be int
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 208.0 on line 2 should be int
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 50.0 on line 3 should be int
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 220.0 on line 4 should be int
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 90.0 on line 5 should be int
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 240.0 on line 6 should be int
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 39.0 on line 7 should be int
+2019-07-02 19:56:04,330 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 36.0 on line 8 should be int
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 12.0 on line 9 should be int
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 74.0 on line 10 should be int
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 65.0 on line 11 should be int
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 12 should be int
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 33.0 on line 13 should be int
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 31.0 on line 14 should be int
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 15 should be int
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 16 should be int
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 68.0 on line 17 should be int
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 21.0 on line 18 should be int
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 40.0 on line 19 should be int
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 60.53
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,331 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,332 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - PAYS_AD - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,332 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 63.17
+2019-07-02 19:56:04,332 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,332 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,332 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,332 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,332 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,332 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,332 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,332 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,332 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-07-02 19:56:04,332 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SELLER_TYPE - correctly filled rate (%) - 0.0
+2019-07-02 19:56:04,332 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 0 should be int
+2019-07-02 19:56:04,332 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 1 should be int
+2019-07-02 19:56:04,332 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 2 should be int
+2019-07-02 19:56:04,332 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 3 should be int
+2019-07-02 19:56:04,332 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 4 should be int
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 5 should be int
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 6 should be int
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 7 should be int
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 8 should be int
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 9 should be int
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 10 should be int
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 11 should be int
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 12 should be int
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 13 should be int
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 14 should be int
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 15 should be int
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 16 should be int
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 17 should be int
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 18 should be int
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 19 should be int
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,333 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-07-02 19:56:04,334 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 8053
+2019-07-02 19:56:04,334 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 13770
+2019-07-02 19:56:04,334 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 27561
+2019-07-02 19:56:04,334 - IMMO - FR - PAP - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 94

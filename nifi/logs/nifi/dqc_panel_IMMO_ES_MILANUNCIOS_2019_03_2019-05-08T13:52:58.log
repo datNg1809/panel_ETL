@@ -1,0 +1,101 @@
+2019-05-08 13:54:52,898 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_to_exist - ACHAT_LOC - column exists or not - 1.0
+2019-05-08 13:54:52,898 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,898 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,898 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 23600.0 on line 7 should be int
+2019-05-08 13:54:52,898 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 29320.0 on line 39 should be int
+2019-05-08 13:54:52,898 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 13500.0 on line 85 should be int
+2019-05-08 13:54:52,898 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 38670.0 on line 98 should be int
+2019-05-08 13:54:52,898 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 39470.0 on line 104 should be int
+2019-05-08 13:54:52,898 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 29780.0 on line 153 should be int
+2019-05-08 13:54:52,898 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 29640.0 on line 176 should be int
+2019-05-08 13:54:52,898 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 33009.0 on line 218 should be int
+2019-05-08 13:54:52,898 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 29651.0 on line 266 should be int
+2019-05-08 13:54:52,898 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 30202.0 on line 281 should be int
+2019-05-08 13:54:52,898 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 30202.0 on line 282 should be int
+2019-05-08 13:54:52,898 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 30202.0 on line 283 should be int
+2019-05-08 13:54:52,899 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 30202.0 on line 284 should be int
+2019-05-08 13:54:52,899 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 9500.0 on line 323 should be int
+2019-05-08 13:54:52,899 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 9500.0 on line 324 should be int
+2019-05-08 13:54:52,899 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 9500.0 on line 337 should be int
+2019-05-08 13:54:52,899 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 30860.0 on line 379 should be int
+2019-05-08 13:54:52,899 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 29640.0 on line 380 should be int
+2019-05-08 13:54:52,899 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 36415.0 on line 382 should be int
+2019-05-08 13:54:52,899 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - AGENCE_CP - Wrong type for value: 30202.0 on line 410 should be int
+2019-05-08 13:54:52,899 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-05-08 13:54:52,899 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,899 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,899 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 699495639.0 on line 0, value should match a phone number format
+2019-05-08 13:54:52,899 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 964530997.0 on line 1, value should match a phone number format
+2019-05-08 13:54:52,899 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 607257769.0 on line 2, value should match a phone number format
+2019-05-08 13:54:52,899 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 620291357.0 on line 3, value should match a phone number format
+2019-05-08 13:54:52,899 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 951212128.0 on line 4, value should match a phone number format
+2019-05-08 13:54:52,899 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 951212128.0 on line 5, value should match a phone number format
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 609545280.0 on line 6, value should match a phone number format
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 625587981.0 on line 7, value should match a phone number format
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 647523470.0 on line 8, value should match a phone number format
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 609935772.0 on line 10, value should match a phone number format
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 676787908.0 on line 11, value should match a phone number format
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 654797250.0 on line 12, value should match a phone number format
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 625094194.0 on line 13, value should match a phone number format
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 687094151.0 on line 14, value should match a phone number format
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 615619804.0 on line 15, value should match a phone number format
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 962520101.0 on line 16, value should match a phone number format
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 655305049.0 on line 17, value should match a phone number format
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 924301338.0 on line 18, value should match a phone number format
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 685219202.0 on line 19, value should match a phone number format
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 964451585.0 on line 20, value should match a phone number format
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 0.04
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 96.34
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-05-08 13:54:52,900 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_to_exist - CATEGORIE - column exists or not - 1.0
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_to_exist - CP - column exists or not - 1.0
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 1036893
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 52.0 on line 0 should be int
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 110.0 on line 1 should be int
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 100.0 on line 2 should be int
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 95.0 on line 3 should be int
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 323.0 on line 4 should be int
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 370.0 on line 5 should be int
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 240.0 on line 6 should be int
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 385.0 on line 7 should be int
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 80.0 on line 8 should be int
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 200.0 on line 9 should be int
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 90.0 on line 10 should be int
+2019-05-08 13:54:52,901 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 1200.0 on line 11 should be int
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 50.0 on line 12 should be int
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 85.0 on line 13 should be int
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 150.0 on line 14 should be int
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 220.0 on line 15 should be int
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 220.0 on line 16 should be int
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 65.0 on line 17 should be int
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 1000.0 on line 18 should be int
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 441.0 on line 19 should be int
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_to_exist - M2_TOTALE - column exists or not - 0.0
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_to_exist - NOM - column exists or not - 1.0
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_to_exist - PAYS_AD - column exists or not - 0.0
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PHOTO - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,902 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PIECE - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,903 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,903 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,903 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,903 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,903 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_to_exist - PRIX - column exists or not - 1.0
+2019-05-08 13:54:52,903 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,903 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,903 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,903 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,903 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,903 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_to_exist - VILLE - column exists or not - 1.0
+2019-05-08 13:54:52,903 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-05-08 13:54:52,903 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 100355
+2019-05-08 13:54:52,903 - IMMO - ES - MILANUNCIOS - 2019-03-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 936538

@@ -1,0 +1,103 @@
+2019-08-23 21:55:42,129 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,129 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 98.34
+2019-08-23 21:55:42,129 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-08-23 21:55:42,129 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-08-23 21:55:42,129 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-08-23 21:55:42,129 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,129 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.72
+2019-08-23 21:55:42,129 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 97.06
+2019-08-23 21:55:42,129 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,129 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,129 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,129 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-08-23 21:55:42,130 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [OPORTUNIDAD de DEPAR...] on line  0, value length should be between 0 and 255
+2019-08-23 21:55:42,130 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [INMUEBLE EN REMATE!!...] on line  1, value length should be between 0 and 255
+2019-08-23 21:55:42,130 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Rento dos departamen...] on line  2, value length should be between 0 and 255
+2019-08-23 21:55:42,130 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [CASAS DESDE 2,800 PO...] on line  3, value length should be between 0 and 255
+2019-08-23 21:55:42,130 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [OPORTUNIDAD EXCELENT...] on line  7, value length should be between 0 and 255
+2019-08-23 21:55:42,130 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Vendo terreno , ya c...] on line  8, value length should be between 0 and 255
+2019-08-23 21:55:42,130 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [casa sola, distribui...] on line  9, value length should be between 0 and 255
+2019-08-23 21:55:42,130 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Vendo casa nueva en ...] on line  10, value length should be between 0 and 255
+2019-08-23 21:55:42,130 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Casa Pau Cocoteros p...] on line  11, value length should be between 0 and 255
+2019-08-23 21:55:42,130 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Hermosa casa nueva e...] on line  12, value length should be between 0 and 255
+2019-08-23 21:55:42,130 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Colsultorios y local...] on line  13, value length should be between 0 and 255
+2019-08-23 21:55:42,130 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [7 AMPLIOS LOCALES CO...] on line  15, value length should be between 0 and 255
+2019-08-23 21:55:42,130 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Rento por mes precio...] on line  16, value length should be between 0 and 255
+2019-08-23 21:55:42,130 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Magnifica residencia...] on line  17, value length should be between 0 and 255
+2019-08-23 21:55:42,130 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Hermosa casa en rent...] on line  18, value length should be between 0 and 255
+2019-08-23 21:55:42,130 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Casa en Renta Reside...] on line  19, value length should be between 0 and 255
+2019-08-23 21:55:42,130 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Se parte de este exc...] on line  20, value length should be between 0 and 255
+2019-08-23 21:55:42,131 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Casa en condominio e...] on line  22, value length should be between 0 and 255
+2019-08-23 21:55:42,131 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Excelente bodega en ...] on line  23, value length should be between 0 and 255
+2019-08-23 21:55:42,131 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Departamentos nuevos...] on line  24, value length should be between 0 and 255
+2019-08-23 21:55:42,131 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 24.73
+2019-08-23 21:55:42,131 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,131 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,131 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-08-23 21:55:42,131 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 0.0
+2019-08-23 21:55:42,131 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 86656
+2019-08-23 21:55:42,131 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,131 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-08-23 21:55:42,131 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1.0 on line 0 should be int
+2019-08-23 21:55:42,131 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1.0 on line 1 should be int
+2019-08-23 21:55:42,131 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 38.0 on line 2 should be int
+2019-08-23 21:55:42,131 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 160.0 on line 4 should be int
+2019-08-23 21:55:42,131 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 70.0 on line 5 should be int
+2019-08-23 21:55:42,131 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1.0 on line 6 should be int
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 141.0 on line 7 should be int
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 150.0 on line 8 should be int
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 350.0 on line 9 should be int
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 106.0 on line 10 should be int
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 184.0 on line 12 should be int
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 20.0 on line 13 should be int
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 6000.0 on line 14 should be int
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 182.0 on line 15 should be int
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 25.0 on line 16 should be int
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 422.0 on line 17 should be int
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 260.0 on line 18 should be int
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 220.0 on line 19 should be int
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 291.0 on line 20 should be int
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 60.0 on line 21 should be int
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 91.44
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 0.0
+2019-08-23 21:55:42,132 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 63.76
+2019-08-23 21:55:42,133 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,133 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,133 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 0.0
+2019-08-23 21:55:42,133 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,133 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,133 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 64.35
+2019-08-23 21:55:42,133 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,133 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1034533MXN on line 0 should be int
+2019-08-23 21:55:42,133 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1805000MXN on line 1 should be int
+2019-08-23 21:55:42,133 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 4600MXN on line 2 should be int
+2019-08-23 21:55:42,133 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2800MXN on line 3 should be int
+2019-08-23 21:55:42,133 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 850000MXN on line 4 should be int
+2019-08-23 21:55:42,134 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 7000MXN on line 5 should be int
+2019-08-23 21:55:42,134 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 407667MXN on line 6 should be int
+2019-08-23 21:55:42,134 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1700000MXN on line 7 should be int
+2019-08-23 21:55:42,134 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2000000MXN on line 8 should be int
+2019-08-23 21:55:42,134 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 5253000MXN on line 9 should be int
+2019-08-23 21:55:42,134 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2490000MXN on line 10 should be int
+2019-08-23 21:55:42,134 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 7800MXN on line 11 should be int
+2019-08-23 21:55:42,134 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 3550000MXN on line 12 should be int
+2019-08-23 21:55:42,134 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 5500MXN on line 13 should be int
+2019-08-23 21:55:42,134 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 6000000MXN on line 14 should be int
+2019-08-23 21:55:42,134 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 3000000MXN on line 15 should be int
+2019-08-23 21:55:42,134 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 3800MXN on line 16 should be int
+2019-08-23 21:55:42,134 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 12900000MXN on line 17 should be int
+2019-08-23 21:55:42,134 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 11500MXN on line 18 should be int
+2019-08-23 21:55:42,135 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 14300MXN on line 19 should be int
+2019-08-23 21:55:42,135 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-08-23 21:55:42,135 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 99.53
+2019-08-23 21:55:42,135 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,135 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,135 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-08-23 21:55:42,135 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,135 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,135 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,135 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-08-23 21:55:42,135 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 800
+2019-08-23 21:55:42,135 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 40293
+2019-08-23 21:55:42,136 - IMMO - MX - SEGUNDAMANO - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 46363

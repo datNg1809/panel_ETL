@@ -1,0 +1,85 @@
+2019-08-30 10:08:12,720 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,720 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,720 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 96.47
+2019-08-30 10:08:12,720 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,720 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 217, value should match regexp ^[0-9]{4}$
+2019-08-30 10:08:12,721 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 284, value should match regexp ^[0-9]{4}$
+2019-08-30 10:08:12,721 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.36
+2019-08-30 10:08:12,721 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,721 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-08-30 10:08:12,721 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 16.67
+2019-08-30 10:08:12,721 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-08-30 10:08:12,721 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,721 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,721 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-08-30 10:08:12,721 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,721 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-08-30 10:08:12,721 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 312
+2019-08-30 10:08:12,721 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,721 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,721 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,721 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,722 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,722 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,722 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 99.04
+2019-08-30 10:08:12,722 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,722 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Kroll...] on line  14, value length should be between 10 and 255
+2019-08-30 10:08:12,722 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Legras...] on line  22, value length should be between 10 and 255
+2019-08-30 10:08:12,722 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JCB 406...] on line  83, value length should be between 10 and 255
+2019-08-30 10:08:12,722 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volvo f89...] on line  88, value length should be between 10 and 255
+2019-08-30 10:08:12,722 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volvo f12...] on line  89, value length should be between 10 and 255
+2019-08-30 10:08:12,722 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JCB 3CX...] on line  98, value length should be between 10 and 255
+2019-08-30 10:08:12,722 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Iveco 460...] on line  113, value length should be between 10 and 255
+2019-08-30 10:08:12,722 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JCB 4CX...] on line  116, value length should be between 10 and 255
+2019-08-30 10:08:12,722 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JCB 8080...] on line  119, value length should be between 10 and 255
+2019-08-30 10:08:12,722 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JCB 8045...] on line  141, value length should be between 10 and 255
+2019-08-30 10:08:12,723 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JCB 406...] on line  142, value length should be between 10 and 255
+2019-08-30 10:08:12,723 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [DIV....] on line  146, value length should be between 10 and 255
+2019-08-30 10:08:12,723 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volvo F12...] on line  153, value length should be between 10 and 255
+2019-08-30 10:08:12,723 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volvo F12...] on line  156, value length should be between 10 and 255
+2019-08-30 10:08:12,723 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JCB 409...] on line  272, value length should be between 10 and 255
+2019-08-30 10:08:12,723 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JCB 1 CX...] on line  274, value length should be between 10 and 255
+2019-08-30 10:08:12,723 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 94.87
+2019-08-30 10:08:12,723 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-08-30 10:08:12,723 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,723 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,723 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-08-30 10:08:12,723 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-08-30 10:08:12,723 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,723 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,723 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-08-30 10:08:12,723 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,723 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,724 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 94.55
+2019-08-30 10:08:12,724 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,724 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-08-30 10:08:12,724 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-08-30 10:08:12,724 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-08-30 10:08:12,724 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 44
+2019-08-30 10:08:12,724 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 94
+2019-08-30 10:08:12,724 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-08-30 10:08:12,724 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 1
+2019-08-30 10:08:12,724 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-08-30 10:08:12,724 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-08-30 10:08:12,724 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 19
+2019-08-30 10:08:12,724 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-08-30 10:08:12,724 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 312
+2019-08-30 10:08:12,724 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-08-30 10:08:12,724 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRUCKS - total number of row with conditions - 32
+2019-08-30 10:08:12,724 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRACTOR UNITS - total number of row with conditions - 119
+2019-08-30 10:08:12,725 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRAILERS - total number of row with conditions - 82
+2019-08-30 10:08:12,725 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - VANS - total number of row with conditions - 0
+2019-08-30 10:08:12,725 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - HEAVY EQUIPMENTS - total number of row with conditions - 70
+2019-08-30 10:08:12,725 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - SEMI TRAILERS - total number of row with conditions - 9
+2019-08-30 10:08:12,725 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRUCKS - total number of row with conditions - 32
+2019-08-30 10:08:12,725 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRUCKS - total number of row with conditions - 0
+2019-08-30 10:08:12,725 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRACTOR UNITS - total number of row with conditions - 119
+2019-08-30 10:08:12,725 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRACTOR UNITS - total number of row with conditions - 0
+2019-08-30 10:08:12,725 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRAILERS - total number of row with conditions - 82
+2019-08-30 10:08:12,725 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRAILERS - total number of row with conditions - 0
+2019-08-30 10:08:12,725 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_VANS - total number of row with conditions - 0
+2019-08-30 10:08:12,725 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_VANS - total number of row with conditions - 0
+2019-08-30 10:08:12,725 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_HEAVY EQUIPMENTS - total number of row with conditions - 70
+2019-08-30 10:08:12,725 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_HEAVY EQUIPMENTS - total number of row with conditions - 0
+2019-08-30 10:08:12,725 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_SEMI TRAILERS - total number of row with conditions - 9
+2019-08-30 10:08:12,725 - CAMION - PL - TRUCKSNL - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_SEMI TRAILERS - total number of row with conditions - 0

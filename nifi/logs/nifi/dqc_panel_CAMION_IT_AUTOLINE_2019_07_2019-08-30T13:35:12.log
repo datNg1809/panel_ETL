@@ -1,0 +1,69 @@
+2019-08-30 13:35:14,520 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 96.44
+2019-08-30 13:35:14,520 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,520 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.01
+2019-08-30 13:35:14,520 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,520 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,520 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,520 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-08-30 13:35:14,521 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 36.53
+2019-08-30 13:35:14,521 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 88.67
+2019-08-30 13:35:14,521 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 98.05
+2019-08-30 13:35:14,521 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 99.65
+2019-08-30 13:35:14,521 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-08-30 13:35:14,521 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,521 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-08-30 13:35:14,521 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 4662
+2019-08-30 13:35:14,521 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,521 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,521 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,521 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,521 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,521 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 95.97
+2019-08-30 13:35:14,521 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 94.29
+2019-08-30 13:35:14,521 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,521 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BOBCAT...] on line  188, value length should be between 10 and 255
+2019-08-30 13:35:14,522 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [WACKER...] on line  191, value length should be between 10 and 255
+2019-08-30 13:35:14,522 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.96
+2019-08-30 13:35:14,522 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-08-30 13:35:14,522 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,522 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,522 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-08-30 13:35:14,522 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-08-30 13:35:14,522 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,522 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,522 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-08-30 13:35:14,522 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,522 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,522 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,522 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,522 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-08-30 13:35:14,522 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 251
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 1246
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 122
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 4
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 159
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 22
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 4645
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 17
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRUCKS - total number of row with conditions - 1154
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRACTOR UNITS - total number of row with conditions - 643
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRAILERS - total number of row with conditions - 54
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - VANS - total number of row with conditions - 351
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - HEAVY EQUIPMENTS - total number of row with conditions - 2253
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - SEMI TRAILERS - total number of row with conditions - 207
+2019-08-30 13:35:14,523 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRUCKS - total number of row with conditions - 1147
+2019-08-30 13:35:14,524 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRUCKS - total number of row with conditions - 7
+2019-08-30 13:35:14,524 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRACTOR UNITS - total number of row with conditions - 640
+2019-08-30 13:35:14,524 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRACTOR UNITS - total number of row with conditions - 3
+2019-08-30 13:35:14,524 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRAILERS - total number of row with conditions - 52
+2019-08-30 13:35:14,524 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRAILERS - total number of row with conditions - 2
+2019-08-30 13:35:14,524 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_VANS - total number of row with conditions - 350
+2019-08-30 13:35:14,524 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_VANS - total number of row with conditions - 1
+2019-08-30 13:35:14,524 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_HEAVY EQUIPMENTS - total number of row with conditions - 2249
+2019-08-30 13:35:14,524 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_HEAVY EQUIPMENTS - total number of row with conditions - 4
+2019-08-30 13:35:14,524 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_SEMI TRAILERS - total number of row with conditions - 207
+2019-08-30 13:35:14,524 - CAMION - IT - AUTOLINE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_SEMI TRAILERS - total number of row with conditions - 0

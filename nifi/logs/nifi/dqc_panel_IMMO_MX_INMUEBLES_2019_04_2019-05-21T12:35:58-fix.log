@@ -1,0 +1,125 @@
+2019-05-21 17:58:50,587 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_to_exist - ACHAT_LOC - column exists or not - 1.0
+2019-05-21 17:58:50,587 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-05-21 17:58:50,587 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 99.96
+2019-05-21 17:58:50,587 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-05-21 17:58:50,587 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-05-21 17:58:50,587 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-05-21 17:58:50,587 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 99.93
+2019-05-21 17:58:50,588 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 98.4
+2019-05-21 17:58:50,588 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 98.94
+2019-05-21 17:58:50,588 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-05-21 17:58:50,588 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 0.0
+2019-05-21 17:58:50,588 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-05-21 17:58:50,588 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-05-21 17:58:50,588 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Exclusivas oficinas ...] on line  5, value length should be between 0 and 255
+2019-05-21 17:58:50,588 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [150 M2 LOCAL COMERCI...] on line  12, value length should be between 0 and 255
+2019-05-21 17:58:50,588 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Construya la casa de...] on line  28, value length should be between 0 and 255
+2019-05-21 17:58:50,588 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Terreno para inversi...] on line  30, value length should be between 0 and 255
+2019-05-21 17:58:50,588 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [En el Municipio más ...] on line  37, value length should be between 0 and 255
+2019-05-21 17:58:50,588 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [En venta dos precios...] on line  39, value length should be between 0 and 255
+2019-05-21 17:58:50,588 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Este desarrollo esta...] on line  43, value length should be between 0 and 255
+2019-05-21 17:58:50,588 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [2 Residencias En Pre...] on line  45, value length should be between 0 and 255
+2019-05-21 17:58:50,588 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [El conjunto cuenta c...] on line  53, value length should be between 0 and 255
+2019-05-21 17:58:50,588 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Vidrio 2215 es un de...] on line  55, value length should be between 0 and 255
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [40-BR-2341 BODEGA IN...] on line  56, value length should be between 0 and 255
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [CASA EN FRACCIONAMIE...] on line  57, value length should be between 0 and 255
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Excelente ubicación ...] on line  59, value length should be between 0 and 255
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [40-TV-1460 TERRENO E...] on line  61, value length should be between 0 and 255
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [40-TV-2795 TERRENO D...] on line  62, value length should be between 0 and 255
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [EN RESIDENCIAL LOMA ...] on line  63, value length should be between 0 and 255
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [PRECIOSO DEPARTAMENT...] on line  66, value length should be between 0 and 255
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [620 mts (20 de fente...] on line  75, value length should be between 0 and 255
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Espectacular Predio ...] on line  77, value length should be between 0 and 255
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Espectacular departa...] on line  82, value length should be between 0 and 255
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 66.64
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 99.99
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 0.0
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 409582
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-05-21 17:58:50,589 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 55 on line 0 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 60 on line 1 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 460m² on line 3 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 114 on line 6 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 195m² on line 7 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 58 on line 8 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 23 on line 9 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 10 on line 10 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 150 on line 12 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 85m² on line 16 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 168 on line 17 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 105 on line 18 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 130m² on line 19 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 70m² on line 20 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 150m² on line 21 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 45 on line 22 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 183 on line 23 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 42 on line 24 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 210 on line 26 should be int
+2019-05-21 17:58:50,590 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: -2m² on line 27 should be int
+2019-05-21 17:58:50,591 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-05-21 17:58:50,591 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 84.69
+2019-05-21 17:58:50,591 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 0.0
+2019-05-21 17:58:50,591 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 99.88
+2019-05-21 17:58:50,591 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-05-21 17:58:50,591 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Privada Residencial ...] on line  42020, value length should be between 0 and 255
+2019-05-21 17:58:50,591 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-05-21 17:58:50,591 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 0.0
+2019-05-21 17:58:50,591 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PHOTO - correctly filled rate (%) - 100.0
+2019-05-21 17:58:50,591 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-05-21 17:58:50,591 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-05-21 17:58:50,591 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 0.0
+2019-05-21 17:58:50,591 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: USD 140000 on line 0 should be int
+2019-05-21 17:58:50,591 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: MN 3480000 on line 1 should be int
+2019-05-21 17:58:50,591 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: USD 540000 on line 2 should be int
+2019-05-21 17:58:50,591 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: MN 3880000 on line 3 should be int
+2019-05-21 17:58:50,591 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: MN 6000000 on line 4 should be int
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: MN 28000 on line 5 should be int
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: MN 5550000 on line 6 should be int
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: MN 4085000 on line 7 should be int
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: USD 139000 on line 8 should be int
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: MN 9000 on line 9 should be int
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: USD 3 on line 10 should be int
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: MN 6000000 on line 11 should be int
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: MN 21028 on line 12 should be int
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: MN 3681 on line 13 should be int
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: MN 750000 on line 14 should be int
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: MN 2140000 on line 15 should be int
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: MN 7800 on line 16 should be int
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: MN 1220000 on line 17 should be int
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: MN 890000 on line 18 should be int
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: MN 1600000 on line 19 should be int
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-05-21 17:58:50,592 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 0.0
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 60 on line 1 should be int
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 2000 on line 2 should be int
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 490m² on line 3 should be int
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 10310 on line 4 should be int
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 114 on line 6 should be int
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 195m² on line 7 should be int
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 58 on line 8 should be int
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 23 on line 9 should be int
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 15000000 on line 10 should be int
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 1500 on line 11 should be int
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 150 on line 12 should be int
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 450 on line 13 should be int
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 1000 on line 14 should be int
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 1247 on line 15 should be int
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 105m² on line 16 should be int
+2019-05-21 17:58:50,593 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 105 on line 17 should be int
+2019-05-21 17:58:50,594 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 113 on line 18 should be int
+2019-05-21 17:58:50,594 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 92m² on line 19 should be int
+2019-05-21 17:58:50,594 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 72m² on line 20 should be int
+2019-05-21 17:58:50,594 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 97m² on line 21 should be int
+2019-05-21 17:58:50,594 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-05-21 17:58:50,594 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-05-21 17:58:50,594 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-05-21 17:58:50,594 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 1162
+2019-05-21 17:58:50,594 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 408882
+2019-05-21 17:58:50,594 - IMMO - MX - INMUEBLES - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 700

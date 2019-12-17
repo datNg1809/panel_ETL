@@ -1,0 +1,196 @@
+2019-06-13 12:47:57,788 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-06-13 12:47:57,788 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,788 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.9
+2019-06-13 12:47:57,788 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,788 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 8 on line 10762, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,788 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 31 on line 10763, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,788 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 8 on line 10764, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,788 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 28 on line 10765, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,788 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 10 on line 10766, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,788 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 7 on line 10767, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 13 on line 10768, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 26 on line 10769, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 7 on line 10770, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 29 on line 10771, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 17 on line 10772, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 16 on line 10773, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 5 on line 10774, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 9 on line 10775, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 17 on line 10776, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 3 on line 10777, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 7 on line 10778, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 29 on line 10779, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2 on line 10780, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 26 on line 10781, value should match regexp ^[0-9]{4}$
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.92
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-06-13 12:47:57,789 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 99.97
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 99.97
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 46270
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 99.97
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 99.97
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-06-13 12:47:57,790 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-06-13 12:47:57,791 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-06-13 12:47:57,792 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,792 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,792 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,792 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 35.11
+2019-06-13 12:47:57,792 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Allumage automatique...] on line  685, value length should be between 0 and 255
+2019-06-13 12:47:57,792 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [RÃÂ©troviseurs ÃÂ©...] on line  686, value length should be between 0 and 255
+2019-06-13 12:47:57,792 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Allumage automatique...] on line  687, value length should be between 0 and 255
+2019-06-13 12:47:57,792 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Allumage automatique...] on line  688, value length should be between 0 and 255
+2019-06-13 12:47:57,792 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Allumage automatique...] on line  689, value length should be between 0 and 255
+2019-06-13 12:47:57,792 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Allumage automatique...] on line  690, value length should be between 0 and 255
+2019-06-13 12:47:57,792 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Phares antibrouillar...] on line  691, value length should be between 0 and 255
+2019-06-13 12:47:57,792 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Allumage automatique...] on line  692, value length should be between 0 and 255
+2019-06-13 12:47:57,792 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Phares antibrouillar...] on line  693, value length should be between 0 and 255
+2019-06-13 12:47:57,792 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Phares antibrouillar...] on line  694, value length should be between 0 and 255
+2019-06-13 12:47:57,792 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Phares antibrouillar...] on line  695, value length should be between 0 and 255
+2019-06-13 12:47:57,792 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Phares antibrouillar...] on line  696, value length should be between 0 and 255
+2019-06-13 12:47:57,792 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Phares antibrouillar...] on line  697, value length should be between 0 and 255
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [RÃÂ©troviseurs ÃÂ©...] on line  698, value length should be between 0 and 255
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Allumage automatique...] on line  699, value length should be between 0 and 255
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [RÃÂ©troviseurs ÃÂ©...] on line  700, value length should be between 0 and 255
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Phares antibrouillar...] on line  701, value length should be between 0 and 255
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Phares antibrouillar...] on line  702, value length should be between 0 and 255
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Allumage automatique...] on line  703, value length should be between 0 and 255
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [RÃÂ©troviseurs ÃÂ©...] on line  704, value length should be between 0 and 255
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 55.52
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 0 should be in ['int']
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 1 should be in ['int']
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 2 should be in ['int']
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 3 should be in ['int']
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 4 should be in ['int']
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 5 should be in ['int']
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 6 should be in ['int']
+2019-06-13 12:47:57,793 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 7 should be in ['int']
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 8 should be in ['int']
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 9 should be in ['int']
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 10 should be in ['int']
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 11 should be in ['int']
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 12 should be in ['int']
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 13 should be in ['int']
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 14 should be in ['int']
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 15 should be in ['int']
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 16 should be in ['int']
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 17 should be in ['int']
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 18 should be in ['int']
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: N.C. on line 19 should be in ['int']
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 99.97
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 99.98
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 0 should be in ['int', 'float']
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 1 should be in ['int', 'float']
+2019-06-13 12:47:57,794 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 2 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 3 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 4 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 5 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 6 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 7 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 8 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 2 on line 9 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 10 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 11 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 12 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 13 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 14 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 15 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 4 on line 16 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 17 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 3 on line 18 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 19 should be in ['int', 'float']
+2019-06-13 12:47:57,795 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 0.0
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 251058850.0 on line 0, value should match a phone number format
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 251088787.0 on line 1, value should match a phone number format
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 251088787.0 on line 2, value should match a phone number format
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 251327565.0 on line 3, value should match a phone number format
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 251088787.0 on line 4, value should match a phone number format
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 251327565.0 on line 5, value should match a phone number format
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 253889420.0 on line 6, value should match a phone number format
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 251088787.0 on line 7, value should match a phone number format
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 228105360.0 on line 8, value should match a phone number format
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 251468231.0 on line 9, value should match a phone number format
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 251606260.0 on line 10, value should match a phone number format
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 251088787.0 on line 11, value should match a phone number format
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 251088787.0 on line 12, value should match a phone number format
+2019-06-13 12:47:57,796 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 251327565.0 on line 13, value should match a phone number format
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 228105360.0 on line 14, value should match a phone number format
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 251088787.0 on line 15, value should match a phone number format
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 228105360.0 on line 16, value should match a phone number format
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 251088787.0 on line 17, value should match a phone number format
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 251088787.0 on line 18, value should match a phone number format
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 251088787.0 on line 19, value should match a phone number format
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 0.0
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 46270
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 48
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 484
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 12
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 7
+2019-06-13 12:47:57,797 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 66.39
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.2 on line 0 should be in ['int']
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.0 on line 2 should be in ['int']
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.2 on line 6 should be in ['int']
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 8 should be in ['int']
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 9 should be in ['int']
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.0 on line 12 should be in ['int']
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.0 on line 13 should be in ['int']
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.4 on line 16 should be in ['int']
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.2 on line 17 should be in ['int']
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.4 on line 20 should be in ['int']
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.7 on line 23 should be in ['int']
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 24 should be in ['int']
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.2 on line 27 should be in ['int']
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.5 on line 29 should be in ['int']
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.0 on line 30 should be in ['int']
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 32 should be in ['int']
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 33 should be in ['int']
+2019-06-13 12:47:57,798 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.7 on line 35 should be in ['int']
+2019-06-13 12:47:57,799 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.8 on line 36 should be in ['int']
+2019-06-13 12:47:57,799 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.2 on line 39 should be in ['int']
+2019-06-13 12:47:57,799 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-06-13 12:47:57,799 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-06-13 12:47:57,799 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 353
+2019-06-13 12:47:57,799 - VO - FR - CAROUEST - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 17

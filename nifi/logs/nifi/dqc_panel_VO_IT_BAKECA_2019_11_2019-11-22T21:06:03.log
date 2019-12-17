@@ -1,0 +1,224 @@
+2019-11-22 21:06:25,115 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-11-22 21:06:25,115 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 4.56
+2019-11-22 21:06:25,115 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-11-22 21:06:25,115 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,115 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 90.28
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 17834
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - True - 1
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 158, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 323, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 955, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 990, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1330, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1601, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1700, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1868, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2377, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2383, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2526, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2893, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,116 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2907, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3093, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3391, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3398, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3421, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3913, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4239, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4857, value should match regexp ^[0-9]{4}$
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.54
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 86.14
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - False - 0
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 58.17
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - False - 0
+2019-11-22 21:06:25,117 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 5.26
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - False - 0
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 18.57
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 183551
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,118 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-11-22 21:06:25,119 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,119 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-11-22 21:06:25,119 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 1.63
+2019-11-22 21:06:25,119 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - False - 0
+2019-11-22 21:06:25,119 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 0.0
+2019-11-22 21:06:25,119 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - False - 0
+2019-11-22 21:06:25,119 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,119 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - True - 1
+2019-11-22 21:06:25,119 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-11-22 21:06:25,119 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-11-22 21:06:25,119 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-11-22 21:06:25,119 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-11-22 21:06:25,119 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-11-22 21:06:25,119 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-11-22 21:06:25,119 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-11-22 21:06:25,119 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-11-22 21:06:25,119 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 20, value should be between 1 and 12
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 22, value should be between 1 and 12
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 24, value should be between 1 and 12
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 25, value should be between 1 and 12
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 26, value should be between 1 and 12
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 33, value should be between 1 and 12
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 40, value should be between 1 and 12
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 42, value should be between 1 and 12
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 43, value should be between 1 and 12
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 44, value should be between 1 and 12
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 45, value should be between 1 and 12
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 49.6
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - unexpected count - 92514
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MOIS - False - 0
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - MOIS - True - 1
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-11-22 21:06:25,120 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Panda 3...] on line  113, value length should be between 10 and 255
+2019-11-22 21:06:25,121 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fiat 1100...] on line  292, value length should be between 10 and 255
+2019-11-22 21:06:25,121 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Mercedes...] on line  815, value length should be between 10 and 255
+2019-11-22 21:06:25,121 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Alfa147...] on line  921, value length should be between 10 and 255
+2019-11-22 21:06:25,121 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Renault...] on line  1252, value length should be between 10 and 255
+2019-11-22 21:06:25,121 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Auto...] on line  1335, value length should be between 10 and 255
+2019-11-22 21:06:25,121 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [SMART...] on line  1470, value length should be between 10 and 255
+2019-11-22 21:06:25,121 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD KA...] on line  1493, value length should be between 10 and 255
+2019-11-22 21:06:25,121 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [CABRIO...] on line  1524, value length should be between 10 and 255
+2019-11-22 21:06:25,121 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Auto...] on line  2033, value length should be between 10 and 255
+2019-11-22 21:06:25,121 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Auto...] on line  2181, value length should be between 10 and 255
+2019-11-22 21:06:25,121 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 320 d...] on line  2189, value length should be between 10 and 255
+2019-11-22 21:06:25,121 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Auto...] on line  2259, value length should be between 10 and 255
+2019-11-22 21:06:25,121 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW Z1 Z1...] on line  2855, value length should be between 10 and 255
+2019-11-22 21:06:25,121 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford cmax...] on line  2879, value length should be between 10 and 255
+2019-11-22 21:06:25,121 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Renault 4...] on line  2986, value length should be between 10 and 255
+2019-11-22 21:06:25,121 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford Kuga...] on line  4196, value length should be between 10 and 255
+2019-11-22 21:06:25,121 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Polo 1 2...] on line  4423, value length should be between 10 and 255
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FIAT...] on line  4823, value length should be between 10 and 255
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fiat 500L...] on line  5469, value length should be between 10 and 255
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.68
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 0 should be in ['int']
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 1 should be in ['int']
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 2 should be in ['int']
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 4 should be in ['int']
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 6 should be in ['int']
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 7 should be in ['int']
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 8 should be in ['int']
+2019-11-22 21:06:25,122 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 9 should be in ['int']
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 14 should be in ['int']
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 16 should be in ['int']
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 17 should be in ['int']
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 19 should be in ['int']
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 21 should be in ['int']
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 23 should be in ['int']
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 28 should be in ['int']
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 29 should be in ['int']
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 30 should be in ['int']
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 31 should be in ['int']
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 32 should be in ['int']
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 33 should be in ['int']
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PLACE - False - 0
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 54.72
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 80.28
+2019-11-22 21:06:25,123 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 0 should be in ['int', 'float']
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 1 should be in ['int', 'float']
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 2 should be in ['int', 'float']
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 4 should be in ['int', 'float']
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 5 should be in ['int', 'float']
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 6 should be in ['int', 'float']
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 3 on line 7 should be in ['int', 'float']
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 8 should be in ['int', 'float']
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 9 should be in ['int', 'float']
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 12 should be in ['int', 'float']
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 14 should be in ['int', 'float']
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 16 should be in ['int', 'float']
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 17 should be in ['int', 'float']
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 18 should be in ['int', 'float']
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 19 should be in ['int', 'float']
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 20 should be in ['int', 'float']
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 21 should be in ['int', 'float']
+2019-11-22 21:06:25,124 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 22 should be in ['int', 'float']
+2019-11-22 21:06:25,125 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 23 should be in ['int', 'float']
+2019-11-22 21:06:25,125 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 2 on line 24 should be in ['int', 'float']
+2019-11-22 21:06:25,125 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 0.0
+2019-11-22 21:06:25,125 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PORTE - False - 0
+2019-11-22 21:06:25,125 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,125 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-11-22 21:06:25,125 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,125 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-11-22 21:06:25,125 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 99.97
+2019-11-22 21:06:25,125 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - True - 1
+2019-11-22 21:06:25,125 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,125 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-11-22 21:06:25,126 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 86.18
+2019-11-22 21:06:25,126 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - False - 0
+2019-11-22 21:06:25,126 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.99
+2019-11-22 21:06:25,126 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-11-22 21:06:25,126 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,126 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-11-22 21:06:25,126 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-11-22 21:06:25,126 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,126 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-11-22 21:06:25,126 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,126 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - True - 1
+2019-11-22 21:06:25,126 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-11-22 21:06:25,126 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - VN_IND - True - 1
+2019-11-22 21:06:25,126 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 153753
+2019-11-22 21:06:25,126 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 29798
+2019-11-22 21:06:25,126 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 224
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 1206
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 37
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 18
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 82.17
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1969.0 on line 0 should be in ['int']
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1496.0 on line 1 should be in ['int']
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 998.0 on line 2 should be in ['int']
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1248.0 on line 4 should be in ['int']
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1400.0 on line 5 should be in ['int']
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1242.0 on line 6 should be in ['int']
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1368.0 on line 7 should be in ['int']
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 8 should be in ['int']
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2776.0 on line 9 should be in ['int']
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1300.0 on line 12 should be in ['int']
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2494.0 on line 14 should be in ['int']
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 16 should be in ['int']
+2019-11-22 21:06:25,127 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1798.0 on line 17 should be in ['int']
+2019-11-22 21:06:25,128 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1242.0 on line 18 should be in ['int']
+2019-11-22 21:06:25,128 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 19 should be in ['int']
+2019-11-22 21:06:25,128 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1242.0 on line 20 should be in ['int']
+2019-11-22 21:06:25,128 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 21 should be in ['int']
+2019-11-22 21:06:25,128 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1242.0 on line 22 should be in ['int']
+2019-11-22 21:06:25,128 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1248.0 on line 23 should be in ['int']
+2019-11-22 21:06:25,128 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 499.0 on line 24 should be in ['int']
+2019-11-22 21:06:25,128 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-11-22 21:06:25,128 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - CYLINDRE - False - 0
+2019-11-22 21:06:25,128 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 20
+2019-11-22 21:06:25,128 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 1664
+2019-11-22 21:06:25,128 - VO - IT - BAKECA - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 63

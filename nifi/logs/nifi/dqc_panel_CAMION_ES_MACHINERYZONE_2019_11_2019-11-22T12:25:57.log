@@ -1,0 +1,167 @@
+2019-11-22 12:25:58,369 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-11-22 12:25:58,369 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.34
+2019-11-22 12:25:58,369 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-11-22 12:25:58,369 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,369 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-11-22 12:25:58,369 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 0, value should be between 1980 and 2019
+2019-11-22 12:25:58,369 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 1, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 2, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 3, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 4, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 5, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 6, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 7, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 8, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 9, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 10, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 11, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 12, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 13, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 14, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 15, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 16, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 17, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 18, value should be between 1980 and 2019
+2019-11-22 12:25:58,370 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 19, value should be between 1980 and 2019
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 0.0
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 1463
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - False - 0
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 0, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 5, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 6, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 8, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 10, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 11, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 12, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,371 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 13, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,372 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 14, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,372 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 15, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,372 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 16, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,372 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 17, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,372 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 18, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,372 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 19, value should match regexp ^[0-9]{4}$
+2019-11-22 12:25:58,372 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 0.0
+2019-11-22 12:25:58,372 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-11-22 12:25:58,372 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,372 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-11-22 12:25:58,372 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-11-22 12:25:58,372 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-11-22 12:25:58,372 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 0.14
+2019-11-22 12:25:58,372 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - False - 0
+2019-11-22 12:25:58,372 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.34
+2019-11-22 12:25:58,372 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - False - 0
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 55.37
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 1463
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-11-22 12:25:58,373 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,374 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-11-22 12:25:58,374 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,374 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-11-22 12:25:58,374 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 69.17
+2019-11-22 12:25:58,374 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - False - 0
+2019-11-22 12:25:58,374 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 69.38
+2019-11-22 12:25:58,374 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - False - 0
+2019-11-22 12:25:58,374 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,374 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-11-22 12:25:58,374 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Jaso J300...] on line  5, value length should be between 10 and 255
+2019-11-22 12:25:58,374 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MAN 9.136...] on line  63, value length should be between 10 and 255
+2019-11-22 12:25:58,374 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Saez H-28...] on line  64, value length should be between 10 and 255
+2019-11-22 12:25:58,374 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Jaso 52NS...] on line  108, value length should be between 10 and 255
+2019-11-22 12:25:58,374 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Granier...] on line  112, value length should be between 10 and 255
+2019-11-22 12:25:58,374 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Kamo 3X...] on line  137, value length should be between 10 and 255
+2019-11-22 12:25:58,374 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fassi F65...] on line  201, value length should be between 10 and 255
+2019-11-22 12:25:58,374 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [PM 4...] on line  209, value length should be between 10 and 255
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JCB 2CX...] on line  218, value length should be between 10 and 255
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Saez S60...] on line  219, value length should be between 10 and 255
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Saez H24...] on line  235, value length should be between 10 and 255
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fine 20T...] on line  262, value length should be between 10 and 255
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Saez H32...] on line  352, value length should be between 10 and 255
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JCB 8045...] on line  415, value length should be between 10 and 255
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Case 580G...] on line  446, value length should be between 10 and 255
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Hamm 3520...] on line  454, value length should be between 10 and 255
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Terex 860...] on line  456, value length should be between 10 and 255
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Saez H28...] on line  470, value length should be between 10 and 255
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Saez S46...] on line  471, value length should be between 10 and 255
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Saez S52...] on line  472, value length should be between 10 and 255
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 94.05
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,375 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-11-22 12:25:58,376 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,376 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-11-22 12:25:58,376 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-11-22 12:25:58,376 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-11-22 12:25:58,376 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-11-22 12:25:58,376 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-11-22 12:25:58,376 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,376 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-11-22 12:25:58,376 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,376 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-11-22 12:25:58,376 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-11-22 12:25:58,376 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - False - 0
+2019-11-22 12:25:58,376 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,376 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-11-22 12:25:58,376 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 80.31
+2019-11-22 12:25:58,376 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - False - 0
+2019-11-22 12:25:58,376 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 96.51
+2019-11-22 12:25:58,377 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-11-22 12:25:58,377 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-11-22 12:25:58,377 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-11-22 12:25:58,377 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-11-22 12:25:58,377 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 78.06
+2019-11-22 12:25:58,377 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - False - 0
+2019-11-22 12:25:58,377 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-11-22 12:25:58,377 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - False - 0
+2019-11-22 12:25:58,377 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 51
+2019-11-22 12:25:58,377 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 71
+2019-11-22 12:25:58,377 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 5
+2019-11-22 12:25:58,377 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 1
+2019-11-22 12:25:58,377 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-11-22 12:25:58,377 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-11-22 12:25:58,377 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-11-22 12:25:58,377 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 66
+2019-11-22 12:25:58,377 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 26
+2019-11-22 12:25:58,378 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 1463
+2019-11-22 12:25:58,378 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-11-22 12:25:58,378 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRUCKS - total number of row with conditions - 69
+2019-11-22 12:25:58,378 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRACTOR UNITS - total number of row with conditions - 39
+2019-11-22 12:25:58,378 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRAILERS - total number of row with conditions - 6
+2019-11-22 12:25:58,378 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - VANS - total number of row with conditions - 8
+2019-11-22 12:25:58,378 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - HEAVY EQUIPMENTS - total number of row with conditions - 1320
+2019-11-22 12:25:58,378 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - SEMI TRAILERS - total number of row with conditions - 21
+2019-11-22 12:25:58,378 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRUCKS - total number of row with conditions - 69
+2019-11-22 12:25:58,378 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRUCKS - total number of row with conditions - 0
+2019-11-22 12:25:58,378 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRACTOR UNITS - total number of row with conditions - 39
+2019-11-22 12:25:58,378 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRACTOR UNITS - total number of row with conditions - 0
+2019-11-22 12:25:58,378 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRAILERS - total number of row with conditions - 6
+2019-11-22 12:25:58,378 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRAILERS - total number of row with conditions - 0
+2019-11-22 12:25:58,378 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_VANS - total number of row with conditions - 8
+2019-11-22 12:25:58,378 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_VANS - total number of row with conditions - 0
+2019-11-22 12:25:58,378 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_HEAVY EQUIPMENTS - total number of row with conditions - 1320
+2019-11-22 12:25:58,379 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_HEAVY EQUIPMENTS - total number of row with conditions - 0
+2019-11-22 12:25:58,379 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_SEMI TRAILERS - total number of row with conditions - 21
+2019-11-22 12:25:58,379 - CAMION - ES - MACHINERYZONE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_SEMI TRAILERS - total number of row with conditions - 0

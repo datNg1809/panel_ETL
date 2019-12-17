@@ -1,0 +1,101 @@
+2019-08-23 06:54:19,462 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 96.2
+2019-08-23 06:54:19,462 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,462 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.94
+2019-08-23 06:54:19,462 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,462 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,462 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,462 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-08-23 06:54:19,462 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,462 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,462 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-08-23 06:54:19,463 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-08-23 06:54:19,463 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,463 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-08-23 06:54:19,463 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 95011
+2019-08-23 06:54:19,463 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,463 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,463 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,463 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,463 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,463 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,463 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,463 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,463 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 34, value should be between 1 and 12
+2019-08-23 06:54:19,463 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 35, value should be between 1 and 12
+2019-08-23 06:54:19,463 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 63, value should be between 1 and 12
+2019-08-23 06:54:19,463 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 64, value should be between 1 and 12
+2019-08-23 06:54:19,463 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 65, value should be between 1 and 12
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 68, value should be between 1 and 12
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 100, value should be between 1 and 12
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 132, value should be between 1 and 12
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 142, value should be between 1 and 12
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 143, value should be between 1 and 12
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 144, value should be between 1 and 12
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 146, value should be between 1 and 12
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 147, value should be between 1 and 12
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 148, value should be between 1 and 12
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 149, value should be between 1 and 12
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 168, value should be between 1 and 12
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 172, value should be between 1 and 12
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 184, value should be between 1 and 12
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 214, value should be between 1 and 12
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 217, value should be between 1 and 12
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 68.3
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,464 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,465 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw I8 I8...] on line  1393, value length should be between 10 and 255
+2019-08-23 06:54:19,465 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw Z4 M...] on line  1757, value length should be between 10 and 255
+2019-08-23 06:54:19,465 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw X6 Ma...] on line  2027, value length should be between 10 and 255
+2019-08-23 06:54:19,465 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw Z4 M...] on line  3383, value length should be between 10 and 255
+2019-08-23 06:54:19,465 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw Z4 M...] on line  4018, value length should be between 10 and 255
+2019-08-23 06:54:19,465 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw Z8...] on line  4690, value length should be between 10 and 255
+2019-08-23 06:54:19,465 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw I3 I3...] on line  7814, value length should be between 10 and 255
+2019-08-23 06:54:19,465 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw Z8...] on line  10840, value length should be between 10 and 255
+2019-08-23 06:54:19,465 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw I3 I3...] on line  13387, value length should be between 10 and 255
+2019-08-23 06:54:19,465 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw I3 I3...] on line  15080, value length should be between 10 and 255
+2019-08-23 06:54:19,465 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw I3 I3...] on line  18750, value length should be between 10 and 255
+2019-08-23 06:54:19,465 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Lada 2106...] on line  18956, value length should be between 10 and 255
+2019-08-23 06:54:19,465 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw I3 I3...] on line  22538, value length should be between 10 and 255
+2019-08-23 06:54:19,465 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw I3 I3...] on line  23170, value length should be between 10 and 255
+2019-08-23 06:54:19,465 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw I3 I3...] on line  23864, value length should be between 10 and 255
+2019-08-23 06:54:19,465 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw I3 I3...] on line  32203, value length should be between 10 and 255
+2019-08-23 06:54:19,465 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw I3 I3...] on line  35802, value length should be between 10 and 255
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw I8 I8...] on line  36414, value length should be between 10 and 255
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw I8 I8...] on line  37621, value length should be between 10 and 255
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw I3 I3...] on line  40393, value length should be between 10 and 255
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.95
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Jeep Compass km 0 en...] on line  24473, value length should be between 0 and 255
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Opel Corsa km 0 en p...] on line  62691, value length should be between 0 and 255
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Alfa Romeo Giulietta...] on line  91811, value length should be between 0 and 255
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Opel Corsa de segund...] on line  92907, value length should be between 0 and 255
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Opel Corsa de segund...] on line  92908, value length should be between 0 and 255
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 99.99
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,466 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,467 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,467 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,467 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,467 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 94.28
+2019-08-23 06:54:19,467 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.97
+2019-08-23 06:54:19,467 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,467 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-08-23 06:54:19,467 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,467 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-08-23 06:54:19,467 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 80013
+2019-08-23 06:54:19,467 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 14998
+2019-08-23 06:54:19,467 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 70
+2019-08-23 06:54:19,467 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 797
+2019-08-23 06:54:19,467 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 15
+2019-08-23 06:54:19,467 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 4
+2019-08-23 06:54:19,467 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,468 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 100.0
+2019-08-23 06:54:19,468 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 52
+2019-08-23 06:54:19,468 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 52
+2019-08-23 06:54:19,468 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 52
+2019-08-23 06:54:19,468 - VO - ES - COCHES.COM - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - GARAGE_ID - total number of unique rows - 0

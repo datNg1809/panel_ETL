@@ -1,0 +1,154 @@
+2019-07-05 13:25:34,870 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - PRIX - correctly filled rate (%) - 96.69
+2019-07-05 13:25:34,870 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - KM - correctly filled rate (%) - 99.96
+2019-07-05 13:25:34,870 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-07-05 13:25:34,870 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CARROSSERIE - correctly filled rate (%) - 100.0
+2019-07-05 13:25:34,870 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 98.82
+2019-07-05 13:25:34,870 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-07-05 13:25:34,870 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-07-05 13:25:34,870 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.83
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2007.0 on line 0, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2004.0 on line 1, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2008.0 on line 2, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2009.0 on line 3, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2008.0 on line 4, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 1999.0 on line 5, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2004.0 on line 6, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2011.0 on line 7, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2007.0 on line 8, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2005.0 on line 9, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2010.0 on line 10, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2007.0 on line 11, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2010.0 on line 12, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2015.0 on line 13, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2006.0 on line 14, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2007.0 on line 15, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2009.0 on line 16, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2004.0 on line 17, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,871 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2017.0 on line 18, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,872 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2006.0 on line 19, value should match regexp ^[0-9]{4}$
+2019-07-05 13:25:34,872 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 0.0
+2019-07-05 13:25:34,872 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-07-05 13:25:34,872 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-07-05 13:25:34,872 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 99.94
+2019-07-05 13:25:34,872 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 6
+2019-07-05 13:25:34,872 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 100.0
+2019-07-05 13:25:34,872 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 18
+2019-07-05 13:25:34,872 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 98.82
+2019-07-05 13:25:34,872 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 31.0 on line 54, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,872 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 700.0 on line 69, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,872 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 157.0 on line 73, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,872 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 84.0 on line 74, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,872 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 157.0 on line 77, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,872 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 182.0 on line 78, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,872 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 182.0 on line 79, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,872 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 186.0 on line 86, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,873 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 84.0 on line 93, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,873 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 31.0 on line 104, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,873 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 84.0 on line 134, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,873 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 116.0 on line 143, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,873 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 116.0 on line 146, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,873 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 40.0 on line 150, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,873 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 10.0 on line 158, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,873 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 116.0 on line 161, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,873 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 184.0 on line 163, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,873 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 84.0 on line 166, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,873 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 157.0 on line 174, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,873 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 41.0 on line 176, value should match regexp [0-9]{4}
+2019-07-05 13:25:34,873 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 86.87
+2019-07-05 13:25:34,873 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-07-05 13:25:34,873 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 98.82
+2019-07-05 13:25:34,873 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_NAME - correctly filled rate (%) - 98.82
+2019-07-05 13:25:34,873 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 64101
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 0.0
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 105000.0 on line 0 should be in ['int']
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 255400.0 on line 1 should be in ['int']
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 104830.0 on line 2 should be in ['int']
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 196000.0 on line 3 should be in ['int']
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 153827.0 on line 4 should be in ['int']
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 183000.0 on line 5 should be in ['int']
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 230000.0 on line 6 should be in ['int']
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 153000.0 on line 7 should be in ['int']
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 191000.0 on line 8 should be in ['int']
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 160800.0 on line 9 should be in ['int']
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 273820.0 on line 10 should be in ['int']
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 179000.0 on line 11 should be in ['int']
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 102000.0 on line 12 should be in ['int']
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 115000.0 on line 13 should be in ['int']
+2019-07-05 13:25:34,874 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 214000.0 on line 14 should be in ['int']
+2019-07-05 13:25:34,875 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 273216.0 on line 15 should be in ['int']
+2019-07-05 13:25:34,875 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 171233.0 on line 16 should be in ['int']
+2019-07-05 13:25:34,875 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 84000.0 on line 17 should be in ['int']
+2019-07-05 13:25:34,875 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 23600.0 on line 18 should be in ['int']
+2019-07-05 13:25:34,875 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 107159.0 on line 19 should be in ['int']
+2019-07-05 13:25:34,875 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 0.0
+2019-07-05 13:25:34,875 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 96.86
+2019-07-05 13:25:34,875 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-07-05 13:25:34,875 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 97.04
+2019-07-05 13:25:34,875 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-07-05 13:25:34,875 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-07-05 13:25:34,875 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-07-05 13:25:34,875 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-07-05 13:25:34,875 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-07-05 13:25:34,875 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-07-05 13:25:34,875 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 0 should be in ['int']
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 1 should be in ['int']
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 2 should be in ['int']
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 3 should be in ['int']
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 4 should be in ['int']
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 6 should be in ['int']
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 7 should be in ['int']
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 8 should be in ['int']
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 9 should be in ['int']
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 10 should be in ['int']
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 11 should be in ['int']
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 12 should be in ['int']
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 13 should be in ['int']
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 14 should be in ['int']
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 15 should be in ['int']
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 16 should be in ['int']
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 17 should be in ['int']
+2019-07-05 13:25:34,876 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 18 should be in ['int']
+2019-07-05 13:25:34,877 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 19 should be in ['int']
+2019-07-05 13:25:34,877 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 20 should be in ['int']
+2019-07-05 13:25:34,877 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-07-05 13:25:34,877 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 96.56
+2019-07-05 13:25:34,877 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-07-05 13:25:34,877 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 75000.0 on line 0 should be in ['int']
+2019-07-05 13:25:34,877 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 74900.0 on line 1 should be in ['int']
+2019-07-05 13:25:34,877 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 49995.0 on line 2 should be in ['int']
+2019-07-05 13:25:34,877 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 85000.0 on line 3 should be in ['int']
+2019-07-05 13:25:34,877 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 69950.0 on line 4 should be in ['int']
+2019-07-05 13:25:34,877 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 69900.0 on line 5 should be in ['int']
+2019-07-05 13:25:34,877 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 39900.0 on line 6 should be in ['int']
+2019-07-05 13:25:34,877 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 164900.0 on line 7 should be in ['int']
+2019-07-05 13:25:34,877 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 74900.0 on line 8 should be in ['int']
+2019-07-05 13:25:34,877 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 79900.0 on line 9 should be in ['int']
+2019-07-05 13:25:34,877 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 92500.0 on line 10 should be in ['int']
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 79890.0 on line 11 should be in ['int']
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 69995.0 on line 12 should be in ['int']
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 69995.0 on line 13 should be in ['int']
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 89990.0 on line 14 should be in ['int']
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 69900.0 on line 15 should be in ['int']
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 83950.0 on line 16 should be in ['int']
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 83000.0 on line 17 should be in ['int']
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 80000.0 on line 18 should be in ['int']
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 59990.0 on line 19 should be in ['int']
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 0.0
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 99.8
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 98.82
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-07-05 13:25:34,878 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 98.82
+2019-07-05 13:25:34,879 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-07-05 13:25:34,879 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 63345
+2019-07-05 13:25:34,879 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 756
+2019-07-05 13:25:34,879 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 0.0
+2019-07-05 13:25:34,879 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-07-05 13:25:34,879 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 380
+2019-07-05 13:25:34,879 - VO - ZA - AUTOTRADER - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 317

@@ -1,0 +1,84 @@
+2019-08-12 19:56:20,161 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-08-12 19:56:20,161 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,161 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 97.92
+2019-08-12 19:56:20,161 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,161 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,161 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,161 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-08-12 19:56:20,161 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 0.87
+2019-08-12 19:56:20,162 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-08-12 19:56:20,162 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-08-12 19:56:20,162 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-08-12 19:56:20,162 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,162 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-08-12 19:56:20,162 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 90367
+2019-08-12 19:56:20,162 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,162 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,162 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,162 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,162 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,162 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,162 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 0.0
+2019-08-12 19:56:20,162 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,162 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-08-12 19:56:20,162 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-08-12 19:56:20,162 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-08-12 19:56:20,163 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,164 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,164 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2018 Nissan Titan XD...] on line  3482, value length should be between 10 and 255
+2019-08-12 19:56:20,164 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2018 Nissan Rogue SV...] on line  3680, value length should be between 10 and 255
+2019-08-12 19:56:20,164 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2018 Nissan Titan XD...] on line  3758, value length should be between 10 and 255
+2019-08-12 19:56:20,164 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2018 Nissan Titan SV...] on line  3806, value length should be between 10 and 255
+2019-08-12 19:56:20,164 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2018 Nissan Rogue S:...] on line  4108, value length should be between 10 and 255
+2019-08-12 19:56:20,164 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2018 Nissan Titan PR...] on line  4262, value length should be between 10 and 255
+2019-08-12 19:56:20,164 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2018 Nissan Titan PR...] on line  5803, value length should be between 10 and 255
+2019-08-12 19:56:20,164 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2018 Nissan Titan PR...] on line  5977, value length should be between 10 and 255
+2019-08-12 19:56:20,164 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2018 Nissan Rogue S:...] on line  6100, value length should be between 10 and 255
+2019-08-12 19:56:20,164 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2019 Nissan Rogue SL...] on line  7323, value length should be between 10 and 255
+2019-08-12 19:56:20,164 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2019 Nissan Rogue SV...] on line  7475, value length should be between 10 and 255
+2019-08-12 19:56:20,164 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2019 Nissan Rogue SV...] on line  7476, value length should be between 10 and 255
+2019-08-12 19:56:20,164 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2019 Nissan Rogue SV...] on line  8899, value length should be between 10 and 255
+2019-08-12 19:56:20,164 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.99
+2019-08-12 19:56:20,164 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-08-12 19:56:20,164 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,165 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,165 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-08-12 19:56:20,165 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-08-12 19:56:20,165 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,165 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,165 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,165 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,165 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 0.0
+2019-08-12 19:56:20,165 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,165 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-08-12 19:56:20,165 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,165 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,165 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-08-12 19:56:20,165 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 135
+2019-08-12 19:56:20,165 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 618
+2019-08-12 19:56:20,165 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-08-12 19:56:20,165 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 1
+2019-08-12 19:56:20,166 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-08-12 19:56:20,166 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 11
+2019-08-12 19:56:20,166 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 320
+2019-08-12 19:56:20,166 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-08-12 19:56:20,166 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 90367
+2019-08-12 19:56:20,166 - VO - CA - CARPAGES - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0

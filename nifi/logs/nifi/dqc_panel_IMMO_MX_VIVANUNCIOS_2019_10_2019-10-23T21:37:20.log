@@ -1,0 +1,145 @@
+2019-10-23 21:37:56,413 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-10-23 21:37:56,413 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 98.89
+2019-10-23 21:37:56,413 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ACHAT_LOC - True - 1
+2019-10-23 21:37:56,413 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 98.25
+2019-10-23 21:37:56,413 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - ACHAT_LOC - True - 1
+2019-10-23 21:37:56,414 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 100.0
+2019-10-23 21:37:56,414 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - True - 1
+2019-10-23 21:37:56,414 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-10-23 21:37:56,414 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ADRESSE - False - 0
+2019-10-23 21:37:56,414 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-10-23 21:37:56,414 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_CP - False - 0
+2019-10-23 21:37:56,414 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 99.95
+2019-10-23 21:37:56,414 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_NOM - True - 1
+2019-10-23 21:37:56,414 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.76
+2019-10-23 21:37:56,414 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - AGENCE_TEL - True - 1
+2019-10-23 21:37:56,414 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 99.23
+2019-10-23 21:37:56,414 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_TEL - True - 1
+2019-10-23 21:37:56,414 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-10-23 21:37:56,414 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_VILLE - False - 0
+2019-10-23 21:37:56,414 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 0.0
+2019-10-23 21:37:56,414 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_DATE - False - 0
+2019-10-23 21:37:56,414 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Casa en desniveles m...] on line  17, value length should be between 0 and 255
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Hermoso departamento...] on line  43, value length should be between 0 and 255
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [SE VENDE HERMOSA CAS...] on line  57, value length should be between 0 and 255
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Hermoso departamento...] on line  67, value length should be between 0 and 255
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [EXCELENTE UBICACIÓN ...] on line  83, value length should be between 0 and 255
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [!!!! Casa de dos pla...] on line  195, value length should be between 0 and 255
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Bonita casa en RENTA...] on line  199, value length should be between 0 and 255
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Se busca roomie muje...] on line  277, value length should be between 0 and 255
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [CASA EN VENTA EN FRA...] on line  297, value length should be between 0 and 255
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Bonita casa sola eco...] on line  300, value length should be between 0 and 255
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Local de 28m2 en 1er...] on line  302, value length should be between 0 and 255
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Se renta habitación ...] on line  348, value length should be between 0 and 255
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Rento cómodo departa...] on line  450, value length should be between 0 and 255
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Contáctanos: tel: 55...] on line  451, value length should be between 0 and 255
+2019-10-23 21:37:56,415 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Residencia muy ampli...] on line  464, value length should be between 0 and 255
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Fraccionamiento Gran...] on line  476, value length should be between 0 and 255
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Renta de Casa $15,50...] on line  495, value length should be between 0 and 255
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Casa en zona dorada,...] on line  500, value length should be between 0 and 255
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [ SE ENCUENTRA EN LA ...] on line  505, value length should be between 0 and 255
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Hermoso departamento...] on line  518, value length should be between 0 and 255
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 80.89
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - False - 0
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 20.45
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_TEXT - False - 0
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CATEGORIE - True - 1
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - False - 0
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 0.0
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - False - 0
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 311326
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-23 21:37:56,416 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 180.0 on line 0 should be int
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 83.0 on line 5 should be int
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 75396.0 on line 6 should be int
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 348.0 on line 7 should be int
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 690.0 on line 9 should be int
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 340.0 on line 10 should be int
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 95.0 on line 11 should be int
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 77.0 on line 13 should be int
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 151.0 on line 14 should be int
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 118.0 on line 15 should be int
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 120.0 on line 16 should be int
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 180.0 on line 18 should be int
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 84.0 on line 19 should be int
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1600.0 on line 20 should be int
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 64.0 on line 21 should be int
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 398.0 on line 22 should be int
+2019-10-23 21:37:56,417 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 72.0 on line 23 should be int
+2019-10-23 21:37:56,418 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 779.0 on line 24 should be int
+2019-10-23 21:37:56,418 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 126.0 on line 25 should be int
+2019-10-23 21:37:56,418 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 195.0 on line 26 should be int
+2019-10-23 21:37:56,418 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-10-23 21:37:56,418 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2_TOTALE - False - 0
+2019-10-23 21:37:56,418 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 58.91
+2019-10-23 21:37:56,418 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2_TOTALE - False - 0
+2019-10-23 21:37:56,418 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 0.0
+2019-10-23 21:37:56,418 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MAISON_APT - False - 0
+2019-10-23 21:37:56,418 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 100.0
+2019-10-23 21:37:56,418 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MINI_SITE_ID - True - 1
+2019-10-23 21:37:56,418 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-10-23 21:37:56,418 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-10-23 21:37:56,418 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-10-23 21:37:56,418 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - True - 1
+2019-10-23 21:37:56,418 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - PAYS_AD - correctly filled rate (%) - 100.0
+2019-10-23 21:37:56,418 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - PAYS_AD - True - 1
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 100.0
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PAYS_AD - True - 1
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 99.71
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 72.11
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PIECE - False - 0
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PIECE - True - 1
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 3510000.0 on line 0 should be int
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 6500000.0 on line 1 should be int
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 580000.0 on line 2 should be int
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 5400000.0 on line 3 should be int
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 470000.0 on line 4 should be int
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2133761.0 on line 5 should be int
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 18848750.0 on line 6 should be int
+2019-10-23 21:37:56,419 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 5499000.0 on line 7 should be int
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 19900000.0 on line 8 should be int
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 26750000.0 on line 9 should be int
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 990000.0 on line 10 should be int
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2372000.0 on line 11 should be int
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1850000.0 on line 12 should be int
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1555000.0 on line 13 should be int
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 275000.0 on line 14 should be int
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 163900.0 on line 15 should be int
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 790000.0 on line 16 should be int
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 8900000.0 on line 17 should be int
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1320000.0 on line 18 should be int
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 750000.0 on line 19 should be int
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PRIX - False - 0
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 99.93
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-10-23 21:37:56,420 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRO_IND - True - 1
+2019-10-23 21:37:56,421 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-10-23 21:37:56,421 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - PRO_IND - True - 1
+2019-10-23 21:37:56,421 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-10-23 21:37:56,421 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - False - 0
+2019-10-23 21:37:56,421 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-10-23 21:37:56,421 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SELLER_TYPE - True - 1
+2019-10-23 21:37:56,421 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-10-23 21:37:56,421 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - SELLER_TYPE - True - 1
+2019-10-23 21:37:56,421 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-10-23 21:37:56,421 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - VILLE - True - 1
+2019-10-23 21:37:56,421 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-10-23 21:37:56,421 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-10-23 21:37:56,421 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 3817
+2019-10-23 21:37:56,421 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 0
+2019-10-23 21:37:56,421 - IMMO - MX - VIVANUNCIOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 9779

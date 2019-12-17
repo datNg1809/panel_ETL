@@ -1,0 +1,221 @@
+2019-11-22 20:43:49,010 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-11-22 20:43:49,010 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-11-22 20:43:49,011 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-11-22 20:43:49,011 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 20:43:49,011 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-11-22 20:43:49,011 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 5, value should be between 1980 and 2019
+2019-11-22 20:43:49,011 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 10, value should be between 1980 and 2019
+2019-11-22 20:43:49,011 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 44, value should be between 1980 and 2019
+2019-11-22 20:43:49,011 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 52, value should be between 1980 and 2019
+2019-11-22 20:43:49,011 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 53, value should be between 1980 and 2019
+2019-11-22 20:43:49,011 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 54, value should be between 1980 and 2019
+2019-11-22 20:43:49,011 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 59, value should be between 1980 and 2019
+2019-11-22 20:43:49,011 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 62, value should be between 1980 and 2019
+2019-11-22 20:43:49,011 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 63, value should be between 1980 and 2019
+2019-11-22 20:43:49,011 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 64, value should be between 1980 and 2019
+2019-11-22 20:43:49,011 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 65, value should be between 1980 and 2019
+2019-11-22 20:43:49,011 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1971 on line 73, value should be between 1980 and 2019
+2019-11-22 20:43:49,011 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 75, value should be between 1980 and 2019
+2019-11-22 20:43:49,011 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 76, value should be between 1980 and 2019
+2019-11-22 20:43:49,012 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 77, value should be between 1980 and 2019
+2019-11-22 20:43:49,012 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 80, value should be between 1980 and 2019
+2019-11-22 20:43:49,012 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 87, value should be between 1980 and 2019
+2019-11-22 20:43:49,012 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 88, value should be between 1980 and 2019
+2019-11-22 20:43:49,012 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 89, value should be between 1980 and 2019
+2019-11-22 20:43:49,012 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 90, value should be between 1980 and 2019
+2019-11-22 20:43:49,012 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 89.5
+2019-11-22 20:43:49,012 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 6330
+2019-11-22 20:43:49,012 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - False - 0
+2019-11-22 20:43:49,012 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 20:43:49,012 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-11-22 20:43:49,012 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 5, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,012 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 10, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,012 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 44, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,012 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 52, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,012 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 53, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,012 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 54, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 59, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 62, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 63, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 64, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 65, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 75, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 77, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 80, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 87, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 88, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 90, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 93, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 98, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 99, value should match regexp ^[0-9]{4}$
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 91.35
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-11-22 20:43:49,013 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-11-22 20:43:49,014 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-11-22 20:43:49,014 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-11-22 20:43:49,014 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 0.0
+2019-11-22 20:43:49,014 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_TEXT - False - 0
+2019-11-22 20:43:49,014 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 51.28
+2019-11-22 20:43:49,014 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - False - 0
+2019-11-22 20:43:49,014 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 50.66
+2019-11-22 20:43:49,014 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - False - 0
+2019-11-22 20:43:49,014 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 95.8
+2019-11-22 20:43:49,014 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-11-22 20:43:49,014 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: WF104JY on line 0, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,014 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: NG237AE on line 1, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,014 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: SN78EZ on line 2, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,014 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: RH15AB on line 3, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,014 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: SY209PE on line 4, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,014 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: YO258SY on line 5, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,014 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: LL553PD on line 6, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: BS50LT on line 7, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: S612SS on line 8, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: CF827PP on line 9, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: LL553PD on line 10, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: BS45PF on line 11, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: BS45PF on line 12, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: BS45PF on line 13, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: BS45PF on line 14, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: BS45PF on line 15, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: BS45PF on line 16, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: BS45PF on line 17, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: SA48DL on line 18, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: RG88NR on line 19, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 0.0
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 98.06
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-11-22 20:43:49,015 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 60259
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 86.85
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - False - 0
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 85.26
+2019-11-22 20:43:49,016 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - False - 0
+2019-11-22 20:43:49,017 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 0.0
+2019-11-22 20:43:49,017 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - False - 0
+2019-11-22 20:43:49,017 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-11-22 20:43:49,017 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-11-22 20:43:49,017 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-11-22 20:43:49,017 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - True - 1
+2019-11-22 20:43:49,017 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 98.05
+2019-11-22 20:43:49,017 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - True - 1
+2019-11-22 20:43:49,017 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Make: Fiat, Model: M...] on line  0, value length should be between 0 and 255
+2019-11-22 20:43:49,017 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Here forsale is my 2...] on line  1, value length should be between 0 and 255
+2019-11-22 20:43:49,017 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Volkswagen motor hom...] on line  2, value length should be between 0 and 255
+2019-11-22 20:43:49,017 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [This vehicle comes i...] on line  3, value length should be between 0 and 255
+2019-11-22 20:43:49,017 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Kick back and relax ...] on line  4, value length should be between 0 and 255
+2019-11-22 20:43:49,017 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABI Moderna 2004 sit...] on line  5, value length should be between 0 and 255
+2019-11-22 20:43:49,017 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Seasonal Touring Pit...] on line  6, value length should be between 0 and 255
+2019-11-22 20:43:49,017 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [This is a musketeer ...] on line  8, value length should be between 0 and 255
+2019-11-22 20:43:49,017 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, Finance and px wel...] on line  9, value length should be between 0 and 255
+2019-11-22 20:43:49,018 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Willerby Peppy XL, O...] on line  10, value length should be between 0 and 255
+2019-11-22 20:43:49,018 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, Looking for a run-...] on line  11, value length should be between 0 and 255
+2019-11-22 20:43:49,018 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, The Lexmoto Diablo...] on line  12, value length should be between 0 and 255
+2019-11-22 20:43:49,018 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, The Rieju Marathon...] on line  13, value length should be between 0 and 255
+2019-11-22 20:43:49,018 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, The Peugeot Kisbee...] on line  14, value length should be between 0 and 255
+2019-11-22 20:43:49,018 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, The Peugeot Tweet ...] on line  15, value length should be between 0 and 255
+2019-11-22 20:43:49,018 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, DJANGO 125 ABS, DE...] on line  16, value length should be between 0 and 255
+2019-11-22 20:43:49,018 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, The Super Soco TC ...] on line  17, value length should be between 0 and 255
+2019-11-22 20:43:49,018 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, We are giving you ...] on line  18, value length should be between 0 and 255
+2019-11-22 20:43:49,018 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, Burstner Aviano I7...] on line  19, value length should be between 0 and 255
+2019-11-22 20:43:49,018 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, This Bessacarr 562...] on line  20, value length should be between 0 and 255
+2019-11-22 20:43:49,018 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 12.47
+2019-11-22 20:43:49,018 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - OPTIONS - False - 0
+2019-11-22 20:43:49,018 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 20:43:49,018 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-11-22 20:43:49,018 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 20:43:49,018 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 99.97
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - True - 1
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 38.64
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - False - 0
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07584074255 on line 1, value should match a phone number format
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07779145850 on line 2, value should match a phone number format
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01650511441 on line 4, value should match a phone number format
+2019-11-22 20:43:49,019 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07944756166 on line 9, value should match a phone number format
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07766081361 on line 19, value should match a phone number format
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07766081361 on line 23, value should match a phone number format
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07956956227 on line 24, value should match a phone number format
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07956956227 on line 25, value should match a phone number format
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07956956227 on line 26, value should match a phone number format
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07956956227 on line 27, value should match a phone number format
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07956956227 on line 28, value should match a phone number format
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07956956227 on line 29, value should match a phone number format
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07956956227 on line 30, value should match a phone number format
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07956956227 on line 31, value should match a phone number format
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07956956227 on line 32, value should match a phone number format
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07956956227 on line 33, value should match a phone number format
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07956956227 on line 34, value should match a phone number format
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07956956227 on line 35, value should match a phone number format
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07956956227 on line 36, value should match a phone number format
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01484421232 on line 41, value should match a phone number format
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 0.0
+2019-11-22 20:43:49,020 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - False - 0
+2019-11-22 20:43:49,021 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-11-22 20:43:49,021 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-11-22 20:43:49,021 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-11-22 20:43:49,021 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.97
+2019-11-22 20:43:49,021 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-11-22 20:43:49,021 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-11-22 20:43:49,021 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - False - 0
+2019-11-22 20:43:49,021 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 0
+2019-11-22 20:43:49,021 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 0
+2019-11-22 20:43:49,021 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 16
+2019-11-22 20:43:49,021 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 8
+2019-11-22 20:43:49,021 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 82.97
+2019-11-22 20:43:49,021 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-11-22 20:43:49,021 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2800.0 on line 0 should be in ['int']
+2019-11-22 20:43:49,021 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1199.0 on line 1 should be in ['int']
+2019-11-22 20:43:49,021 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1915.0 on line 2 should be in ['int']
+2019-11-22 20:43:49,021 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1870.0 on line 3 should be in ['int']
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 125.0 on line 7 should be in ['int']
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 125.0 on line 11 should be in ['int']
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 125.0 on line 12 should be in ['int']
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 125.0 on line 13 should be in ['int']
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 50.0 on line 14 should be in ['int']
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 125.0 on line 15 should be in ['int']
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 125.0 on line 16 should be in ['int']
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 125.0 on line 17 should be in ['int']
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3490.0 on line 18 should be in ['int']
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2999.0 on line 19 should be in ['int']
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2287.0 on line 20 should be in ['int']
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1929.0 on line 21 should be in ['int']
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1000.0 on line 22 should be in ['int']
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1968.0 on line 23 should be in ['int']
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 124.0 on line 24 should be in ['int']
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 124.0 on line 25 should be in ['int']
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-11-22 20:43:49,022 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - CYLINDRE - False - 0
+2019-11-22 20:43:49,023 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 110
+2019-11-22 20:43:49,023 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 125
+2019-11-22 20:43:49,023 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 94
+2019-11-22 20:43:49,023 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 44474
+2019-11-22 20:43:49,023 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 15785
+2019-11-22 20:43:49,023 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CATEGORIE - CAMPINGCAR - 4644
+2019-11-22 20:43:49,023 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CATEGORIE - MOTO - 20478
+2019-11-22 20:43:49,023 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CATEGORIE - CARAVANE - 7881
+2019-11-22 20:43:49,023 - NPV - UK - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CATEGORIE - VANS - 27256

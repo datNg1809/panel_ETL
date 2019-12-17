@@ -1,0 +1,163 @@
+2019-06-03 11:45:09,445 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 94.27
+2019-06-03 11:45:09,445 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,446 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 98.27
+2019-06-03 11:45:09,446 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,446 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,446 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,446 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-06-03 11:45:09,446 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,446 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,446 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,446 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,446 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-06-03 11:45:09,446 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,446 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-06-03 11:45:09,446 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 22400
+2019-06-03 11:45:09,446 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,446 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,446 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,446 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 0 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 1 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 2 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 3 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 4 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 5 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 6 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 7 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 8 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 9 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 10 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 11 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 12 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 13 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 14 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 15 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 16 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 17 should be in ['int', 'float']
+2019-06-03 11:45:09,447 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 18 should be in ['int', 'float']
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 19 should be in ['int', 'float']
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 26.86
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 0.0
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 0.0
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 264, value should be between 1 and 12
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 298, value should be between 1 and 12
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 299, value should be between 1 and 12
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 300, value should be between 1 and 12
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 301, value should be between 1 and 12
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 355, value should be between 1 and 12
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 382, value should be between 1 and 12
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 408, value should be between 1 and 12
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 413, value should be between 1 and 12
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 426, value should be between 1 and 12
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 443, value should be between 1 and 12
+2019-06-03 11:45:09,448 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 455, value should be between 1 and 12
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 456, value should be between 1 and 12
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 457, value should be between 1 and 12
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 458, value should be between 1 and 12
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 462, value should be between 1 and 12
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 463, value should be between 1 and 12
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 464, value should be between 1 and 12
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 465, value should be between 1 and 12
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 466, value should be between 1 and 12
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 93.19
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 11.0 on line 0, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 5.0 on line 1, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 5.0 on line 2, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 11.0 on line 3, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 4.0 on line 4, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 5.0 on line 5, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 1.0 on line 6, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 4.0 on line 7, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,449 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 2.0 on line 8, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,450 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 4.0 on line 9, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,450 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 3.0 on line 10, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,450 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 11.0 on line 11, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,450 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 2.0 on line 12, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,450 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 11.0 on line 13, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,450 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 2.0 on line 14, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,450 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 3.0 on line 15, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,450 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 10.0 on line 16, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,450 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 3.0 on line 17, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,450 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 9.0 on line 18, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,450 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 7.0 on line 19, value should match regexp ^[0-9]{1,2}$
+2019-06-03 11:45:09,450 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 0.0
+2019-06-03 11:45:09,450 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,450 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,450 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.03
+2019-06-03 11:45:09,450 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,450 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7395.0 on line 2440 should be in ['int']
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7395.0 on line 3068 should be in ['int']
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7395.0 on line 10739 should be in ['int']
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7395.0 on line 10740 should be in ['int']
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7395.0 on line 12804 should be in ['int']
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7395.0 on line 14343 should be in ['int']
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7395.0 on line 14344 should be in ['int']
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.03
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.03
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.03
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 98.1
+2019-06-03 11:45:09,451 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 476887865.0 on line 26, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 476887865.0 on line 28, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 476887865.0 on line 29, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 476887865.0 on line 30, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 476887865.0 on line 31, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 476887865.0 on line 32, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 476887865.0 on line 33, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 476887865.0 on line 34, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 495875492.0 on line 53, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 475316737.0 on line 116, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 475316737.0 on line 117, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 475316737.0 on line 118, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 475316737.0 on line 119, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 475316737.0 on line 120, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 475316737.0 on line 125, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 475452583.0 on line 127, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 475452583.0 on line 128, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 475452583.0 on line 129, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 475452583.0 on line 130, value should match a phone number format
+2019-06-03 11:45:09,452 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 475452583.0 on line 131, value should match a phone number format
+2019-06-03 11:45:09,453 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 88.29
+2019-06-03 11:45:09,453 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,453 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-06-03 11:45:09,453 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-06-03 11:45:09,453 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-06-03 11:45:09,453 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 68
+2019-06-03 11:45:09,453 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 612
+2019-06-03 11:45:09,453 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 17
+2019-06-03 11:45:09,453 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 7
+2019-06-03 11:45:09,453 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 97.36
+2019-06-03 11:45:09,453 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4134.0 on line 0 should be in ['int']
+2019-06-03 11:45:09,453 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1968.0 on line 1 should be in ['int']
+2019-06-03 11:45:09,453 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 2 should be in ['int']
+2019-06-03 11:45:09,453 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 3 should be in ['int']
+2019-06-03 11:45:09,453 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1997.0 on line 4 should be in ['int']
+2019-06-03 11:45:09,453 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1686.0 on line 5 should be in ['int']
+2019-06-03 11:45:09,453 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 6 should be in ['int']
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 7 should be in ['int']
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2200.0 on line 8 should be in ['int']
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 9 should be in ['int']
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 10 should be in ['int']
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1364.0 on line 11 should be in ['int']
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 12 should be in ['int']
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1199.0 on line 13 should be in ['int']
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 14 should be in ['int']
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 15 should be in ['int']
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 16 should be in ['int']
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 17 should be in ['int']
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 18 should be in ['int']
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1199.0 on line 19 should be in ['int']
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 1
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 880
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 21174
+2019-06-03 11:45:09,454 - VO - BE - VROOM - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 1226

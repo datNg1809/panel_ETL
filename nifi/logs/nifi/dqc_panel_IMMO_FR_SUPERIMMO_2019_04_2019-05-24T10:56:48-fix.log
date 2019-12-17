@@ -1,0 +1,256 @@
+2019-05-24 10:59:00,765 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_to_exist - ACHAT_LOC - column exists or not - 1.0
+2019-05-24 10:59:00,765 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,765 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,765 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-05-24 10:59:00,765 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-05-24 10:59:00,765 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-05-24 10:59:00,765 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 58389, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,765 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 68019, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,765 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 221669, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,765 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 221678, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,765 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 359421, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,765 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 359425, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,765 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 362445, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,765 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 386650, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 390826, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 422937, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 422940, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 433151, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 437836, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 473311, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 577696, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 627137, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 645283, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 646764, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 646766, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40.0 on line 646769, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 97.28
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 0, value should match a phone number format
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 1, value should match a phone number format
+2019-05-24 10:59:00,766 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 2, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 3, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 4, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 5, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 6, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 7, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 8, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 9, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 10, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 11, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 12, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 13, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 14, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 15, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 16, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 17, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 18, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 240300200.0 on line 19, value should match a phone number format
+2019-05-24 10:59:00,767 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 0.03
+2019-05-24 10:59:00,768 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 97.99
+2019-05-24 10:59:00,768 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-05-24 10:59:00,768 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,768 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,768 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-05-24 10:59:00,768 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Ce bel appartement d...] on line  61, value length should be between 0 and 255
+2019-05-24 10:59:00,768 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [ARSEILLE SAINT-CHARL...] on line  93, value length should be between 0 and 255
+2019-05-24 10:59:00,768 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [RARE ! Dans un charm...] on line  96, value length should be between 0 and 255
+2019-05-24 10:59:00,768 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Situation exceptionn...] on line  109, value length should be between 0 and 255
+2019-05-24 10:59:00,768 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [AIZIERES-LES-METZ: i...] on line  127, value length should be between 0 and 255
+2019-05-24 10:59:00,768 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A proximité de Faulq...] on line  132, value length should be between 0 and 255
+2019-05-24 10:59:00,768 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Au centre de Neuves-...] on line  143, value length should be between 0 and 255
+2019-05-24 10:59:00,768 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Dans une résidence r...] on line  149, value length should be between 0 and 255
+2019-05-24 10:59:00,768 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Programme Esprit Nat...] on line  157, value length should be between 0 and 255
+2019-05-24 10:59:00,768 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A VENDRE - LILLE - M...] on line  159, value length should be between 0 and 255
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [En résidence verdoya...] on line  162, value length should be between 0 and 255
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [En EXCLUSIVITE empla...] on line  165, value length should be between 0 and 255
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Nouveauté Logéhome d...] on line  167, value length should be between 0 and 255
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Nouveauté Logéhome d...] on line  181, value length should be between 0 and 255
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Nouveauté Logéhome d...] on line  182, value length should be between 0 and 255
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Bel appartement T2 r...] on line  193, value length should be between 0 and 255
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Offre spéciale primo...] on line  232, value length should be between 0 and 255
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [CLERMONTAppartement ...] on line  233, value length should be between 0 and 255
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [En EXCLUSIVITE empla...] on line  308, value length should be between 0 and 255
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Vue et luminosité ex...] on line  351, value length should be between 0 and 255
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 0.02
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 19.06
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 99.95
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49380.0 on line 0, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49640.0 on line 1, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49380.0 on line 2, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,769 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49430.0 on line 3, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49640.0 on line 4, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49140.0 on line 5, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49140.0 on line 6, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49320.0 on line 7, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49140.0 on line 8, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49125.0 on line 9, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49140.0 on line 10, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49800.0 on line 11, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49125.0 on line 12, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49140.0 on line 13, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49140.0 on line 14, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49380.0 on line 15, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49140.0 on line 16, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49320.0 on line 17, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49270.0 on line 18, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49270.0 on line 19, value should match regexp ^[0-9]{5}$
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 0.0
+2019-05-24 10:59:00,770 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,771 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 982895
+2019-05-24 10:59:00,771 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,771 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-05-24 10:59:00,771 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 112.0 on line 0 should be int
+2019-05-24 10:59:00,771 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 85.0 on line 1 should be int
+2019-05-24 10:59:00,771 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 98.0 on line 2 should be int
+2019-05-24 10:59:00,771 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 98.0 on line 3 should be int
+2019-05-24 10:59:00,771 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 82.0 on line 4 should be int
+2019-05-24 10:59:00,771 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 85.0 on line 5 should be int
+2019-05-24 10:59:00,771 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 112.0 on line 6 should be int
+2019-05-24 10:59:00,771 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 86.0 on line 7 should be int
+2019-05-24 10:59:00,771 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 90.0 on line 8 should be int
+2019-05-24 10:59:00,771 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 87.0 on line 9 should be int
+2019-05-24 10:59:00,771 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 85.0 on line 10 should be int
+2019-05-24 10:59:00,771 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 137.0 on line 11 should be int
+2019-05-24 10:59:00,771 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 85.0 on line 12 should be int
+2019-05-24 10:59:00,771 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 89.0 on line 13 should be int
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 87.0 on line 14 should be int
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 89.0 on line 15 should be int
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 90.0 on line 16 should be int
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 86.0 on line 17 should be int
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 97.0 on line 18 should be int
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 90.0 on line 19 should be int
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 112.0 on line 0 should be int
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 85.0 on line 1 should be int
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 98.0 on line 2 should be int
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 98.0 on line 3 should be int
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 82.0 on line 4 should be int
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 85.0 on line 5 should be int
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 112.0 on line 6 should be int
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 86.0 on line 7 should be int
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 90.0 on line 8 should be int
+2019-05-24 10:59:00,772 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 87.0 on line 9 should be int
+2019-05-24 10:59:00,773 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 85.0 on line 10 should be int
+2019-05-24 10:59:00,773 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 137.0 on line 11 should be int
+2019-05-24 10:59:00,773 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 85.0 on line 12 should be int
+2019-05-24 10:59:00,773 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 89.0 on line 13 should be int
+2019-05-24 10:59:00,773 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 87.0 on line 14 should be int
+2019-05-24 10:59:00,773 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 89.0 on line 15 should be int
+2019-05-24 10:59:00,773 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 90.0 on line 16 should be int
+2019-05-24 10:59:00,773 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 86.0 on line 17 should be int
+2019-05-24 10:59:00,773 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 97.0 on line 18 should be int
+2019-05-24 10:59:00,773 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 90.0 on line 19 should be int
+2019-05-24 10:59:00,773 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-05-24 10:59:00,773 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 99.95
+2019-05-24 10:59:00,773 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,773 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,773 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-05-24 10:59:00,773 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 36.5
+2019-05-24 10:59:00,773 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - PAYS_AD - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 99.95
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 5.0 on line 0 should be int
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 4.0 on line 1 should be int
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 6.0 on line 2 should be int
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 6.0 on line 3 should be int
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 4.0 on line 4 should be int
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 5.0 on line 5 should be int
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 5.0 on line 6 should be int
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 4.0 on line 7 should be int
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 4.0 on line 8 should be int
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 4.0 on line 9 should be int
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 4.0 on line 10 should be int
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 8.0 on line 11 should be int
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 5.0 on line 12 should be int
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 4.0 on line 13 should be int
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 4.0 on line 14 should be int
+2019-05-24 10:59:00,774 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 4.0 on line 15 should be int
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 4.0 on line 16 should be int
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 4.0 on line 17 should be int
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 4.0 on line 18 should be int
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 4.0 on line 19 should be int
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PHOTO - correctly filled rate (%) - 0.0
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 5.0 on line 0 should be int
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 5.0 on line 1 should be int
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 6.0 on line 2 should be int
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 6.0 on line 3 should be int
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 5.0 on line 4 should be int
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 5.0 on line 5 should be int
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 5.0 on line 6 should be int
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 4.0 on line 7 should be int
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 5.0 on line 8 should be int
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 5.0 on line 9 should be int
+2019-05-24 10:59:00,775 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 5.0 on line 10 should be int
+2019-05-24 10:59:00,776 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 7.0 on line 11 should be int
+2019-05-24 10:59:00,776 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 5.0 on line 12 should be int
+2019-05-24 10:59:00,776 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 5.0 on line 13 should be int
+2019-05-24 10:59:00,776 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 5.0 on line 14 should be int
+2019-05-24 10:59:00,776 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 5.0 on line 15 should be int
+2019-05-24 10:59:00,776 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 5.0 on line 16 should be int
+2019-05-24 10:59:00,776 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 4.0 on line 17 should be int
+2019-05-24 10:59:00,776 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 5.0 on line 18 should be int
+2019-05-24 10:59:00,776 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 5.0 on line 19 should be int
+2019-05-24 10:59:00,776 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PIECE - correctly filled rate (%) - 0.0
+2019-05-24 10:59:00,776 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,776 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,776 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 199941.0 on line 0 should be int
+2019-05-24 10:59:00,776 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 132750.0 on line 1 should be int
+2019-05-24 10:59:00,776 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 161273.0 on line 2 should be int
+2019-05-24 10:59:00,776 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 160373.0 on line 3 should be int
+2019-05-24 10:59:00,776 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 136840.0 on line 4 should be int
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 139270.0 on line 5 should be int
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 193204.0 on line 6 should be int
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 188750.0 on line 7 should be int
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 151949.0 on line 8 should be int
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 174015.0 on line 9 should be int
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 129297.0 on line 10 should be int
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 299780.0 on line 11 should be int
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 143807.0 on line 12 should be int
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 167200.0 on line 13 should be int
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 164601.0 on line 14 should be int
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 152700.0 on line 15 should be int
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 149633.0 on line 16 should be int
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 215870.0 on line 17 should be int
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 166092.0 on line 18 should be int
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 147044.0 on line 19 should be int
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,777 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,778 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-05-24 10:59:00,778 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SELLER_TYPE - correctly filled rate (%) - 0.0
+2019-05-24 10:59:00,778 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - SELLER_TYPE - Unexpected value: 12.0 on line 895611, value should match regexp [A-Za-z]+
+2019-05-24 10:59:00,778 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - SELLER_TYPE - Unexpected value: 17.0 on line 976904, value should match regexp [A-Za-z]+
+2019-05-24 10:59:00,778 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - SELLER_TYPE - correctly filled rate (%) - 0.0
+2019-05-24 10:59:00,778 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 0 should be int
+2019-05-24 10:59:00,778 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 1 should be int
+2019-05-24 10:59:00,778 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 2 should be int
+2019-05-24 10:59:00,778 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 3 should be int
+2019-05-24 10:59:00,778 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 4 should be int
+2019-05-24 10:59:00,778 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 5 should be int
+2019-05-24 10:59:00,778 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 6 should be int
+2019-05-24 10:59:00,778 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 7 should be int
+2019-05-24 10:59:00,778 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 8 should be int
+2019-05-24 10:59:00,778 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 9 should be int
+2019-05-24 10:59:00,778 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 10 should be int
+2019-05-24 10:59:00,779 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 11 should be int
+2019-05-24 10:59:00,779 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 12 should be int
+2019-05-24 10:59:00,779 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 13 should be int
+2019-05-24 10:59:00,779 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 14 should be int
+2019-05-24 10:59:00,779 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 15 should be int
+2019-05-24 10:59:00,779 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 16 should be int
+2019-05-24 10:59:00,779 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 17 should be int
+2019-05-24 10:59:00,779 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 18 should be int
+2019-05-24 10:59:00,779 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 19 should be int
+2019-05-24 10:59:00,779 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-05-24 10:59:00,779 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,779 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-05-24 10:59:00,779 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 33968
+2019-05-24 10:59:00,779 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0
+2019-05-24 10:59:00,779 - IMMO - FR - SUPERIMMO - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 982864

@@ -1,0 +1,122 @@
+2019-07-09 10:55:53,773 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,773 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,773 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 88.48
+2019-07-09 10:55:53,773 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-07-09 10:55:53,773 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-07-09 10:55:53,773 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,773 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 99.61
+2019-07-09 10:55:53,773 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 96.23
+2019-07-09 10:55:53,773 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 99.59
+2019-07-09 10:55:53,773 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-07-09 10:55:53,773 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,773 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,773 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-07-09 10:55:53,773 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-07-09 10:55:53,773 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 3858192
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 0 should be int
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 73.0 on line 1 should be int
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 56.0 on line 2 should be int
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 3 should be int
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 4 should be int
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 58.0 on line 5 should be int
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 6 should be int
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 134.0 on line 7 should be int
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 128.0 on line 8 should be int
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 92.0 on line 9 should be int
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 57.0 on line 10 should be int
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 3000.0 on line 11 should be int
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 12 should be int
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 13 should be int
+2019-07-09 10:55:53,774 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 54.0 on line 14 should be int
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 49.0 on line 15 should be int
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 16 should be int
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 48.0 on line 17 should be int
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 48.0 on line 18 should be int
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 19 should be int
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 350.0 on line 0 should be int
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 73.0 on line 1 should be int
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 56.0 on line 2 should be int
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1300.0 on line 3 should be int
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 4 should be int
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 84.0 on line 5 should be int
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 100.0 on line 6 should be int
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 134.0 on line 7 should be int
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 275.0 on line 8 should be int
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 92.0 on line 9 should be int
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 57.0 on line 10 should be int
+2019-07-09 10:55:53,775 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 3000.0 on line 11 should be int
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 2000.0 on line 12 should be int
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1100.0 on line 13 should be int
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 54.0 on line 14 should be int
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 49.0 on line 15 should be int
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 525.0 on line 16 should be int
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 48.0 on line 17 should be int
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 48.0 on line 18 should be int
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 19 should be int
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 99.59
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 25.31
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 99.99
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,776 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,777 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,777 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,777 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,777 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-07-09 10:55:53,777 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 0 should be int
+2019-07-09 10:55:53,777 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 1 should be int
+2019-07-09 10:55:53,777 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 2 should be int
+2019-07-09 10:55:53,777 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 3 should be int
+2019-07-09 10:55:53,777 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 4 should be int
+2019-07-09 10:55:53,777 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 5 should be int
+2019-07-09 10:55:53,777 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 6 should be int
+2019-07-09 10:55:53,777 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 7 should be int
+2019-07-09 10:55:53,777 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 8 should be int
+2019-07-09 10:55:53,777 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 9 should be int
+2019-07-09 10:55:53,777 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 10 should be int
+2019-07-09 10:55:53,777 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 11 should be int
+2019-07-09 10:55:53,777 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 12 should be int
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 13 should be int
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 14 should be int
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 15 should be int
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 16 should be int
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 17 should be int
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 18 should be int
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 19 should be int
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: JundiaÃ on line 1, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: JundiaÃ on line 2, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: ItajaÃ on line 5, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: BalneÃÂ¡rio CamboriÃº on line 8, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: JundiaÃ on line 9, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: JundiaÃ on line 10, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: PetrÃ³polis on line 12, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: JundiaÃ on line 14, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: MongaguÃÂ¡ on line 15, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: JundiaÃ on line 17, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,778 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: VÃÂ¡rzea Paulista on line 18, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,779 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: JundiaÃ on line 21, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,779 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: SÃ£o Paulo on line 23, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,779 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: GuarujÃÂ¡ on line 24, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,779 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: JundiaÃ on line 28, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,779 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: JundiaÃ on line 29, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,779 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: JundiaÃ on line 31, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,779 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: JundiaÃ on line 32, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,779 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: JundiaÃ on line 33, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,779 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: JundiaÃ on line 35, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-09 10:55:53,779 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 44.79
+2019-07-09 10:55:53,779 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.72
+2019-07-09 10:55:53,779 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0
+2019-07-09 10:55:53,779 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 3857702
+2019-07-09 10:55:53,779 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 4396
+2019-07-09 10:55:53,779 - IMMO - BR - IMOVELWEB - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 28

@@ -181,7 +181,7 @@ if __name__ == "__main__":
             month = datetime.today().strftime('%m')
         if sys.argv[5] != "":
             overwrite = sys.argv[5]
-        else: 
+        else:
             overwrite = "NO"
 
         # Setup logger

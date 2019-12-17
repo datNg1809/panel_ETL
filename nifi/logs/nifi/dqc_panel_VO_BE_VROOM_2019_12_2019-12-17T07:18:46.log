@@ -1,0 +1,168 @@
+2019-12-17 07:19:40,425 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-12-17 07:19:40,425 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 92.58
+2019-12-17 07:19:40,425 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - True - 1
+2019-12-17 07:19:40,425 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,425 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-12-17 07:19:40,425 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 96.7
+2019-12-17 07:19:40,425 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 659
+2019-12-17 07:19:40,425 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - True - 1
+2019-12-17 07:19:40,425 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,425 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-12-17 07:19:40,425 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 8439, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 10223, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 11006, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 13602, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 13825, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 14390, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.97
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 99.99
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - True - 1
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 99.99
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - True - 1
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.99
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-12-17 07:19:40,426 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 19945
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,427 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 0.78
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - False - 0
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 0.0
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - False - 0
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - True - 1
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 160, value should be between 1 and 12
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 161, value should be between 1 and 12
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 229, value should be between 1 and 12
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 230, value should be between 1 and 12
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 231, value should be between 1 and 12
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 232, value should be between 1 and 12
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 301, value should be between 1 and 12
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 316, value should be between 1 and 12
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 340, value should be between 1 and 12
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 349, value should be between 1 and 12
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 365, value should be between 1 and 12
+2019-12-17 07:19:40,428 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 397, value should be between 1 and 12
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 425, value should be between 1 and 12
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 440, value should be between 1 and 12
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 444, value should be between 1 and 12
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 452, value should be between 1 and 12
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 458, value should be between 1 and 12
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 497, value should be between 1 and 12
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 528, value should be between 1 and 12
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 567, value should be between 1 and 12
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 93.76
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - unexpected count - 1245
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MOIS - False - 0
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - MOIS - True - 1
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 99.99
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - True - 1
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-12-17 07:19:40,429 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - False - 0
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 95.93
+2019-12-17 07:19:40,430 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +069-889191 on line 6, value should match a phone number format
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +089/76.51.71 on line 9, value should match a phone number format
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +089/76.51.71 on line 10, value should match a phone number format
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +0495/875492 on line 11, value should match a phone number format
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +089/76.51.71 on line 12, value should match a phone number format
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +014/55.36.46 on line 13, value should match a phone number format
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +016/850.424 0477/677.790 on line 14, value should match a phone number format
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +04/377 91 91 on line 17, value should match a phone number format
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +013/44.31.39 on line 21, value should match a phone number format
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +013/44.31.39 on line 22, value should match a phone number format
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +014/585069 on line 23, value should match a phone number format
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +013/44.31.39 on line 24, value should match a phone number format
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +013/44.31.39 on line 25, value should match a phone number format
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +014/585069 on line 26, value should match a phone number format
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +089701768 on line 27, value should match a phone number format
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +02/705.46.46 on line 28, value should match a phone number format
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +02/705.46.46 on line 29, value should match a phone number format
+2019-12-17 07:19:40,431 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +014/585069 on line 30, value should match a phone number format
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +02/705.46.46 on line 31, value should match a phone number format
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: +02/705.46.46 on line 32, value should match a phone number format
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 64.25
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - False - 0
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.99
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 16.6
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - False - 0
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - VN_IND - True - 1
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 78
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 697
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 11
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 10
+2019-12-17 07:19:40,432 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 94.5
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - True - 1
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 5700.0 on line 0 should be in ['int']
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3600.0 on line 1 should be in ['int']
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3800.0 on line 2 should be in ['int']
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3797.0 on line 3 should be in ['int']
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3600.0 on line 4 should be in ['int']
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3800.0 on line 5 should be in ['int']
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1968.0 on line 6 should be in ['int']
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1799.0 on line 7 should be in ['int']
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1364.0 on line 8 should be in ['int']
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1364.0 on line 9 should be in ['int']
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 11 should be in ['int']
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1998.0 on line 12 should be in ['int']
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3436.0 on line 13 should be in ['int']
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 14 should be in ['int']
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1398.0 on line 15 should be in ['int']
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1968.0 on line 16 should be in ['int']
+2019-12-17 07:19:40,433 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1968.0 on line 17 should be in ['int']
+2019-12-17 07:19:40,434 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1968.0 on line 18 should be in ['int']
+2019-12-17 07:19:40,434 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 19 should be in ['int']
+2019-12-17 07:19:40,434 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1968.0 on line 20 should be in ['int']
+2019-12-17 07:19:40,434 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-12-17 07:19:40,434 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - CYLINDRE - False - 0
+2019-12-17 07:19:40,434 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-12-17 07:19:40,434 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 872
+2019-12-17 07:19:40,434 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-12-17 07:19:40,434 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 0
+2019-12-17 07:19:40,434 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-12-17 07:19:40,434 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_NEWCARS - total number of row with conditions - 0
+2019-12-17 07:19:40,434 - VO - BE - VROOM - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - GARAGE_ID - total number of unique rows - 0

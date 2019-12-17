@@ -1,0 +1,186 @@
+2019-11-27 22:14:36,276 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-11-27 22:14:36,276 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-11-27 22:14:36,276 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ACHAT_LOC - True - 1
+2019-11-27 22:14:36,276 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-11-27 22:14:36,276 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - ACHAT_LOC - True - 1
+2019-11-27 22:14:36,276 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 89.96
+2019-11-27 22:14:36,276 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-11-27 22:14:36,276 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 100.0
+2019-11-27 22:14:36,276 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ADRESSE - True - 1
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 75.83
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_CP - False - 0
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  92200  on line 0, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  95170  on line 2, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  92100  on line 3, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  92140  on line 4, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  92100  on line 5, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  13930  on line 8, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  92100  on line 9, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  75012  on line 10, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  92200  on line 11, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  92200  on line 12, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  92100  on line 13, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  75008  on line 16, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  92100  on line 18, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  92200  on line 20, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  92200  on line 21, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  92200  on line 22, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,277 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  69780  on line 23, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,278 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  75008  on line 25, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,278 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  69100  on line 26, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,278 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value:  92100  on line 27, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,278 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-11-27 22:14:36,278 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - AGENCE_CP - False - 0
+2019-11-27 22:14:36,278 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 99.67
+2019-11-27 22:14:36,278 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_NOM - True - 1
+2019-11-27 22:14:36,278 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 100.0
+2019-11-27 22:14:36,278 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - AGENCE_TEL - True - 1
+2019-11-27 22:14:36,278 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 95.71
+2019-11-27 22:14:36,278 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_TEL - True - 1
+2019-11-27 22:14:36,278 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 75.79
+2019-11-27 22:14:36,278 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_VILLE - False - 0
+2019-11-27 22:14:36,278 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 0.0
+2019-11-27 22:14:36,278 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_DATE - False - 0
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Dès le 14 novembre, ...] on line  0, value length should be between 0 and 255
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Habiter à Beaumont-s...] on line  1, value length should be between 0 and 255
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Jusqu'au 30/09/19 - ...] on line  2, value length should be between 0 and 255
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Nouveauté // Sur la ...] on line  3, value length should be between 0 and 255
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Lancement commercial...] on line  4, value length should be between 0 and 255
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [NOUVEAU // Encore qu...] on line  5, value length should be between 0 and 255
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Au plus près de l’ea...] on line  6, value length should be between 0 and 255
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [SUCCES COMMERCIAL 45...] on line  7, value length should be between 0 and 255
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Dans le parc naturel...] on line  8, value length should be between 0 and 255
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [OFFRES EXCEPTIONNELL...] on line  9, value length should be between 0 and 255
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [ARCH PROMOTION réali...] on line  10, value length should be between 0 and 255
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Pour l'achat d'une v...] on line  11, value length should be between 0 and 255
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Vivez la propriété a...] on line  12, value length should be between 0 and 255
+2019-11-27 22:14:36,279 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [TRAVAUX EN COURS // ...] on line  13, value length should be between 0 and 255
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [LANCEMENT COMMERCIAL...] on line  14, value length should be between 0 and 255
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A 15 km au sud de Pa...] on line  16, value length should be between 0 and 255
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [GRAND LANCEMENT COMM...] on line  17, value length should be between 0 and 255
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [NOUVEAUX APPARTEMENT...] on line  18, value length should be between 0 and 255
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [[CENTRE-VILLE DE TOU...] on line  19, value length should be between 0 and 255
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Bénéficiez de nos of...] on line  20, value length should be between 0 and 255
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 2.55
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - False - 0
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 99.98
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_TEXT - False - 0
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CATEGORIE - True - 1
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.96
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 974000 on line 1000, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 974000 on line 1001, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 974000 on line 1002, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,280 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 974000 on line 1004, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 974000 on line 1005, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 974000 on line 1008, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 974000 on line 1104, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 974000 on line 1210, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 974000 on line 1212, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 972000 on line 1277, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 971000 on line 1278, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 972000 on line 1281, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 974000 on line 4111, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 974000 on line 4112, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 972000 on line 4113, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 974000 on line 4114, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 974000 on line 4115, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 974000 on line 4116, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 974000 on line 4117, value should match regexp ^[0-9]{5}$
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 99.61
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 99.9
+2019-11-27 22:14:36,281 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - True - 1
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 4819
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 99.98
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 63.0 on line 1 should be int
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 41.0 on line 3 should be int
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 25.0 on line 4 should be int
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 33.0 on line 5 should be int
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 39.0 on line 6 should be int
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 29.0 on line 7 should be int
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 45.0 on line 8 should be int
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 43.0 on line 9 should be int
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 46.0 on line 10 should be int
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 44.0 on line 12 should be int
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 34.0 on line 13 should be int
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 40.0 on line 14 should be int
+2019-11-27 22:14:36,282 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 42.0 on line 15 should be int
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 30.0 on line 16 should be int
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 37.0 on line 17 should be int
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 28.0 on line 18 should be int
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 52.0 on line 19 should be int
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 45.0 on line 21 should be int
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 41.0 on line 22 should be int
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 27.0 on line 23 should be int
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2_TOTALE - False - 0
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 88.01
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2_TOTALE - False - 0
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 0.0
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MAISON_APT - False - 0
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 100.0
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MINI_SITE_ID - True - 1
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 99.98
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-11-27 22:14:36,283 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - True - 1
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - PAYS_AD - correctly filled rate (%) - 100.0
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - PAYS_AD - True - 1
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 100.0
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PAYS_AD - True - 1
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 0.0
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - False - 0
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 90.91
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PIECE - True - 1
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PIECE - True - 1
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 241000.0 on line 1 should be int
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 338000.0 on line 3 should be int
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 174000.0 on line 4 should be int
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 158000.0 on line 5 should be int
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 186200.0 on line 6 should be int
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 128000.0 on line 7 should be int
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 198000.0 on line 8 should be int
+2019-11-27 22:14:36,284 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 359000.0 on line 9 should be int
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 287692.0 on line 10 should be int
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 171000.0 on line 12 should be int
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 163000.0 on line 13 should be int
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 178000.0 on line 14 should be int
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 125000.0 on line 15 should be int
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 164900.0 on line 16 should be int
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 182519.0 on line 17 should be int
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 259000.0 on line 18 should be int
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 320000.0 on line 19 should be int
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 202000.0 on line 21 should be int
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 192000.0 on line 22 should be int
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 177000.0 on line 23 should be int
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PRIX - False - 0
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 90.87
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-11-27 22:14:36,285 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRO_IND - True - 1
+2019-11-27 22:14:36,286 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-11-27 22:14:36,286 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - PRO_IND - True - 1
+2019-11-27 22:14:36,286 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 99.98
+2019-11-27 22:14:36,286 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - True - 1
+2019-11-27 22:14:36,286 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-11-27 22:14:36,286 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SELLER_TYPE - True - 1
+2019-11-27 22:14:36,286 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-11-27 22:14:36,286 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - SELLER_TYPE - True - 1
+2019-11-27 22:14:36,286 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-11-27 22:14:36,286 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - VILLE - True - 1
+2019-11-27 22:14:36,286 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 89.21
+2019-11-27 22:14:36,286 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - False - 0
+2019-11-27 22:14:36,286 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 997
+2019-11-27 22:14:36,286 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 4820
+2019-11-27 22:14:36,286 - IMMO - FR.NEUF - IMMONEUF - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0

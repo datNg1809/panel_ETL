@@ -1,0 +1,180 @@
+2019-11-22 09:21:07,067 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-11-22 09:21:07,067 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 92.0
+2019-11-22 09:21:07,129 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - True - 1
+2019-11-22 09:21:07,129 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 09:21:07,129 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-11-22 09:21:07,129 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 580, value should be between 1980 and 2019
+2019-11-22 09:21:07,129 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 607, value should be between 1980 and 2019
+2019-11-22 09:21:07,129 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 658, value should be between 1980 and 2019
+2019-11-22 09:21:07,129 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 665, value should be between 1980 and 2019
+2019-11-22 09:21:07,129 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 666, value should be between 1980 and 2019
+2019-11-22 09:21:07,130 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 667, value should be between 1980 and 2019
+2019-11-22 09:21:07,130 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 705, value should be between 1980 and 2019
+2019-11-22 09:21:07,130 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 905, value should be between 1980 and 2019
+2019-11-22 09:21:07,130 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 907, value should be between 1980 and 2019
+2019-11-22 09:21:07,130 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 985, value should be between 1980 and 2019
+2019-11-22 09:21:07,130 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 993, value should be between 1980 and 2019
+2019-11-22 09:21:07,130 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 1106, value should be between 1980 and 2019
+2019-11-22 09:21:07,130 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 1160, value should be between 1980 and 2019
+2019-11-22 09:21:07,130 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 1163, value should be between 1980 and 2019
+2019-11-22 09:21:07,130 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 1164, value should be between 1980 and 2019
+2019-11-22 09:21:07,130 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 1165, value should be between 1980 and 2019
+2019-11-22 09:21:07,130 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 1166, value should be between 1980 and 2019
+2019-11-22 09:21:07,130 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 1167, value should be between 1980 and 2019
+2019-11-22 09:21:07,130 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 1171, value should be between 1980 and 2019
+2019-11-22 09:21:07,130 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 1172, value should be between 1980 and 2019
+2019-11-22 09:21:07,130 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 77.71
+2019-11-22 09:21:07,131 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 1599
+2019-11-22 09:21:07,131 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - False - 0
+2019-11-22 09:21:07,131 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 09:21:07,131 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-11-22 09:21:07,131 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 607, value should match regexp ^[0-9]{4}$
+2019-11-22 09:21:07,131 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 705, value should match regexp ^[0-9]{4}$
+2019-11-22 09:21:07,131 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 993, value should match regexp ^[0-9]{4}$
+2019-11-22 09:21:07,131 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.96
+2019-11-22 09:21:07,131 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-11-22 09:21:07,131 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-11-22 09:21:07,131 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-11-22 09:21:07,131 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-11-22 09:21:07,131 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-11-22 09:21:07,132 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 0.0
+2019-11-22 09:21:07,132 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_TEXT - False - 0
+2019-11-22 09:21:07,132 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 13.48
+2019-11-22 09:21:07,132 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - False - 0
+2019-11-22 09:21:07,132 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-11-22 09:21:07,132 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - False - 0
+2019-11-22 09:21:07,132 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 92.11
+2019-11-22 09:21:07,132 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-11-22 09:21:07,132 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: PE273JD on line 268, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,132 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: PE273JD on line 310, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,132 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M347QW on line 568, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,132 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M347QW on line 569, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,132 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M347QW on line 570, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,132 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AB210EY on line 571, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,132 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AB210EY on line 572, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,132 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: IP241HU on line 573, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,133 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: TQ47QP on line 574, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,133 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: PR55RD on line 575, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,133 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: TS179JZ on line 576, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,133 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: TQ47QP on line 577, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,133 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: IP241HU on line 578, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,133 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: TQ47QP on line 579, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,133 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: GL194AA on line 580, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,133 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: SA146RE on line 581, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,133 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AB210EY on line 582, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,133 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: BB102HX on line 583, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,133 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: PO207BU on line 584, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,133 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: PO207BU on line 585, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-11-22 09:21:07,133 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 0.0
+2019-11-22 09:21:07,133 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-11-22 09:21:07,133 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-11-22 09:21:07,133 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-11-22 09:21:07,134 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-11-22 09:21:07,134 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-11-22 09:21:07,134 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-11-22 09:21:07,134 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-11-22 09:21:07,134 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 7174
+2019-11-22 09:21:07,134 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-11-22 09:21:07,134 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-11-22 09:21:07,134 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-11-22 09:21:07,134 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-11-22 09:21:07,134 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-11-22 09:21:07,134 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-11-22 09:21:07,134 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 09:21:07,134 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-11-22 09:21:07,134 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 09:21:07,134 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-11-22 09:21:07,134 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 99.99
+2019-11-22 09:21:07,135 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-11-22 09:21:07,135 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 99.92
+2019-11-22 09:21:07,135 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - True - 1
+2019-11-22 09:21:07,135 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 0.0
+2019-11-22 09:21:07,135 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - False - 0
+2019-11-22 09:21:07,135 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-11-22 09:21:07,135 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-11-22 09:21:07,135 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-11-22 09:21:07,135 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - True - 1
+2019-11-22 09:21:07,135 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-11-22 09:21:07,135 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-11-22 09:21:07,135 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 09:21:07,135 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-11-22 09:21:07,135 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 09:21:07,135 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-11-22 09:21:07,136 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-11-22 09:21:07,136 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-11-22 09:21:07,136 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-11-22 09:21:07,136 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-11-22 09:21:07,136 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 09:21:07,136 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-11-22 09:21:07,136 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 09:21:07,136 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-11-22 09:21:07,136 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 92.03
+2019-11-22 09:21:07,136 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - True - 1
+2019-11-22 09:21:07,136 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-11-22 09:21:07,136 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-11-22 09:21:07,136 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 99.93
+2019-11-22 09:21:07,136 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-11-22 09:21:07,136 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01206865768 on line 0, value should match a phone number format
+2019-11-22 09:21:07,136 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07825882992 on line 1, value should match a phone number format
+2019-11-22 09:21:07,137 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07971189515 on line 2, value should match a phone number format
+2019-11-22 09:21:07,137 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07973792874 on line 3, value should match a phone number format
+2019-11-22 09:21:07,137 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07725010673 on line 4, value should match a phone number format
+2019-11-22 09:21:07,137 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07971115847 on line 5, value should match a phone number format
+2019-11-22 09:21:07,137 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07973747400 on line 6, value should match a phone number format
+2019-11-22 09:21:07,137 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07454012457 on line 7, value should match a phone number format
+2019-11-22 09:21:07,137 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01709540713 on line 8, value should match a phone number format
+2019-11-22 09:21:07,137 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01842828897 on line 9, value should match a phone number format
+2019-11-22 09:21:07,137 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07973264699 on line 10, value should match a phone number format
+2019-11-22 09:21:07,137 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07795122782 on line 11, value should match a phone number format
+2019-11-22 09:21:07,137 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01457873230 on line 12, value should match a phone number format
+2019-11-22 09:21:07,137 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07872824534 on line 13, value should match a phone number format
+2019-11-22 09:21:07,137 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07715681117 on line 14, value should match a phone number format
+2019-11-22 09:21:07,137 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07754943189 on line 15, value should match a phone number format
+2019-11-22 09:21:07,137 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07446257997 on line 16, value should match a phone number format
+2019-11-22 09:21:07,137 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01376322442 on line 17, value should match a phone number format
+2019-11-22 09:21:07,137 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 07795495912 on line 18, value should match a phone number format
+2019-11-22 09:21:07,138 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01342843063 on line 19, value should match a phone number format
+2019-11-22 09:21:07,138 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 0.0
+2019-11-22 09:21:07,138 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - False - 0
+2019-11-22 09:21:07,138 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-11-22 09:21:07,138 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-11-22 09:21:07,138 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-11-22 09:21:07,138 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 97.94
+2019-11-22 09:21:07,138 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-11-22 09:21:07,138 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-11-22 09:21:07,138 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - False - 0
+2019-11-22 09:21:07,138 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 0
+2019-11-22 09:21:07,138 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 0
+2019-11-22 09:21:07,138 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-11-22 09:21:07,138 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 3
+2019-11-22 09:21:07,138 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 13.02
+2019-11-22 09:21:07,139 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-11-22 09:21:07,139 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.2 on line 0 should be in ['int']
+2019-11-22 09:21:07,139 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2300 on line 1 should be in ['int']
+2019-11-22 09:21:07,139 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.3L on line 2 should be in ['int']
+2019-11-22 09:21:07,139 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2297 on line 3 should be in ['int']
+2019-11-22 09:21:07,139 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2000 on line 4 should be in ['int']
+2019-11-22 09:21:07,139 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1997c on line 5 should be in ['int']
+2019-11-22 09:21:07,139 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2287 on line 6 should be in ['int']
+2019-11-22 09:21:07,139 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.3 on line 7 should be in ['int']
+2019-11-22 09:21:07,139 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2198c on line 8 should be in ['int']
+2019-11-22 09:21:07,139 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.4 on line 9 should be in ['int']
+2019-11-22 09:21:07,139 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1956 on line 10 should be in ['int']
+2019-11-22 09:21:07,139 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2300 on line 11 should be in ['int']
+2019-11-22 09:21:07,139 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.2 on line 12 should be in ['int']
+2019-11-22 09:21:07,139 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2400 on line 13 should be in ['int']
+2019-11-22 09:21:07,139 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.2 on line 14 should be in ['int']
+2019-11-22 09:21:07,139 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.3 on line 15 should be in ['int']
+2019-11-22 09:21:07,140 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.2 l on line 16 should be in ['int']
+2019-11-22 09:21:07,140 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.2 L on line 17 should be in ['int']
+2019-11-22 09:21:07,140 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.3 on line 18 should be in ['int']
+2019-11-22 09:21:07,140 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2287C on line 19 should be in ['int']
+2019-11-22 09:21:07,140 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-11-22 09:21:07,140 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - CYLINDRE - False - 0
+2019-11-22 09:21:07,140 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 42
+2019-11-22 09:21:07,140 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 525
+2019-11-22 09:21:07,140 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 61
+2019-11-22 09:21:07,140 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 6606
+2019-11-22 09:21:07,140 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 568
+2019-11-22 09:21:07,140 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CATEGORIE - CAMPINGCAR - 967
+2019-11-22 09:21:07,140 - NPV - UK - CARAVANFINDER - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CATEGORIE - CARAVANE - 6207

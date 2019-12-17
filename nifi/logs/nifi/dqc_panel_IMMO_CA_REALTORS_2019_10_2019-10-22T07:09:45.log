@@ -1,0 +1,163 @@
+2019-10-22 07:09:56,006 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-10-22 07:09:56,006 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,006 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ACHAT_LOC - True - 1
+2019-10-22 07:09:56,006 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,006 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - ACHAT_LOC - True - 1
+2019-10-22 07:09:56,006 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,006 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - True - 1
+2019-10-22 07:09:56,006 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-10-22 07:09:56,006 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ADRESSE - False - 0
+2019-10-22 07:09:56,006 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 96.72
+2019-10-22 07:09:56,006 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_CP - True - 1
+2019-10-22 07:09:56,006 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - AGENCE_CP - True - 1
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ID - True - 1
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_NOM - True - 1
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - AGENCE_TEL - True - 1
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_TEL - True - 1
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_VILLE - True - 1
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_DATE - True - 1
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-10-22 07:09:56,007 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 98.77
+2019-10-22 07:09:56,008 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-10-22 07:09:56,008 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,008 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-10-22 07:09:56,008 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_match_regex - CP - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,008 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_match_regex - CP - True - 1
+2019-10-22 07:09:56,008 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 0.0
+2019-10-22 07:09:56,008 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - False - 0
+2019-10-22 07:09:56,008 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 12427
+2019-10-22 07:09:56,008 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,008 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-10-22 07:09:56,008 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-22 07:09:56,008 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-10-22 07:09:56,008 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 7502.0 on line 0 should be int
+2019-10-22 07:09:56,008 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 7532.0 on line 1 should be int
+2019-10-22 07:09:56,008 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 6452.0 on line 2 should be int
+2019-10-22 07:09:56,008 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 16152.0 on line 3 should be int
+2019-10-22 07:09:56,008 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 11852.0 on line 4 should be int
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 7532.0 on line 5 should be int
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 10222.0 on line 6 should be int
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 10602.0 on line 7 should be int
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 7502.0 on line 8 should be int
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 5502.0 on line 9 should be int
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 7002.0 on line 10 should be int
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 7002.0 on line 11 should be int
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 7002.0 on line 12 should be int
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 7002.0 on line 13 should be int
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 7002.0 on line 14 should be int
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 7002.0 on line 15 should be int
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 7002.0 on line 16 should be int
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 7002.0 on line 17 should be int
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 7002.0 on line 18 should be int
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 7002.0 on line 19 should be int
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2 - False - 0
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 27.45
+2019-10-22 07:09:56,009 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2 - False - 0
+2019-10-22 07:09:56,010 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,010 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MAISON_APT - True - 1
+2019-10-22 07:09:56,010 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,010 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - unexpected count - 0
+2019-10-22 07:09:56,010 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MAISON_APT - True - 1
+2019-10-22 07:09:56,010 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-10-22 07:09:56,010 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MINI_SITE_ID - False - 0
+2019-10-22 07:09:56,010 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 0 should be int
+2019-10-22 07:09:56,010 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 1 should be int
+2019-10-22 07:09:56,010 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 2 should be int
+2019-10-22 07:09:56,010 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 3 should be int
+2019-10-22 07:09:56,010 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 4 should be int
+2019-10-22 07:09:56,010 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 5 should be int
+2019-10-22 07:09:56,010 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 6 should be int
+2019-10-22 07:09:56,010 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 7 should be int
+2019-10-22 07:09:56,010 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 8 should be int
+2019-10-22 07:09:56,010 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 9 should be int
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 10 should be int
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 11 should be int
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 12 should be int
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 13 should be int
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 14 should be int
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 15 should be int
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 16 should be int
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 17 should be int
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 18 should be int
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 19 should be int
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PHOTO - correctly filled rate (%) - 0.0
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PHOTO - False - 0
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 98.4
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PIECE - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,011 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PIECE - True - 1
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PIECE - True - 1
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PIECE - True - 1
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PRIX - True - 1
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRO_IND - True - 1
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - PRO_IND - True - 1
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - False - 0
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 0 should be int
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 1 should be int
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 2 should be int
+2019-10-22 07:09:56,012 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 3 should be int
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 4 should be int
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 5 should be int
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 6 should be int
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 7 should be int
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 8 should be int
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 9 should be int
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 10 should be int
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 11 should be int
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 12 should be int
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 13 should be int
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 14 should be int
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 15 should be int
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 16 should be int
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 17 should be int
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 18 should be int
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 19 should be int
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-10-22 07:09:56,013 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - SURFACE_TERRAIN - False - 0
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Saint-Jean-sur-Richelieu on line 0, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Ville-Marie (Montreal) on line 1, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Ville-Marie (Montreal) on line 2, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Le Sud-Ouest (Montreal) on line 3, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Le Sud-Ouest (Montreal) on line 4, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Ville-Marie (Montreal) on line 5, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Ville-Marie (Montreal) on line 6, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Ville-Marie (Montreal) on line 7, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Ville-Marie (Montreal) on line 8, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Ville-Marie (Montreal) on line 9, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Ville-Marie (Montreal) on line 10, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Ville-Marie (Montreal) on line 11, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Ville-Marie (Montreal) on line 12, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Ville-Marie (Montreal) on line 13, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Ville-Marie (Montreal) on line 14, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Ville-Marie (Montreal) on line 15, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Ville-Marie (Montreal) on line 16, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,014 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Ville-Marie (Montreal) on line 17, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,015 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Ville-Marie (Montreal) on line 18, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,015 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Ville-Marie (Montreal) on line 19, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:09:56,015 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 73.45
+2019-10-22 07:09:56,015 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - VILLE - False - 0
+2019-10-22 07:09:56,015 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.38
+2019-10-22 07:09:56,015 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-10-22 07:09:56,015 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0
+2019-10-22 07:09:56,015 - IMMO - CA - REALTORS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 12427

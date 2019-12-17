@@ -1,0 +1,232 @@
+2019-12-13 22:33:45,063 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-12-13 22:33:45,063 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 99.99
+2019-12-13 22:33:45,063 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - True - 1
+2019-12-13 22:33:45,063 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-12-13 22:33:45,063 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-12-13 22:33:45,063 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 98.99
+2019-12-13 22:33:45,063 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 916
+2019-12-13 22:33:45,063 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - True - 1
+2019-12-13 22:33:45,063 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 99.99
+2019-12-13 22:33:45,063 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - False - 0
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2019.0 on line 0, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2012.0 on line 1, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2005.0 on line 2, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2011.0 on line 3, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2011.0 on line 4, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2012.0 on line 5, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2011.0 on line 6, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 7, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2012.0 on line 8, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2008.0 on line 9, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2010.0 on line 10, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2015.0 on line 11, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2009.0 on line 12, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2011.0 on line 13, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 14, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2003.0 on line 15, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2007.0 on line 16, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,064 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2005.0 on line 17, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,065 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2005.0 on line 18, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,065 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2006.0 on line 19, value should match regexp ^[0-9]{4}$
+2019-12-13 22:33:45,065 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 0.0
+2019-12-13 22:33:45,065 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-12-13 22:33:45,065 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-12-13 22:33:45,065 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-12-13 22:33:45,065 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-12-13 22:33:45,065 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-12-13 22:33:45,065 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 99.92
+2019-12-13 22:33:45,065 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - True - 1
+2019-12-13 22:33:45,065 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 82.7
+2019-12-13 22:33:45,065 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - False - 0
+2019-12-13 22:33:45,065 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-12-13 22:33:45,065 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-12-13 22:33:45,065 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-12-13 22:33:45,065 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - False - 0
+2019-12-13 22:33:45,065 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-12-13 22:33:45,066 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-12-13 22:33:45,066 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 90587
+2019-12-13 22:33:45,066 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 0.0
+2019-12-13 22:33:45,066 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - False - 0
+2019-12-13 22:33:45,066 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 15000.0 on line 0 should be in ['int']
+2019-12-13 22:33:45,066 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 87355.0 on line 1 should be in ['int']
+2019-12-13 22:33:45,066 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 116890.0 on line 2 should be in ['int']
+2019-12-13 22:33:45,066 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 66513.0 on line 3 should be in ['int']
+2019-12-13 22:33:45,066 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 23606.0 on line 4 should be in ['int']
+2019-12-13 22:33:45,066 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 15258.0 on line 5 should be in ['int']
+2019-12-13 22:33:45,066 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 89613.0 on line 6 should be in ['int']
+2019-12-13 22:33:45,066 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 60000.0 on line 7 should be in ['int']
+2019-12-13 22:33:45,066 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 104000.0 on line 8 should be in ['int']
+2019-12-13 22:33:45,066 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 115000.0 on line 9 should be in ['int']
+2019-12-13 22:33:45,066 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 57200.0 on line 10 should be in ['int']
+2019-12-13 22:33:45,066 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 22000.0 on line 11 should be in ['int']
+2019-12-13 22:33:45,066 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 43000.0 on line 12 should be in ['int']
+2019-12-13 22:33:45,067 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 62000.0 on line 13 should be in ['int']
+2019-12-13 22:33:45,067 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 69000.0 on line 14 should be in ['int']
+2019-12-13 22:33:45,067 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 115000.0 on line 15 should be in ['int']
+2019-12-13 22:33:45,067 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 90000.0 on line 16 should be in ['int']
+2019-12-13 22:33:45,067 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 80000.0 on line 17 should be in ['int']
+2019-12-13 22:33:45,067 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 80000.0 on line 18 should be in ['int']
+2019-12-13 22:33:45,067 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 110000.0 on line 19 should be in ['int']
+2019-12-13 22:33:45,067 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 0.0
+2019-12-13 22:33:45,067 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - False - 0
+2019-12-13 22:33:45,067 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 99.99
+2019-12-13 22:33:45,067 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-12-13 22:33:45,067 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 0.0
+2019-12-13 22:33:45,067 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - False - 0
+2019-12-13 22:33:45,067 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 99.99
+2019-12-13 22:33:45,067 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-12-13 22:33:45,067 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 0.0
+2019-12-13 22:33:45,067 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - False - 0
+2019-12-13 22:33:45,068 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 0.0
+2019-12-13 22:33:45,068 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - False - 0
+2019-12-13 22:33:45,068 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 99.99
+2019-12-13 22:33:45,068 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-12-13 22:33:45,068 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A4...] on line  675, value length should be between 10 and 255
+2019-12-13 22:33:45,068 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Dodge Ram...] on line  1311, value length should be between 10 and 255
+2019-12-13 22:33:45,068 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford Lobo...] on line  1665, value length should be between 10 and 255
+2019-12-13 22:33:45,068 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ram 4000...] on line  2166, value length should be between 10 and 255
+2019-12-13 22:33:45,068 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Dodge Ram...] on line  3539, value length should be between 10 and 255
+2019-12-13 22:33:45,068 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi Q7...] on line  4516, value length should be between 10 and 255
+2019-12-13 22:33:45,068 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Dodge Ram...] on line  4939, value length should be between 10 and 255
+2019-12-13 22:33:45,068 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Dodge Ram...] on line  5029, value length should be between 10 and 255
+2019-12-13 22:33:45,068 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford Edge...] on line  5031, value length should be between 10 and 255
+2019-12-13 22:33:45,068 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford Edge...] on line  5272, value length should be between 10 and 255
+2019-12-13 22:33:45,068 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Baic X65...] on line  5280, value length should be between 10 and 255
+2019-12-13 22:33:45,068 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Acura Mdx...] on line  5700, value length should be between 10 and 255
+2019-12-13 22:33:45,068 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Malibu...] on line  5721, value length should be between 10 and 255
+2019-12-13 22:33:45,069 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Baic Bj40...] on line  5940, value length should be between 10 and 255
+2019-12-13 22:33:45,069 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford Edge...] on line  7421, value length should be between 10 and 255
+2019-12-13 22:33:45,069 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford Edge...] on line  7441, value length should be between 10 and 255
+2019-12-13 22:33:45,069 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Explorer...] on line  7600, value length should be between 10 and 255
+2019-12-13 22:33:45,069 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Seat Leon...] on line  7602, value length should be between 10 and 255
+2019-12-13 22:33:45,069 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [F-150...] on line  7611, value length should be between 10 and 255
+2019-12-13 22:33:45,069 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volvo S70...] on line  7902, value length should be between 10 and 255
+2019-12-13 22:33:45,069 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.84
+2019-12-13 22:33:45,069 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-12-13 22:33:45,069 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 74.37
+2019-12-13 22:33:45,069 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-12-13 22:33:45,069 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['Mas de 200 Vehiculo...] on line  9, value length should be between 0 and 255
+2019-12-13 22:33:45,069 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['IMPECABLE JEEP GRAN...] on line  14, value length should be between 0 and 255
+2019-12-13 22:33:45,069 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['EUROPARTES GDL', 'B...] on line  23, value length should be between 0 and 255
+2019-12-13 22:33:45,069 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['INTERIORES EN PIEL,...] on line  25, value length should be between 0 and 255
+2019-12-13 22:33:45,069 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['BMW X5 2009 8 CIL 4...] on line  27, value length should be between 0 and 255
+2019-12-13 22:33:45,069 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['MERCEDES C280 2008'...] on line  28, value length should be between 0 and 255
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['MERCEDES C280 2008'...] on line  29, value length should be between 0 and 255
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['MERCEDES C280 2008'...] on line  30, value length should be between 0 and 255
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['VENTA EN PARTES CAM...] on line  32, value length should be between 0 and 255
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['VENTA EN PARTES END...] on line  33, value length should be between 0 and 255
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['PLANES DESDE 10% DE...] on line  36, value length should be between 0 and 255
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['LA UNIDAD SE ENCUEN...] on line  37, value length should be between 0 and 255
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['LA UNIDAD SE ENCUEN...] on line  38, value length should be between 0 and 255
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['FINANCIAMIENTO CON ...] on line  42, value length should be between 0 and 255
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['FINANCIAMIENTO CON ...] on line  43, value length should be between 0 and 255
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['EXCELENTE CHEVROLET...] on line  48, value length should be between 0 and 255
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['CONTAMOS CON FINANC...] on line  49, value length should be between 0 and 255
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['CONTAMOS CON FINANC...] on line  50, value length should be between 0 and 255
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['CONTAMOS CON FINANC...] on line  51, value length should be between 0 and 255
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: ['1 dueño, version sp...] on line  52, value length should be between 0 and 255
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 37.81
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - OPTIONS - False - 0
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-12-13 22:33:45,070 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-12-13 22:33:45,071 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-12-13 22:33:45,071 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-12-13 22:33:45,071 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 0 should be in ['int']
+2019-12-13 22:33:45,071 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 2 should be in ['int']
+2019-12-13 22:33:45,071 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 3 should be in ['int']
+2019-12-13 22:33:45,071 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 9 should be in ['int']
+2019-12-13 22:33:45,071 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 11 should be in ['int']
+2019-12-13 22:33:45,071 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 13 should be in ['int']
+2019-12-13 22:33:45,071 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 14 should be in ['int']
+2019-12-13 22:33:45,071 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 15 should be in ['int']
+2019-12-13 22:33:45,071 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 16 should be in ['int']
+2019-12-13 22:33:45,071 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 17 should be in ['int']
+2019-12-13 22:33:45,071 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 18 should be in ['int']
+2019-12-13 22:33:45,071 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 19 should be in ['int']
+2019-12-13 22:33:45,071 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 20 should be in ['int']
+2019-12-13 22:33:45,071 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 21 should be in ['int']
+2019-12-13 22:33:45,071 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 22 should be in ['int']
+2019-12-13 22:33:45,072 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 23 should be in ['int']
+2019-12-13 22:33:45,072 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 24 should be in ['int']
+2019-12-13 22:33:45,072 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 25 should be in ['int']
+2019-12-13 22:33:45,072 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 26 should be in ['int']
+2019-12-13 22:33:45,072 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 27 should be in ['int']
+2019-12-13 22:33:45,072 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-12-13 22:33:45,072 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PLACE - False - 0
+2019-12-13 22:33:45,072 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 65.43
+2019-12-13 22:33:45,072 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-12-13 22:33:45,072 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 98.36
+2019-12-13 22:33:45,072 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - True - 1
+2019-12-13 22:33:45,072 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-12-13 22:33:45,072 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PORTE - True - 1
+2019-12-13 22:33:45,072 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 169000 MXN on line 0 should be in ['int']
+2019-12-13 22:33:45,072 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 205000 MXN on line 1 should be in ['int']
+2019-12-13 22:33:45,072 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 109000 MXN on line 2 should be in ['int']
+2019-12-13 22:33:45,072 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 165000 MXN on line 3 should be in ['int']
+2019-12-13 22:33:45,073 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 250000 MXN on line 4 should be in ['int']
+2019-12-13 22:33:45,073 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 172000 MXN on line 5 should be in ['int']
+2019-12-13 22:33:45,073 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 310000 MXN on line 6 should be in ['int']
+2019-12-13 22:33:45,073 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 270000 MXN on line 7 should be in ['int']
+2019-12-13 22:33:45,073 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 590000 MXN on line 8 should be in ['int']
+2019-12-13 22:33:45,073 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 550000 MXN on line 9 should be in ['int']
+2019-12-13 22:33:45,073 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 630000 MXN on line 10 should be in ['int']
+2019-12-13 22:33:45,073 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 1699000 MXN on line 11 should be in ['int']
+2019-12-13 22:33:45,073 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 550000 MXN on line 12 should be in ['int']
+2019-12-13 22:33:45,073 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 790000 MXN on line 13 should be in ['int']
+2019-12-13 22:33:45,073 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 376500 MXN on line 14 should be in ['int']
+2019-12-13 22:33:45,073 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 49000 MXN on line 15 should be in ['int']
+2019-12-13 22:33:45,073 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 110000 MXN on line 16 should be in ['int']
+2019-12-13 22:33:45,073 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 55000 MXN on line 17 should be in ['int']
+2019-12-13 22:33:45,073 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 55000 MXN on line 18 should be in ['int']
+2019-12-13 22:33:45,073 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 55000 MXN on line 19 should be in ['int']
+2019-12-13 22:33:45,073 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 0.0
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - False - 0
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 99.85
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - True - 1
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 99.98
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.42
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 99.99
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 94.16
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-12-13 22:33:45,074 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - False - 0
+2019-12-13 22:33:45,075 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 52174
+2019-12-13 22:33:45,075 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 38405
+2019-12-13 22:33:45,075 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 24
+2019-12-13 22:33:45,075 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 9
+2019-12-13 22:33:45,075 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 68.29
+2019-12-13 22:33:45,075 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-12-13 22:33:45,075 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1193 on line 0 should be in ['int']
+2019-12-13 22:33:45,075 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.6 L on line 2 should be in ['int']
+2019-12-13 22:33:45,075 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1800 on line 3 should be in ['int']
+2019-12-13 22:33:45,075 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.2 L on line 9 should be in ['int']
+2019-12-13 22:33:45,075 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 5.3 L on line 11 should be in ['int']
+2019-12-13 22:33:45,075 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 5.3 L on line 13 should be in ['int']
+2019-12-13 22:33:45,075 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3.6 L on line 14 should be in ['int']
+2019-12-13 22:33:45,075 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.8 L on line 15 should be in ['int']
+2019-12-13 22:33:45,075 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.7 L on line 16 should be in ['int']
+2019-12-13 22:33:45,075 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2521 on line 17 should be in ['int']
+2019-12-13 22:33:45,075 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2521 on line 18 should be in ['int']
+2019-12-13 22:33:45,076 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.5 L on line 19 should be in ['int']
+2019-12-13 22:33:45,076 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.8 L on line 20 should be in ['int']
+2019-12-13 22:33:45,076 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.8 L on line 21 should be in ['int']
+2019-12-13 22:33:45,076 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3.6 L on line 22 should be in ['int']
+2019-12-13 22:33:45,076 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.8 L on line 23 should be in ['int']
+2019-12-13 22:33:45,076 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4799 on line 24 should be in ['int']
+2019-12-13 22:33:45,076 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3726 on line 26 should be in ['int']
+2019-12-13 22:33:45,076 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4799 on line 27 should be in ['int']
+2019-12-13 22:33:45,076 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2996 on line 28 should be in ['int']
+2019-12-13 22:33:45,076 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-12-13 22:33:45,076 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - CYLINDRE - False - 0
+2019-12-13 22:33:45,076 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 32
+2019-12-13 22:33:45,076 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 6440
+2019-12-13 22:33:45,076 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 495
+2019-12-13 22:33:45,076 - VO - MX - MERCADOLIBRE - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - GARAGE_ID - total number of unique rows - 0

@@ -1,0 +1,182 @@
+2019-11-22 08:20:59,734 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-11-22 08:20:59,734 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,734 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - True - 1
+2019-11-22 08:20:59,734 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,734 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-11-22 08:20:59,734 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.46
+2019-11-22 08:20:59,734 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 451
+2019-11-22 08:20:59,734 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - True - 1
+2019-11-22 08:20:59,734 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,734 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-11-22 08:20:59,734 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 936, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,734 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1623, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,734 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1953, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,735 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2174, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,735 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2196, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,735 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2994, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,735 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3298, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,735 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3732, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,735 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4463, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,735 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4634, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,735 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 5502, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,735 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 6880, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,735 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7576, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,735 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7996, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,735 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 8682, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,735 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 8745, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,735 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 10607, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,735 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 11068, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,735 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 11712, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,735 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 11913, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,736 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.85
+2019-11-22 08:20:59,736 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-11-22 08:20:59,736 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,736 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-11-22 08:20:59,736 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-11-22 08:20:59,736 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-11-22 08:20:59,736 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 99.92
+2019-11-22 08:20:59,736 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - True - 1
+2019-11-22 08:20:59,736 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 99.52
+2019-11-22 08:20:59,736 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - True - 1
+2019-11-22 08:20:59,736 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,736 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-11-22 08:20:59,736 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3063NJ on line 0, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,736 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7631AE on line 1, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,736 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 5347KK on line 2, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,736 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1101AK on line 3, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,736 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1446VR on line 4, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,737 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7773NK on line 5, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,737 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2161WE on line 6, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,737 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4814NN on line 7, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,737 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 5141PB on line 8, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,737 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2182DZ on line 9, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,737 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9403VA on line 10, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,737 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6604BP on line 11, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,737 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2201TX on line 12, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,737 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2661KR on line 13, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,737 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 5928RA on line 14, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,737 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1613KR on line 15, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,737 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 5928RV on line 16, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,737 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4005LD on line 17, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,737 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4817ZL on line 18, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,737 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7554NK on line 19, value should match regexp ^[0-9]{4}$
+2019-11-22 08:20:59,737 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 0.0
+2019-11-22 08:20:59,737 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-11-22 08:20:59,738 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-11-22 08:20:59,738 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-11-22 08:20:59,738 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,738 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-11-22 08:20:59,738 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-11-22 08:20:59,738 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-11-22 08:20:59,738 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 83960
+2019-11-22 08:20:59,738 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,738 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-11-22 08:20:59,738 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,738 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-11-22 08:20:59,738 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,738 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-11-22 08:20:59,738 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,738 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-11-22 08:20:59,738 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,738 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-11-22 08:20:59,739 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,739 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-11-22 08:20:59,739 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 0.0
+2019-11-22 08:20:59,739 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - False - 0
+2019-11-22 08:20:59,739 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,739 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - True - 1
+2019-11-22 08:20:59,739 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-11-22 08:20:59,739 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-11-22 08:20:59,739 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-11-22 08:20:59,739 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 21, value should be between 1 and 12
+2019-11-22 08:20:59,739 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 23, value should be between 1 and 12
+2019-11-22 08:20:59,739 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 35, value should be between 1 and 12
+2019-11-22 08:20:59,739 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 44, value should be between 1 and 12
+2019-11-22 08:20:59,739 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 63, value should be between 1 and 12
+2019-11-22 08:20:59,739 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 68, value should be between 1 and 12
+2019-11-22 08:20:59,739 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 85, value should be between 1 and 12
+2019-11-22 08:20:59,739 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 87, value should be between 1 and 12
+2019-11-22 08:20:59,740 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 88, value should be between 1 and 12
+2019-11-22 08:20:59,740 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 95, value should be between 1 and 12
+2019-11-22 08:20:59,740 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 118, value should be between 1 and 12
+2019-11-22 08:20:59,740 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 127, value should be between 1 and 12
+2019-11-22 08:20:59,740 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 131, value should be between 1 and 12
+2019-11-22 08:20:59,740 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 146, value should be between 1 and 12
+2019-11-22 08:20:59,740 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 150, value should be between 1 and 12
+2019-11-22 08:20:59,740 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 157, value should be between 1 and 12
+2019-11-22 08:20:59,740 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 165, value should be between 1 and 12
+2019-11-22 08:20:59,740 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 86.26
+2019-11-22 08:20:59,740 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - unexpected count - 11539
+2019-11-22 08:20:59,740 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MOIS - False - 0
+2019-11-22 08:20:59,740 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,740 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - MOIS - True - 1
+2019-11-22 08:20:59,740 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,740 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-11-22 08:20:59,740 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volkswagen Polo 2.0 ...] on line  397, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 5 Serie M5 // M ...] on line  574, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volkswagen Tiguan 2....] on line  616, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Skoda Superb Combi 1...] on line  749, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volkswagen Golf GP 1...] on line  1136, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volkswagen Golf GP 1...] on line  1415, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volkswagen Golf GP 1...] on line  1580, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volkswagen Golf Spor...] on line  1889, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volkswagen T-Roc 1.5...] on line  1893, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A3 Sportback 1....] on line  2062, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volkswagen Passat Va...] on line  2212, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi Q2 1.4 TFSI 150...] on line  2290, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volkswagen Touareg 3...] on line  2313, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Renault Talisman 1.8...] on line  2637, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volkswagen Golf GP 1...] on line  2643, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Seat Ateca Xcellence...] on line  2941, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volkswagen Golf GP V...] on line  3345, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Nissan NV300 1.6 dCi...] on line  3684, value length should be between 10 and 255
+2019-11-22 08:20:59,741 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volkswagen Touran 7 ...] on line  3801, value length should be between 10 and 255
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Skoda SCALA 1.0 TSI ...] on line  3860, value length should be between 10 and 255
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.6
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 97.81
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - True - 1
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - OPTIONS - True - 1
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 99.68
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - True - 1
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PORTE - True - 1
+2019-11-22 08:20:59,742 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - False - 0
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 99.97
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.94
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,743 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - True - 1
+2019-11-22 08:20:59,744 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-11-22 08:20:59,744 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - VN_IND - True - 1
+2019-11-22 08:20:59,744 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 83960
+2019-11-22 08:20:59,744 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-11-22 08:20:59,744 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 78
+2019-11-22 08:20:59,744 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 706
+2019-11-22 08:20:59,744 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 11
+2019-11-22 08:20:59,744 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 7
+2019-11-22 08:20:59,744 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-11-22 08:20:59,744 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-11-22 08:20:59,744 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-11-22 08:20:59,744 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 969
+2019-11-22 08:20:59,744 - VO - NL - VIABOVAG - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0

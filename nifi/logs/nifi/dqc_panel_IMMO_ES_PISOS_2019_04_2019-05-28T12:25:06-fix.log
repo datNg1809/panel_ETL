@@ -1,0 +1,123 @@
+2019-05-28 12:25:58,718 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,718 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,718 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.46
+2019-05-28 12:25:58,718 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 92.92
+2019-05-28 12:25:58,718 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 92.19
+2019-05-28 12:25:58,718 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: AD500 on line 21, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,718 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: La Masó on line 3770, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,718 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: ad300 on line 4197, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,718 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: ad300 on line 4234, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,719 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: ad300 on line 4235, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,719 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: ad300 on line 4243, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,719 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: ad300 on line 4258, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,719 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: ad300 on line 4259, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,719 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: ad300 on line 4269, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,719 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: ad300 on line 4270, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,719 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: ad300 on line 4271, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,719 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: ad300 on line 4385, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,719 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: La Masó on line 5121, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,719 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: La Masó on line 5864, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,719 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: ad300 on line 7114, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,719 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: AD500 on line 8622, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,720 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: AD500 on line 8623, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,720 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: AD500 on line 8624, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,720 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: AD500 on line 8664, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,720 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: AD500 on line 8710, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,720 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 98.67
+2019-05-28 12:25:58,720 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,720 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 96.12
+2019-05-28 12:25:58,720 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 912176698.0 on line 0, value should match a phone number format
+2019-05-28 12:25:58,720 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 983984459.0 on line 1, value should match a phone number format
+2019-05-28 12:25:58,720 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 932995714.0 on line 2, value should match a phone number format
+2019-05-28 12:25:58,720 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 987980531.0 on line 3, value should match a phone number format
+2019-05-28 12:25:58,720 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 932998609.0 on line 4, value should match a phone number format
+2019-05-28 12:25:58,721 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 923118037.0 on line 5, value should match a phone number format
+2019-05-28 12:25:58,721 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 912175749.0 on line 6, value should match a phone number format
+2019-05-28 12:25:58,721 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 912175749.0 on line 7, value should match a phone number format
+2019-05-28 12:25:58,721 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 942915646.0 on line 8, value should match a phone number format
+2019-05-28 12:25:58,721 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 958050689.0 on line 9, value should match a phone number format
+2019-05-28 12:25:58,721 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 958910113.0 on line 10, value should match a phone number format
+2019-05-28 12:25:58,721 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 951989785.0 on line 11, value should match a phone number format
+2019-05-28 12:25:58,721 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 935436590.0 on line 12, value should match a phone number format
+2019-05-28 12:25:58,721 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 966539435.0 on line 13, value should match a phone number format
+2019-05-28 12:25:58,721 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 876274335.0 on line 14, value should match a phone number format
+2019-05-28 12:25:58,721 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 932934036.0 on line 15, value should match a phone number format
+2019-05-28 12:25:58,721 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 952149217.0 on line 16, value should match a phone number format
+2019-05-28 12:25:58,722 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 951984928.0 on line 17, value should match a phone number format
+2019-05-28 12:25:58,722 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 912178071.0 on line 18, value should match a phone number format
+2019-05-28 12:25:58,722 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 961283133.0 on line 19, value should match a phone number format
+2019-05-28 12:25:58,722 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 0.0
+2019-05-28 12:25:58,722 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 98.74
+2019-05-28 12:25:58,722 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 95.24
+2019-05-28 12:25:58,722 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,722 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,722 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-05-28 12:25:58,722 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,722 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 0.03
+2019-05-28 12:25:58,722 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 0.46
+2019-05-28 12:25:58,723 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 63.51
+2019-05-28 12:25:58,723 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD700 on line 916, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,723 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD200 on line 2009, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,723 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD400 on line 2233, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,723 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD100 on line 4197, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,723 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD100 on line 4234, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,723 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD100 on line 4235, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,723 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD500 on line 4243, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,723 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD100 on line 4258, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,723 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD100 on line 4259, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,723 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD300 on line 4269, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,723 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD700 on line 4270, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,724 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD400 on line 4271, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,724 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD400 on line 4385, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,724 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD100 on line 7114, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,724 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD600 on line 8622, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,724 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD700 on line 8623, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,724 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD100 on line 8624, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,724 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD100 on line 8664, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,724 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD600 on line 8710, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,724 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD500 on line 8806, value should match regexp ^[0-9]{5}$
+2019-05-28 12:25:58,724 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 96.22
+2019-05-28 12:25:58,724 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 443984
+2019-05-28 12:25:58,724 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,725 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-05-28 12:25:58,725 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 62.0 on line 0 should be int
+2019-05-28 12:25:58,725 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 185.0 on line 1 should be int
+2019-05-28 12:25:58,725 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 128.0 on line 2 should be int
+2019-05-28 12:25:58,725 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 62.0 on line 3 should be int
+2019-05-28 12:25:58,725 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 204.0 on line 4 should be int
+2019-05-28 12:25:58,725 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 300.0 on line 5 should be int
+2019-05-28 12:25:58,725 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 840.0 on line 6 should be int
+2019-05-28 12:25:58,725 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 630.0 on line 7 should be int
+2019-05-28 12:25:58,725 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 68.0 on line 8 should be int
+2019-05-28 12:25:58,725 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 400.0 on line 9 should be int
+2019-05-28 12:25:58,725 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 263.0 on line 10 should be int
+2019-05-28 12:25:58,725 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 375.0 on line 11 should be int
+2019-05-28 12:25:58,726 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 122.0 on line 12 should be int
+2019-05-28 12:25:58,726 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 63.0 on line 13 should be int
+2019-05-28 12:25:58,726 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 90.0 on line 14 should be int
+2019-05-28 12:25:58,726 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 235.0 on line 15 should be int
+2019-05-28 12:25:58,726 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 230.0 on line 16 should be int
+2019-05-28 12:25:58,726 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 220.0 on line 17 should be int
+2019-05-28 12:25:58,726 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 166.0 on line 18 should be int
+2019-05-28 12:25:58,726 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 56.0 on line 19 should be int
+2019-05-28 12:25:58,726 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-05-28 12:25:58,726 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,726 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,726 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,727 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 95.18
+2019-05-28 12:25:58,727 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,727 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,727 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,727 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,727 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,727 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,727 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,727 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,727 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,727 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 99.97
+2019-05-28 12:25:58,728 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 99.97
+2019-05-28 12:25:58,728 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,728 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-05-28 12:25:58,728 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 4190
+2019-05-28 12:25:58,728 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 18407
+2019-05-28 12:25:58,728 - IMMO - ES - PISOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 425440

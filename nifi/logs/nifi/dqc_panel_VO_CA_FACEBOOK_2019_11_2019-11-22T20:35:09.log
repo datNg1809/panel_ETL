@@ -1,0 +1,229 @@
+2019-11-22 20:35:31,301 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-11-22 20:35:31,302 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 41.97
+2019-11-22 20:35:31,302 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-11-22 20:35:31,302 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,302 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-11-22 20:35:31,302 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 95.71
+2019-11-22 20:35:31,302 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 12389
+2019-11-22 20:35:31,302 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - True - 1
+2019-11-22 20:35:31,302 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,302 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-11-22 20:35:31,302 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,302 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 13, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,302 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 32, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,302 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 46, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,302 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 56, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,302 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 65, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,302 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 80, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,302 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 102, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 112, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 135, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 139, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 150, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 151, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 191, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 214, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 220, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 283, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 309, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 353, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 450, value should match regexp ^[0-9]{4}$
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.41
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-11-22 20:35:31,303 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 42.59
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - False - 0
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 96.81
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - True - 1
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.61
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: A0P on line 0, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: K0C on line 3, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V9L on line 8, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: P9N on line 9, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: N0P on line 10, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: S0E on line 13, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: X1A on line 14, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V0R on line 18, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V1T on line 19, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: T5J on line 27, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: G4X on line 28, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V0E on line 30, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,304 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 49783-9004 on line 31, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V1Y on line 32, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: L0K on line 34, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V0C on line 35, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: B0N on line 39, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: R0K on line 40, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: E3B on line 41, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V0K on line 42, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 67.86
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 41.97
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 288665
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,305 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 99.93
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 98.15
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - True - 1
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - True - 1
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-11-22 20:35:31,306 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - unexpected count - 288665
+2019-11-22 20:35:31,307 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MOIS - False - 0
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - MOIS - True - 1
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [283 motor...] on line  1, value length should be between 10 and 255
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Party bus...] on line  25, value length should be between 10 and 255
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [sale...] on line  80, value length should be between 10 and 255
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Sled...] on line  158, value length should be between 10 and 255
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2018 ? ?...] on line  210, value length should be between 10 and 255
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Forsale...] on line  297, value length should be between 10 and 255
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [CHIP...] on line  341, value length should be between 10 and 255
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Part out...] on line  356, value length should be between 10 and 255
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW Z3...] on line  580, value length should be between 10 and 255
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 745i...] on line  630, value length should be between 10 and 255
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Trailer...] on line  730, value length should be between 10 and 255
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Box cover...] on line  980, value length should be between 10 and 255
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2004...] on line  1003, value length should be between 10 and 255
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [inter 96...] on line  1276, value length should be between 10 and 255
+2019-11-22 20:35:31,308 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Mags 17...] on line  1370, value length should be between 10 and 255
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford F150...] on line  1426, value length should be between 10 and 255
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [1978 f150...] on line  1671, value length should be between 10 and 255
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [ACURA ILX...] on line  2400, value length should be between 10 and 255
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Truck...] on line  2453, value length should be between 10 and 255
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Torklift...] on line  3416, value length should be between 10 and 255
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.67
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 39.31
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [BLUETOOTH|REMOTE STA...] on line  70, value length should be between 0 and 255
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ALLOY WHEEL|ABS (4-W...] on line  72, value length should be between 0 and 255
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [4WD|ABS (4-Wheel)|AM...] on line  73, value length should be between 0 and 255
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Bluetooth Wireless|A...] on line  77, value length should be between 0 and 255
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Bluetooth Wireless|4...] on line  78, value length should be between 0 and 255
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [GPS|Bluetooth Wirele...] on line  83, value length should be between 0 and 255
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [GPS|Bluetooth Wirele...] on line  144, value length should be between 0 and 255
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Leather|Moon Roof|Na...] on line  160, value length should be between 0 and 255
+2019-11-22 20:35:31,309 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Leather|Navigation|B...] on line  245, value length should be between 0 and 255
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Alloy Wheels|ABS (4-...] on line  432, value length should be between 0 and 255
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Navigation System|Al...] on line  462, value length should be between 0 and 255
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Alloy Wheels|ABS (4-...] on line  482, value length should be between 0 and 255
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Bluetooth Wireless|A...] on line  511, value length should be between 0 and 255
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Leather|Moon Roof|Al...] on line  556, value length should be between 0 and 255
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Leather|Sunroof|Blue...] on line  596, value length should be between 0 and 255
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Alloy Wheels|4WD|ABS...] on line  956, value length should be between 0 and 255
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Moon Roof|Bluetooth ...] on line  1105, value length should be between 0 and 255
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Moon Roof|gps|Alloy ...] on line  1113, value length should be between 0 and 255
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [SunRoof|Bluetooth Wi...] on line  1124, value length should be between 0 and 255
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Alloy Wheels|ABS (4-...] on line  1155, value length should be between 0 and 255
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 9.44
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - OPTIONS - False - 0
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-11-22 20:35:31,310 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 31427.0 on line 52621 should be in ['int']
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 193254.0 on line 58785 should be in ['int']
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 112940.0 on line 87044 should be in ['int']
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 58539.0 on line 87516 should be in ['int']
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 318.0 on line 88076 should be in ['int']
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 80089.0 on line 119085 should be in ['int']
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 48563.0 on line 119987 should be in ['int']
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 38150.0 on line 171638 should be in ['int']
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4152.0 on line 192741 should be in ['int']
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 46000.0 on line 237745 should be in ['int']
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 19821.0 on line 266696 should be in ['int']
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 42852.0 on line 272267 should be in ['int']
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 45760.0 on line 273463 should be in ['int']
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PLACE - False - 0
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-11-22 20:35:31,311 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 99.43
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - True - 1
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 34.25
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - False - 0
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.87
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.85
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-11-22 20:35:31,312 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - True - 1
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - VN_IND - True - 1
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 7692
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 19727
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 31
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 21
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: GASOL on line 52621 should be in ['int']
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: GASOL on line 58785 should be in ['int']
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: GASOL on line 87044 should be in ['int']
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: GASOL on line 87516 should be in ['int']
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: GASOL on line 88076 should be in ['int']
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: GASOL on line 119085 should be in ['int']
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: GASOL on line 119987 should be in ['int']
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: GASOL on line 171638 should be in ['int']
+2019-11-22 20:35:31,313 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: GASOL on line 237745 should be in ['int']
+2019-11-22 20:35:31,314 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: GASOL on line 266696 should be in ['int']
+2019-11-22 20:35:31,314 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: GASOL on line 272267 should be in ['int']
+2019-11-22 20:35:31,314 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: GASOL on line 273463 should be in ['int']
+2019-11-22 20:35:31,314 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-11-22 20:35:31,314 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - CYLINDRE - False - 0
+2019-11-22 20:35:31,314 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 13
+2019-11-22 20:35:31,314 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 2903
+2019-11-22 20:35:31,314 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 53
+2019-11-22 20:35:31,314 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 121161
+2019-11-22 20:35:31,314 - VO - CA - FACEBOOK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 167504

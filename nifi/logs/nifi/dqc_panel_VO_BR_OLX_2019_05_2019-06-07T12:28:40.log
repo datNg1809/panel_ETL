@@ -1,0 +1,175 @@
+2019-06-07 12:31:03,886 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-06-07 12:31:03,886 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,886 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 98.58
+2019-06-07 12:31:03,886 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1229, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2541, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3974, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 6648, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7165, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9403, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9628, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 10050, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 10875, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 11097, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 11787, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 15526, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 16165, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 18638, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 18641, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 21837, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 22495, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,887 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 22697, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,888 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 24142, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,888 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 26173, value should match regexp ^[0-9]{4}$
+2019-06-07 12:31:03,888 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.95
+2019-06-07 12:31:03,888 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,888 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-06-07 12:31:03,888 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 95.79
+2019-06-07 12:31:03,888 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-06-07 12:31:03,888 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 98.89
+2019-06-07 12:31:03,888 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,888 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 98.89
+2019-06-07 12:31:03,888 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,888 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-06-07 12:31:03,888 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 1035893
+2019-06-07 12:31:03,888 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,888 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 10000.0 on line 0 should be in ['int']
+2019-06-07 12:31:03,888 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 111111.0 on line 1 should be in ['int']
+2019-06-07 12:31:03,888 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 146326.0 on line 2 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 156000.0 on line 3 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 47136.0 on line 4 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 50000.0 on line 5 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 112000.0 on line 6 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 111113.0 on line 7 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 115000.0 on line 8 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 190000.0 on line 9 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 3000.0 on line 10 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 94000.0 on line 11 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 190000.0 on line 12 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 180000.0 on line 13 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 230000.0 on line 14 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 62000.0 on line 15 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 90000.0 on line 16 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 139.0 on line 17 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 25000.0 on line 18 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 132000.0 on line 19 should be in ['int']
+2019-06-07 12:31:03,889 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 0.0
+2019-06-07 12:31:03,890 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 99.84
+2019-06-07 12:31:03,890 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,890 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,890 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,890 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 93.77
+2019-06-07 12:31:03,890 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,890 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-06-07 12:31:03,890 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-06-07 12:31:03,890 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-06-07 12:31:03,890 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-06-07 12:31:03,890 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-06-07 12:31:03,890 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-06-07 12:31:03,890 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-06-07 12:31:03,890 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-06-07 12:31:03,890 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-06-07 12:31:03,890 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-06-07 12:31:03,890 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fusca...] on line  82, value length should be between 10 and 255
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Automovel...] on line  126, value length should be between 10 and 255
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fusca...] on line  204, value length should be between 10 and 255
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ka - 2009...] on line  231, value length should be between 10 and 255
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fusca...] on line  649, value length should be between 10 and 255
+2019-06-07 12:31:03,891 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Opala...] on line  869, value length should be between 10 and 255
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [10 - 2010...] on line  916, value length should be between 10 and 255
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Kombi 70...] on line  1134, value length should be between 10 and 255
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Brasilia...] on line  1697, value length should be between 10 and 255
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Venda...] on line  1748, value length should be between 10 and 255
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fusca 75...] on line  1807, value length should be between 10 and 255
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fusca 75...] on line  2484, value length should be between 10 and 255
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Jipe 1957...] on line  2585, value length should be between 10 and 255
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fusca...] on line  2787, value length should be between 10 and 255
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Vendo...] on line  3859, value length should be between 10 and 255
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Opala...] on line  3891, value length should be between 10 and 255
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [C3 - 2011...] on line  4113, value length should be between 10 and 255
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Corcel 73...] on line  4625, value length should be between 10 and 255
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [C4 - 2008...] on line  4741, value length should be between 10 and 255
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Vendo...] on line  4954, value length should be between 10 and 255
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.64
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 99.97
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Veiculo Extremamente...] on line  87, value length should be between 0 and 255
+2019-06-07 12:31:03,892 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Santa fe Gls 3.3(200...] on line  470, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Veiculo: FIAT UNO 1....] on line  577, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Confira detalhes des...] on line  1131, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Helder Martins - 62 ...] on line  2168, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Helder Martins - 62 ...] on line  2240, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Certifica&amp;ccedil...] on line  2680, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Principais atributos...] on line  3125, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Principais atributos...] on line  3310, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [VEICULO EM OTIMO EST...] on line  3315, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Principais atributos...] on line  3464, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Certifica&amp;ccedil...] on line  3558, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Principais atributos...] on line  3630, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Principais atributos...] on line  3640, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Principais atributos...] on line  3863, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [113MKM ORIGINAIS!!! ...] on line  4133, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [137MKM ORIGINAIS!!! ...] on line  4499, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Helder Martins - 62 ...] on line  4580, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Ar quente, Desembaca...] on line  4657, value length should be between 0 and 255
+2019-06-07 12:31:03,893 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Veiculo: FORD FOCUS ...] on line  4770, value length should be between 0 and 255
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 99.38
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 92.56
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 99.99
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 67996515351.0 on line 0, value should match a phone number format
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 75991999305.0 on line 1, value should match a phone number format
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 41999990761.0 on line 2, value should match a phone number format
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 21981916348.0 on line 3, value should match a phone number format
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 99991852968.0 on line 4, value should match a phone number format
+2019-06-07 12:31:03,894 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11983984669.0 on line 5, value should match a phone number format
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 51992462564.0 on line 6, value should match a phone number format
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 85981825572.0 on line 7, value should match a phone number format
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 21964494580.0 on line 8, value should match a phone number format
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 21997942818.0 on line 9, value should match a phone number format
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 33991706970.0 on line 10, value should match a phone number format
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 41999580871.0 on line 11, value should match a phone number format
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 85986204267.0 on line 12, value should match a phone number format
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 81988849878.0 on line 13, value should match a phone number format
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 49999145529.0 on line 14, value should match a phone number format
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11941720358.0 on line 15, value should match a phone number format
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 19996015065.0 on line 16, value should match a phone number format
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 62993336677.0 on line 17, value should match a phone number format
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11967060149.0 on line 18, value should match a phone number format
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 75981332796.0 on line 19, value should match a phone number format
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 14.89
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-06-07 12:31:03,895 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.81
+2019-06-07 12:31:03,896 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-06-07 12:31:03,896 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 293926
+2019-06-07 12:31:03,896 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 741967
+2019-06-07 12:31:03,896 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 39908
+2019-06-07 12:31:03,896 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 1468
+2019-06-07 12:31:03,896 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-06-07 12:31:03,896 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 16
+2019-06-07 12:31:03,896 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-06-07 12:31:03,896 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 27
+2019-06-07 12:31:03,896 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 5843
+2019-06-07 12:31:03,896 - VO - BR - OLX - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 27

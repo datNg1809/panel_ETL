@@ -1,0 +1,188 @@
+2019-07-19 18:39:40,332 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,332 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,332 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 99.63
+2019-07-19 18:39:40,332 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-07-19 18:39:40,332 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-07-19 18:39:40,332 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,332 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,332 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 373610089.0 on line 0, value should match a phone number format
+2019-07-19 18:39:40,332 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 251601089.0 on line 1, value should match a phone number format
+2019-07-19 18:39:40,332 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 534528065.0 on line 2, value should match a phone number format
+2019-07-19 18:39:40,332 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 562447548.0 on line 3, value should match a phone number format
+2019-07-19 18:39:40,332 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 473898223.0 on line 4, value should match a phone number format
+2019-07-19 18:39:40,332 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 279000649.0 on line 5, value should match a phone number format
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 557551800.0 on line 6, value should match a phone number format
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 534401405.0 on line 7, value should match a phone number format
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 534528065.0 on line 8, value should match a phone number format
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 254616263.0 on line 9, value should match a phone number format
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 559691155.0 on line 10, value should match a phone number format
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 475920808.0 on line 11, value should match a phone number format
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 232212379.0 on line 12, value should match a phone number format
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 296458174.0 on line 13, value should match a phone number format
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 373275123.0 on line 14, value should match a phone number format
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 278775436.0 on line 15, value should match a phone number format
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 534401405.0 on line 16, value should match a phone number format
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 534401405.0 on line 17, value should match a phone number format
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 562421310.0 on line 18, value should match a phone number format
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 473161335.0 on line 19, value should match a phone number format
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 0.01
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 99.72
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-07-19 18:39:40,333 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,334 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,334 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-07-19 18:39:40,334 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [VILLAGE TOUS SERVICE...] on line  0, value length should be between 0 and 255
+2019-07-19 18:39:40,334 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Située proche du cen...] on line  1, value length should be between 0 and 255
+2019-07-19 18:39:40,334 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [ISSOIRE Centre au de...] on line  4, value length should be between 0 and 255
+2019-07-19 18:39:40,334 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Secteur privilégié p...] on line  6, value length should be between 0 and 255
+2019-07-19 18:39:40,334 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [CREDIT AGRICOLE IMMO...] on line  7, value length should be between 0 and 255
+2019-07-19 18:39:40,334 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Dans belle résidence...] on line  9, value length should be between 0 and 255
+2019-07-19 18:39:40,334 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Appartement en exclu...] on line  10, value length should be between 0 and 255
+2019-07-19 18:39:40,334 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [RARE ! Superbe villa...] on line  11, value length should be between 0 and 255
+2019-07-19 18:39:40,334 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Non loin du bourg de...] on line  13, value length should be between 0 and 255
+2019-07-19 18:39:40,334 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [COEUR DE VILLE HISTO...] on line  14, value length should be between 0 and 255
+2019-07-19 18:39:40,334 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Crédit Agricole Immo...] on line  16, value length should be between 0 and 255
+2019-07-19 18:39:40,334 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Crédit Agricole Immo...] on line  17, value length should be between 0 and 255
+2019-07-19 18:39:40,334 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [CEBAZAT Dans Résiden...] on line  19, value length should be between 0 and 255
+2019-07-19 18:39:40,334 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Jolie maison 3 faces...] on line  20, value length should be between 0 and 255
+2019-07-19 18:39:40,334 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [En village côté La C...] on line  22, value length should be between 0 and 255
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Quartier Renoir à sa...] on line  23, value length should be between 0 and 255
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [LOURDES dans une rés...] on line  24, value length should be between 0 and 255
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A mois de 10 mn de S...] on line  25, value length should be between 0 and 255
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Crédit Agricole Immo...] on line  26, value length should be between 0 and 255
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [56570 LOCMIQUELIC - ...] on line  27, value length should be between 0 and 255
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 21.84
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 99.85
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 5500 on line 25, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3110 on line 28, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3300 on line 51, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3230 on line 70, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3200 on line 170, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7220 on line 171, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1190 on line 258, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3200 on line 361, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,335 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7000 on line 388, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,336 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3200 on line 426, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,336 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7000 on line 642, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,336 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7700 on line 828, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,336 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3200 on line 906, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,336 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7000 on line 918, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,336 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7000 on line 968, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,336 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3260 on line 1111, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,336 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7000 on line 1166, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,336 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3200 on line 1191, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,336 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3200 on line 1226, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,336 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7700 on line 1235, value should match regexp ^[0-9]{5}$
+2019-07-19 18:39:40,336 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 91.22
+2019-07-19 18:39:40,336 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,336 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 508053
+2019-07-19 18:39:40,336 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,336 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-07-19 18:39:40,336 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 157.0 on line 0 should be int
+2019-07-19 18:39:40,337 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 157.0 on line 1 should be int
+2019-07-19 18:39:40,337 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 42.0 on line 2 should be int
+2019-07-19 18:39:40,337 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 200.0 on line 3 should be int
+2019-07-19 18:39:40,337 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 4115.0 on line 4 should be int
+2019-07-19 18:39:40,337 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 80.0 on line 5 should be int
+2019-07-19 18:39:40,337 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 149.0 on line 6 should be int
+2019-07-19 18:39:40,337 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 6221.0 on line 7 should be int
+2019-07-19 18:39:40,337 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 110.0 on line 8 should be int
+2019-07-19 18:39:40,337 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 46.0 on line 9 should be int
+2019-07-19 18:39:40,337 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 5486.0 on line 10 should be int
+2019-07-19 18:39:40,337 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 240.0 on line 11 should be int
+2019-07-19 18:39:40,337 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 4529.0 on line 12 should be int
+2019-07-19 18:39:40,337 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 867.0 on line 13 should be int
+2019-07-19 18:39:40,337 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 22.0 on line 14 should be int
+2019-07-19 18:39:40,337 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 36.0 on line 15 should be int
+2019-07-19 18:39:40,337 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 4807.0 on line 16 should be int
+2019-07-19 18:39:40,337 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 4191.0 on line 17 should be int
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 9082.0 on line 19 should be int
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 102.0 on line 20 should be int
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 89.13
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 0 should be int
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 1 should be int
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 2 should be int
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 3 should be int
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 4 should be int
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 5 should be int
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 6 should be int
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 7 should be int
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 8 should be int
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 9 should be int
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 10 should be int
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 11 should be int
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 12 should be int
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 13 should be int
+2019-07-19 18:39:40,338 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 14 should be int
+2019-07-19 18:39:40,339 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 15 should be int
+2019-07-19 18:39:40,339 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 16 should be int
+2019-07-19 18:39:40,339 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 17 should be int
+2019-07-19 18:39:40,339 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 18 should be int
+2019-07-19 18:39:40,339 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 19 should be int
+2019-07-19 18:39:40,339 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-07-19 18:39:40,339 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 99.38
+2019-07-19 18:39:40,339 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,339 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,339 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-07-19 18:39:40,339 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 0.0
+2019-07-19 18:39:40,339 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 0.0
+2019-07-19 18:39:40,339 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,339 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,339 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,339 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,340 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 204000.0 on line 0 should be int
+2019-07-19 18:39:40,340 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 367500.0 on line 1 should be int
+2019-07-19 18:39:40,340 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 130000.0 on line 2 should be int
+2019-07-19 18:39:40,340 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 297000.0 on line 3 should be int
+2019-07-19 18:39:40,340 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 67000.0 on line 4 should be int
+2019-07-19 18:39:40,340 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 159750.0 on line 5 should be int
+2019-07-19 18:39:40,340 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 275500.0 on line 6 should be int
+2019-07-19 18:39:40,340 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 120400.0 on line 7 should be int
+2019-07-19 18:39:40,340 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 388200.0 on line 8 should be int
+2019-07-19 18:39:40,340 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 42000.0 on line 9 should be int
+2019-07-19 18:39:40,340 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 40000.0 on line 10 should be int
+2019-07-19 18:39:40,340 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 493000.0 on line 11 should be int
+2019-07-19 18:39:40,340 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 545.0 on line 12 should be int
+2019-07-19 18:39:40,340 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 102000.0 on line 13 should be int
+2019-07-19 18:39:40,340 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 425.0 on line 14 should be int
+2019-07-19 18:39:40,340 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 350.0 on line 15 should be int
+2019-07-19 18:39:40,340 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 150500.0 on line 16 should be int
+2019-07-19 18:39:40,341 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 92225.0 on line 17 should be int
+2019-07-19 18:39:40,341 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 47000.0 on line 18 should be int
+2019-07-19 18:39:40,341 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 189500.0 on line 19 should be int
+2019-07-19 18:39:40,341 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-07-19 18:39:40,341 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 99.26
+2019-07-19 18:39:40,341 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,341 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,341 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-07-19 18:39:40,341 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SELLER_TYPE - correctly filled rate (%) - 0.0
+2019-07-19 18:39:40,341 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 504.0 on line 0 should be int
+2019-07-19 18:39:40,341 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 754.0 on line 1 should be int
+2019-07-19 18:39:40,341 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 2 should be int
+2019-07-19 18:39:40,341 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 3 should be int
+2019-07-19 18:39:40,341 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 4 should be int
+2019-07-19 18:39:40,341 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 960.0 on line 5 should be int
+2019-07-19 18:39:40,341 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 1000.0 on line 6 should be int
+2019-07-19 18:39:40,342 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 7 should be int
+2019-07-19 18:39:40,342 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 1020.0 on line 8 should be int
+2019-07-19 18:39:40,342 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 9 should be int
+2019-07-19 18:39:40,342 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 10 should be int
+2019-07-19 18:39:40,342 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 1658.0 on line 11 should be int
+2019-07-19 18:39:40,342 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 12 should be int
+2019-07-19 18:39:40,342 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 1156.0 on line 13 should be int
+2019-07-19 18:39:40,342 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 14 should be int
+2019-07-19 18:39:40,342 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 15 should be int
+2019-07-19 18:39:40,342 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 16 should be int
+2019-07-19 18:39:40,342 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 17 should be int
+2019-07-19 18:39:40,342 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 553.0 on line 18 should be int
+2019-07-19 18:39:40,342 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 19 should be int
+2019-07-19 18:39:40,342 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-07-19 18:39:40,342 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,342 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-07-19 18:39:40,342 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 29282
+2019-07-19 18:39:40,343 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0
+2019-07-19 18:39:40,343 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 0
+2019-07-19 18:39:40,343 - IMMO - FR - BIENICI - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 203

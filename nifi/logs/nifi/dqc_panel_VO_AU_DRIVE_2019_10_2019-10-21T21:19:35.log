@@ -1,0 +1,226 @@
+2019-10-21 21:19:41,072 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-10-21 21:19:41,072 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,072 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-10-21 21:19:41,072 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2009 on line 16384 should be in ['int', 'float']
+2019-10-21 21:19:41,072 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2014 on line 16385 should be in ['int', 'float']
+2019-10-21 21:19:41,072 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2014 on line 16386 should be in ['int', 'float']
+2019-10-21 21:19:41,072 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2017 on line 16387 should be in ['int', 'float']
+2019-10-21 21:19:41,072 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2014 on line 16388 should be in ['int', 'float']
+2019-10-21 21:19:41,072 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2014 on line 16389 should be in ['int', 'float']
+2019-10-21 21:19:41,072 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2009 on line 16390 should be in ['int', 'float']
+2019-10-21 21:19:41,073 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2019 on line 16391 should be in ['int', 'float']
+2019-10-21 21:19:41,073 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2014 on line 16392 should be in ['int', 'float']
+2019-10-21 21:19:41,073 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2016 on line 16393 should be in ['int', 'float']
+2019-10-21 21:19:41,073 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2012 on line 16394 should be in ['int', 'float']
+2019-10-21 21:19:41,073 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2008 on line 16395 should be in ['int', 'float']
+2019-10-21 21:19:41,073 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2009 on line 16396 should be in ['int', 'float']
+2019-10-21 21:19:41,073 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2002 on line 16397 should be in ['int', 'float']
+2019-10-21 21:19:41,073 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2011 on line 16398 should be in ['int', 'float']
+2019-10-21 21:19:41,073 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2013 on line 16399 should be in ['int', 'float']
+2019-10-21 21:19:41,073 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2019 on line 16400 should be in ['int', 'float']
+2019-10-21 21:19:41,073 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2002 on line 16401 should be in ['int', 'float']
+2019-10-21 21:19:41,073 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2012 on line 16402 should be in ['int', 'float']
+2019-10-21 21:19:41,073 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2015 on line 16403 should be in ['int', 'float']
+2019-10-21 21:19:41,073 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 59.95
+2019-10-21 21:19:41,073 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - False - 0
+2019-10-21 21:19:41,073 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 99.9
+2019-10-21 21:19:41,073 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - False - 0
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2019.0 on line 0, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2016.0 on line 1, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 2, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 3, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 4, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 5, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 6, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2015.0 on line 7, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2019.0 on line 8, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2015.0 on line 9, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2019.0 on line 10, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 11, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2019.0 on line 12, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 13, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2013.0 on line 14, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 15, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 16, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,074 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2017.0 on line 17, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,075 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 18, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,075 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2013.0 on line 19, value should match regexp ^[0-9]{4}$
+2019-10-21 21:19:41,075 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 40.03
+2019-10-21 21:19:41,075 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-10-21 21:19:41,075 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-21 21:19:41,075 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-10-21 21:19:41,075 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-21 21:19:41,075 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-10-21 21:19:41,075 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,075 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - False - 0
+2019-10-21 21:19:41,075 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 80.95
+2019-10-21 21:19:41,075 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - False - 0
+2019-10-21 21:19:41,075 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,075 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - False - 0
+2019-10-21 21:19:41,075 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: CP on line 18491, value should match regexp [0-9]{4}
+2019-10-21 21:19:41,075 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,075 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-10-21 21:19:41,076 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 97.21
+2019-10-21 21:19:41,076 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-10-21 21:19:41,076 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-21 21:19:41,076 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - False - 0
+2019-10-21 21:19:41,076 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-21 21:19:41,076 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-10-21 21:19:41,076 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 40883
+2019-10-21 21:19:41,076 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 83.73
+2019-10-21 21:19:41,076 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-10-21 21:19:41,076 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 2003.0 on line 0 should be in ['int']
+2019-10-21 21:19:41,076 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 40134.0 on line 1 should be in ['int']
+2019-10-21 21:19:41,076 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 9189.0 on line 2 should be in ['int']
+2019-10-21 21:19:41,076 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 2737.0 on line 3 should be in ['int']
+2019-10-21 21:19:41,076 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 6903.0 on line 4 should be in ['int']
+2019-10-21 21:19:41,076 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 15000.0 on line 5 should be in ['int']
+2019-10-21 21:19:41,076 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 8910.0 on line 6 should be in ['int']
+2019-10-21 21:19:41,076 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 84978.0 on line 7 should be in ['int']
+2019-10-21 21:19:41,077 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 2038.0 on line 8 should be in ['int']
+2019-10-21 21:19:41,077 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 88295.0 on line 9 should be in ['int']
+2019-10-21 21:19:41,077 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 2255.0 on line 10 should be in ['int']
+2019-10-21 21:19:41,077 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 3329.0 on line 11 should be in ['int']
+2019-10-21 21:19:41,077 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 2495.0 on line 12 should be in ['int']
+2019-10-21 21:19:41,077 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 9281.0 on line 13 should be in ['int']
+2019-10-21 21:19:41,077 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 129812.0 on line 14 should be in ['int']
+2019-10-21 21:19:41,077 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 13549.0 on line 15 should be in ['int']
+2019-10-21 21:19:41,077 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 63501.0 on line 16 should be in ['int']
+2019-10-21 21:19:41,077 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 51170.0 on line 17 should be in ['int']
+2019-10-21 21:19:41,077 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 118548.0 on line 18 should be in ['int']
+2019-10-21 21:19:41,077 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 65730.0 on line 19 should be in ['int']
+2019-10-21 21:19:41,077 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,077 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - False - 0
+2019-10-21 21:19:41,077 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 97.36
+2019-10-21 21:19:41,077 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-10-21 21:19:41,077 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 4 on line 0 should be in ['int', 'float']
+2019-10-21 21:19:41,078 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 4 on line 1 should be in ['int', 'float']
+2019-10-21 21:19:41,078 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 4 on line 2 should be in ['int', 'float']
+2019-10-21 21:19:41,078 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 4 on line 3 should be in ['int', 'float']
+2019-10-21 21:19:41,078 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 4 on line 4 should be in ['int', 'float']
+2019-10-21 21:19:41,078 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 4 on line 5 should be in ['int', 'float']
+2019-10-21 21:19:41,078 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 4 on line 6 should be in ['int', 'float']
+2019-10-21 21:19:41,078 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 4 on line 7 should be in ['int', 'float']
+2019-10-21 21:19:41,078 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 4 on line 8 should be in ['int', 'float']
+2019-10-21 21:19:41,078 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 4 on line 9 should be in ['int', 'float']
+2019-10-21 21:19:41,078 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 4 on line 10 should be in ['int', 'float']
+2019-10-21 21:19:41,078 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 4 on line 11 should be in ['int', 'float']
+2019-10-21 21:19:41,078 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 4 on line 12 should be in ['int', 'float']
+2019-10-21 21:19:41,078 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 4 on line 13 should be in ['int', 'float']
+2019-10-21 21:19:41,078 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 8 on line 14 should be in ['int', 'float']
+2019-10-21 21:19:41,078 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 6 on line 15 should be in ['int', 'float']
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 4 on line 16 should be in ['int', 'float']
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 3.5 on line 17 should be in ['int', 'float']
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 1.8 on line 18 should be in ['int', 'float']
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 4 on line 19 should be in ['int', 'float']
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - False - 0
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 92.68
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 99.99
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 99.47
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - True - 1
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - False - 0
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: MOIS on line 18491, value should match regexp ^[0-9]{1,2}$
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - MOIS - False - 0
+2019-10-21 21:19:41,079 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,080 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - False - 0
+2019-10-21 21:19:41,080 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [NOM...] on line  18491, value length should be between 10 and 255
+2019-10-21 21:19:41,080 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,080 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-10-21 21:19:41,080 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,080 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-10-21 21:19:41,080 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 100.0
+2019-10-21 21:19:41,080 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - OPTIONS - True - 1
+2019-10-21 21:19:41,080 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: PHOTO on line 18491 should be in ['int']
+2019-10-21 21:19:41,080 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,080 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - False - 0
+2019-10-21 21:19:41,080 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,080 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - False - 0
+2019-10-21 21:19:41,080 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: PLACE on line 18491 should be in ['int']
+2019-10-21 21:19:41,080 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,080 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PLACE - False - 0
+2019-10-21 21:19:41,080 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: PORTE on line 18491 should be in ['int', 'float']
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PORTE - False - 0
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: PRIX on line 18491 should be in ['int']
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - False - 0
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - False - 0
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 72.63
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - False - 0
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 94.06
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-10-21 21:19:41,081 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 92.42
+2019-10-21 21:19:41,082 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-10-21 21:19:41,082 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-10-21 21:19:41,082 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-10-21 21:19:41,082 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-10-21 21:19:41,082 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,082 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - False - 0
+2019-10-21 21:19:41,082 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 100.0
+2019-10-21 21:19:41,082 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - True - 1
+2019-10-21 21:19:41,082 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 0, value should among [0, 1, 2]
+2019-10-21 21:19:41,082 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 1, value should among [0, 1, 2]
+2019-10-21 21:19:41,082 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 2, value should among [0, 1, 2]
+2019-10-21 21:19:41,082 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 3, value should among [0, 1, 2]
+2019-10-21 21:19:41,082 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 4, value should among [0, 1, 2]
+2019-10-21 21:19:41,082 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 5, value should among [0, 1, 2]
+2019-10-21 21:19:41,082 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 6, value should among [0, 1, 2]
+2019-10-21 21:19:41,082 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 7, value should among [0, 1, 2]
+2019-10-21 21:19:41,082 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 8, value should among [0, 1, 2]
+2019-10-21 21:19:41,083 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 9, value should among [0, 1, 2]
+2019-10-21 21:19:41,083 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 10, value should among [0, 1, 2]
+2019-10-21 21:19:41,083 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 11, value should among [0, 1, 2]
+2019-10-21 21:19:41,083 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 12, value should among [0, 1, 2]
+2019-10-21 21:19:41,083 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 13, value should among [0, 1, 2]
+2019-10-21 21:19:41,083 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 14, value should among [0, 1, 2]
+2019-10-21 21:19:41,083 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 15, value should among [0, 1, 2]
+2019-10-21 21:19:41,083 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 16, value should among [0, 1, 2]
+2019-10-21 21:19:41,083 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 17, value should among [0, 1, 2]
+2019-10-21 21:19:41,083 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 18, value should among [0, 1, 2]
+2019-10-21 21:19:41,083 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: used on line 19, value should among [0, 1, 2]
+2019-10-21 21:19:41,083 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,083 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - VN_IND - False - 0
+2019-10-21 21:19:41,083 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 37
+2019-10-21 21:19:41,083 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 1
+2019-10-21 21:19:41,083 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 80.88
+2019-10-21 21:19:41,083 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-10-21 21:19:41,084 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 0 should be in ['int']
+2019-10-21 21:19:41,084 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 1 should be in ['int']
+2019-10-21 21:19:41,084 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 2 should be in ['int']
+2019-10-21 21:19:41,084 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 3 should be in ['int']
+2019-10-21 21:19:41,084 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 4 should be in ['int']
+2019-10-21 21:19:41,084 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 5 should be in ['int']
+2019-10-21 21:19:41,084 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 6 should be in ['int']
+2019-10-21 21:19:41,084 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 7 should be in ['int']
+2019-10-21 21:19:41,084 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 8 should be in ['int']
+2019-10-21 21:19:41,084 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 9 should be in ['int']
+2019-10-21 21:19:41,084 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 10 should be in ['int']
+2019-10-21 21:19:41,084 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 11 should be in ['int']
+2019-10-21 21:19:41,084 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 12 should be in ['int']
+2019-10-21 21:19:41,084 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 13 should be in ['int']
+2019-10-21 21:19:41,084 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 8.0 on line 14 should be in ['int']
+2019-10-21 21:19:41,084 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 15 should be in ['int']
+2019-10-21 21:19:41,084 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 16 should be in ['int']
+2019-10-21 21:19:41,085 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 17 should be in ['int']
+2019-10-21 21:19:41,085 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 18 should be in ['int']
+2019-10-21 21:19:41,085 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 19 should be in ['int']
+2019-10-21 21:19:41,085 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-10-21 21:19:41,085 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - CYLINDRE - False - 0
+2019-10-21 21:19:41,085 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 9
+2019-10-21 21:19:41,085 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 1
+2019-10-21 21:19:41,085 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 29
+2019-10-21 21:19:41,085 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 0
+2019-10-21 21:19:41,085 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-10-21 21:19:41,085 - VO - AU - DRIVE - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_NEWCARS - total number of row with conditions - 0

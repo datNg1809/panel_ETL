@@ -1,0 +1,167 @@
+2019-10-30 11:34:09,805 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-10-30 11:34:09,805 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 99.65
+2019-10-30 11:34:09,805 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - True - 1
+2019-10-30 11:34:09,805 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,805 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-10-30 11:34:09,805 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 3, value should be between 1980 and 2019
+2019-10-30 11:34:09,805 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 12, value should be between 1980 and 2019
+2019-10-30 11:34:09,805 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 13, value should be between 1980 and 2019
+2019-10-30 11:34:09,805 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 14, value should be between 1980 and 2019
+2019-10-30 11:34:09,805 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 15, value should be between 1980 and 2019
+2019-10-30 11:34:09,805 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1973 on line 36, value should be between 1980 and 2019
+2019-10-30 11:34:09,805 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1973 on line 39, value should be between 1980 and 2019
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1971 on line 45, value should be between 1980 and 2019
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 46, value should be between 1980 and 2019
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1971 on line 52, value should be between 1980 and 2019
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 117, value should be between 1980 and 2019
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 120, value should be between 1980 and 2019
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 127, value should be between 1980 and 2019
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1975 on line 135, value should be between 1980 and 2019
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 187, value should be between 1980 and 2019
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 232, value should be between 1980 and 2019
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 233, value should be between 1980 and 2019
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 235, value should be between 1980 and 2019
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 253, value should be between 1980 and 2019
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1951 on line 254, value should be between 1980 and 2019
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 86.62
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 2275
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - False - 0
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,806 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 12, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 13, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 14, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 15, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 46, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 117, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 120, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 127, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 187, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 232, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 233, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 235, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 253, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 261, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 355, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 381, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,807 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 382, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,808 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 383, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,808 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 384, value should match regexp ^[0-9]{4}$
+2019-10-30 11:34:09,808 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 89.84
+2019-10-30 11:34:09,808 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-10-30 11:34:09,808 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,808 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-10-30 11:34:09,808 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-30 11:34:09,808 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-10-30 11:34:09,808 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 62.04
+2019-10-30 11:34:09,808 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - False - 0
+2019-10-30 11:34:09,808 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-10-30 11:34:09,808 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - False - 0
+2019-10-30 11:34:09,808 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,808 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-10-30 11:34:09,808 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,808 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-10-30 11:34:09,808 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-10-30 11:34:09,809 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-10-30 11:34:09,809 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,809 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-10-30 11:34:09,809 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-30 11:34:09,809 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-10-30 11:34:09,809 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 16999
+2019-10-30 11:34:09,809 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,809 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-10-30 11:34:09,809 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,809 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-10-30 11:34:09,809 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,809 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-10-30 11:34:09,809 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,809 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-10-30 11:34:09,809 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,809 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-10-30 11:34:09,809 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 99.83
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - True - 1
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [DAF 75...] on line  410, value length should be between 10 and 255
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volvo FH...] on line  546, value length should be between 10 and 255
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Lag AMMZ...] on line  862, value length should be between 10 and 255
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [DAF 380...] on line  1093, value length should be between 10 and 255
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Jumbo...] on line  1167, value length should be between 10 and 255
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Hamm 3412...] on line  1286, value length should be between 10 and 255
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JCB 3CX...] on line  1367, value length should be between 10 and 255
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Genie S65...] on line  1400, value length should be between 10 and 255
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [IHI 28J...] on line  1514, value length should be between 10 and 255
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [IHI 18J...] on line  1517, value length should be between 10 and 255
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Krone zz...] on line  1578, value length should be between 10 and 255
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Floor...] on line  1660, value length should be between 10 and 255
+2019-10-30 11:34:09,810 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BT CBG25...] on line  1723, value length should be between 10 and 255
+2019-10-30 11:34:09,811 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JCB 4 CX...] on line  1752, value length should be between 10 and 255
+2019-10-30 11:34:09,811 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Krone ZZ...] on line  1870, value length should be between 10 and 255
+2019-10-30 11:34:09,811 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Krone XXL...] on line  1876, value length should be between 10 and 255
+2019-10-30 11:34:09,811 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Krone SD...] on line  1883, value length should be between 10 and 255
+2019-10-30 11:34:09,811 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Atlas 55...] on line  1967, value length should be between 10 and 255
+2019-10-30 11:34:09,811 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [IHI 65VX...] on line  1970, value length should be between 10 and 255
+2019-10-30 11:34:09,811 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JLG 3509...] on line  2502, value length should be between 10 and 255
+2019-10-30 11:34:09,811 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 98.52
+2019-10-30 11:34:09,811 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-10-30 11:34:09,811 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-10-30 11:34:09,811 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-10-30 11:34:09,811 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,811 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-10-30 11:34:09,811 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,811 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-10-30 11:34:09,811 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-10-30 11:34:09,811 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - False - 0
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-10-30 11:34:09,812 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-10-30 11:34:09,813 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-10-30 11:34:09,813 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-10-30 11:34:09,813 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - False - 0
+2019-10-30 11:34:09,813 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 485
+2019-10-30 11:34:09,813 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 6092
+2019-10-30 11:34:09,813 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-10-30 11:34:09,813 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 6
+2019-10-30 11:34:09,813 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-10-30 11:34:09,813 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-10-30 11:34:09,813 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-10-30 11:34:09,813 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 349
+2019-10-30 11:34:09,813 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-10-30 11:34:09,813 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 16999
+2019-10-30 11:34:09,813 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-10-30 11:34:09,813 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRUCKS - total number of row with conditions - 2169
+2019-10-30 11:34:09,813 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRACTOR UNITS - total number of row with conditions - 2936
+2019-10-30 11:34:09,813 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRAILERS - total number of row with conditions - 1885
+2019-10-30 11:34:09,814 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - VANS - total number of row with conditions - 2939
+2019-10-30 11:34:09,814 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - HEAVY EQUIPMENTS - total number of row with conditions - 6538
+2019-10-30 11:34:09,814 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - SEMI TRAILERS - total number of row with conditions - 532
+2019-10-30 11:34:09,814 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRUCKS - total number of row with conditions - 2169
+2019-10-30 11:34:09,814 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRUCKS - total number of row with conditions - 0
+2019-10-30 11:34:09,814 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRACTOR UNITS - total number of row with conditions - 2936
+2019-10-30 11:34:09,814 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRACTOR UNITS - total number of row with conditions - 0
+2019-10-30 11:34:09,814 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRAILERS - total number of row with conditions - 1885
+2019-10-30 11:34:09,814 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRAILERS - total number of row with conditions - 0
+2019-10-30 11:34:09,814 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_VANS - total number of row with conditions - 2939
+2019-10-30 11:34:09,814 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_VANS - total number of row with conditions - 0
+2019-10-30 11:34:09,814 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_HEAVY EQUIPMENTS - total number of row with conditions - 6538
+2019-10-30 11:34:09,814 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_HEAVY EQUIPMENTS - total number of row with conditions - 0
+2019-10-30 11:34:09,814 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_SEMI TRAILERS - total number of row with conditions - 532
+2019-10-30 11:34:09,814 - CAMION - NL - TRUCKSNL - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_SEMI TRAILERS - total number of row with conditions - 0

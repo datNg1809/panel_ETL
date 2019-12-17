@@ -1,0 +1,179 @@
+2019-11-01 02:40:38,954 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-11-01 02:40:38,954 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-11-01 02:40:38,954 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ACHAT_LOC - True - 1
+2019-11-01 02:40:38,954 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 0, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 1, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 2, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 3, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 4, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 5, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 6, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 7, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 8, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 9, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 10, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 11, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 12, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 13, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 14, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 15, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 16, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 17, value should among [1, 2]
+2019-11-01 02:40:38,955 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 18, value should among [1, 2]
+2019-11-01 02:40:38,956 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 19, value should among [1, 2]
+2019-11-01 02:40:38,956 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 0.0
+2019-11-01 02:40:38,956 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - ACHAT_LOC - False - 0
+2019-11-01 02:40:38,956 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 99.74
+2019-11-01 02:40:38,956 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - True - 1
+2019-11-01 02:40:38,956 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-11-01 02:40:38,956 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ADRESSE - False - 0
+2019-11-01 02:40:38,956 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-11-01 02:40:38,956 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_CP - False - 0
+2019-11-01 02:40:38,956 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 0.0
+2019-11-01 02:40:38,956 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_NOM - False - 0
+2019-11-01 02:40:38,956 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 0.0
+2019-11-01 02:40:38,956 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_TEL - False - 0
+2019-11-01 02:40:38,956 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-11-01 02:40:38,956 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_VILLE - False - 0
+2019-11-01 02:40:38,956 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 0.0
+2019-11-01 02:40:38,956 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_DATE - False - 0
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 0.0
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_TEXT - False - 0
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CATEGORIE - False - 0
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - False - 0
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 0.0
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - False - 0
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 1153253
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-11-01 02:40:38,957 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 30.0 on line 1 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 120.0 on line 6 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 120.0 on line 7 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 50.0 on line 8 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 220.0 on line 9 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 120.0 on line 11 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 70.0 on line 12 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 50.0 on line 13 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 3800.0 on line 16 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 68.0 on line 20 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 75.0 on line 25 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 120.0 on line 27 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 140.0 on line 28 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 130.0 on line 29 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 980.0 on line 33 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 120.0 on line 34 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 75.0 on line 35 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 50.0 on line 39 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1000.0 on line 41 should be int
+2019-11-01 02:40:38,958 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 65.0 on line 43 should be int
+2019-11-01 02:40:38,959 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-11-01 02:40:38,959 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2_TOTALE - False - 0
+2019-11-01 02:40:38,959 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 68.6
+2019-11-01 02:40:38,959 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2_TOTALE - False - 0
+2019-11-01 02:40:38,959 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 0.0
+2019-11-01 02:40:38,959 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MAISON_APT - False - 0
+2019-11-01 02:40:38,959 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-11-01 02:40:38,959 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MINI_SITE_ID - False - 0
+2019-11-01 02:40:38,959 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-11-01 02:40:38,959 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-11-01 02:40:38,959 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [H13 Ocean Walk Resor...] on line  19334, value length should be between 0 and 255
+2019-11-01 02:40:38,959 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [K7 est un condominiu...] on line  19338, value length should be between 0 and 255
+2019-11-01 02:40:38,959 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Q8 Ocean Walk Resort...] on line  19343, value length should be between 0 and 255
+2019-11-01 02:40:38,959 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Vista Vega est une m...] on line  38829, value length should be between 0 and 255
+2019-11-01 02:40:38,959 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Le Fornaci Luxury Ap...] on line  49465, value length should be between 0 and 255
+2019-11-01 02:40:38,959 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [J15 Ocean Walk est u...] on line  57393, value length should be between 0 and 255
+2019-11-01 02:40:38,959 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Magnifiquement décor...] on line  73657, value length should be between 0 and 255
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Le F1 Ocean Walk Res...] on line  75420, value length should be between 0 and 255
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Cabane en rondins co...] on line  80908, value length should be between 0 and 255
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ce condo Red Hawk Lo...] on line  83980, value length should be between 0 and 255
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Grand condo de 1 300...] on line  95082, value length should be between 0 and 255
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Récemment rénové, ce...] on line  95917, value length should be between 0 and 255
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ce condo est magnifi...] on line  96325, value length should be between 0 and 255
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Magnifique SKI-IN Mo...] on line  112592, value length should be between 0 and 255
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Sur la promenade 1er...] on line  114460, value length should be between 0 and 255
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Springs 8910 est une...] on line  121011, value length should be between 0 and 255
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [**** Offres spéciale...] on line  124069, value length should be between 0 and 255
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [NOUVEAUTÉS À PROACTI...] on line  127797, value length should be between 0 and 255
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Emplacement idéal, m...] on line  156447, value length should be between 0 and 255
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Solde d'été! 144 $ /...] on line  175223, value length should be between 0 and 255
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.98
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: États-Unis d'Amérique on line 0, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Espagne on line 1, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,960 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Royaume-Uni on line 2, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Italie on line 3, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Royaume-Uni on line 4, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Italie on line 5, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Italie on line 6, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Italie on line 7, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Italie on line 8, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Italie on line 9, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Royaume-Uni on line 10, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Italie on line 12, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Italie on line 13, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Royaume-Uni on line 14, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Italie on line 15, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Royaume-Uni on line 16, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Espagne on line 17, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Espagne on line 18, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Royaume-Uni on line 19, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - PAYS_AD - Unexpected value: Espagne on line 20, value should match regexp [A-Z]{2}
+2019-11-01 02:40:38,961 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - PAYS_AD - correctly filled rate (%) - 11.99
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - PAYS_AD - False - 0
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 99.71
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PAYS_AD - True - 1
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 99.98
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 97.17
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PIECE - True - 1
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PIECE - True - 1
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 11732.0 on line 0 should be int
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1302.0 on line 1 should be int
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1064.0 on line 2 should be int
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 686.0 on line 3 should be int
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1393.0 on line 4 should be int
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 399.0 on line 5 should be int
+2019-11-01 02:40:38,962 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2401.0 on line 6 should be int
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1540.0 on line 7 should be int
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 392.0 on line 8 should be int
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1134.0 on line 9 should be int
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1673.0 on line 10 should be int
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 924.0 on line 11 should be int
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 896.0 on line 12 should be int
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 441.0 on line 13 should be int
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1197.0 on line 14 should be int
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 5873.0 on line 16 should be int
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 707.0 on line 19 should be int
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 469.0 on line 20 should be int
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 938.0 on line 21 should be int
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1344.0 on line 25 should be int
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PRIX - False - 0
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 96.91
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 0.0
+2019-11-01 02:40:38,963 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRO_IND - False - 0
+2019-11-01 02:40:38,964 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 98.3
+2019-11-01 02:40:38,964 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - True - 1
+2019-11-01 02:40:38,964 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-11-01 02:40:38,964 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SELLER_TYPE - True - 1
+2019-11-01 02:40:38,964 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-11-01 02:40:38,964 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - SELLER_TYPE - True - 1
+2019-11-01 02:40:38,964 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 99.97
+2019-11-01 02:40:38,964 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - VILLE - True - 1
+2019-11-01 02:40:38,964 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.67
+2019-11-01 02:40:38,964 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-11-01 02:40:38,964 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 60689
+2019-11-01 02:40:38,964 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 0
+2019-11-01 02:40:38,964 - IMMO - FR.VACANCES - HOMELIDAYS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0

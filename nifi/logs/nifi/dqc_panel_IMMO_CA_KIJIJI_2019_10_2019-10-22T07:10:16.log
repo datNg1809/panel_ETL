@@ -1,0 +1,161 @@
+2019-10-22 07:13:11,998 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-10-22 07:13:11,998 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-10-22 07:13:11,998 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ACHAT_LOC - True - 1
+2019-10-22 07:13:11,998 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - ACHAT_LOC - True - 1
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 89.82
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ADRESSE - False - 0
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_CP - False - 0
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ID - True - 1
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 22.21
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_NOM - False - 0
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.88
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - AGENCE_TEL - True - 1
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 44.25
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_TEL - False - 0
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 100.0
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_VILLE - True - 1
+2019-10-22 07:13:11,999 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-10-22 07:13:12,000 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_DATE - True - 1
+2019-10-22 07:13:12,000 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-22 07:13:12,000 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-10-22 07:13:12,000 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-22 07:13:12,000 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-10-22 07:13:12,000 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 90.1
+2019-10-22 07:13:12,000 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-10-22 07:13:12,000 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: T5H 3J8 on line 2, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,000 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: N3T 2J1 on line 3, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,000 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V1G 2G9 on line 4, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,000 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: H1W 1H4 on line 5, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,000 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: R3H 0M6 on line 6, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,000 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: P7B 5T2 on line 7, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,000 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: B4V 2V7 on line 10, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,000 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: G6P 2N6 on line 11, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,000 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: H7V 3S2 on line 12, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,000 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: J3P 3J9 on line 13, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: H3G 1B5 on line 14, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: L6X 1R2 on line 18, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: J2C 3X2 on line 19, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: H2T 1N5 on line 20, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: N5P 2V1 on line 21, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: N4K 2H7 on line 22, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: H9A 2X4 on line 23, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: N4G 3L5 on line 24, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: N4G 3L5 on line 25, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: L6W 3E6 on line 26, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 12.26
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_match_regex - CP - correctly filled rate (%) - 100.0
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_match_regex - CP - True - 1
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 0.0
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - False - 0
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 64334
+2019-10-22 07:13:12,001 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 43500.0 on line 1 should be int
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 750.0 on line 2 should be int
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 750.0 on line 3 should be int
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 348.0 on line 5 should be int
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 16500.0 on line 6 should be int
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 1200.0 on line 7 should be int
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 10000.0 on line 9 should be int
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 900.0 on line 10 should be int
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 800.0 on line 13 should be int
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 11570.0 on line 15 should be int
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 145.0 on line 18 should be int
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 2000.0 on line 19 should be int
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 1000.0 on line 20 should be int
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 600.0 on line 21 should be int
+2019-10-22 07:13:12,002 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 700.0 on line 23 should be int
+2019-10-22 07:13:12,003 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 850.0 on line 37 should be int
+2019-10-22 07:13:12,003 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 658.0 on line 38 should be int
+2019-10-22 07:13:12,003 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 500.0 on line 39 should be int
+2019-10-22 07:13:12,003 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 1960.0 on line 40 should be int
+2019-10-22 07:13:12,003 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 850.0 on line 44 should be int
+2019-10-22 07:13:12,003 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-10-22 07:13:12,003 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2 - False - 0
+2019-10-22 07:13:12,003 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 82.5
+2019-10-22 07:13:12,003 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2 - False - 0
+2019-10-22 07:13:12,003 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-10-22 07:13:12,003 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MAISON_APT - True - 1
+2019-10-22 07:13:12,003 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-10-22 07:13:12,003 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - unexpected count - 0
+2019-10-22 07:13:12,003 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MAISON_APT - True - 1
+2019-10-22 07:13:12,003 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-10-22 07:13:12,003 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MINI_SITE_ID - False - 0
+2019-10-22 07:13:12,003 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PHOTO - correctly filled rate (%) - 100.0
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PHOTO - True - 1
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PIECE - correctly filled rate (%) - 100.0
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PIECE - True - 1
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PIECE - True - 1
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PIECE - True - 1
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PRIX - True - 1
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRO_IND - True - 1
+2019-10-22 07:13:12,004 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - PRO_IND - True - 1
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - False - 0
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 0 should be int
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 1 should be int
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 2 should be int
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 3 should be int
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 4 should be int
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 5 should be int
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 6 should be int
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 7 should be int
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 8 should be int
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 9 should be int
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 10 should be int
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 11 should be int
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 12 should be int
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 13 should be int
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 14 should be int
+2019-10-22 07:13:12,005 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 15 should be int
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 16 should be int
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 17 should be int
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 18 should be int
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 19 should be int
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - SURFACE_TERRAIN - False - 0
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Baie-Comeau on line 0, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: City of Montru00E9al on line 5, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Gaspu00E9 on line 8, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: City of Montru00E9al on line 14, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: City of Montru00E9al on line 20, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Chatham-Kent on line 42, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Quu00E9bec City on line 47, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: St. John's on line 52, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Chatham-Kent on line 53, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Quu00E9bec City on line 54, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Quu00E9bec City on line 55, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,006 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: St. John's on line 64, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,007 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: City of Montru00E9al on line 66, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,007 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Sept-u00CEles on line 77, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,007 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: St. Catharines on line 80, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,007 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: St. Catharines on line 81, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,007 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: St. Catharines on line 83, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,007 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Quu00E9bec City on line 85, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,007 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Lu00E9vis on line 95, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,007 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: City of Montru00E9al on line 102, value should match regexp ^[A-Za-z /]{2,}$
+2019-10-22 07:13:12,007 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 81.38
+2019-10-22 07:13:12,007 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - VILLE - False - 0
+2019-10-22 07:13:12,007 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-10-22 07:13:12,007 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-10-22 07:13:12,007 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 48696
+2019-10-22 07:13:12,007 - IMMO - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 15638

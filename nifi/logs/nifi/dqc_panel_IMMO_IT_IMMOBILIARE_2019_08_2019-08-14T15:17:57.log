@@ -1,0 +1,78 @@
+2019-08-14 15:19:33,834 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,834 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,834 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-08-14 15:19:33,834 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 92.32
+2019-08-14 15:19:33,834 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 91.21
+2019-08-14 15:19:33,834 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 41056.0 on line 0, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,834 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 19011.0 on line 1, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,834 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 41056.0 on line 2, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,834 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 22017.0 on line 3, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,834 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 41056.0 on line 4, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,834 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 64045.0 on line 5, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,834 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 24030.0 on line 6, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,834 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 24030.0 on line 7, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,834 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 173.0 on line 8, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,834 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 63066.0 on line 9, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,835 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 80026.0 on line 10, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,835 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 55014.0 on line 11, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,835 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 55041.0 on line 12, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,835 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 48122.0 on line 13, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,835 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 20017.0 on line 14, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,835 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 26013.0 on line 15, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,835 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 87029.0 on line 16, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,835 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 63066.0 on line 17, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,835 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 35010.0 on line 18, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,835 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 35010.0 on line 19, value should match regexp ^[0-9]{5}$
+2019-08-14 15:19:33,835 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-08-14 15:19:33,835 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,835 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 92.53
+2019-08-14 15:19:33,835 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.27
+2019-08-14 15:19:33,835 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 95.98
+2019-08-14 15:19:33,835 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 91.21
+2019-08-14 15:19:33,835 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,836 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,836 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-08-14 15:19:33,836 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 0.14
+2019-08-14 15:19:33,836 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-08-14 15:19:33,836 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 909834
+2019-08-14 15:19:33,836 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,836 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-08-14 15:19:33,836 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 12.0 on line 0 should be int
+2019-08-14 15:19:33,836 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 180.0 on line 1 should be int
+2019-08-14 15:19:33,836 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 400.0 on line 2 should be int
+2019-08-14 15:19:33,836 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 60.0 on line 3 should be int
+2019-08-14 15:19:33,836 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 66.0 on line 4 should be int
+2019-08-14 15:19:33,836 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 500.0 on line 5 should be int
+2019-08-14 15:19:33,836 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 75.0 on line 6 should be int
+2019-08-14 15:19:33,836 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 45.0 on line 7 should be int
+2019-08-14 15:19:33,836 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 38.0 on line 8 should be int
+2019-08-14 15:19:33,836 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 140.0 on line 9 should be int
+2019-08-14 15:19:33,837 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 89.0 on line 10 should be int
+2019-08-14 15:19:33,837 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 180.0 on line 11 should be int
+2019-08-14 15:19:33,837 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 700.0 on line 12 should be int
+2019-08-14 15:19:33,837 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 120.0 on line 13 should be int
+2019-08-14 15:19:33,837 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 138.0 on line 14 should be int
+2019-08-14 15:19:33,837 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 50.0 on line 15 should be int
+2019-08-14 15:19:33,837 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 140.0 on line 16 should be int
+2019-08-14 15:19:33,837 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 78.0 on line 17 should be int
+2019-08-14 15:19:33,837 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 45.0 on line 18 should be int
+2019-08-14 15:19:33,837 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 31.0 on line 19 should be int
+2019-08-14 15:19:33,837 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-08-14 15:19:33,837 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,837 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,837 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,837 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 92.5
+2019-08-14 15:19:33,837 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,837 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,838 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,838 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,838 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,838 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,838 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,838 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,838 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,838 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,838 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-08-14 15:19:33,838 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 7593
+2019-08-14 15:19:33,838 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 82280
+2019-08-14 15:19:33,838 - IMMO - IT - IMMOBILIARE - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 827554

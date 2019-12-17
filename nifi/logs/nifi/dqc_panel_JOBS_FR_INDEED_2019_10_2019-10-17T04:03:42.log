@@ -1,0 +1,176 @@
+2019-10-17 04:03:51,608 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+
+2019-10-17 04:03:51,609 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+
+2019-10-17 04:03:51,609 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+
+2019-10-17 04:03:51,609 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+
+2019-10-17 04:03:51,609 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+
+2019-10-17 04:03:51,609 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 39.16
+
+2019-10-17 04:03:51,609 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_TEXT - False - 0
+
+2019-10-17 04:03:51,609 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Vous aurez en charge...] on line  9, value length should be between 0 and 255
+
+2019-10-17 04:03:51,609 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [La Rmn-Grand Palais ...] on line  25, value length should be between 0 and 255
+
+2019-10-17 04:03:51,609 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [De son héritage hist...] on line  43, value length should be between 0 and 255
+
+2019-10-17 04:03:51,609 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Sécuriser notre iden...] on line  47, value length should be between 0 and 255
+
+2019-10-17 04:03:51,609 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [CDD Durée: Année sco...] on line  122, value length should be between 0 and 255
+
+2019-10-17 04:03:51,609 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Nous recherchons un ...] on line  123, value length should be between 0 and 255
+
+2019-10-17 04:03:51,609 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Rattaché(e) au Direc...] on line  238, value length should be between 0 and 255
+
+2019-10-17 04:03:51,609 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Vos principales miss...] on line  258, value length should be between 0 and 255
+
+2019-10-17 04:03:51,610 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [La MSA, Sécurité soc...] on line  288, value length should be between 0 and 255
+
+2019-10-17 04:03:51,610 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Le CREDIT FONCIER, f...] on line  313, value length should be between 0 and 255
+
+2019-10-17 04:03:51,610 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Pour relever ce défi...] on line  316, value length should be between 0 and 255
+
+2019-10-17 04:03:51,610 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [HP crée des solution...] on line  338, value length should be between 0 and 255
+
+2019-10-17 04:03:51,610 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [préparation et appro...] on line  343, value length should be between 0 and 255
+
+2019-10-17 04:03:51,610 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [La clinique Les Sour...] on line  345, value length should be between 0 and 255
+
+2019-10-17 04:03:51,610 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Votre quotidien ? Tr...] on line  367, value length should be between 0 and 255
+
+2019-10-17 04:03:51,610 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [En 1966, Florence Do...] on line  379, value length should be between 0 and 255
+
+2019-10-17 04:03:51,610 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Rattaché au directeu...] on line  381, value length should be between 0 and 255
+
+2019-10-17 04:03:51,610 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Notre équipe commerc...] on line  386, value length should be between 0 and 255
+
+2019-10-17 04:03:51,610 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Profil recherché De ...] on line  393, value length should be between 0 and 255
+
+2019-10-17 04:03:51,610 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Manpower LYON INGENI...] on line  395, value length should be between 0 and 255
+
+2019-10-17 04:03:51,610 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 85.59
+
+2019-10-17 04:03:51,610 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - False - 0
+
+2019-10-17 04:03:51,610 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCEUR - correctly filled rate (%) - 100.0
+
+2019-10-17 04:03:51,610 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCEUR - True - 1
+
+2019-10-17 04:03:51,611 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCEUR_ID - correctly filled rate (%) - 0.0
+
+2019-10-17 04:03:51,611 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCEUR_ID - False - 0
+
+2019-10-17 04:03:51,611 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCEUR_ID_3 - correctly filled rate (%) - 0.0
+
+2019-10-17 04:03:51,611 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCEUR_ID_3 - False - 0
+
+2019-10-17 04:03:51,611 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CABINET - correctly filled rate (%) - 0.0
+
+2019-10-17 04:03:51,611 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CABINET - False - 0
+
+2019-10-17 04:03:51,611 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CONTRAT - correctly filled rate (%) - 0.0
+
+2019-10-17 04:03:51,611 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CONTRAT - False - 0
+
+2019-10-17 04:03:51,611 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 65.71
+
+2019-10-17 04:03:51,611 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - False - 0
+
+2019-10-17 04:03:51,611 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 26.0 on line 0, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,611 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 75.0 on line 2, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,611 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 44.0 on line 4, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,611 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 27.0 on line 6, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,611 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 92.0 on line 9, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,612 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 15.0 on line 10, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,612 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 75.0 on line 11, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,612 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 94.0 on line 12, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,612 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 67.0 on line 13, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,612 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 75.0 on line 15, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,612 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 35.0 on line 17, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,612 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 67.0 on line 18, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,612 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 93.0 on line 19, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,612 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 93.0 on line 20, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,612 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 64.0 on line 22, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,612 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 67.0 on line 23, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,612 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 82.0 on line 24, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,612 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 75.0 on line 25, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,612 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 34.0 on line 26, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,612 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 76.0 on line 28, value should match regexp ^[0-9]{2}$
+
+2019-10-17 04:03:51,612 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - DEPARTEMENT - correctly filled rate (%) - 0.0
+
+2019-10-17 04:03:51,613 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - DEPARTEMENT - False - 0
+
+2019-10-17 04:03:51,613 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ENTREPRISE - correctly filled rate (%) - 0.0
+
+2019-10-17 04:03:51,613 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ENTREPRISE - False - 0
+
+2019-10-17 04:03:51,613 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+
+2019-10-17 04:03:51,613 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+
+2019-10-17 04:03:51,613 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+
+2019-10-17 04:03:51,613 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+
+2019-10-17 04:03:51,613 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 467667
+
+2019-10-17 04:03:51,613 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LIEU - correctly filled rate (%) - 100.0
+
+2019-10-17 04:03:51,613 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LIEU - True - 1
+
+2019-10-17 04:03:51,613 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - METIER - correctly filled rate (%) - 100.0
+
+2019-10-17 04:03:51,613 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - METIER - True - 1
+
+2019-10-17 04:03:51,613 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - ON_SITE - observed proportion - 100.0
+
+2019-10-17 04:03:51,613 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ON_SITE - correctly filled rate (%) - 100.0
+
+2019-10-17 04:03:51,613 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ON_SITE - True - 1
+
+2019-10-17 04:03:51,613 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OTHER_SITE - correctly filled rate (%) - 71.92
+
+2019-10-17 04:03:51,613 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OTHER_SITE - False - 0
+
+2019-10-17 04:03:51,614 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+
+2019-10-17 04:03:51,614 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - False - 0
+
+2019-10-17 04:03:51,614 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - REGION - total number of unique rows - 0
+
+2019-10-17 04:03:51,614 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE_EMPLOI - correctly filled rate (%) - 92.11
+
+2019-10-17 04:03:51,614 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE_EMPLOI - True - 1
+
+2019-10-17 04:03:51,614 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SALAIRE - correctly filled rate (%) - 0.0
+
+2019-10-17 04:03:51,614 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SALAIRE - False - 0
+
+2019-10-17 04:03:51,614 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SECTEUR - correctly filled rate (%) - 0.0
+
+2019-10-17 04:03:51,614 - JOBS - FR - INDEED - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SECTEUR - False - 0
+

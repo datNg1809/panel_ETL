@@ -1,0 +1,163 @@
+2019-11-22 05:30:13,191 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-11-22 05:30:13,191 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-11-22 05:30:13,191 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ACHAT_LOC - True - 1
+2019-11-22 05:30:13,192 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-11-22 05:30:13,192 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - ACHAT_LOC - True - 1
+2019-11-22 05:30:13,192 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-11-22 05:30:13,192 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-11-22 05:30:13,192 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-11-22 05:30:13,192 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ADRESSE - False - 0
+2019-11-22 05:30:13,192 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 93.39
+2019-11-22 05:30:13,192 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_CP - True - 1
+2019-11-22 05:30:13,192 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 040 on line 1631, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,192 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: L-5480 on line 2147, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,192 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: L-5480 on line 2692, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,192 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: L-5480 on line 7364, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,192 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6411 on line 7768, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,192 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 7551 on line 10529, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,192 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6440 on line 10839, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,192 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6511SC on line 12492, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,192 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 9839 on line 12998, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 9839 on line 13315, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6511SC on line 13938, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6440 on line 15547, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5445 on line 16864, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5445 on line 16867, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6511SC on line 17298, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: L-5480 on line 17575, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 9839 on line 17859, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6440 on line 18714, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6440 on line 18718, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6440 on line 18719, value should match regexp ^[0-9]{5}$
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 99.8
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - AGENCE_CP - False - 0
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ID - True - 1
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 94.85
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_NOM - True - 1
+2019-11-22 05:30:13,193 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.52
+2019-11-22 05:30:13,194 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - AGENCE_TEL - True - 1
+2019-11-22 05:30:13,194 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 86.93
+2019-11-22 05:30:13,194 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_TEL - False - 0
+2019-11-22 05:30:13,194 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 94.1
+2019-11-22 05:30:13,194 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_VILLE - True - 1
+2019-11-22 05:30:13,194 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-11-22 05:30:13,194 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_DATE - True - 1
+2019-11-22 05:30:13,194 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-11-22 05:30:13,194 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-11-22 05:30:13,194 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-11-22 05:30:13,194 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-11-22 05:30:13,194 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.02
+2019-11-22 05:30:13,194 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-11-22 05:30:13,194 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-11-22 05:30:13,194 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-11-22 05:30:13,194 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 99.95
+2019-11-22 05:30:13,194 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - True - 1
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 177906
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 56.72 on line 0 should be int
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 165.0 on line 1 should be int
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 130.0 on line 2 should be int
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 37.0 on line 3 should be int
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 63.0 on line 4 should be int
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 82.0 on line 5 should be int
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 69.44 on line 6 should be int
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 52.0 on line 7 should be int
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 127.0 on line 8 should be int
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 67.23 on line 9 should be int
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 193.0 on line 10 should be int
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 59.2 on line 11 should be int
+2019-11-22 05:30:13,195 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 74.0 on line 12 should be int
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 41.5 on line 13 should be int
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 60.61 on line 14 should be int
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 15 should be int
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 165.0 on line 16 should be int
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 170.0 on line 17 should be int
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 60.0 on line 18 should be int
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 40.05 on line 19 should be int
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2 - False - 0
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 99.95
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2 - True - 1
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MAISON_APT - True - 1
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - unexpected count - 0
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MAISON_APT - True - 1
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 93.63
+2019-11-22 05:30:13,196 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MINI_SITE_ID - True - 1
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - True - 1
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 99.02
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PIECE - True - 1
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PIECE - True - 1
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 355.0 on line 0 should be int
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 750000.0 on line 1 should be int
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 335000.0 on line 2 should be int
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 150.0 on line 3 should be int
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 515.0 on line 4 should be int
+2019-11-22 05:30:13,197 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 650.0 on line 5 should be int
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 486.0 on line 6 should be int
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 360.0 on line 7 should be int
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1700.0 on line 8 should be int
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 470.0 on line 9 should be int
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1400.0 on line 10 should be int
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 300.0 on line 11 should be int
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 280000.0 on line 12 should be int
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 375.0 on line 13 should be int
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 430.0 on line 14 should be int
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 11.0 on line 15 should be int
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1150.0 on line 16 should be int
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 595000.0 on line 17 should be int
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 420.0 on line 18 should be int
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 125000.0 on line 19 should be int
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PRIX - False - 0
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 98.38
+2019-11-22 05:30:13,198 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRO_IND - True - 1
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - PRO_IND - True - 1
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - False - 0
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 0 should be int
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 1 should be int
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 2 should be int
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 3 should be int
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 4 should be int
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 5 should be int
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 6 should be int
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 7 should be int
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 8 should be int
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 9 should be int
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 10 should be int
+2019-11-22 05:30:13,199 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 11 should be int
+2019-11-22 05:30:13,200 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 12 should be int
+2019-11-22 05:30:13,200 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 13 should be int
+2019-11-22 05:30:13,200 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 14 should be int
+2019-11-22 05:30:13,200 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 15 should be int
+2019-11-22 05:30:13,200 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 16 should be int
+2019-11-22 05:30:13,200 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 17 should be int
+2019-11-22 05:30:13,200 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 18 should be int
+2019-11-22 05:30:13,200 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 19 should be int
+2019-11-22 05:30:13,200 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-11-22 05:30:13,200 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - SURFACE_TERRAIN - False - 0
+2019-11-22 05:30:13,200 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-11-22 05:30:13,200 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - VILLE - True - 1
+2019-11-22 05:30:13,200 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.02
+2019-11-22 05:30:13,200 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-11-22 05:30:13,200 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 8153
+2019-11-22 05:30:13,200 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 166581
+2019-11-22 05:30:13,201 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 11325
+2019-11-22 05:30:13,201 - IMMO - DE - IMMONET - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 17

@@ -1,0 +1,95 @@
+2019-08-19 18:40:03,207 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-08-19 18:40:03,208 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,208 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,208 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,208 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,208 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,208 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-08-19 18:40:03,208 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,208 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,208 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 98.61
+2019-08-19 18:40:03,208 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,208 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-08-19 18:40:03,208 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,208 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-08-19 18:40:03,208 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 20588
+2019-08-19 18:40:03,208 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,208 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,209 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,209 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,209 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,209 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,209 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,209 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,209 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,209 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,209 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,209 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  4, value length should be between 10 and 255
+2019-08-19 18:40:03,209 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  14, value length should be between 10 and 255
+2019-08-19 18:40:03,209 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  15, value length should be between 10 and 255
+2019-08-19 18:40:03,209 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  16, value length should be between 10 and 255
+2019-08-19 18:40:03,209 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  17, value length should be between 10 and 255
+2019-08-19 18:40:03,209 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  31, value length should be between 10 and 255
+2019-08-19 18:40:03,209 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  32, value length should be between 10 and 255
+2019-08-19 18:40:03,209 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  33, value length should be between 10 and 255
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  34, value length should be between 10 and 255
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  44, value length should be between 10 and 255
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  45, value length should be between 10 and 255
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  46, value length should be between 10 and 255
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  47, value length should be between 10 and 255
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW e-Golf...] on line  63, value length should be between 10 and 255
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  70, value length should be between 10 and 255
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  111, value length should be between 10 and 255
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  112, value length should be between 10 and 255
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  113, value length should be between 10 and 255
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  134, value length should be between 10 and 255
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW Polo...] on line  135, value length should be between 10 and 255
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 95.19
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,210 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,211 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,211 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,211 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,211 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,211 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-08-19 18:40:03,211 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,211 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 98.61
+2019-08-19 18:40:03,211 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.59
+2019-08-19 18:40:03,211 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-08-19 18:40:03,211 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-08-19 18:40:03,211 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 98.61
+2019-08-19 18:40:03,211 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-08-19 18:40:03,211 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 20588
+2019-08-19 18:40:03,211 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-08-19 18:40:03,211 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 44
+2019-08-19 18:40:03,211 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 307
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 7
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 4
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 98.4
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1968.0 on line 0 should be in ['int']
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 999.0 on line 1 should be in ['int']
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1395.0 on line 2 should be in ['int']
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 3 should be in ['int']
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 999.0 on line 4 should be in ['int']
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 999.0 on line 5 should be in ['int']
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 999.0 on line 6 should be in ['int']
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 999.0 on line 7 should be in ['int']
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 999.0 on line 8 should be in ['int']
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 999.0 on line 9 should be in ['int']
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 999.0 on line 10 should be in ['int']
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 999.0 on line 11 should be in ['int']
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 999.0 on line 12 should be in ['int']
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1968.0 on line 13 should be in ['int']
+2019-08-19 18:40:03,212 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 999.0 on line 14 should be in ['int']
+2019-08-19 18:40:03,213 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 999.0 on line 15 should be in ['int']
+2019-08-19 18:40:03,213 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 999.0 on line 16 should be in ['int']
+2019-08-19 18:40:03,213 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 999.0 on line 17 should be in ['int']
+2019-08-19 18:40:03,213 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 18 should be in ['int']
+2019-08-19 18:40:03,213 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1968.0 on line 19 should be in ['int']
+2019-08-19 18:40:03,213 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-08-19 18:40:03,213 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-08-19 18:40:03,213 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 250
+2019-08-19 18:40:03,213 - VO - AT - DASWELTAUTO - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0

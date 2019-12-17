@@ -1,0 +1,225 @@
+2019-12-12 09:28:31,771 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-12-12 09:28:31,771 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 50.05
+2019-12-12 09:28:31,771 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-12-12 09:28:31,771 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-12-12 09:28:31,771 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-12-12 09:28:31,771 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 0, value should be between 1980 and 2019
+2019-12-12 09:28:31,771 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 1, value should be between 1980 and 2019
+2019-12-12 09:28:31,771 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 3, value should be between 1980 and 2019
+2019-12-12 09:28:31,771 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 4, value should be between 1980 and 2019
+2019-12-12 09:28:31,771 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 5, value should be between 1980 and 2019
+2019-12-12 09:28:31,771 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 6, value should be between 1980 and 2019
+2019-12-12 09:28:31,771 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 7, value should be between 1980 and 2019
+2019-12-12 09:28:31,771 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 8, value should be between 1980 and 2019
+2019-12-12 09:28:31,771 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 9, value should be between 1980 and 2019
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 10, value should be between 1980 and 2019
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 11, value should be between 1980 and 2019
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 12, value should be between 1980 and 2019
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 13, value should be between 1980 and 2019
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 14, value should be between 1980 and 2019
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 17, value should be between 1980 and 2019
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 18, value should be between 1980 and 2019
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 19, value should be between 1980 and 2019
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 20, value should be between 1980 and 2019
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 21, value should be between 1980 and 2019
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 22, value should be between 1980 and 2019
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 87.65
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 9827
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - False - 0
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 0, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,772 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,773 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,773 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,773 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 5, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,773 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 6, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,773 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,773 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 8, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,773 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,773 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 10, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,773 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 11, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,773 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 12, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,773 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 13, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,773 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 14, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,773 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 17, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,773 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 18, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,773 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 19, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,773 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 20, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,773 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 21, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,774 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 22, value should match regexp ^[0-9]{4}$
+2019-12-12 09:28:31,774 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 88.06
+2019-12-12 09:28:31,774 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-12-12 09:28:31,774 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-12-12 09:28:31,774 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-12-12 09:28:31,774 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-12-12 09:28:31,774 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-12-12 09:28:31,774 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 0.0
+2019-12-12 09:28:31,774 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_TEXT - False - 0
+2019-12-12 09:28:31,774 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 99.48
+2019-12-12 09:28:31,774 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - True - 1
+2019-12-12 09:28:31,774 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 98.17
+2019-12-12 09:28:31,774 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - True - 1
+2019-12-12 09:28:31,774 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 50.04
+2019-12-12 09:28:31,774 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - False - 0
+2019-12-12 09:28:31,774 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: RG20BF on line 11973, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-12-12 09:28:31,774 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: RG20BF on line 23363, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 99.99
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 93.93
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 79570
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-12-12 09:28:31,775 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-12-12 09:28:31,776 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-12-12 09:28:31,776 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 99.74
+2019-12-12 09:28:31,776 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-12-12 09:28:31,776 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 99.74
+2019-12-12 09:28:31,776 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - True - 1
+2019-12-12 09:28:31,776 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 0.0
+2019-12-12 09:28:31,776 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - False - 0
+2019-12-12 09:28:31,776 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 99.74
+2019-12-12 09:28:31,776 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-12-12 09:28:31,776 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Zero DS...] on line  280, value length should be between 10 and 255
+2019-12-12 09:28:31,776 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Zero DSR...] on line  281, value length should be between 10 and 255
+2019-12-12 09:28:31,776 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Zero FXS...] on line  282, value length should be between 10 and 255
+2019-12-12 09:28:31,776 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Zero S...] on line  283, value length should be between 10 and 255
+2019-12-12 09:28:31,776 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Zero SR...] on line  284, value length should be between 10 and 255
+2019-12-12 09:28:31,776 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Honda C90...] on line  465, value length should be between 10 and 255
+2019-12-12 09:28:31,776 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW R100...] on line  1669, value length should be between 10 and 255
+2019-12-12 09:28:31,776 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [ACE Capri...] on line  1908, value length should be between 10 and 255
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Other 586...] on line  4808, value length should be between 10 and 255
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Zero FXS...] on line  5466, value length should be between 10 and 255
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Jawa 350...] on line  5895, value length should be between 10 and 255
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Suzuki X5...] on line  5898, value length should be between 10 and 255
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Levis 350...] on line  5900, value length should be between 10 and 255
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Suzuki X7...] on line  5905, value length should be between 10 and 255
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Zero FX...] on line  6018, value length should be between 10 and 255
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW R60...] on line  6019, value length should be between 10 and 255
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Zero S...] on line  6224, value length should be between 10 and 255
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Zero DS...] on line  6225, value length should be between 10 and 255
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Zero DSR...] on line  6226, value length should be between 10 and 255
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [KTM RC390...] on line  7096, value length should be between 10 and 255
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.93
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-12-12 09:28:31,777 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-12-12 09:28:31,778 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-12-12 09:28:31,778 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-12-12 09:28:31,778 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 38 should be in ['int']
+2019-12-12 09:28:31,778 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 17.0 on line 45 should be in ['int']
+2019-12-12 09:28:31,778 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 56 should be in ['int']
+2019-12-12 09:28:31,778 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 1.0 on line 65 should be in ['int']
+2019-12-12 09:28:31,778 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 73 should be in ['int']
+2019-12-12 09:28:31,778 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 74 should be in ['int']
+2019-12-12 09:28:31,778 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 75 should be in ['int']
+2019-12-12 09:28:31,778 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 78 should be in ['int']
+2019-12-12 09:28:31,778 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 79 should be in ['int']
+2019-12-12 09:28:31,778 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 81 should be in ['int']
+2019-12-12 09:28:31,778 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 90 should be in ['int']
+2019-12-12 09:28:31,778 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 92 should be in ['int']
+2019-12-12 09:28:31,778 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 108 should be in ['int']
+2019-12-12 09:28:31,778 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 6.0 on line 110 should be in ['int']
+2019-12-12 09:28:31,778 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 114 should be in ['int']
+2019-12-12 09:28:31,779 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 130 should be in ['int']
+2019-12-12 09:28:31,779 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 137 should be in ['int']
+2019-12-12 09:28:31,779 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 147 should be in ['int']
+2019-12-12 09:28:31,779 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 166 should be in ['int']
+2019-12-12 09:28:31,779 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 170 should be in ['int']
+2019-12-12 09:28:31,779 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-12-12 09:28:31,779 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PLACE - False - 0
+2019-12-12 09:28:31,779 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 62.32
+2019-12-12 09:28:31,779 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-12-12 09:28:31,779 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 46.63
+2019-12-12 09:28:31,779 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-12-12 09:28:31,779 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-12-12 09:28:31,779 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PORTE - True - 1
+2019-12-12 09:28:31,779 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-12-12 09:28:31,779 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-12-12 09:28:31,779 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-12-12 09:28:31,779 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - False - 0
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 99.36
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01895647805 on line 0, value should match a phone number format
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01895647805 on line 1, value should match a phone number format
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01252207604 on line 2, value should match a phone number format
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01895647805 on line 3, value should match a phone number format
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01895647804 on line 4, value should match a phone number format
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01204351994 on line 5, value should match a phone number format
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01204351994 on line 6, value should match a phone number format
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01895647805 on line 7, value should match a phone number format
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01942566747 on line 8, value should match a phone number format
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01925697694 on line 9, value should match a phone number format
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01925697694 on line 10, value should match a phone number format
+2019-12-12 09:28:31,780 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01925697694 on line 11, value should match a phone number format
+2019-12-12 09:28:31,781 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01925697694 on line 12, value should match a phone number format
+2019-12-12 09:28:31,781 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01925697694 on line 13, value should match a phone number format
+2019-12-12 09:28:31,781 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01925697694 on line 14, value should match a phone number format
+2019-12-12 09:28:31,781 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01798874949 on line 15, value should match a phone number format
+2019-12-12 09:28:31,781 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01204351994 on line 16, value should match a phone number format
+2019-12-12 09:28:31,781 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01204351994 on line 17, value should match a phone number format
+2019-12-12 09:28:31,781 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01204351994 on line 18, value should match a phone number format
+2019-12-12 09:28:31,781 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 01204351994 on line 19, value should match a phone number format
+2019-12-12 09:28:31,781 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 0.0
+2019-12-12 09:28:31,781 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - False - 0
+2019-12-12 09:28:31,781 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-12-12 09:28:31,781 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-12-12 09:28:31,781 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-12-12 09:28:31,781 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 50.04
+2019-12-12 09:28:31,781 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - False - 0
+2019-12-12 09:28:31,781 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-12-12 09:28:31,781 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - False - 0
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 0
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 0
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 67
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 10
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 53.48
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.5L on line 38 should be in ['int']
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.2L on line 45 should be in ['int']
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.4L on line 56 should be in ['int']
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.4L on line 73 should be in ['int']
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3.0L on line 75 should be in ['int']
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.9L on line 78 should be in ['int']
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.4L on line 79 should be in ['int']
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.4L on line 81 should be in ['int']
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.2L on line 92 should be in ['int']
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.9L on line 108 should be in ['int']
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.4L on line 110 should be in ['int']
+2019-12-12 09:28:31,782 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.5L on line 112 should be in ['int']
+2019-12-12 09:28:31,783 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0L on line 114 should be in ['int']
+2019-12-12 09:28:31,783 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.9L on line 137 should be in ['int']
+2019-12-12 09:28:31,783 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.2L on line 145 should be in ['int']
+2019-12-12 09:28:31,783 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.8L on line 147 should be in ['int']
+2019-12-12 09:28:31,783 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3.0L on line 166 should be in ['int']
+2019-12-12 09:28:31,783 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0L on line 170 should be in ['int']
+2019-12-12 09:28:31,783 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.3L on line 171 should be in ['int']
+2019-12-12 09:28:31,783 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.5L on line 175 should be in ['int']
+2019-12-12 09:28:31,783 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-12-12 09:28:31,783 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - CYLINDRE - False - 0
+2019-12-12 09:28:31,783 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-12-12 09:28:31,783 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 128
+2019-12-12 09:28:31,783 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-12-12 09:28:31,783 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 75720
+2019-12-12 09:28:31,783 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 3850
+2019-12-12 09:28:31,783 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CATEGORIE - MOTO - 25713
+2019-12-12 09:28:31,783 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CATEGORIE - CAMPINGCAR - 7983
+2019-12-12 09:28:31,784 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CATEGORIE - VANS - 42523
+2019-12-12 09:28:31,784 - NPV - UK - AUTOTRADER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CATEGORIE - CARAVANE - 3351

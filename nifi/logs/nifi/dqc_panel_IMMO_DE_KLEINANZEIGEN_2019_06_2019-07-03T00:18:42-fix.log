@@ -1,0 +1,101 @@
+2019-07-03 00:19:00,422 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,422 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,422 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-07-03 00:19:00,422 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-07-03 00:19:00,422 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-07-03 00:19:00,422 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,422 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 99.59
+2019-07-03 00:19:00,422 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.91
+2019-07-03 00:19:00,422 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 75.28
+2019-07-03 00:19:00,422 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-07-03 00:19:00,422 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,422 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,422 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-07-03 00:19:00,422 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6729 on line 7, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6729 on line 19, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4155 on line 20, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6844 on line 25, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6333 on line 28, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6126 on line 30, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4720 on line 34, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1920 on line 38, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7549 on line 40, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7549 on line 42, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7552 on line 44, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6124 on line 46, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2625 on line 61, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6110 on line 65, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 8056 on line 67, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9437 on line 70, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9128 on line 71, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6333 on line 83, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,423 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9228 on line 93, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4178 on line 102, value should match regexp [0-9]{5}
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 86.04
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 180277
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 150.0 on line 0 should be int
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 115.0 on line 1 should be int
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 80.0 on line 2 should be int
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 80.0 on line 3 should be int
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 1.0 on line 4 should be int
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 230.0 on line 5 should be int
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 38.0 on line 6 should be int
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 37.0 on line 7 should be int
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 206.0 on line 8 should be int
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 112.0 on line 9 should be int
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 172.0 on line 10 should be int
+2019-07-03 00:19:00,424 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 60.0 on line 11 should be int
+2019-07-03 00:19:00,425 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 90.0 on line 12 should be int
+2019-07-03 00:19:00,425 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 89.0 on line 13 should be int
+2019-07-03 00:19:00,425 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 67.0 on line 14 should be int
+2019-07-03 00:19:00,425 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 115.0 on line 15 should be int
+2019-07-03 00:19:00,425 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 100.0 on line 16 should be int
+2019-07-03 00:19:00,425 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 25.0 on line 17 should be int
+2019-07-03 00:19:00,425 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 250.0 on line 18 should be int
+2019-07-03 00:19:00,425 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 84.0 on line 19 should be int
+2019-07-03 00:19:00,425 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-07-03 00:19:00,425 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,425 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,425 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,425 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 99.6
+2019-07-03 00:19:00,425 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 0.0
+2019-07-03 00:19:00,425 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,425 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,425 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 0 should be int
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 1 should be int
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 2 should be int
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 3 should be int
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 4 should be int
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 5 should be int
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 6 should be int
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 7 should be int
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 8 should be int
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 9 should be int
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 10 should be int
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 11 should be int
+2019-07-03 00:19:00,426 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 12 should be int
+2019-07-03 00:19:00,427 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 13 should be int
+2019-07-03 00:19:00,427 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 14 should be int
+2019-07-03 00:19:00,427 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 15 should be int
+2019-07-03 00:19:00,427 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 16 should be int
+2019-07-03 00:19:00,427 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 17 should be int
+2019-07-03 00:19:00,427 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 18 should be int
+2019-07-03 00:19:00,427 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 19 should be int
+2019-07-03 00:19:00,427 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-07-03 00:19:00,427 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,427 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-07-03 00:19:00,427 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 8781
+2019-07-03 00:19:00,427 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 95290
+2019-07-03 00:19:00,427 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 84987
+2019-07-03 00:19:00,427 - IMMO - DE - KLEINANZEIGEN - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 16

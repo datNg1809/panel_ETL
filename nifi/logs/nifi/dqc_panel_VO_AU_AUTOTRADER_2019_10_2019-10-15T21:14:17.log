@@ -1,0 +1,154 @@
+2019-10-15 21:14:27,344 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-10-15 21:14:27,344 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-10-15 21:14:27,344 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-10-15 21:14:27,344 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,344 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-10-15 21:14:27,344 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.82
+2019-10-15 21:14:27,344 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 126
+2019-10-15 21:14:27,344 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - True - 1
+2019-10-15 21:14:27,345 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,345 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-10-15 21:14:27,345 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,345 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - True - 1
+2019-10-15 21:14:27,345 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,345 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-10-15 21:14:27,345 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-15 21:14:27,345 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-10-15 21:14:27,345 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 97.04
+2019-10-15 21:14:27,345 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - True - 1
+2019-10-15 21:14:27,345 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-10-15 21:14:27,345 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - False - 0
+2019-10-15 21:14:27,345 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,345 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-10-15 21:14:27,345 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 99.57
+2019-10-15 21:14:27,345 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 93.55
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 71517
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 83.18
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 176337.0 on line 0 should be in ['int']
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 72000.0 on line 1 should be in ['int']
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 49312.0 on line 2 should be in ['int']
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 75204.0 on line 3 should be in ['int']
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 3277.0 on line 4 should be in ['int']
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 205887.0 on line 5 should be in ['int']
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 153323.0 on line 6 should be in ['int']
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 44412.0 on line 7 should be in ['int']
+2019-10-15 21:14:27,346 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 219799.0 on line 8 should be in ['int']
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 120500.0 on line 9 should be in ['int']
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 39511.0 on line 10 should be in ['int']
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 96349.0 on line 11 should be in ['int']
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 47020.0 on line 12 should be in ['int']
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 110970.0 on line 13 should be in ['int']
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 336000.0 on line 14 should be in ['int']
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 116625.0 on line 15 should be in ['int']
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 151000.0 on line 16 should be in ['int']
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 237513.0 on line 17 should be in ['int']
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 5890.0 on line 18 should be in ['int']
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 73035.0 on line 19 should be in ['int']
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 0.0
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - False - 0
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 99.72
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-10-15 21:14:27,347 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 97.29
+2019-10-15 21:14:27,348 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-10-15 21:14:27,348 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,348 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-10-15 21:14:27,348 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,348 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - True - 1
+2019-10-15 21:14:27,348 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 0.0
+2019-10-15 21:14:27,348 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - False - 0
+2019-10-15 21:14:27,348 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,348 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-10-15 21:14:27,348 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi TT  ...] on line  3073, value length should be between 10 and 255
+2019-10-15 21:14:27,348 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [LDV G10  ...] on line  3815, value length should be between 10 and 255
+2019-10-15 21:14:27,348 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MG ZS  ...] on line  4532, value length should be between 10 and 255
+2019-10-15 21:14:27,348 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A3  ...] on line  6363, value length should be between 10 and 255
+2019-10-15 21:14:27,348 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW X5  ...] on line  6471, value length should be between 10 and 255
+2019-10-15 21:14:27,348 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [LDV G10  ...] on line  7144, value length should be between 10 and 255
+2019-10-15 21:14:27,348 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [LDV G10  ...] on line  7369, value length should be between 10 and 255
+2019-10-15 21:14:27,348 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW X4  ...] on line  8349, value length should be between 10 and 255
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Mazda 3  ...] on line  9581, value length should be between 10 and 255
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Kia RIO  ...] on line  13632, value length should be between 10 and 255
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Mazda 3  ...] on line  16000, value length should be between 10 and 255
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Mazda 3  ...] on line  16265, value length should be between 10 and 255
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi Q8  ...] on line  16284, value length should be between 10 and 255
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Mazda 3  ...] on line  17478, value length should be between 10 and 255
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Mazda 6  ...] on line  18654, value length should be between 10 and 255
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MG B  ...] on line  19073, value length should be between 10 and 255
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW X1  ...] on line  19910, value length should be between 10 and 255
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [LDV G10  ...] on line  21720, value length should be between 10 and 255
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Mazda 3  ...] on line  26773, value length should be between 10 and 255
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Mazda 3  ...] on line  26774, value length should be between 10 and 255
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.83
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - True - 1
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Sunshine Coast –  Dr...] on line  3, value length should be between 0 and 255
+2019-10-15 21:14:27,349 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2018 Kia Sorento Si ...] on line  4, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Absolute immaculate ...] on line  5, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [We are located in th...] on line  6, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [TOP OF THE RANGE VRX...] on line  8, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [This one has got the...] on line  9, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Selling this awesome...] on line  10, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [The epitome of sophi...] on line  11, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [PRICE DROPPED!   Reg...] on line  13, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Selling my 2001 fact...] on line  14, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [** FLAT BED TRAY **,...] on line  15, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [**DEMO 7 Seat Volksw...] on line  18, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [*** Facelift! Indigo...] on line  19, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ISUZU DMAX 3.0LT TUR...] on line  20, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [This car is NOT FOR ...] on line  21, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Get 1% Finance from ...] on line  22, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [********************...] on line  23, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Sadly it is time to ...] on line  24, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [A 2012 Toyota Hybrid...] on line  25, value length should be between 0 and 255
+2019-10-15 21:14:27,350 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [A  REAL HEADTURNER *...] on line  26, value length should be between 0 and 255
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 30.22
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - OPTIONS - False - 0
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - True - 1
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,351 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 93.55
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 93.55
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - True - 1
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - VN_IND - True - 1
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 8
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-10-15 21:14:27,352 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 8
+2019-10-15 21:14:27,353 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 605
+2019-10-15 21:14:27,353 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-10-15 21:14:27,353 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 59050
+2019-10-15 21:14:27,353 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 4615
+2019-10-15 21:14:27,353 - VO - AU - AUTOTRADER - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_NEWCARS - total number of row with conditions - 7852

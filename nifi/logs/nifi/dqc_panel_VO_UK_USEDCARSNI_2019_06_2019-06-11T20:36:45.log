@@ -1,0 +1,99 @@
+2019-06-11 20:36:46,780 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-06-11 20:36:46,781 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,781 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.95
+2019-06-11 20:36:46,781 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,781 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 243, value should match regexp ^[0-9]{4}$
+2019-06-11 20:36:46,781 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 993, value should match regexp ^[0-9]{4}$
+2019-06-11 20:36:46,781 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1287, value should match regexp ^[0-9]{4}$
+2019-06-11 20:36:46,781 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1892, value should match regexp ^[0-9]{4}$
+2019-06-11 20:36:46,781 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 5788, value should match regexp ^[0-9]{4}$
+2019-06-11 20:36:46,781 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 17637, value should match regexp ^[0-9]{4}$
+2019-06-11 20:36:46,781 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 18588, value should match regexp ^[0-9]{4}$
+2019-06-11 20:36:46,781 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 21427, value should match regexp ^[0-9]{4}$
+2019-06-11 20:36:46,781 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 22598, value should match regexp ^[0-9]{4}$
+2019-06-11 20:36:46,781 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.96
+2019-06-11 20:36:46,781 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,781 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-06-11 20:36:46,781 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 35.02
+2019-06-11 20:36:46,782 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-06-11 20:36:46,782 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-06-11 20:36:46,782 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-06-11 20:36:46,782 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,782 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-06-11 20:36:46,782 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 24501
+2019-06-11 20:36:46,782 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,782 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,782 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,782 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,782 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,782 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,782 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,782 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,782 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-06-11 20:36:46,782 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-06-11 20:36:46,782 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-06-11 20:36:46,783 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW M5...] on line  677, value length should be between 10 and 255
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volkswagen Golf Plus...] on line  734, value length should be between 10 and 255
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi TT...] on line  828, value length should be between 10 and 255
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW M3 M3...] on line  1016, value length should be between 10 and 255
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford Tourneo Custom ...] on line  1804, value length should be between 10 and 255
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Mercedes-Benz E-Clas...] on line  3062, value length should be between 10 and 255
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 3 Series 320d  B...] on line  3207, value length should be between 10 and 255
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 3 Series 320d  x...] on line  4216, value length should be between 10 and 255
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Vauxhall Adam SLAM, ...] on line  4489, value length should be between 10 and 255
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volkswagen Tiguan 2....] on line  4756, value length should be between 10 and 255
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Hyundai i30 1.6  CRD...] on line  5008, value length should be between 10 and 255
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Vauxhall Insignia 1....] on line  5250, value length should be between 10 and 255
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Vauxhall Meriva 1.7 ...] on line  5322, value length should be between 10 and 255
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Peugeot 207 SW  1.6 ...] on line  5492, value length should be between 10 and 255
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Toyota Aygo 1.0  VVT...] on line  6060, value length should be between 10 and 255
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MG MG6...] on line  6131, value length should be between 10 and 255
+2019-06-11 20:36:46,784 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fiat 500...] on line  6133, value length should be between 10 and 255
+2019-06-11 20:36:46,785 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Nissan Micra 1.4  Sp...] on line  6560, value length should be between 10 and 255
+2019-06-11 20:36:46,785 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW M5 M5...] on line  7939, value length should be between 10 and 255
+2019-06-11 20:36:46,785 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Vauxhall Corsa 1.2  ...] on line  8001, value length should be between 10 and 255
+2019-06-11 20:36:46,785 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.67
+2019-06-11 20:36:46,785 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-06-11 20:36:46,785 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,785 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,785 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-06-11 20:36:46,785 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-06-11 20:36:46,785 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,785 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,785 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-06-11 20:36:46,785 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,785 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 0.0
+2019-06-11 20:36:46,785 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-06-11 20:36:46,785 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-06-11 20:36:46,785 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 0.0
+2019-06-11 20:36:46,786 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-06-11 20:36:46,786 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 0
+2019-06-11 20:36:46,786 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-06-11 20:36:46,786 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 59
+2019-06-11 20:36:46,786 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 486
+2019-06-11 20:36:46,786 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-06-11 20:36:46,786 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 1
+2019-06-11 20:36:46,786 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-06-11 20:36:46,786 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-06-11 20:36:46,786 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 0
+2019-06-11 20:36:46,786 - VO - UK - USEDCARSNI - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0

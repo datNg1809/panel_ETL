@@ -1,0 +1,160 @@
+2019-07-23 09:43:59,958 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 0.0
+2019-07-23 09:43:59,958 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-07-23 09:43:59,959 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 83.96
+2019-07-23 09:43:59,959 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-07-23 09:43:59,959 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-07-23 09:43:59,959 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-07-23 09:43:59,959 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 19.75
+2019-07-23 09:43:59,959 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.82
+2019-07-23 09:43:59,959 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 37.99
+2019-07-23 09:43:59,959 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-07-23 09:43:59,959 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-07-23 09:43:59,959 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-07-23 09:43:59,959 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-07-23 09:43:59,959 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 84.11
+2019-07-23 09:43:59,959 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: T5H 3J8 on line 4, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,959 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: N3T 2J1 on line 6, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,959 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: K1L 0A5 on line 7, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,960 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: G1K 2R3 on line 8, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,960 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V1G 2G9 on line 9, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,960 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: H1W 1H4 on line 10, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,960 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: R3H 0M6 on line 11, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,960 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: P7B 5T2 on line 12, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,960 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: B4V 2V7 on line 14, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,960 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: G6P 2N6 on line 15, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,960 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: H7V 3S2 on line 16, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,960 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: H7V 3S2 on line 17, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,960 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: J3P 3J9 on line 18, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,960 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: H3G 1B5 on line 19, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,960 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M5S 1H1 on line 22, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,960 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: L6X 1R2 on line 24, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,960 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: B3H 2K4 on line 25, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,960 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: J2C 3X2 on line 26, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,960 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: H2T 1N5 on line 28, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,960 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: N5P 2V1 on line 29, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:43:59,961 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 12.46
+2019-07-23 09:43:59,961 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_match_regex - CP - correctly filled rate (%) - 100.0
+2019-07-23 09:43:59,961 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 0.0
+2019-07-23 09:43:59,961 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 72176
+2019-07-23 09:43:59,961 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-07-23 09:43:59,961 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-07-23 09:43:59,961 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 600.0 on line 0 should be int
+2019-07-23 09:43:59,961 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 43500.0 on line 2 should be int
+2019-07-23 09:43:59,961 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 1450.0 on line 3 should be int
+2019-07-23 09:43:59,961 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 750.0 on line 4 should be int
+2019-07-23 09:43:59,961 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 750.0 on line 6 should be int
+2019-07-23 09:43:59,961 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 200.0 on line 8 should be int
+2019-07-23 09:43:59,961 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 348.0 on line 10 should be int
+2019-07-23 09:43:59,961 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 16500.0 on line 11 should be int
+2019-07-23 09:43:59,961 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 1200.0 on line 12 should be int
+2019-07-23 09:43:59,961 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 10000.0 on line 13 should be int
+2019-07-23 09:43:59,962 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 900.0 on line 14 should be int
+2019-07-23 09:43:59,962 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 800.0 on line 18 should be int
+2019-07-23 09:43:59,962 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 11570.0 on line 20 should be int
+2019-07-23 09:43:59,962 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 145.0 on line 24 should be int
+2019-07-23 09:43:59,962 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 2000.0 on line 26 should be int
+2019-07-23 09:43:59,962 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 1200.0 on line 27 should be int
+2019-07-23 09:43:59,962 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 1000.0 on line 28 should be int
+2019-07-23 09:43:59,962 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 600.0 on line 29 should be int
+2019-07-23 09:43:59,962 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 700.0 on line 31 should be int
+2019-07-23 09:43:59,962 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 35 should be int
+2019-07-23 09:43:59,962 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-07-23 09:43:59,962 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 65.79
+2019-07-23 09:43:59,962 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 0.0
+2019-07-23 09:43:59,962 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-07-23 09:43:59,962 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 4.0 on line 0 should be int
+2019-07-23 09:43:59,962 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 7.0 on line 1 should be int
+2019-07-23 09:43:59,962 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 7.0 on line 2 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 15.0 on line 3 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 5.0 on line 4 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 2.0 on line 5 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 17.0 on line 6 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 7.0 on line 7 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 8 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 9 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 10 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 6.0 on line 11 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 1.0 on line 12 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 7.0 on line 13 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 7.0 on line 14 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 6.0 on line 15 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 12.0 on line 16 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 10.0 on line 17 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 8.0 on line 18 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 10.0 on line 19 should be int
+2019-07-23 09:43:59,963 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PHOTO - correctly filled rate (%) - 0.0
+2019-07-23 09:43:59,964 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 99.98
+2019-07-23 09:43:59,964 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-07-23 09:43:59,964 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PIECE - correctly filled rate (%) - 100.0
+2019-07-23 09:43:59,964 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-07-23 09:43:59,964 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-07-23 09:43:59,964 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 0.0 on line 0 should be int
+2019-07-23 09:43:59,964 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 0.0 on line 1 should be int
+2019-07-23 09:43:59,964 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 499000.0 on line 2 should be int
+2019-07-23 09:43:59,964 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2100.0 on line 3 should be int
+2019-07-23 09:43:59,964 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 890.0 on line 4 should be int
+2019-07-23 09:43:59,964 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 9.0 on line 5 should be int
+2019-07-23 09:43:59,964 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1695.0 on line 6 should be int
+2019-07-23 09:43:59,964 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1600.0 on line 7 should be int
+2019-07-23 09:43:59,964 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 450.0 on line 8 should be int
+2019-07-23 09:43:59,964 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 0.0 on line 9 should be int
+2019-07-23 09:43:59,964 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 675.0 on line 10 should be int
+2019-07-23 09:43:59,965 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 0.0 on line 11 should be int
+2019-07-23 09:43:59,965 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 0.0 on line 12 should be int
+2019-07-23 09:43:59,965 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1220.0 on line 13 should be int
+2019-07-23 09:43:59,965 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 950.0 on line 14 should be int
+2019-07-23 09:43:59,965 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 575.0 on line 15 should be int
+2019-07-23 09:43:59,965 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1015.0 on line 16 should be int
+2019-07-23 09:43:59,965 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 875.0 on line 17 should be int
+2019-07-23 09:43:59,965 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 520.0 on line 18 should be int
+2019-07-23 09:43:59,965 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1700.0 on line 19 should be int
+2019-07-23 09:43:59,965 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-07-23 09:43:59,965 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 99.73
+2019-07-23 09:43:59,965 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 93.06
+2019-07-23 09:43:59,965 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-07-23 09:43:59,965 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-07-23 09:43:59,965 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 0 should be int
+2019-07-23 09:43:59,965 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 1 should be int
+2019-07-23 09:43:59,965 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 2 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 3 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 4 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 5 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 6 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 7 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 8 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 9 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 10 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 11 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 12 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 13 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 14 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 15 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 16 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 17 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 18 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 19 should be int
+2019-07-23 09:43:59,966 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-07-23 09:43:59,967 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Gaspu00E9 on line 0, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,967 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Baie-Comeau on line 1, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,967 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Quu00E9bec City on line 8, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,967 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: City of Montru00E9al on line 10, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,967 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: City of Montru00E9al on line 19, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,967 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: City of Montru00E9al on line 28, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,967 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Quu00E9bec City on line 50, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,967 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Chatham-Kent on line 52, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,967 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Quu00E9bec City on line 62, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,967 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Quu00E9bec City on line 64, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,967 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Quu00E9bec City on line 68, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,967 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: St. John's on line 69, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,967 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Quu00E9bec City on line 71, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,967 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Chatham-Kent on line 72, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,967 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Quu00E9bec City on line 73, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,967 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Quu00E9bec City on line 74, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,967 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: St. John's on line 85, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,968 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: City of Montru00E9al on line 87, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,968 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Sept-u00CEles on line 98, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,968 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: St. Catharines on line 102, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:43:59,968 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 73.16
+2019-07-23 09:43:59,968 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.98
+2019-07-23 09:43:59,968 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 51447
+2019-07-23 09:43:59,968 - IMMO - CA - KIJIJI - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 15715

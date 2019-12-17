@@ -1,0 +1,163 @@
+2019-05-21 17:59:43,751 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_to_exist - ACHAT_LOC - column exists or not - 1.0
+2019-05-21 17:59:43,752 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-05-21 17:59:43,752 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 93.55
+2019-05-21 17:59:43,752 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-05-21 17:59:43,752 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-05-21 17:59:43,752 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-05-21 17:59:43,752 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 100.0
+2019-05-21 17:59:43,752 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.96
+2019-05-21 17:59:43,752 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 74.25
+2019-05-21 17:59:43,752 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 97.83
+2019-05-21 17:59:43,752 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 0.0
+2019-05-21 17:59:43,752 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-05-21 17:59:43,752 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-05-21 17:59:43,752 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		Ref: NEX-8223 En P...] on line  0, value length should be between 0 and 255
+2019-05-21 17:59:43,752 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		Somos una empresa ...] on line  1, value length should be between 0 and 255
+2019-05-21 17:59:43,752 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		91.5 mt Terreno 14...] on line  2, value length should be between 0 and 255
+2019-05-21 17:59:43,752 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		Desarrollo ubicado...] on line  3, value length should be between 0 and 255
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		Extraordinarios de...] on line  4, value length should be between 0 and 255
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		Nuestro desarrollo...] on line  5, value length should be between 0 and 255
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		Desarrollo de 9 de...] on line  6, value length should be between 0 and 255
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		Moderna casa en re...] on line  7, value length should be between 0 and 255
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		Casa en venta en M...] on line  8, value length should be between 0 and 255
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		Nocnok ID: MX15-BK...] on line  9, value length should be between 0 and 255
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		En el corazon del ...] on line  10, value length should be between 0 and 255
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		Casa en venta con ...] on line  11, value length should be between 0 and 255
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		ES PARA MAXIMO 8 P...] on line  13, value length should be between 0 and 255
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		Hermoso desarrollo...] on line  15, value length should be between 0 and 255
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		Se desarrolla en u...] on line  16, value length should be between 0 and 255
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		Nocnok ID: MX17-DL...] on line  17, value length should be between 0 and 255
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		Nocnok ID: MX19-FR...] on line  18, value length should be between 0 and 255
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		UBICACION LOMAS VE...] on line  19, value length should be between 0 and 255
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		Nocnok ID: MX19-FZ...] on line  21, value length should be between 0 and 255
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [		Ref: NEX-6606 Gran...] on line  22, value length should be between 0 and 255
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 6.86
+2019-05-21 17:59:43,753 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 99.8
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 0.0
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 254205
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 114.0 on line 0 should be int
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 149.0 on line 2 should be int
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 189.0 on line 7 should be int
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 76.0 on line 8 should be int
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 160.0 on line 9 should be int
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 150.0 on line 10 should be int
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 295.0 on line 11 should be int
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 160.0 on line 12 should be int
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 95.0 on line 13 should be int
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 200.0 on line 14 should be int
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 265.0 on line 17 should be int
+2019-05-21 17:59:43,754 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 220.0 on line 18 should be int
+2019-05-21 17:59:43,755 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 184.0 on line 19 should be int
+2019-05-21 17:59:43,755 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 200.0 on line 20 should be int
+2019-05-21 17:59:43,755 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 98.0 on line 21 should be int
+2019-05-21 17:59:43,755 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 216.0 on line 23 should be int
+2019-05-21 17:59:43,755 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 10.0 on line 25 should be int
+2019-05-21 17:59:43,755 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 164.0 on line 27 should be int
+2019-05-21 17:59:43,755 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 460.0 on line 29 should be int
+2019-05-21 17:59:43,755 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 64.0 on line 32 should be int
+2019-05-21 17:59:43,755 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-05-21 17:59:43,755 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 79.56
+2019-05-21 17:59:43,755 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 0.0
+2019-05-21 17:59:43,755 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 97.84
+2019-05-21 17:59:43,755 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-05-21 17:59:43,755 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-05-21 17:59:43,755 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - PAYS_AD - correctly filled rate (%) - 100.0
+2019-05-21 17:59:43,755 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 100.0
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 5.0 on line 0 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 1 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 5.0 on line 2 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 14.0 on line 3 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 14.0 on line 4 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 5.0 on line 5 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 7.0 on line 6 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 14.0 on line 7 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 12.0 on line 8 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 12.0 on line 9 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 15.0 on line 10 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 12.0 on line 11 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 6.0 on line 12 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 14.0 on line 13 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 14 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 14.0 on line 15 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 14.0 on line 16 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 12.0 on line 17 should be int
+2019-05-21 17:59:43,756 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 12.0 on line 18 should be int
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 12.0 on line 19 should be int
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PHOTO - correctly filled rate (%) - 0.0
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 2.0 on line 0 should be int
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 3.0 on line 2 should be int
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 2.0 on line 3 should be int
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 3.0 on line 4 should be int
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 2.0 on line 5 should be int
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 3.0 on line 6 should be int
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 3.0 on line 7 should be int
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 0.0 on line 8 should be int
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 3.0 on line 9 should be int
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 2.0 on line 10 should be int
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 5.0 on line 11 should be int
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 2.0 on line 12 should be int
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 2.0 on line 13 should be int
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 3.0 on line 14 should be int
+2019-05-21 17:59:43,757 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 4.0 on line 15 should be int
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 3.0 on line 16 should be int
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 3.0 on line 17 should be int
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 3.0 on line 18 should be int
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 4.0 on line 19 should be int
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PIECE - Wrong type for value: 4.0 on line 20 should be int
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PIECE - correctly filled rate (%) - 9.58
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 67.31
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 93.37
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 4,578,800 on line 0 should be int
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 7,000,000 on line 1 should be int
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 1,000,000 on line 2 should be int
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 3,760,000 on line 3 should be int
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 7,050,000 on line 4 should be int
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 2,900,000 on line 5 should be int
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 3,980,000 on line 6 should be int
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 12,000 on line 7 should be int
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 450,000 on line 8 should be int
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 1,350,000 on line 9 should be int
+2019-05-21 17:59:43,758 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 1,380 on line 10 should be int
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 2,700,000 on line 11 should be int
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 1,950 on line 12 should be int
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 1,200 on line 13 should be int
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 2,950,000 on line 14 should be int
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 4,031,620 on line 15 should be int
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 2,950,000 on line 16 should be int
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 18,000 on line 17 should be int
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 2,950,000 on line 18 should be int
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: $ 6,500,000 on line 19 should be int
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 0.0
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 114.0 on line 0 should be int
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 600.0 on line 1 should be int
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 91.0 on line 2 should be int
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 162.0 on line 7 should be int
+2019-05-21 17:59:43,759 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 80.0 on line 8 should be int
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 140.0 on line 9 should be int
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 150.0 on line 10 should be int
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 140.0 on line 11 should be int
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 160.0 on line 12 should be int
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 115.0 on line 13 should be int
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 160.0 on line 14 should be int
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 265.0 on line 17 should be int
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 160.0 on line 18 should be int
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 200.0 on line 19 should be int
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 500.0 on line 20 should be int
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 99.0 on line 21 should be int
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 870.0 on line 22 should be int
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 130.0 on line 23 should be int
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 96.0 on line 25 should be int
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 150000.0 on line 26 should be int
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 99.98
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.41
+2019-05-21 17:59:43,760 - IMMO - MX - METROSCUBICOS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 4760

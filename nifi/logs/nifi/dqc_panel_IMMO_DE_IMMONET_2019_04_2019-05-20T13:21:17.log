@@ -1,0 +1,126 @@
+2019-05-20 13:21:39,979 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_to_exist - ACHAT_LOC - column exists or not - 1.0
+2019-05-20 13:21:39,979 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,979 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,979 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.24
+2019-05-20 13:21:39,979 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 96.75
+2019-05-20 13:21:39,979 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 96.83
+2019-05-20 13:21:39,979 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 52249&nbsp; on line 20, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,979 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 01844&nbsp; on line 79, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 31135&nbsp; on line 111, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 23552&nbsp; on line 112, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 20354&nbsp; on line 275, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 89547&nbsp; on line 311, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 22162&nbsp; on line 312, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 22869&nbsp; on line 319, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 29345&nbsp; on line 335, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 04229&nbsp; on line 343, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 27755&nbsp; on line 414, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 37115&nbsp; on line 427, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 23758&nbsp; on line 584, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Hamburg on line 586, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 23552&nbsp; on line 587, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 25573&nbsp; on line 679, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 25774&nbsp; on line 728, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Wolfsburg on line 730, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 21037&nbsp; on line 746, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,980 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 23623&nbsp; on line 773, value should match regexp ^[0-9]{5}$
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 99.08
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 95.98
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.66
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 95.48
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 96.31
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.97
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9131.0 on line 2, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1259.0 on line 3, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6259.0 on line 5, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6259.0 on line 6, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6132.0 on line 7, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4159.0 on line 11, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4849.0 on line 12, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,981 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4207.0 on line 13, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6217.0 on line 14, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9577.0 on line 15, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7545.0 on line 17, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7546.0 on line 25, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9405.0 on line 26, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9405.0 on line 27, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6110.0 on line 28, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1445.0 on line 36, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6844.0 on line 37, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4207.0 on line 40, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4824.0 on line 41, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2625.0 on line 42, value should match regexp [0-9]{5}
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 84.57
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 99.96
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 175097
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-05-20 13:21:39,982 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 75.96 on line 0 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 63.5 on line 1 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 2 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 26.56 on line 3 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 37.0 on line 4 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 34.0 on line 5 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 54.0 on line 6 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 40.0 on line 7 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 91.59 on line 8 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 78.67 on line 9 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 90.0 on line 10 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 61.14 on line 11 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 59.2 on line 12 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 68.14 on line 13 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 50.0 on line 14 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 15 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 88.0 on line 16 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 62.4 on line 17 should be int
+2019-05-20 13:21:39,983 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 18 should be int
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 165.0 on line 19 should be int
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 94.54
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PHOTO - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PIECE - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,984 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 0 should be int
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 1 should be int
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 2 should be int
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 3 should be int
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 4 should be int
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 5 should be int
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 6 should be int
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 7 should be int
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 8 should be int
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 9 should be int
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 10 should be int
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 11 should be int
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 12 should be int
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 13 should be int
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 14 should be int
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 15 should be int
+2019-05-20 13:21:39,985 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 16 should be int
+2019-05-20 13:21:39,986 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 17 should be int
+2019-05-20 13:21:39,986 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 18 should be int
+2019-05-20 13:21:39,986 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 19 should be int
+2019-05-20 13:21:39,986 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-05-20 13:21:39,986 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-05-20 13:21:39,986 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.96
+2019-05-20 13:21:39,986 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 8233
+2019-05-20 13:21:39,986 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 169484
+2019-05-20 13:21:39,986 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 5613
+2019-05-20 13:21:39,986 - IMMO - DE - IMMONET - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 16

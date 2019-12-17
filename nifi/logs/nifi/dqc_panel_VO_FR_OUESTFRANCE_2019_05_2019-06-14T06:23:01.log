@@ -1,0 +1,134 @@
+2019-06-14 07:44:29,669 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 99.36
+2019-06-14 07:44:29,669 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,669 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.75
+2019-06-14 07:44:29,669 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,669 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2983, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,669 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7307, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,669 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 17298, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,669 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 19822, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,669 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 22207, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,669 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 24420, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,669 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 26368, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,669 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 32891, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,669 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 42406, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,669 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 44918, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,669 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 48915, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 68387, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 72761, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 79459, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 116116, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 122671, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 132281, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 144122, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 145822, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 154375, value should match regexp ^[0-9]{4}$
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.98
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 99.53
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 94.95
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 96.83
+2019-06-14 07:44:29,670 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 211558
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 133, value should be between 1 and 12
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 188, value should be between 1 and 12
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 285, value should be between 1 and 12
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 652, value should be between 1 and 12
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1111, value should be between 1 and 12
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1149, value should be between 1 and 12
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1386, value should be between 1 and 12
+2019-06-14 07:44:29,671 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1497, value should be between 1 and 12
+2019-06-14 07:44:29,672 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2291, value should be between 1 and 12
+2019-06-14 07:44:29,672 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2407, value should be between 1 and 12
+2019-06-14 07:44:29,672 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2455, value should be between 1 and 12
+2019-06-14 07:44:29,672 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2914, value should be between 1 and 12
+2019-06-14 07:44:29,672 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2983, value should be between 1 and 12
+2019-06-14 07:44:29,672 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3085, value should be between 1 and 12
+2019-06-14 07:44:29,672 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3323, value should be between 1 and 12
+2019-06-14 07:44:29,672 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3683, value should be between 1 and 12
+2019-06-14 07:44:29,672 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3861, value should be between 1 and 12
+2019-06-14 07:44:29,672 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4034, value should be between 1 and 12
+2019-06-14 07:44:29,672 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4280, value should be between 1 and 12
+2019-06-14 07:44:29,672 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4473, value should be between 1 and 12
+2019-06-14 07:44:29,672 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 99.5
+2019-06-14 07:44:29,672 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,672 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 0.0
+2019-06-14 07:44:29,672 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 64.65
+2019-06-14 07:44:29,672 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 1 should be in ['int']
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 2 should be in ['int']
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 3 should be in ['int']
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 4 should be in ['int']
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 5 should be in ['int']
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 6 should be in ['int']
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 7 should be in ['int']
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 8 should be in ['int']
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 9 should be in ['int']
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 10 should be in ['int']
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 11 should be in ['int']
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 12 should be in ['int']
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7.0 on line 13 should be in ['int']
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 14 should be in ['int']
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 15 should be in ['int']
+2019-06-14 07:44:29,673 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 16 should be in ['int']
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 18 should be in ['int']
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 19 should be in ['int']
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 20 should be in ['int']
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 21 should be in ['int']
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 87.85
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 98.8
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 411920479.0 on line 0, value should match a phone number format
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 366880368.0 on line 1, value should match a phone number format
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 411920165.0 on line 2, value should match a phone number format
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 366880368.0 on line 3, value should match a phone number format
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 252080943.0 on line 4, value should match a phone number format
+2019-06-14 07:44:29,674 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 278840917.0 on line 5, value should match a phone number format
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 444880001.0 on line 6, value should match a phone number format
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 422840656.0 on line 7, value should match a phone number format
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 533523427.0 on line 8, value should match a phone number format
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 249881529.0 on line 9, value should match a phone number format
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 252420308.0 on line 10, value should match a phone number format
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 261880445.0 on line 11, value should match a phone number format
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 261880683.0 on line 12, value should match a phone number format
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 481682599.0 on line 13, value should match a phone number format
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 252080192.0 on line 14, value should match a phone number format
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 246880990.0 on line 15, value should match a phone number format
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 484800120.0 on line 16, value should match a phone number format
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 252881915.0 on line 17, value should match a phone number format
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 582881935.0 on line 18, value should match a phone number format
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 261880448.0 on line 19, value should match a phone number format
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 0.0
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-06-14 07:44:29,675 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-06-14 07:44:29,676 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-06-14 07:44:29,676 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 210247
+2019-06-14 07:44:29,676 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 1311
+2019-06-14 07:44:29,676 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 99
+2019-06-14 07:44:29,676 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 768
+2019-06-14 07:44:29,676 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 19
+2019-06-14 07:44:29,676 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 6
+2019-06-14 07:44:29,676 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-06-14 07:44:29,676 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-06-14 07:44:29,676 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 1830
+2019-06-14 07:44:29,676 - VO - FR - OUESTFRANCE - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 92

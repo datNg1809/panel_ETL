@@ -1,0 +1,78 @@
+2019-05-28 09:18:17,936 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,937 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,937 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 5.66
+2019-05-28 09:18:17,937 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 2.81
+2019-05-28 09:18:17,937 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 2.61
+2019-05-28 09:18:17,937 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 5628, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,937 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 5629, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,937 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 5630, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,937 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 5631, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,937 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 5632, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,937 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 5633, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,937 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 5634, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,937 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 5635, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,937 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 5636, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,937 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 5637, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,937 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 5638, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,938 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 6283, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,938 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 6284, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,938 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 6382, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,938 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 6411, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,938 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 6425, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,938 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 6426, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,938 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 6427, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,938 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 6428, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,938 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 36061.0 on line 6784, value should match regexp ^[0-9]{5}$
+2019-05-28 09:18:17,938 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-05-28 09:18:17,938 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,938 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 0.0
+2019-05-28 09:18:17,938 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.83
+2019-05-28 09:18:17,938 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 98.9
+2019-05-28 09:18:17,938 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 2.75
+2019-05-28 09:18:17,938 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,938 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 0.0
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 272119
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 50.0 on line 0 should be int
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 40.0 on line 1 should be int
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 30.0 on line 2 should be int
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 40.0 on line 3 should be int
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 100.0 on line 4 should be int
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 65.0 on line 5 should be int
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 60.0 on line 6 should be int
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 60.0 on line 7 should be int
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 65.0 on line 8 should be int
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 150.0 on line 9 should be int
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 100.0 on line 10 should be int
+2019-05-28 09:18:17,939 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 80.0 on line 11 should be int
+2019-05-28 09:18:17,940 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 110.0 on line 12 should be int
+2019-05-28 09:18:17,940 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 70.0 on line 13 should be int
+2019-05-28 09:18:17,940 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 50.0 on line 14 should be int
+2019-05-28 09:18:17,940 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 90.0 on line 15 should be int
+2019-05-28 09:18:17,940 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 50.0 on line 16 should be int
+2019-05-28 09:18:17,940 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 90.0 on line 17 should be int
+2019-05-28 09:18:17,940 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 50.0 on line 18 should be int
+2019-05-28 09:18:17,940 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 70.0 on line 19 should be int
+2019-05-28 09:18:17,940 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-05-28 09:18:17,940 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,940 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,940 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,940 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-05-28 09:18:17,940 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,940 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,940 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,940 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,941 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,941 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,941 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,941 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,941 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,941 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-05-28 09:18:17,941 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.97
+2019-05-28 09:18:17,941 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 6433
+2019-05-28 09:18:17,941 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 2907
+2019-05-28 09:18:17,941 - IMMO - IT - AFFITTO - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 269212

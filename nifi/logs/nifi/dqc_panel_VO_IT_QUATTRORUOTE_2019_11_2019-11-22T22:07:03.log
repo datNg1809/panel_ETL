@@ -1,0 +1,227 @@
+2019-11-22 22:07:51,222 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-11-22 22:07:51,222 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 99.65
+2019-11-22 22:07:51,222 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - True - 1
+2019-11-22 22:07:51,222 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,222 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-11-22 22:07:51,222 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.5
+2019-11-22 22:07:51,222 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 948
+2019-11-22 22:07:51,222 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - True - 1
+2019-11-22 22:07:51,222 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,222 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-11-22 22:07:51,222 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 51067, value should match regexp ^[0-9]{4}$
+2019-11-22 22:07:51,222 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,222 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-11-22 22:07:51,222 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,222 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-11-22 22:07:51,222 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 99.95
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - True - 1
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 71.32
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - False - 0
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.99
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18865, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18866, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18867, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18868, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18869, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18870, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18871, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18872, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18873, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18874, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,223 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18875, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18876, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18877, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18878, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18879, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18880, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18881, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18882, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18883, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 039 on line 18884, value should match regexp ^[0-9]{5}$
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 99.85
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-11-22 22:07:51,224 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 189328
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - True - 1
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - True - 1
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-11-22 22:07:51,225 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-11-22 22:07:51,226 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - unexpected count - 189328
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MOIS - False - 0
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - MOIS - True - 1
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fiat 500...] on line  1075, value length should be between 10 and 255
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fiat Tipo...] on line  1336, value length should be between 10 and 255
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw Z3 ....] on line  2040, value length should be between 10 and 255
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fiat 500X...] on line  3324, value length should be between 10 and 255
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW i8 i8...] on line  3995, value length should be between 10 and 255
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A3...] on line  4793, value length should be between 10 and 255
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A1...] on line  4795, value length should be between 10 and 255
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A6...] on line  4796, value length should be between 10 and 255
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw X3...] on line  4798, value length should be between 10 and 255
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A4...] on line  4799, value length should be between 10 and 255
+2019-11-22 22:07:51,227 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi Q3...] on line  4800, value length should be between 10 and 255
+2019-11-22 22:07:51,228 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi Q3...] on line  4802, value length should be between 10 and 255
+2019-11-22 22:07:51,228 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A4...] on line  4803, value length should be between 10 and 255
+2019-11-22 22:07:51,228 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi Q5...] on line  4804, value length should be between 10 and 255
+2019-11-22 22:07:51,228 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A3...] on line  4806, value length should be between 10 and 255
+2019-11-22 22:07:51,228 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A6...] on line  4807, value length should be between 10 and 255
+2019-11-22 22:07:51,228 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A4...] on line  4808, value length should be between 10 and 255
+2019-11-22 22:07:51,228 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A6...] on line  4809, value length should be between 10 and 255
+2019-11-22 22:07:51,228 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi Q5...] on line  4814, value length should be between 10 and 255
+2019-11-22 22:07:51,228 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw X3...] on line  4817, value length should be between 10 and 255
+2019-11-22 22:07:51,228 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.92
+2019-11-22 22:07:51,228 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-11-22 22:07:51,228 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 73.96
+2019-11-22 22:07:51,228 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-11-22 22:07:51,228 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  0, value length should be between 0 and 255
+2019-11-22 22:07:51,228 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  3, value length should be between 0 and 255
+2019-11-22 22:07:51,228 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  6, value length should be between 0 and 255
+2019-11-22 22:07:51,228 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  7, value length should be between 0 and 255
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  8, value length should be between 0 and 255
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  9, value length should be between 0 and 255
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  10, value length should be between 0 and 255
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  11, value length should be between 0 and 255
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  12, value length should be between 0 and 255
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  13, value length should be between 0 and 255
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  14, value length should be between 0 and 255
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  15, value length should be between 0 and 255
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  16, value length should be between 0 and 255
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  17, value length should be between 0 and 255
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  18, value length should be between 0 and 255
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  19, value length should be between 0 and 255
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  20, value length should be between 0 and 255
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  21, value length should be between 0 and 255
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  22, value length should be between 0 and 255
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag laterale ...] on line  23, value length should be between 0 and 255
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 36.89
+2019-11-22 22:07:51,229 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - OPTIONS - False - 0
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 0 should be in ['int']
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 1 should be in ['int']
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7.0 on line 2 should be in ['int']
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 3 should be in ['int']
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 4 should be in ['int']
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 5 should be in ['int']
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7.0 on line 6 should be in ['int']
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 7 should be in ['int']
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 8 should be in ['int']
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 9 should be in ['int']
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 10 should be in ['int']
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 11 should be in ['int']
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 12 should be in ['int']
+2019-11-22 22:07:51,230 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 13 should be in ['int']
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 14 should be in ['int']
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 15 should be in ['int']
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 16 should be in ['int']
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 17 should be in ['int']
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 18 should be in ['int']
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 19 should be in ['int']
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PLACE - False - 0
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 76.99
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 98.93
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - True - 1
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PORTE - True - 1
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,231 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-11-22 22:07:51,232 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-11-22 22:07:51,232 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - False - 0
+2019-11-22 22:07:51,232 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,232 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-11-22 22:07:51,232 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 99.65
+2019-11-22 22:07:51,232 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-11-22 22:07:51,232 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.89
+2019-11-22 22:07:51,232 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-11-22 22:07:51,232 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,232 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-11-22 22:07:51,232 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-11-22 22:07:51,232 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,232 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-11-22 22:07:51,232 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 89.69
+2019-11-22 22:07:51,232 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - False - 0
+2019-11-22 22:07:51,232 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-11-22 22:07:51,232 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - VN_IND - True - 1
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 187664
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 1664
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 97
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 890
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 7
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 6
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 97.92
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - True - 1
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 698.0 on line 0 should be in ['int']
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1098.0 on line 1 should be in ['int']
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1995.0 on line 2 should be in ['int']
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2496.0 on line 3 should be in ['int']
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1985.0 on line 4 should be in ['int']
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 950.0 on line 5 should be in ['int']
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2776.0 on line 6 should be in ['int']
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 698.0 on line 7 should be in ['int']
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2300.0 on line 8 should be in ['int']
+2019-11-22 22:07:51,233 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2000.0 on line 9 should be in ['int']
+2019-11-22 22:07:51,234 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3000.0 on line 10 should be in ['int']
+2019-11-22 22:07:51,234 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6200.0 on line 11 should be in ['int']
+2019-11-22 22:07:51,234 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3000.0 on line 12 should be in ['int']
+2019-11-22 22:07:51,234 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6200.0 on line 13 should be in ['int']
+2019-11-22 22:07:51,234 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2000.0 on line 14 should be in ['int']
+2019-11-22 22:07:51,234 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2000.0 on line 15 should be in ['int']
+2019-11-22 22:07:51,234 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1984.0 on line 16 should be in ['int']
+2019-11-22 22:07:51,234 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3000.0 on line 17 should be in ['int']
+2019-11-22 22:07:51,234 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 698.0 on line 18 should be in ['int']
+2019-11-22 22:07:51,234 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2000.0 on line 19 should be in ['int']
+2019-11-22 22:07:51,234 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-11-22 22:07:51,234 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - CYLINDRE - False - 0
+2019-11-22 22:07:51,234 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-11-22 22:07:51,234 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 1978
+2019-11-22 22:07:51,234 - VO - IT - QUATTRORUOTE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 169

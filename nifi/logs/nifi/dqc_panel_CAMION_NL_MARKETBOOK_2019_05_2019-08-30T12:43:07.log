@@ -1,0 +1,114 @@
+2019-08-30 12:43:10,919 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-08-30 12:43:10,919 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 97.35
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 42, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 302, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 363, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 459, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 540, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1506, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1610, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1846, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2136, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2212, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2363, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2493, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2510, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2773, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2896, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,920 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2944, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,921 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3033, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,921 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3152, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,921 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3195, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,921 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3311, value should match regexp ^[0-9]{4}$
+2019-08-30 12:43:10,921 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.28
+2019-08-30 12:43:10,921 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,921 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-08-30 12:43:10,921 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 51.18
+2019-08-30 12:43:10,921 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-08-30 12:43:10,921 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.98
+2019-08-30 12:43:10,921 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: LG on line 64, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,921 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: LG on line 65, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,921 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: SG on line 66, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,921 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: SG on line 67, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,921 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: SG on line 68, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,921 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: SG on line 69, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,921 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: SG on line 70, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: SG on line 71, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: SG on line 72, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: SG on line 73, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: SG on line 74, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: SG on line 75, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: SG on line 76, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: LG on line 108, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: LG on line 109, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: LG on line 110, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: ES on line 111, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: LG on line 112, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: LG on line 113, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: LG on line 122, value should match regexp [0-9]{4}
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 80.75
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 97.92
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-08-30 12:43:10,922 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 5590
+2019-08-30 12:43:10,923 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,923 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,923 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,923 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,923 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,923 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 99.14
+2019-08-30 12:43:10,923 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 94.53
+2019-08-30 12:43:10,923 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 99.41
+2019-08-30 12:43:10,923 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [EXTEC C12...] on line  3309, value length should be between 10 and 255
+2019-08-30 12:43:10,923 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [1998 VAIA...] on line  3671, value length should be between 10 and 255
+2019-08-30 12:43:10,923 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [1984 ATM...] on line  4106, value length should be between 10 and 255
+2019-08-30 12:43:10,923 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2017 MTD...] on line  4394, value length should be between 10 and 255
+2019-08-30 12:43:10,923 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2017 MTD...] on line  4395, value length should be between 10 and 255
+2019-08-30 12:43:10,923 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2017 MTD...] on line  4892, value length should be between 10 and 255
+2019-08-30 12:43:10,923 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2017 MTD...] on line  4893, value length should be between 10 and 255
+2019-08-30 12:43:10,923 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.87
+2019-08-30 12:43:10,923 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-08-30 12:43:10,924 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,924 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,924 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-08-30 12:43:10,924 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-08-30 12:43:10,924 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,924 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,924 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-08-30 12:43:10,924 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,924 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,924 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,924 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,924 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-08-30 12:43:10,924 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-08-30 12:43:10,924 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-08-30 12:43:10,924 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 279
+2019-08-30 12:43:10,924 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 972
+2019-08-30 12:43:10,925 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-08-30 12:43:10,925 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 5
+2019-08-30 12:43:10,925 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-08-30 12:43:10,925 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-08-30 12:43:10,925 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 64
+2019-08-30 12:43:10,925 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-08-30 12:43:10,925 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 5590
+2019-08-30 12:43:10,925 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-08-30 12:43:10,925 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRUCKS - total number of row with conditions - 1422
+2019-08-30 12:43:10,925 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRACTOR UNITS - total number of row with conditions - 1520
+2019-08-30 12:43:10,925 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRAILERS - total number of row with conditions - 166
+2019-08-30 12:43:10,925 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - VANS - total number of row with conditions - 810
+2019-08-30 12:43:10,925 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - HEAVY EQUIPMENTS - total number of row with conditions - 81
+2019-08-30 12:43:10,925 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - SEMI TRAILERS - total number of row with conditions - 1591
+2019-08-30 12:43:10,925 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRUCKS - total number of row with conditions - 1422
+2019-08-30 12:43:10,925 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRUCKS - total number of row with conditions - 0
+2019-08-30 12:43:10,925 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRACTOR UNITS - total number of row with conditions - 1520
+2019-08-30 12:43:10,926 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRACTOR UNITS - total number of row with conditions - 0
+2019-08-30 12:43:10,926 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRAILERS - total number of row with conditions - 166
+2019-08-30 12:43:10,926 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRAILERS - total number of row with conditions - 0
+2019-08-30 12:43:10,926 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_VANS - total number of row with conditions - 810
+2019-08-30 12:43:10,926 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_VANS - total number of row with conditions - 0
+2019-08-30 12:43:10,926 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_HEAVY EQUIPMENTS - total number of row with conditions - 81
+2019-08-30 12:43:10,926 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_HEAVY EQUIPMENTS - total number of row with conditions - 0
+2019-08-30 12:43:10,926 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_SEMI TRAILERS - total number of row with conditions - 1591
+2019-08-30 12:43:10,926 - CAMION - NL - MARKETBOOK - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_SEMI TRAILERS - total number of row with conditions - 0

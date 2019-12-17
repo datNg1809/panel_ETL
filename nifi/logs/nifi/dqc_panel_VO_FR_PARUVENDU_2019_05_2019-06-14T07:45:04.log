@@ -1,0 +1,176 @@
+2019-06-14 08:19:05,463 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 98.72
+2019-06-14 08:19:05,463 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,463 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.82
+2019-06-14 08:19:05,463 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,463 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 432, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,463 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 439, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,463 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 459, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 759, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1380, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3311, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3622, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3967, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4879, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 5266, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7308, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7865, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 8050, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 8334, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 8444, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 8749, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9841, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 13581, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 13673, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 13682, value should match regexp ^[0-9]{4}$
+2019-06-14 08:19:05,464 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.93
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 98.77
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 76.92
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.94
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 96.43
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 152968
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 0.0
+2019-06-14 08:19:05,465 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 38, value should be between 1 and 12
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 128, value should be between 1 and 12
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 177, value should be between 1 and 12
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 244, value should be between 1 and 12
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 246, value should be between 1 and 12
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 254, value should be between 1 and 12
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 262, value should be between 1 and 12
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 288, value should be between 1 and 12
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 295, value should be between 1 and 12
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 374, value should be between 1 and 12
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 384, value should be between 1 and 12
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 386, value should be between 1 and 12
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 404, value should be between 1 and 12
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 432, value should be between 1 and 12
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 439, value should be between 1 and 12
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 459, value should be between 1 and 12
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 510, value should be between 1 and 12
+2019-06-14 08:19:05,466 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 544, value should be between 1 and 12
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 586, value should be between 1 and 12
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 651, value should be between 1 and 12
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 98.27
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Renault...] on line  5062, value length should be between 10 and 255
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A4...] on line  19982, value length should be between 10 and 255
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Renault...] on line  21171, value length should be between 10 and 255
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Renault...] on line  21652, value length should be between 10 and 255
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Renault...] on line  22347, value length should be between 10 and 255
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Seat Leon...] on line  23399, value length should be between 10 and 255
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Nissan...] on line  31022, value length should be between 10 and 255
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Mini...] on line  33499, value length should be between 10 and 255
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Renault...] on line  34411, value length should be between 10 and 255
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Renault...] on line  35705, value length should be between 10 and 255
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A4...] on line  35781, value length should be between 10 and 255
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A5...] on line  35788, value length should be between 10 and 255
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Renault...] on line  35789, value length should be between 10 and 255
+2019-06-14 08:19:05,467 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A6...] on line  35809, value length should be between 10 and 255
+2019-06-14 08:19:05,468 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Mini...] on line  35810, value length should be between 10 and 255
+2019-06-14 08:19:05,468 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Renault...] on line  35820, value length should be between 10 and 255
+2019-06-14 08:19:05,468 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford Kuga...] on line  35848, value length should be between 10 and 255
+2019-06-14 08:19:05,468 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW X1...] on line  35854, value length should be between 10 and 255
+2019-06-14 08:19:05,468 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi R8...] on line  35857, value length should be between 10 and 255
+2019-06-14 08:19:05,468 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Renault...] on line  68534, value length should be between 10 and 255
+2019-06-14 08:19:05,468 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.74
+2019-06-14 08:19:05,468 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 98.99
+2019-06-14 08:19:05,468 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,468 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,468 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,468 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 0 should be in ['int']
+2019-06-14 08:19:05,468 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 1 should be in ['int']
+2019-06-14 08:19:05,468 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 2 should be in ['int']
+2019-06-14 08:19:05,468 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 3 should be in ['int']
+2019-06-14 08:19:05,468 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 4 should be in ['int']
+2019-06-14 08:19:05,468 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 5 should be in ['int']
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 6 should be in ['int']
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 7 should be in ['int']
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 8 should be in ['int']
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 9 should be in ['int']
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 10 should be in ['int']
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 11 should be in ['int']
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 12 should be in ['int']
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 13 should be in ['int']
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 14 should be in ['int']
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 15 should be in ['int']
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 16 should be in ['int']
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 17 should be in ['int']
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 18 should be in ['int']
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 19 should be in ['int']
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 51.98
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 94.84
+2019-06-14 08:19:05,469 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 97.67
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 0, value should match a phone number format
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 1, value should match a phone number format
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 2, value should match a phone number format
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 3, value should match a phone number format
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 4, value should match a phone number format
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 5, value should match a phone number format
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 6, value should match a phone number format
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 7, value should match a phone number format
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 8, value should match a phone number format
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 9, value should match a phone number format
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 10, value should match a phone number format
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 11, value should match a phone number format
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 12, value should match a phone number format
+2019-06-14 08:19:05,470 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 13, value should match a phone number format
+2019-06-14 08:19:05,471 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 14, value should match a phone number format
+2019-06-14 08:19:05,471 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 15, value should match a phone number format
+2019-06-14 08:19:05,471 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 16, value should match a phone number format
+2019-06-14 08:19:05,471 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 17, value should match a phone number format
+2019-06-14 08:19:05,471 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 18, value should match a phone number format
+2019-06-14 08:19:05,471 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 428311794.0 on line 19, value should match a phone number format
+2019-06-14 08:19:05,471 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 0.0
+2019-06-14 08:19:05,471 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,471 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-06-14 08:19:05,471 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-06-14 08:19:05,471 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-06-14 08:19:05,471 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 139992
+2019-06-14 08:19:05,471 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 12976
+2019-06-14 08:19:05,471 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 51
+2019-06-14 08:19:05,471 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 830
+2019-06-14 08:19:05,471 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 13
+2019-06-14 08:19:05,471 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 9
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 59.96
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 2 should be in ['int']
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.0 on line 3 should be in ['int']
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.9 on line 5 should be in ['int']
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.5 on line 8 should be in ['int']
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.0 on line 9 should be in ['int']
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.5 on line 18 should be in ['int']
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.5 on line 28 should be in ['int']
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.4 on line 30 should be in ['int']
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.2 on line 33 should be in ['int']
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.4 on line 34 should be in ['int']
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.4 on line 35 should be in ['int']
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 36 should be in ['int']
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 38 should be in ['int']
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.7 on line 42 should be in ['int']
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3.0 on line 43 should be in ['int']
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3.0 on line 44 should be in ['int']
+2019-06-14 08:19:05,472 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 45 should be in ['int']
+2019-06-14 08:19:05,473 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.0 on line 46 should be in ['int']
+2019-06-14 08:19:05,473 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 50 should be in ['int']
+2019-06-14 08:19:05,473 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.4 on line 52 should be in ['int']
+2019-06-14 08:19:05,473 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-06-14 08:19:05,473 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-06-14 08:19:05,473 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 6114
+2019-06-14 08:19:05,473 - VO - FR - PARUVENDU - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 202

@@ -1,0 +1,141 @@
+2019-10-23 21:37:40,725 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-10-23 21:37:40,726 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-10-23 21:37:40,726 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ACHAT_LOC - True - 1
+2019-10-23 21:37:40,726 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-10-23 21:37:40,726 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - ACHAT_LOC - True - 1
+2019-10-23 21:37:40,726 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-10-23 21:37:40,726 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-10-23 21:37:40,726 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-10-23 21:37:40,726 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ADRESSE - False - 0
+2019-10-23 21:37:40,726 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-10-23 21:37:40,726 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_CP - False - 0
+2019-10-23 21:37:40,726 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 0.0
+2019-10-23 21:37:40,726 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_NOM - False - 0
+2019-10-23 21:37:40,726 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 0.0
+2019-10-23 21:37:40,726 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_TEL - False - 0
+2019-10-23 21:37:40,726 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-10-23 21:37:40,726 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_VILLE - False - 0
+2019-10-23 21:37:40,726 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_DATE - True - 1
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [INFORMES: 71330006- ...] on line  0, value length should be between 0 and 255
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [RENTO DEPARTAMENTO S...] on line  1, value length should be between 0 and 255
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Hermosa Casa Residen...] on line  2, value length should be between 0 and 255
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Amplia en espacios e...] on line  3, value length should be between 0 and 255
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Cerca de importantes...] on line  4, value length should be between 0 and 255
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [En Homie no te pedim...] on line  5, value length should be between 0 and 255
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Casa en renta. Bonit...] on line  6, value length should be between 0 and 255
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Casa en renta. En fr...] on line  7, value length should be between 0 and 255
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Casa de 1 NivelSala ...] on line  9, value length should be between 0 and 255
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [En Homie no te pedim...] on line  12, value length should be between 0 and 255
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [El departamento se e...] on line  13, value length should be between 0 and 255
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [CASA EN RENTA SOBRE ...] on line  14, value length should be between 0 and 255
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Amplio Departamento ...] on line  15, value length should be between 0 and 255
+2019-10-23 21:37:40,727 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Hermosa y amplia, co...] on line  16, value length should be between 0 and 255
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [TERRENO COMERCIAL EN...] on line  17, value length should be between 0 and 255
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Excelente Ubicacion,...] on line  18, value length should be between 0 and 255
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Casa en renta. Bonit...] on line  19, value length should be between 0 and 255
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [PISO EN RENTA PARA O...] on line  20, value length should be between 0 and 255
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Casa recien remodela...] on line  21, value length should be between 0 and 255
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Departamento en Rent...] on line  22, value length should be between 0 and 255
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 25.47
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - False - 0
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 99.55
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_TEXT - False - 0
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CATEGORIE - False - 0
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.97
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7140 on line 1366, value should match regexp ^[0-9]{5}$
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1810 on line 12203, value should match regexp ^[0-9]{5}$
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-10-23 21:37:40,728 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 0.0
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - False - 0
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 540968
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 155.0 on line 0 should be int
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 175.0 on line 1 should be int
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 300.0 on line 2 should be int
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 140.0 on line 3 should be int
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 56.0 on line 4 should be int
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 105.0 on line 5 should be int
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 105.0 on line 6 should be int
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 100.0 on line 7 should be int
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 210.0 on line 8 should be int
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 80.0 on line 9 should be int
+2019-10-23 21:37:40,729 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 130.0 on line 10 should be int
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 200.0 on line 11 should be int
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 100.0 on line 12 should be int
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 4652.0 on line 13 should be int
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 150.0 on line 14 should be int
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 84.0 on line 15 should be int
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 230.0 on line 16 should be int
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 9090.0 on line 17 should be int
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 142.0 on line 18 should be int
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 95.0 on line 19 should be int
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2_TOTALE - False - 0
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 93.77
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2_TOTALE - True - 1
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 0.0
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MAISON_APT - False - 0
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MINI_SITE_ID - False - 0
+2019-10-23 21:37:40,730 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 51.59
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - False - 0
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - True - 1
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 0.0
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PAYS_AD - False - 0
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 73.88
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PIECE - False - 0
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 96.29
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PIECE - True - 1
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1.5 MDP on line 0 should be int
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 23 mil MN on line 1 should be int
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 23.5 mil MN on line 2 should be int
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 5 mil MN on line 3 should be int
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 3 mil MN on line 4 should be int
+2019-10-23 21:37:40,731 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 4.5 mil MN on line 5 should be int
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 7.5 mil MN on line 6 should be int
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 7.5 mil MN on line 7 should be int
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 15 mil MN on line 8 should be int
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2.5 mil MN on line 9 should be int
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 7 mil MN on line 10 should be int
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 10 mil MN on line 11 should be int
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 4.5 mil MN on line 12 should be int
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 3.5 mil MN on line 13 should be int
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 7.9 mil MN on line 14 should be int
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 6 mil MN on line 15 should be int
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 18 mil MN on line 16 should be int
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 45.4 mil MN on line 17 should be int
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 10 mil MN on line 18 should be int
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 7.5 mil MN on line 19 should be int
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PRIX - False - 0
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-10-23 21:37:40,732 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 0.0
+2019-10-23 21:37:40,733 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRO_IND - False - 0
+2019-10-23 21:37:40,733 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-10-23 21:37:40,733 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - False - 0
+2019-10-23 21:37:40,733 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SELLER_TYPE - correctly filled rate (%) - 0.0
+2019-10-23 21:37:40,733 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SELLER_TYPE - False - 0
+2019-10-23 21:37:40,733 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-10-23 21:37:40,733 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - VILLE - True - 1
+2019-10-23 21:37:40,733 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-10-23 21:37:40,733 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-10-23 21:37:40,733 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 1164
+2019-10-23 21:37:40,733 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 0
+2019-10-23 21:37:40,733 - IMMO - MX - PROPIEDADES - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0

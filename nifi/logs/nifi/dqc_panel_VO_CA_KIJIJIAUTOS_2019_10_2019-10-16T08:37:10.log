@@ -1,0 +1,159 @@
+2019-10-16 08:37:56,725 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-10-16 08:37:56,725 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 64.03
+2019-10-16 08:37:56,725 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-10-16 08:37:56,725 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,725 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-10-16 08:37:56,725 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 93.47
+2019-10-16 08:37:56,725 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 25853
+2019-10-16 08:37:56,725 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - True - 1
+2019-10-16 08:37:56,725 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,725 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-10-16 08:37:56,725 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 0, value should match regexp ^[0-9]{4}$
+2019-10-16 08:37:56,725 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,725 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-10-16 08:37:56,725 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,725 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 91.03
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - True - 1
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - True - 1
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M3C on line 0, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V1X on line 3, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V2T on line 12, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: T9N on line 13, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: J4K2X7 on line 16, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: K4R1B7 on line 27, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: T1M1E7 on line 28, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: T8H on line 29, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: T4A on line 37, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,726 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V4R on line 70, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: K7K on line 71, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: T9H2J1 on line 100, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: S3N2X3 on line 106, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: L6K2H4 on line 108, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: G0S2S0 on line 123, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: T1K on line 141, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: L6L2X7 on line 150, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: J0T2N0 on line 151, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: T1X1R3 on line 181, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: G7N2A2 on line 187, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 80.31
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - True - 1
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-16 08:37:56,727 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 395794
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - True - 1
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - True - 1
+2019-10-16 08:37:56,728 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-10-16 08:37:56,729 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - unexpected count - 395794
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MOIS - False - 0
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - MOIS - True - 1
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [ford f150...] on line  192, value length should be between 10 and 255
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [1977 MGB....] on line  432, value length should be between 10 and 255
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [car for s...] on line  960, value length should be between 10 and 255
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MR 2...] on line  974, value length should be between 10 and 255
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [sale car...] on line  1062, value length should be between 10 and 255
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2014 BMw...] on line  2486, value length should be between 10 and 255
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [AUDI Q3...] on line  3533, value length should be between 10 and 255
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [03 z4...] on line  3727, value length should be between 10 and 255
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [F250 2003...] on line  3734, value length should be between 10 and 255
+2019-10-16 08:37:56,730 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Golf GTI...] on line  3738, value length should be between 10 and 255
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Dodge Ram...] on line  4861, value length should be between 10 and 255
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MGB...] on line  5802, value length should be between 10 and 255
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [1972 Cuda...] on line  5803, value length should be between 10 and 255
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Voiture...] on line  5877, value length should be between 10 and 255
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Chevy SSR...] on line  7625, value length should be between 10 and 255
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [87 chev...] on line  8840, value length should be between 10 and 255
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fiero...] on line  8842, value length should be between 10 and 255
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [LandRover...] on line  9600, value length should be between 10 and 255
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Acura tsx...] on line  10872, value length should be between 10 and 255
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [For sale...] on line  11834, value length should be between 10 and 255
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 98.83
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,731 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 99.93
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - True - 1
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 86.17
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - False - 0
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,732 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-10-16 08:37:56,733 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-10-16 08:37:56,733 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 82.68
+2019-10-16 08:37:56,733 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - False - 0
+2019-10-16 08:37:56,733 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,733 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - True - 1
+2019-10-16 08:37:56,733 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-10-16 08:37:56,733 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - VN_IND - True - 1
+2019-10-16 08:37:56,733 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 123
+2019-10-16 08:37:56,733 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 1122
+2019-10-16 08:37:56,733 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 9
+2019-10-16 08:37:56,733 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 6
+2019-10-16 08:37:56,733 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-10-16 08:37:56,733 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-10-16 08:37:56,733 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 14
+2019-10-16 08:37:56,733 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 5338
+2019-10-16 08:37:56,733 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-10-16 08:37:56,733 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 260496
+2019-10-16 08:37:56,734 - VO - CA - KIJIJIAUTOS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 135298

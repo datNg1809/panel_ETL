@@ -1,0 +1,155 @@
+2019-07-13 10:04:19,709 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 87.58
+2019-07-13 10:04:19,709 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,709 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.79
+2019-07-13 10:04:19,709 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,709 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,709 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,709 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-07-13 10:04:19,709 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 96.64
+2019-07-13 10:04:19,709 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 94.95
+2019-07-13 10:04:19,709 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 95.68
+2019-07-13 10:04:19,709 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 99.45
+2019-07-13 10:04:19,709 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 87.59
+2019-07-13 10:04:19,709 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,709 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-07-13 10:04:19,709 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 100670
+2019-07-13 10:04:19,710 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 79.76
+2019-07-13 10:04:19,710 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 163250.0 on line 0 should be in ['int']
+2019-07-13 10:04:19,710 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 165231.0 on line 1 should be in ['int']
+2019-07-13 10:04:19,710 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 200288.0 on line 2 should be in ['int']
+2019-07-13 10:04:19,710 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 218722.0 on line 3 should be in ['int']
+2019-07-13 10:04:19,710 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 114455.0 on line 4 should be in ['int']
+2019-07-13 10:04:19,710 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 61421.0 on line 5 should be in ['int']
+2019-07-13 10:04:19,710 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 231705.0 on line 6 should be in ['int']
+2019-07-13 10:04:19,710 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 119042.0 on line 7 should be in ['int']
+2019-07-13 10:04:19,710 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 103738.0 on line 8 should be in ['int']
+2019-07-13 10:04:19,710 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 103501.0 on line 9 should be in ['int']
+2019-07-13 10:04:19,710 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 184673.0 on line 10 should be in ['int']
+2019-07-13 10:04:19,710 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 73693.0 on line 11 should be in ['int']
+2019-07-13 10:04:19,710 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 3458.0 on line 12 should be in ['int']
+2019-07-13 10:04:19,710 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 15792.0 on line 13 should be in ['int']
+2019-07-13 10:04:19,710 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 22000.0 on line 14 should be in ['int']
+2019-07-13 10:04:19,710 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 3070.0 on line 15 should be in ['int']
+2019-07-13 10:04:19,711 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 69437.0 on line 16 should be in ['int']
+2019-07-13 10:04:19,711 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 148106.0 on line 17 should be in ['int']
+2019-07-13 10:04:19,711 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 79413.0 on line 18 should be in ['int']
+2019-07-13 10:04:19,711 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 5.0 on line 19 should be in ['int']
+2019-07-13 10:04:19,711 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 0.0
+2019-07-13 10:04:19,711 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 88.77
+2019-07-13 10:04:19,711 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,711 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 93.14
+2019-07-13 10:04:19,711 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,711 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,711 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 0.0
+2019-07-13 10:04:19,711 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,711 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [1997 MG F...] on line  24596, value length should be between 10 and 255
+2019-07-13 10:04:19,711 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,711 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 86.61
+2019-07-13 10:04:19,711 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Dual Front Airbag Pa...] on line  0, value length should be between 0 and 255
+2019-07-13 10:04:19,711 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Dual Front Airbag Pa...] on line  1, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [16 Inch Alloy Wheels...] on line  3, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Dual Front Airbag Pa...] on line  5, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Dual Front Airbag Pa...] on line  6, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [17 Inch Alloy Wheels...] on line  7, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Dual Front Airbag Pa...] on line  8, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [12 Volt Power Outlet...] on line  9, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Dual Front Airbag Pa...] on line  10, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [12 Volt Power Outlet...] on line  11, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [20 Inch Alloy Wheels...] on line  12, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Additional 12 Volt S...] on line  13, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [12 Volt Power Outlet...] on line  15, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [12 Volt Power Outlet...] on line  16, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Dual Front Airbag Pa...] on line  18, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [12 Volt Power Outlet...] on line  19, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [12 Volt Power Outlet...] on line  20, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [12 Volt Power Outlet...] on line  21, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Dual Front Airbag Pa...] on line  22, value length should be between 0 and 255
+2019-07-13 10:04:19,712 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [12 Volt Power Outlet...] on line  23, value length should be between 0 and 255
+2019-07-13 10:04:19,713 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 5.29
+2019-07-13 10:04:19,713 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,713 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,713 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 0 should be in ['int']
+2019-07-13 10:04:19,713 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 1 should be in ['int']
+2019-07-13 10:04:19,713 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 2 should be in ['int']
+2019-07-13 10:04:19,713 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 3 should be in ['int']
+2019-07-13 10:04:19,713 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 5 should be in ['int']
+2019-07-13 10:04:19,713 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7.0 on line 6 should be in ['int']
+2019-07-13 10:04:19,713 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 7 should be in ['int']
+2019-07-13 10:04:19,713 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 8 should be in ['int']
+2019-07-13 10:04:19,713 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 9 should be in ['int']
+2019-07-13 10:04:19,713 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 10 should be in ['int']
+2019-07-13 10:04:19,713 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 11 should be in ['int']
+2019-07-13 10:04:19,713 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 12 should be in ['int']
+2019-07-13 10:04:19,713 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 13 should be in ['int']
+2019-07-13 10:04:19,714 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7.0 on line 14 should be in ['int']
+2019-07-13 10:04:19,714 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 15 should be in ['int']
+2019-07-13 10:04:19,714 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 16 should be in ['int']
+2019-07-13 10:04:19,714 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7.0 on line 18 should be in ['int']
+2019-07-13 10:04:19,714 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7.0 on line 19 should be in ['int']
+2019-07-13 10:04:19,714 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 20 should be in ['int']
+2019-07-13 10:04:19,714 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 21 should be in ['int']
+2019-07-13 10:04:19,714 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-07-13 10:04:19,714 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 93.45
+2019-07-13 10:04:19,714 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 93.61
+2019-07-13 10:04:19,714 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,714 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 3500.0 on line 0 should be in ['int']
+2019-07-13 10:04:19,714 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 4999.0 on line 1 should be in ['int']
+2019-07-13 10:04:19,714 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 3499.0 on line 2 should be in ['int']
+2019-07-13 10:04:19,714 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 4999.0 on line 3 should be in ['int']
+2019-07-13 10:04:19,714 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 10990.0 on line 4 should be in ['int']
+2019-07-13 10:04:19,714 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 12980.0 on line 5 should be in ['int']
+2019-07-13 10:04:19,715 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 8888.0 on line 6 should be in ['int']
+2019-07-13 10:04:19,715 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 9990.0 on line 7 should be in ['int']
+2019-07-13 10:04:19,715 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 13888.0 on line 8 should be in ['int']
+2019-07-13 10:04:19,715 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 21990.0 on line 9 should be in ['int']
+2019-07-13 10:04:19,715 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 9000.0 on line 10 should be in ['int']
+2019-07-13 10:04:19,715 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 18990.0 on line 11 should be in ['int']
+2019-07-13 10:04:19,715 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 649888.0 on line 12 should be in ['int']
+2019-07-13 10:04:19,715 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 68777.0 on line 13 should be in ['int']
+2019-07-13 10:04:19,715 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 77888.0 on line 14 should be in ['int']
+2019-07-13 10:04:19,715 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 28990.0 on line 15 should be in ['int']
+2019-07-13 10:04:19,715 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 35988.0 on line 16 should be in ['int']
+2019-07-13 10:04:19,715 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 54990.0 on line 17 should be in ['int']
+2019-07-13 10:04:19,715 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 10999.0 on line 18 should be in ['int']
+2019-07-13 10:04:19,715 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 92990.0 on line 19 should be in ['int']
+2019-07-13 10:04:19,715 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 0.0
+2019-07-13 10:04:19,715 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 97.24
+2019-07-13 10:04:19,715 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 87.59
+2019-07-13 10:04:19,716 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,716 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 87.56
+2019-07-13 10:04:19,716 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,716 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,716 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-07-13 10:04:19,716 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 87.59
+2019-07-13 10:04:19,716 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,716 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-07-13 10:04:19,716 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 11
+2019-07-13 10:04:19,716 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 14
+2019-07-13 10:04:19,716 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 87.65
+2019-07-13 10:04:19,716 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 0 should be in ['int']
+2019-07-13 10:04:19,716 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 1 should be in ['int']
+2019-07-13 10:04:19,716 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 2 should be in ['int']
+2019-07-13 10:04:19,716 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 3 should be in ['int']
+2019-07-13 10:04:19,716 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 5 should be in ['int']
+2019-07-13 10:04:19,716 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 6 should be in ['int']
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 7 should be in ['int']
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 8 should be in ['int']
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 9 should be in ['int']
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 10 should be in ['int']
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 11 should be in ['int']
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 8.0 on line 12 should be in ['int']
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 13 should be in ['int']
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 14 should be in ['int']
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 15 should be in ['int']
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 16 should be in ['int']
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 18 should be in ['int']
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 19 should be in ['int']
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 20 should be in ['int']
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 8.0 on line 21 should be in ['int']
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 8
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 614
+2019-07-13 10:04:19,717 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-07-13 10:04:19,718 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 78258
+2019-07-13 10:04:19,718 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 8173
+2019-07-13 10:04:19,718 - VO - AU - CARSGUIDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_NEWCARS - total number of row with conditions - 14238

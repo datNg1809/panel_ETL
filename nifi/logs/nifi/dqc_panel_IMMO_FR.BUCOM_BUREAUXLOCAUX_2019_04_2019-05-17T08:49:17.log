@@ -1,0 +1,126 @@
+2019-05-17 08:51:01,804 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,804 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_to_exist - ACHAT_LOC - column exists or not - 1.0
+2019-05-17 08:51:01,804 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,804 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 99.99
+2019-05-17 08:51:01,804 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 75.41
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 99.96
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 92120.0 on line 0, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 92120.0 on line 1, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 92120.0 on line 2, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 92120.0 on line 3, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 92120.0 on line 4, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 92120.0 on line 5, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 92120.0 on line 6, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 92120.0 on line 7, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 92120.0 on line 8, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 25000.0 on line 9, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6000.0 on line 10, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 75782.0 on line 11, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 13011.0 on line 12, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 75008.0 on line 13, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 75008.0 on line 14, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 69006.0 on line 15, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,805 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 69006.0 on line 16, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,806 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 69006.0 on line 17, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,806 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 69006.0 on line 18, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,806 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 69006.0 on line 19, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,806 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-05-17 08:51:01,806 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,806 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,806 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 99.98
+2019-05-17 08:51:01,806 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 98.82
+2019-05-17 08:51:01,806 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 0.0
+2019-05-17 08:51:01,806 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,806 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-05-17 08:51:01,806 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 0.0
+2019-05-17 08:51:01,806 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,806 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,806 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6000 on line 10, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,806 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1700 on line 139, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,806 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9000 on line 244, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6400 on line 325, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6210 on line 346, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6410 on line 348, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6200 on line 349, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6510 on line 352, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6400 on line 354, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6700 on line 446, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6700 on line 456, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6700 on line 462, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4100 on line 481, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1120 on line 492, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1120 on line 520, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6560 on line 546, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6410 on line 560, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6560 on line 561, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6560 on line 562, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6560 on line 563, value should match regexp ^[0-9]{5}$
+2019-05-17 08:51:01,807 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 97.17
+2019-05-17 08:51:01,808 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,808 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 35801
+2019-05-17 08:51:01,808 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,808 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-05-17 08:51:01,808 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,808 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,808 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 0.0
+2019-05-17 08:51:01,808 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-05-17 08:51:01,808 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,808 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,808 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - PAYS_AD - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,808 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,808 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 5.0 on line 0 should be int
+2019-05-17 08:51:01,808 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 5.0 on line 1 should be int
+2019-05-17 08:51:01,808 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 6.0 on line 2 should be int
+2019-05-17 08:51:01,808 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 7.0 on line 3 should be int
+2019-05-17 08:51:01,808 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 5.0 on line 4 should be int
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 6.0 on line 5 should be int
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 5.0 on line 6 should be int
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 7 should be int
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 8.0 on line 8 should be int
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 9 should be int
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 10 should be int
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 16.0 on line 11 should be int
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 4.0 on line 12 should be int
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 13 should be int
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 6.0 on line 14 should be int
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 15 should be int
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 16 should be int
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 2.0 on line 17 should be int
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 8.0 on line 18 should be int
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 9.0 on line 19 should be int
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PHOTO - correctly filled rate (%) - 0.0
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 98.75
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,809 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 0.0
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 105.0 on line 0 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 105.0 on line 1 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 105.0 on line 2 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 105.0 on line 3 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 105.0 on line 4 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 105.0 on line 5 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 105.0 on line 6 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 105.0 on line 7 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 150.0 on line 8 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 436.0 on line 9 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 228.0 on line 10 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 650.0 on line 11 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 149000.0 on line 12 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 326.0 on line 13 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 504.0 on line 14 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 70.0 on line 15 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 280000.0 on line 16 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 92.0 on line 17 should be int
+2019-05-17 08:51:01,810 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 68.0 on line 18 should be int
+2019-05-17 08:51:01,811 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1560000.0 on line 19 should be int
+2019-05-17 08:51:01,811 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-05-17 08:51:01,811 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 93.56
+2019-05-17 08:51:01,811 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 0.0
+2019-05-17 08:51:01,811 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-05-17 08:51:01,811 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,811 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-05-17 08:51:01,811 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 99.53
+2019-05-17 08:51:01,811 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.99
+2019-05-17 08:51:01,811 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 35801
+2019-05-17 08:51:01,811 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0
+2019-05-17 08:51:01,811 - IMMO - FR.BUCOM - BUREAUXLOCAUX - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 3693

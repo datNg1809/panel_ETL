@@ -1,0 +1,134 @@
+2019-06-05 13:50:34,300 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 34.77
+2019-06-05 13:50:34,300 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,300 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.71
+2019-06-05 13:50:34,300 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,300 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 16129, value should match regexp ^[0-9]{4}$
+2019-06-05 13:50:34,300 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.99
+2019-06-05 13:50:34,300 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,300 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-06-05 13:50:34,300 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,301 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-06-05 13:50:34,301 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-06-05 13:50:34,301 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-06-05 13:50:34,301 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,301 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-06-05 13:50:34,301 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 19089
+2019-06-05 13:50:34,301 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,301 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 0 should be in ['int']
+2019-06-05 13:50:34,301 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 99000.0 on line 1 should be in ['int']
+2019-06-05 13:50:34,301 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 58732.0 on line 2 should be in ['int']
+2019-06-05 13:50:34,301 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 52000.0 on line 3 should be in ['int']
+2019-06-05 13:50:34,301 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 60671.0 on line 4 should be in ['int']
+2019-06-05 13:50:34,301 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 5 should be in ['int']
+2019-06-05 13:50:34,301 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 6 should be in ['int']
+2019-06-05 13:50:34,301 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 110000.0 on line 7 should be in ['int']
+2019-06-05 13:50:34,301 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 62000.0 on line 8 should be in ['int']
+2019-06-05 13:50:34,301 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 9 should be in ['int']
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 10 should be in ['int']
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 11 should be in ['int']
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 58000.0 on line 12 should be in ['int']
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 55000.0 on line 13 should be in ['int']
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 141502.0 on line 14 should be in ['int']
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 15 should be in ['int']
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 16 should be in ['int']
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 12265.0 on line 17 should be in ['int']
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 18 should be in ['int']
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 19 should be in ['int']
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 0.0
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 2.7
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,302 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-06-05 13:50:34,303 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - Ka...] on line  238, value length should be between 10 and 255
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JAC - T40...] on line  410, value length should be between 10 and 255
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - KA...] on line  772, value length should be between 10 and 255
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - KA...] on line  1079, value length should be between 10 and 255
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - KA...] on line  2060, value length should be between 10 and 255
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - KA...] on line  2406, value length should be between 10 and 255
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - KA...] on line  2815, value length should be between 10 and 255
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - KA...] on line  3116, value length should be between 10 and 255
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - KA...] on line  3439, value length should be between 10 and 255
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VW - 330...] on line  3496, value length should be between 10 and 255
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - KA...] on line  3615, value length should be between 10 and 255
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - KA...] on line  4043, value length should be between 10 and 255
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - KA...] on line  4175, value length should be between 10 and 255
+2019-06-05 13:50:34,304 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - Ka...] on line  4552, value length should be between 10 and 255
+2019-06-05 13:50:34,305 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - Ka...] on line  4555, value length should be between 10 and 255
+2019-06-05 13:50:34,305 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - KA...] on line  4954, value length should be between 10 and 255
+2019-06-05 13:50:34,305 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - KA...] on line  4990, value length should be between 10 and 255
+2019-06-05 13:50:34,305 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - KA...] on line  5072, value length should be between 10 and 255
+2019-06-05 13:50:34,305 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - KA...] on line  6145, value length should be between 10 and 255
+2019-06-05 13:50:34,305 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FORD - KA...] on line  6484, value length should be between 10 and 255
+2019-06-05 13:50:34,305 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.64
+2019-06-05 13:50:34,305 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-06-05 13:50:34,305 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,305 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,305 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,305 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,305 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 99.64
+2019-06-05 13:50:34,305 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,305 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,305 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,305 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 15981886613.0 on line 5, value should match a phone number format
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 15981886613.0 on line 6, value should match a phone number format
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 15996575757.0 on line 11, value should match a phone number format
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11998307575.0 on line 13, value should match a phone number format
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11970304809.0 on line 15, value should match a phone number format
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11970304809.0 on line 16, value should match a phone number format
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 19993420394.0 on line 17, value should match a phone number format
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 15997112049.0 on line 19, value should match a phone number format
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 19984484700.0 on line 20, value should match a phone number format
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 15997112049.0 on line 21, value should match a phone number format
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11947328530.0 on line 22, value should match a phone number format
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 19981890181.0 on line 27, value should match a phone number format
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 19991374867.0 on line 32, value should match a phone number format
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 19981890181.0 on line 34, value should match a phone number format
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 15974016122.0 on line 36, value should match a phone number format
+2019-06-05 13:50:34,306 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 15981886613.0 on line 38, value should match a phone number format
+2019-06-05 13:50:34,307 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 15997732010.0 on line 39, value should match a phone number format
+2019-06-05 13:50:34,307 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 19988343271.0 on line 43, value should match a phone number format
+2019-06-05 13:50:34,307 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 19991374867.0 on line 46, value should match a phone number format
+2019-06-05 13:50:34,307 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 19991211972.0 on line 47, value should match a phone number format
+2019-06-05 13:50:34,307 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 63.33
+2019-06-05 13:50:34,307 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,307 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-06-05 13:50:34,307 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-06-05 13:50:34,307 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-06-05 13:50:34,307 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 18413
+2019-06-05 13:50:34,307 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 676
+2019-06-05 13:50:34,307 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 80
+2019-06-05 13:50:34,307 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 342
+2019-06-05 13:50:34,307 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-06-05 13:50:34,307 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 7
+2019-06-05 13:50:34,307 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-06-05 13:50:34,307 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-06-05 13:50:34,308 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 78
+2019-06-05 13:50:34,308 - VO - BR - COMPRECAR - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 5

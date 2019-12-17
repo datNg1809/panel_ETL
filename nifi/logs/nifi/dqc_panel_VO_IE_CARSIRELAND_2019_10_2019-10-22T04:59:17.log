@@ -1,0 +1,222 @@
+2019-10-22 04:59:24,977 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-10-22 04:59:24,977 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 99.84
+2019-10-22 04:59:24,977 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - True - 1
+2019-10-22 04:59:24,977 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,977 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-10-22 04:59:24,977 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 98.9
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 598
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - True - 1
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - True - 1
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 99.6
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - True - 1
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 98.06
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - True - 1
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 73.41
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - False - 0
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: D06 R7W2   on line 0, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,978 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: R35 P895   on line 1, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: A98 TH72   on line 2, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: D12 W6DV   on line 3, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: E34 PR99   on line 4, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: Y35 V402   on line 5, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V95 NT20   on line 6, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: P51 RX66   on line 7, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: P51 RX66   on line 8, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: P51 RX66   on line 9, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: D11 RK71   on line 10, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V95 NT20   on line 11, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: D18 TE20   on line 12, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V35 X283   on line 14, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: D12 W6DV   on line 15, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V95 NT20   on line 16, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: F31 EP63   on line 17, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: R35 P895   on line 18, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V95 NT20   on line 19, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,979 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: E45 TH24   on line 21, value should match regexp ^[0-9]{5}$
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 0.0
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 98.06
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 54121
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,980 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 99.84
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - True - 1
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - True - 1
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-10-22 04:59:24,981 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - unexpected count - 54121
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MOIS - False - 0
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - MOIS - True - 1
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volvo V50...] on line  262, value length should be between 10 and 255
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 316...] on line  528, value length should be between 10 and 255
+2019-10-22 04:59:24,982 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MG MGB GT...] on line  1962, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [LDV V80...] on line  2511, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Isuzu NPR...] on line  3108, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [LDV V80...] on line  3257, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volvo S40...] on line  3301, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Kia Ceed...] on line  3845, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volvo V60...] on line  3872, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW M5 M5...] on line  4776, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Kia Ceed...] on line  6333, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW M4...] on line  8238, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A6...] on line  8710, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford Edge...] on line  9499, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A4...] on line  9762, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford Kuga...] on line  11168, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A6...] on line  11280, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [SEAT Leon...] on line  13120, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Honda Fit...] on line  13711, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi Q7...] on line  16274, value length should be between 10 and 255
+2019-10-22 04:59:24,983 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.92
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 76.56
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [This Hyundai Santa F...] on line  1, value length should be between 0 and 255
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [DRIVE AWAY TODAY IN ...] on line  3, value length should be between 0 and 255
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Just in! This car is...] on line  5, value length should be between 0 and 255
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ANOTHER QUALITY PRE,...] on line  10, value length should be between 0 and 255
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Beautifull example o...] on line  13, value length should be between 0 and 255
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [JUST PASSED NCT // D...] on line  15, value length should be between 0 and 255
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [New Model.Based on t...] on line  17, value length should be between 0 and 255
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ANOTHER QUALITY PRE,...] on line  23, value length should be between 0 and 255
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [DRIVE AWAY THIS STUN...] on line  24, value length should be between 0 and 255
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Grace & Harvey Ltd M...] on line  25, value length should be between 0 and 255
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [The All new Nissan Q...] on line  30, value length should be between 0 and 255
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [   MASSIVE SALE   Pr...] on line  33, value length should be between 0 and 255
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Price quoted for Pri...] on line  36, value length should be between 0 and 255
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Another approved car...] on line  38, value length should be between 0 and 255
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Wheelchair Accessibl...] on line  39, value length should be between 0 and 255
+2019-10-22 04:59:24,984 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Price Ã¢Â‚Â¬Â¬1500 w...] on line  40, value length should be between 0 and 255
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2006 Kia Cerato, Cle...] on line  41, value length should be between 0 and 255
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [DRIVE AWAY TODAY IN ...] on line  43, value length should be between 0 and 255
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [IMMACULATE | CONVERT...] on line  45, value length should be between 0 and 255
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [DRIVE AWAY THIS GREA...] on line  53, value length should be between 0 and 255
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 28.71
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - OPTIONS - False - 0
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 0 should be in ['int']
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7.0 on line 1 should be in ['int']
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 2 should be in ['int']
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 3 should be in ['int']
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 4 should be in ['int']
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 5 should be in ['int']
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 6 should be in ['int']
+2019-10-22 04:59:24,985 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 7 should be in ['int']
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 8 should be in ['int']
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 9 should be in ['int']
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 10 should be in ['int']
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 12 should be in ['int']
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 13 should be in ['int']
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 14 should be in ['int']
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 15 should be in ['int']
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 16 should be in ['int']
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 17 should be in ['int']
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 18 should be in ['int']
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 19 should be in ['int']
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 20 should be in ['int']
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PLACE - False - 0
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 89.69
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-10-22 04:59:24,986 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - True - 1
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 99.75
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.79
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-10-22 04:59:24,987 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-10-22 04:59:24,988 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - False - 0
+2019-10-22 04:59:24,988 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 53156
+2019-10-22 04:59:24,988 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 965
+2019-10-22 04:59:24,988 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 0
+2019-10-22 04:59:24,988 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 0
+2019-10-22 04:59:24,988 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 13
+2019-10-22 04:59:24,988 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 7
+2019-10-22 04:59:24,988 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 34.46
+2019-10-22 04:59:24,988 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-10-22 04:59:24,988 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 6 should be in ['int']
+2019-10-22 04:59:24,988 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1896.0 on line 20 should be in ['int']
+2019-10-22 04:59:24,988 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 33 should be in ['int']
+2019-10-22 04:59:24,988 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1461.0 on line 49 should be in ['int']
+2019-10-22 04:59:24,988 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 74 should be in ['int']
+2019-10-22 04:59:24,988 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 77 should be in ['int']
+2019-10-22 04:59:24,988 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1364.0 on line 87 should be in ['int']
+2019-10-22 04:59:24,988 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1968.0 on line 118 should be in ['int']
+2019-10-22 04:59:24,989 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2198.0 on line 188 should be in ['int']
+2019-10-22 04:59:24,989 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2720.0 on line 202 should be in ['int']
+2019-10-22 04:59:24,989 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1461.0 on line 209 should be in ['int']
+2019-10-22 04:59:24,989 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1498.0 on line 210 should be in ['int']
+2019-10-22 04:59:24,989 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1668.0 on line 332 should be in ['int']
+2019-10-22 04:59:24,989 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6000.0 on line 354 should be in ['int']
+2019-10-22 04:59:24,989 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 372 should be in ['int']
+2019-10-22 04:59:24,989 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1242.0 on line 375 should be in ['int']
+2019-10-22 04:59:24,989 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2720.0 on line 388 should be in ['int']
+2019-10-22 04:59:24,989 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1968.0 on line 411 should be in ['int']
+2019-10-22 04:59:24,989 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2393.0 on line 457 should be in ['int']
+2019-10-22 04:59:24,989 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 483 should be in ['int']
+2019-10-22 04:59:24,989 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-10-22 04:59:24,989 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - CYLINDRE - False - 0
+2019-10-22 04:59:24,989 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 34
+2019-10-22 04:59:24,989 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 513
+2019-10-22 04:59:24,989 - VO - IE - CARSIRELAND - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0

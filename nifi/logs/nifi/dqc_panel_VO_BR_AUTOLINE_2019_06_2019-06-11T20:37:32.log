@@ -1,0 +1,116 @@
+2019-06-11 20:38:05,105 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,105 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,105 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.65
+2019-06-11 20:38:05,105 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,105 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 21504, value should match regexp ^[0-9]{4}$
+2019-06-11 20:38:05,105 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 21506, value should match regexp ^[0-9]{4}$
+2019-06-11 20:38:05,105 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 217153, value should match regexp ^[0-9]{4}$
+2019-06-11 20:38:05,105 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 217794, value should match regexp ^[0-9]{4}$
+2019-06-11 20:38:05,105 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,105 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,105 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-06-11 20:38:05,105 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,105 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 244559
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 69825.0 on line 0 should be in ['int']
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 20000.0 on line 1 should be in ['int']
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 135000.0 on line 2 should be in ['int']
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 13245.0 on line 3 should be in ['int']
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 20000.0 on line 4 should be in ['int']
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 188443.0 on line 5 should be in ['int']
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 151.0 on line 6 should be in ['int']
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 130562.0 on line 7 should be in ['int']
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 112000.0 on line 8 should be in ['int']
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 124000.0 on line 9 should be in ['int']
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 78000.0 on line 10 should be in ['int']
+2019-06-11 20:38:05,106 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 101000.0 on line 11 should be in ['int']
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 12 should be in ['int']
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 81000.0 on line 13 should be in ['int']
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 108000.0 on line 14 should be in ['int']
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 49000.0 on line 15 should be in ['int']
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 44000.0 on line 16 should be in ['int']
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 82000.0 on line 17 should be in ['int']
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 177402.0 on line 18 should be in ['int']
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 131000.0 on line 19 should be in ['int']
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 0.0
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-06-11 20:38:05,107 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-06-11 20:38:05,108 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,109 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,109 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,109 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-06-11 20:38:05,109 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,109 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,109 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,109 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,109 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-06-11 20:38:05,109 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,109 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,109 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-06-11 20:38:05,109 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,109 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,109 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 619991612055.0 on line 12, value should match a phone number format
+2019-06-11 20:38:05,109 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11959819800.0 on line 13, value should match a phone number format
+2019-06-11 20:38:05,109 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 64999521221.0 on line 14, value should match a phone number format
+2019-06-11 20:38:05,109 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 64999521221.0 on line 21, value should match a phone number format
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 17992071955.0 on line 29, value should match a phone number format
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 64999521221.0 on line 32, value should match a phone number format
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 64999521221.0 on line 40, value should match a phone number format
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 64999521221.0 on line 50, value should match a phone number format
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 28999632397.0 on line 59, value should match a phone number format
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 64999521221.0 on line 65, value should match a phone number format
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 28999632397.0 on line 66, value should match a phone number format
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 64999521221.0 on line 73, value should match a phone number format
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 28999632397.0 on line 74, value should match a phone number format
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 19974193522.0 on line 83, value should match a phone number format
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11970379567.0 on line 86, value should match a phone number format
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 28999632397.0 on line 87, value should match a phone number format
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 43984136261.0 on line 91, value should match a phone number format
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11991544118.0 on line 92, value should match a phone number format
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 28999632397.0 on line 96, value should match a phone number format
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11991544118.0 on line 97, value should match a phone number format
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 89.84
+2019-06-11 20:38:05,110 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,111 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-06-11 20:38:05,111 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-06-11 20:38:05,111 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-06-11 20:38:05,111 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 241223
+2019-06-11 20:38:05,111 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 3336
+2019-06-11 20:38:05,111 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 70
+2019-06-11 20:38:05,111 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 466
+2019-06-11 20:38:05,111 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-06-11 20:38:05,111 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 9
+2019-06-11 20:38:05,111 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-06-11 20:38:05,111 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-06-11 20:38:05,111 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 1039
+2019-06-11 20:38:05,111 - VO - BR - AUTOLINE - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 27

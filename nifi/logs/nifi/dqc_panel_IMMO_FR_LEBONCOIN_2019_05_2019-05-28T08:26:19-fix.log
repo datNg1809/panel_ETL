@@ -1,0 +1,211 @@
+2019-06-02 04:03:44,950 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_to_exist - ACHAT_LOC - column exists or not - 1.0
+2019-06-02 04:03:44,950 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-06-02 04:03:44,950 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 98.97
+2019-06-02 04:03:44,950 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-06-02 04:03:44,951 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 71.12
+2019-06-02 04:03:44,951 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 71.08
+2019-06-02 04:03:44,951 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 29830.0 on line 27, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,951 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 89000.0 on line 28, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,951 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 83510.0 on line 37, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,951 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 33880.0 on line 39, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,951 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 22200.0 on line 45, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,951 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 17000.0 on line 49, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,951 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 14700.0 on line 55, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,951 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 21320.0 on line 63, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,951 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 71450.0 on line 65, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,951 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 62500.0 on line 70, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,951 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 61290.0 on line 73, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,951 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 93210.0 on line 75, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,951 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 73290.0 on line 79, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,951 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 24750.0 on line 91, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,952 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 78170.0 on line 94, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,952 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 11100.0 on line 96, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,952 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 8000.0 on line 101, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,952 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 78955.0 on line 102, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,952 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 8300.0 on line 103, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,952 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 2400.0 on line 105, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,952 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-06-02 04:03:44,952 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 99.93
+2019-06-02 04:03:44,952 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 100.0
+2019-06-02 04:03:44,952 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 613603552.0 on line 1, value should match a phone number format
+2019-06-02 04:03:44,952 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 668284483.0 on line 3, value should match a phone number format
+2019-06-02 04:03:44,952 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 603247918.0 on line 4, value should match a phone number format
+2019-06-02 04:03:44,952 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 664640131.0 on line 5, value should match a phone number format
+2019-06-02 04:03:44,952 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 676060814.0 on line 6, value should match a phone number format
+2019-06-02 04:03:44,952 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 659059073.0 on line 7, value should match a phone number format
+2019-06-02 04:03:44,952 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 608809728.0 on line 8, value should match a phone number format
+2019-06-02 04:03:44,953 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 658792958.0 on line 9, value should match a phone number format
+2019-06-02 04:03:44,953 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 650651279.0 on line 11, value should match a phone number format
+2019-06-02 04:03:44,953 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 644913588.0 on line 12, value should match a phone number format
+2019-06-02 04:03:44,953 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 662441451.0 on line 13, value should match a phone number format
+2019-06-02 04:03:44,953 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 627483250.0 on line 14, value should match a phone number format
+2019-06-02 04:03:44,953 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 636481912.0 on line 15, value should match a phone number format
+2019-06-02 04:03:44,953 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 386379890.0 on line 16, value should match a phone number format
+2019-06-02 04:03:44,953 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 612219720.0 on line 19, value should match a phone number format
+2019-06-02 04:03:44,953 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 676189233.0 on line 20, value should match a phone number format
+2019-06-02 04:03:44,953 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 616568466.0 on line 21, value should match a phone number format
+2019-06-02 04:03:44,953 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 652512360.0 on line 22, value should match a phone number format
+2019-06-02 04:03:44,953 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 621451601.0 on line 23, value should match a phone number format
+2019-06-02 04:03:44,953 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 649488795.0 on line 24, value should match a phone number format
+2019-06-02 04:03:44,953 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 0.0
+2019-06-02 04:03:44,953 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 87.5
+2019-06-02 04:03:44,953 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 71.12
+2019-06-02 04:03:44,953 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 100.0
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 0.06
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 90.99
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1210 on line 5, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3100 on line 33, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7430 on line 46, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 8130 on line 61, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4500 on line 82, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1000 on line 95, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6400 on line 100, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 8090 on line 101, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 8220 on line 103, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2400 on line 105, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1340 on line 107, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,954 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9700 on line 108, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,955 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9800 on line 112, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,955 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3450 on line 210, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,955 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 5200 on line 288, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,955 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2330 on line 360, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,955 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2110 on line 383, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,955 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6000 on line 471, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,955 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4210 on line 502, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,955 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3200 on line 556, value should match regexp ^[0-9]{5}$
+2019-06-02 04:03:44,955 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 93.27
+2019-06-02 04:03:44,955 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-06-02 04:03:44,955 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 1426786
+2019-06-02 04:03:44,955 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-06-02 04:03:44,955 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-06-02 04:03:44,955 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 80.0 on line 0 should be int
+2019-06-02 04:03:44,955 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 47.0 on line 1 should be int
+2019-06-02 04:03:44,955 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 24.0 on line 2 should be int
+2019-06-02 04:03:44,955 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 11.0 on line 3 should be int
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 35.0 on line 4 should be int
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 60.0 on line 5 should be int
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 120.0 on line 6 should be int
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 22.0 on line 7 should be int
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 57.0 on line 8 should be int
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 29.0 on line 9 should be int
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 122.0 on line 10 should be int
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 110.0 on line 12 should be int
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 72.0 on line 13 should be int
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 214.0 on line 14 should be int
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 18.0 on line 15 should be int
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 85.0 on line 16 should be int
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 33.0 on line 17 should be int
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 108.0 on line 18 should be int
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 75.0 on line 19 should be int
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 50.0 on line 20 should be int
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-06-02 04:03:44,956 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 96.54
+2019-06-02 04:03:44,957 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 0 should be int
+2019-06-02 04:03:44,957 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 1 should be int
+2019-06-02 04:03:44,957 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 2 should be int
+2019-06-02 04:03:44,957 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 3 should be int
+2019-06-02 04:03:44,957 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 4 should be int
+2019-06-02 04:03:44,957 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 5 should be int
+2019-06-02 04:03:44,957 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 6 should be int
+2019-06-02 04:03:44,957 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 7 should be int
+2019-06-02 04:03:44,957 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 8 should be int
+2019-06-02 04:03:44,957 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 9 should be int
+2019-06-02 04:03:44,957 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 10 should be int
+2019-06-02 04:03:44,957 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 11 should be int
+2019-06-02 04:03:44,957 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 12 should be int
+2019-06-02 04:03:44,957 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 13 should be int
+2019-06-02 04:03:44,957 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 14 should be int
+2019-06-02 04:03:44,957 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 15 should be int
+2019-06-02 04:03:44,957 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 16 should be int
+2019-06-02 04:03:44,958 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 17 should be int
+2019-06-02 04:03:44,958 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 18 should be int
+2019-06-02 04:03:44,958 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 19 should be int
+2019-06-02 04:03:44,958 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-06-02 04:03:44,958 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 99.93
+2019-06-02 04:03:44,958 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 0.0
+2019-06-02 04:03:44,958 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 99.96
+2019-06-02 04:03:44,958 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 99.95
+2019-06-02 04:03:44,958 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-06-02 04:03:44,958 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 0.0
+2019-06-02 04:03:44,958 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 2.0 on line 0 should be int
+2019-06-02 04:03:44,958 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 1 should be int
+2019-06-02 04:03:44,958 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 2 should be int
+2019-06-02 04:03:44,958 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 2.0 on line 3 should be int
+2019-06-02 04:03:44,958 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 4 should be int
+2019-06-02 04:03:44,958 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 5 should be int
+2019-06-02 04:03:44,959 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 10.0 on line 6 should be int
+2019-06-02 04:03:44,959 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 7 should be int
+2019-06-02 04:03:44,959 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 5.0 on line 8 should be int
+2019-06-02 04:03:44,959 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 9 should be int
+2019-06-02 04:03:44,959 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 10 should be int
+2019-06-02 04:03:44,959 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 11 should be int
+2019-06-02 04:03:44,959 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 12 should be int
+2019-06-02 04:03:44,959 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 13 should be int
+2019-06-02 04:03:44,959 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 14 should be int
+2019-06-02 04:03:44,959 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 15 should be int
+2019-06-02 04:03:44,959 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 2.0 on line 16 should be int
+2019-06-02 04:03:44,959 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 17 should be int
+2019-06-02 04:03:44,959 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 2.0 on line 18 should be int
+2019-06-02 04:03:44,959 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 2.0 on line 19 should be int
+2019-06-02 04:03:44,959 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PHOTO - correctly filled rate (%) - 0.0
+2019-06-02 04:03:44,959 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 99.93
+2019-06-02 04:03:44,959 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-06-02 04:03:44,960 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PIECE - correctly filled rate (%) - 100.0
+2019-06-02 04:03:44,960 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-06-02 04:03:44,960 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-06-02 04:03:44,960 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 135000.0 on line 0 should be int
+2019-06-02 04:03:44,960 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 750.0 on line 1 should be int
+2019-06-02 04:03:44,960 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 93000.0 on line 2 should be int
+2019-06-02 04:03:44,960 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 350.0 on line 3 should be int
+2019-06-02 04:03:44,960 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 473.0 on line 4 should be int
+2019-06-02 04:03:44,960 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1400.0 on line 5 should be int
+2019-06-02 04:03:44,960 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 174900.0 on line 6 should be int
+2019-06-02 04:03:44,960 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 355.0 on line 7 should be int
+2019-06-02 04:03:44,960 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 365000.0 on line 8 should be int
+2019-06-02 04:03:44,960 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 350.0 on line 9 should be int
+2019-06-02 04:03:44,960 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 800.0 on line 10 should be int
+2019-06-02 04:03:44,960 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 27000.0 on line 11 should be int
+2019-06-02 04:03:44,960 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 276000.0 on line 12 should be int
+2019-06-02 04:03:44,960 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 600.0 on line 13 should be int
+2019-06-02 04:03:44,961 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 300000.0 on line 14 should be int
+2019-06-02 04:03:44,961 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 405.0 on line 15 should be int
+2019-06-02 04:03:44,961 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 80000.0 on line 16 should be int
+2019-06-02 04:03:44,961 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 477.0 on line 17 should be int
+2019-06-02 04:03:44,961 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 135000.0 on line 18 should be int
+2019-06-02 04:03:44,961 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 550.0 on line 19 should be int
+2019-06-02 04:03:44,961 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-06-02 04:03:44,961 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 99.65
+2019-06-02 04:03:44,961 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-06-02 04:03:44,961 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 99.96
+2019-06-02 04:03:44,961 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-06-02 04:03:44,961 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SELLER_TYPE - correctly filled rate (%) - 0.0
+2019-06-02 04:03:44,961 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 0 should be int
+2019-06-02 04:03:44,961 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 1 should be int
+2019-06-02 04:03:44,961 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 2 should be int
+2019-06-02 04:03:44,961 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 3 should be int
+2019-06-02 04:03:44,962 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 4 should be int
+2019-06-02 04:03:44,962 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 5 should be int
+2019-06-02 04:03:44,962 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 6 should be int
+2019-06-02 04:03:44,962 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 7 should be int
+2019-06-02 04:03:44,962 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 8 should be int
+2019-06-02 04:03:44,962 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 9 should be int
+2019-06-02 04:03:44,962 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 10 should be int
+2019-06-02 04:03:44,962 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 11 should be int
+2019-06-02 04:03:44,962 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 12 should be int
+2019-06-02 04:03:44,962 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 13 should be int
+2019-06-02 04:03:44,963 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 14 should be int
+2019-06-02 04:03:44,963 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 15 should be int
+2019-06-02 04:03:44,963 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 16 should be int
+2019-06-02 04:03:44,963 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 17 should be int
+2019-06-02 04:03:44,963 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 18 should be int
+2019-06-02 04:03:44,963 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 19 should be int
+2019-06-02 04:03:44,963 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-06-02 04:03:44,963 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-06-02 04:03:44,963 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.67
+2019-06-02 04:03:44,963 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 31256
+2019-06-02 04:03:44,963 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0
+2019-06-02 04:03:44,963 - IMMO - FR - LEBONCOIN - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 0

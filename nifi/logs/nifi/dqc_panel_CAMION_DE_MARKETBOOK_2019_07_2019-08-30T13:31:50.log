@@ -1,0 +1,100 @@
+2019-08-30 13:31:54,888 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-08-30 13:31:54,888 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 95.14
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 72050 on line 3375, value should match regexp ^[0-9]{4}$
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3415, value should match regexp ^[0-9]{4}$
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3416, value should match regexp ^[0-9]{4}$
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3417, value should match regexp ^[0-9]{4}$
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3418, value should match regexp ^[0-9]{4}$
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3419, value should match regexp ^[0-9]{4}$
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4624, value should match regexp ^[0-9]{4}$
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 71053 on line 4901, value should match regexp ^[0-9]{4}$
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 6109, value should match regexp ^[0-9]{4}$
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 6110, value should match regexp ^[0-9]{4}$
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 6518, value should match regexp ^[0-9]{4}$
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 6656, value should match regexp ^[0-9]{4}$
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 6750, value should match regexp ^[0-9]{4}$
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.81
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,889 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 59.35
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 98.62
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 98.84
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 6792
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 98.9
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 93.61
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 99.78
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [1998 SOR...] on line  181, value length should be between 10 and 255
+2019-08-30 13:31:54,890 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2004 JUNG...] on line  633, value length should be between 10 and 255
+2019-08-30 13:31:54,891 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2010 HLW...] on line  1167, value length should be between 10 and 255
+2019-08-30 13:31:54,891 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2002 BEFA...] on line  1322, value length should be between 10 and 255
+2019-08-30 13:31:54,891 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2006 WEKA...] on line  1486, value length should be between 10 and 255
+2019-08-30 13:31:54,891 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2004 BURG...] on line  1576, value length should be between 10 and 255
+2019-08-30 13:31:54,891 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2015 HAS...] on line  1908, value length should be between 10 and 255
+2019-08-30 13:31:54,891 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2004 LDS...] on line  1919, value length should be between 10 and 255
+2019-08-30 13:31:54,891 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2016 TSR...] on line  2594, value length should be between 10 and 255
+2019-08-30 13:31:54,891 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [1989 LAG...] on line  2748, value length should be between 10 and 255
+2019-08-30 13:31:54,891 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2007 HLW...] on line  2750, value length should be between 10 and 255
+2019-08-30 13:31:54,891 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2007 JUNG...] on line  2765, value length should be between 10 and 255
+2019-08-30 13:31:54,891 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2006 JUNG...] on line  2766, value length should be between 10 and 255
+2019-08-30 13:31:54,892 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2007 WEKA...] on line  2795, value length should be between 10 and 255
+2019-08-30 13:31:54,892 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2007 WEKA...] on line  2797, value length should be between 10 and 255
+2019-08-30 13:31:54,892 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2000 JUNG...] on line  2862, value length should be between 10 and 255
+2019-08-30 13:31:54,892 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [1997 WEKA...] on line  2925, value length should be between 10 and 255
+2019-08-30 13:31:54,892 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2008 HFR...] on line  3038, value length should be between 10 and 255
+2019-08-30 13:31:54,892 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2006 TANG...] on line  3039, value length should be between 10 and 255
+2019-08-30 13:31:54,892 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2001 JUNG...] on line  3710, value length should be between 10 and 255
+2019-08-30 13:31:54,892 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.53
+2019-08-30 13:31:54,892 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-08-30 13:31:54,892 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,892 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,893 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-08-30 13:31:54,893 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-08-30 13:31:54,893 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,893 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,893 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-08-30 13:31:54,893 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,893 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,893 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,893 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,893 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-08-30 13:31:54,893 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-08-30 13:31:54,894 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-08-30 13:31:54,894 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 280
+2019-08-30 13:31:54,894 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 939
+2019-08-30 13:31:54,894 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-08-30 13:31:54,894 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 3
+2019-08-30 13:31:54,894 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-08-30 13:31:54,894 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-08-30 13:31:54,894 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 78
+2019-08-30 13:31:54,894 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-08-30 13:31:54,894 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 6792
+2019-08-30 13:31:54,894 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-08-30 13:31:54,894 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRUCKS - total number of row with conditions - 2973
+2019-08-30 13:31:54,894 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRACTOR UNITS - total number of row with conditions - 1659
+2019-08-30 13:31:54,894 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRAILERS - total number of row with conditions - 479
+2019-08-30 13:31:54,894 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - VANS - total number of row with conditions - 631
+2019-08-30 13:31:54,894 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - HEAVY EQUIPMENTS - total number of row with conditions - 60
+2019-08-30 13:31:54,894 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - SEMI TRAILERS - total number of row with conditions - 990
+2019-08-30 13:31:54,895 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRUCKS - total number of row with conditions - 2973
+2019-08-30 13:31:54,895 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRUCKS - total number of row with conditions - 0
+2019-08-30 13:31:54,895 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRACTOR UNITS - total number of row with conditions - 1659
+2019-08-30 13:31:54,895 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRACTOR UNITS - total number of row with conditions - 0
+2019-08-30 13:31:54,895 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRAILERS - total number of row with conditions - 479
+2019-08-30 13:31:54,895 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRAILERS - total number of row with conditions - 0
+2019-08-30 13:31:54,895 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_VANS - total number of row with conditions - 631
+2019-08-30 13:31:54,895 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_VANS - total number of row with conditions - 0
+2019-08-30 13:31:54,895 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_HEAVY EQUIPMENTS - total number of row with conditions - 60
+2019-08-30 13:31:54,895 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_HEAVY EQUIPMENTS - total number of row with conditions - 0
+2019-08-30 13:31:54,895 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_SEMI TRAILERS - total number of row with conditions - 990
+2019-08-30 13:31:54,895 - CAMION - DE - MARKETBOOK - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_SEMI TRAILERS - total number of row with conditions - 0

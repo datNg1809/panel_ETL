@@ -1,0 +1,129 @@
+2019-10-02 06:40:37,382 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 98.15
+2019-10-02 06:40:37,382 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,413 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 97.43
+2019-10-02 06:40:37,413 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,413 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2709, value should match regexp ^[0-9]{4}$
+2019-10-02 06:40:37,413 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 201 on line 25779, value should match regexp ^[0-9]{4}$
+2019-10-02 06:40:37,413 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 62592, value should match regexp ^[0-9]{4}$
+2019-10-02 06:40:37,413 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 62593, value should match regexp ^[0-9]{4}$
+2019-10-02 06:40:37,413 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 62594, value should match regexp ^[0-9]{4}$
+2019-10-02 06:40:37,413 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 62595, value should match regexp ^[0-9]{4}$
+2019-10-02 06:40:37,413 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 62596, value should match regexp ^[0-9]{4}$
+2019-10-02 06:40:37,413 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 62744, value should match regexp ^[0-9]{4}$
+2019-10-02 06:40:37,413 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 62956, value should match regexp ^[0-9]{4}$
+2019-10-02 06:40:37,413 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 62957, value should match regexp ^[0-9]{4}$
+2019-10-02 06:40:37,413 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 96989, value should match regexp ^[0-9]{4}$
+2019-10-02 06:40:37,413 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.99
+2019-10-02 06:40:37,413 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,414 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-02 06:40:37,414 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 98.89
+2019-10-02 06:40:37,414 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-10-02 06:40:37,414 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 98.15
+2019-10-02 06:40:37,414 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 99.98
+2019-10-02 06:40:37,414 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 98.15
+2019-10-02 06:40:37,414 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,414 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-02 06:40:37,414 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 104273
+2019-10-02 06:40:37,414 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,414 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,414 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,414 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,414 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,414 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,414 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,414 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 532, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 598, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 919, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1270, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1519, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1567, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1621, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1628, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1902, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2102, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2103, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2652, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2653, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2654, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2690, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2691, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2692, value should be between 1 and 12
+2019-10-02 06:40:37,415 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2709, value should be between 1 and 12
+2019-10-02 06:40:37,416 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2910, value should be between 1 and 12
+2019-10-02 06:40:37,416 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 83.16
+2019-10-02 06:40:37,416 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,416 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,416 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fiat 500x...] on line  50937, value length should be between 10 and 255
+2019-10-02 06:40:37,416 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MG Mgb MG...] on line  58569, value length should be between 10 and 255
+2019-10-02 06:40:37,416 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MG Mgb MG...] on line  58672, value length should be between 10 and 255
+2019-10-02 06:40:37,416 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi TT S...] on line  100831, value length should be between 10 and 255
+2019-10-02 06:40:37,416 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,416 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 85.56
+2019-10-02 06:40:37,416 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, Accoudoir central ...] on line  1, value length should be between 0 and 255
+2019-10-02 06:40:37,416 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, 413 Toit Ouvrant E...] on line  2, value length should be between 0 and 255
+2019-10-02 06:40:37,416 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, Peinture mÃ©tal, C...] on line  3, value length should be between 0 and 255
+2019-10-02 06:40:37,416 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, ABS, Anti Patinage...] on line  5, value length should be between 0 and 255
+2019-10-02 06:40:37,416 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, 2 vitres Ã©lectriq...] on line  6, value length should be between 0 and 255
+2019-10-02 06:40:37,416 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, 6 Haut parleurs, A...] on line  7, value length should be between 0 and 255
+2019-10-02 06:40:37,416 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, ABS, Accoudoir arr...] on line  9, value length should be between 0 and 255
+2019-10-02 06:40:37,417 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, Audi hold assist, ...] on line  11, value length should be between 0 and 255
+2019-10-02 06:40:37,417 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, ABS, Aide au frein...] on line  13, value length should be between 0 and 255
+2019-10-02 06:40:37,417 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, Noir Intense, 6 Ha...] on line  14, value length should be between 0 and 255
+2019-10-02 06:40:37,417 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, 2 SIEGES S, GRIS A...] on line  15, value length should be between 0 and 255
+2019-10-02 06:40:37,417 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, Gris MinÃ©ral, Mix...] on line  16, value length should be between 0 and 255
+2019-10-02 06:40:37,417 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, JA 19 5 branches d...] on line  17, value length should be between 0 and 255
+2019-10-02 06:40:37,417 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, ABS, ESP, Jantes A...] on line  18, value length should be between 0 and 255
+2019-10-02 06:40:37,417 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, FREINAGE ABS, DIRE...] on line  20, value length should be between 0 and 255
+2019-10-02 06:40:37,417 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, 11 Haut parleurs, ...] on line  21, value length should be between 0 and 255
+2019-10-02 06:40:37,417 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, VOLANT REGLABLE EN...] on line  22, value length should be between 0 and 255
+2019-10-02 06:40:37,417 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, 4 VITRES ELECTRIQU...] on line  24, value length should be between 0 and 255
+2019-10-02 06:40:37,417 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, Affichage tÃªte ha...] on line  25, value length should be between 0 and 255
+2019-10-02 06:40:37,417 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [, 2Ã©me rangÃ©e de s...] on line  27, value length should be between 0 and 255
+2019-10-02 06:40:37,417 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 7.41
+2019-10-02 06:40:37,418 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,418 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,418 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-10-02 06:40:37,418 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-10-02 06:40:37,418 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,418 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,418 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-10-02 06:40:37,418 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,418 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 97.31
+2019-10-02 06:40:37,418 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.91
+2019-10-02 06:40:37,418 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-10-02 06:40:37,418 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-10-02 06:40:37,419 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 98.13
+2019-10-02 06:40:37,419 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-10-02 06:40:37,419 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 104273
+2019-10-02 06:40:37,419 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-10-02 06:40:37,419 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 82
+2019-10-02 06:40:37,419 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 742
+2019-10-02 06:40:37,419 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-10-02 06:40:37,419 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 6
+2019-10-02 06:40:37,419 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 41.76
+2019-10-02 06:40:37,419 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 95 ch on line 0 should be in ['int']
+2019-10-02 06:40:37,419 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 1 should be in ['int']
+2019-10-02 06:40:37,419 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 3 should be in ['int']
+2019-10-02 06:40:37,420 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 6 should be in ['int']
+2019-10-02 06:40:37,420 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 95 ch on line 8 should be in ['int']
+2019-10-02 06:40:37,420 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3.0 on line 9 should be in ['int']
+2019-10-02 06:40:37,420 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 95 ch on line 10 should be in ['int']
+2019-10-02 06:40:37,420 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 11 should be in ['int']
+2019-10-02 06:40:37,420 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 95 ch on line 12 should be in ['int']
+2019-10-02 06:40:37,420 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.4 on line 13 should be in ['int']
+2019-10-02 06:40:37,420 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 14 should be in ['int']
+2019-10-02 06:40:37,420 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 15 should be in ['int']
+2019-10-02 06:40:37,420 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.3 on line 16 should be in ['int']
+2019-10-02 06:40:37,420 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 18 should be in ['int']
+2019-10-02 06:40:37,420 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3.0 on line 19 should be in ['int']
+2019-10-02 06:40:37,421 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.2 on line 20 should be in ['int']
+2019-10-02 06:40:37,421 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3.0 on line 21 should be in ['int']
+2019-10-02 06:40:37,421 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.2 on line 22 should be in ['int']
+2019-10-02 06:40:37,421 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.5 on line 23 should be in ['int']
+2019-10-02 06:40:37,421 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.5 on line 24 should be in ['int']
+2019-10-02 06:40:37,421 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-10-02 06:40:37,421 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-10-02 06:40:37,421 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 1048
+2019-10-02 06:40:37,421 - VO - FR - AUTOREFLEX - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 93

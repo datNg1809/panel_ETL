@@ -1,0 +1,132 @@
+2019-07-19 18:40:07,096 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,096 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,096 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-07-19 18:40:07,097 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-07-19 18:40:07,097 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-07-19 18:40:07,097 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,097 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 0.0
+2019-07-19 18:40:07,097 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 0.0
+2019-07-19 18:40:07,097 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-07-19 18:40:07,097 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,097 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,097 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: www.audeimmobilier.com/ on line 3, value should be unique
+2019-07-19 18:40:07,097 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: www.audeimmobilier.com/ on line 4, value should be unique
+2019-07-19 18:40:07,097 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: www.audeimmobilier.com/ on line 5, value should be unique
+2019-07-19 18:40:07,097 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: www.audeimmobilier.com/ on line 6, value should be unique
+2019-07-19 18:40:07,097 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: www.audeimmobilier.com/ on line 7, value should be unique
+2019-07-19 18:40:07,097 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: www.audeimmobilier.com/ on line 8, value should be unique
+2019-07-19 18:40:07,097 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 99.84
+2019-07-19 18:40:07,097 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 0.0
+2019-07-19 18:40:07,097 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 0.0
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9500 on line 5, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9110 on line 13, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1170 on line 18, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1170 on line 21, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6000 on line 27, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6150 on line 46, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6390 on line 63, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3210 on line 72, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3270 on line 85, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1420 on line 94, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1630 on line 106, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6400 on line 108, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6390 on line 134, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6510 on line 142, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6200 on line 155, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1400 on line 166, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,098 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2120 on line 176, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3120 on line 184, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6000 on line 185, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2400 on line 194, value should match regexp ^[0-9]{5}$
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 91.38
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 3780
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 45.0 on line 0 should be int
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 90.0 on line 1 should be int
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 40.0 on line 2 should be int
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 107.0 on line 3 should be int
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 72.0 on line 4 should be int
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 145.0 on line 5 should be int
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 104.0 on line 6 should be int
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 125.0 on line 7 should be int
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 84.0 on line 8 should be int
+2019-07-19 18:40:07,099 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 290.0 on line 9 should be int
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 170.0 on line 10 should be int
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 45.0 on line 11 should be int
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 325.0 on line 12 should be int
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 47.0 on line 13 should be int
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 132.0 on line 14 should be int
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 49.0 on line 15 should be int
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 240.0 on line 16 should be int
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 150.0 on line 17 should be int
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 84.0 on line 18 should be int
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 65.0 on line 19 should be int
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 0 should be int
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 1 should be int
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 2 should be int
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 3 should be int
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 4 should be int
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 5 should be int
+2019-07-19 18:40:07,100 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 6 should be int
+2019-07-19 18:40:07,101 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 7 should be int
+2019-07-19 18:40:07,101 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 8 should be int
+2019-07-19 18:40:07,101 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 9 should be int
+2019-07-19 18:40:07,101 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 10 should be int
+2019-07-19 18:40:07,101 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 11 should be int
+2019-07-19 18:40:07,101 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 12 should be int
+2019-07-19 18:40:07,101 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 13 should be int
+2019-07-19 18:40:07,101 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 14 should be int
+2019-07-19 18:40:07,101 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 15 should be int
+2019-07-19 18:40:07,101 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 16 should be int
+2019-07-19 18:40:07,101 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 17 should be int
+2019-07-19 18:40:07,101 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 18 should be int
+2019-07-19 18:40:07,101 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 19 should be int
+2019-07-19 18:40:07,101 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-07-19 18:40:07,101 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,101 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,101 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,102 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-07-19 18:40:07,102 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 0.0
+2019-07-19 18:40:07,102 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 0.0
+2019-07-19 18:40:07,102 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,102 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,102 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,102 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,102 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,102 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,102 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,102 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,102 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-07-19 18:40:07,102 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SELLER_TYPE - correctly filled rate (%) - 0.0
+2019-07-19 18:40:07,102 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 0 should be int
+2019-07-19 18:40:07,102 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 1 should be int
+2019-07-19 18:40:07,102 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 2 should be int
+2019-07-19 18:40:07,102 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 3 should be int
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 4 should be int
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 5 should be int
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 6 should be int
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 7 should be int
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 8 should be int
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 9 should be int
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 10 should be int
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 11 should be int
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 12 should be int
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 13 should be int
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 14 should be int
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 15 should be int
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 16 should be int
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 17 should be int
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 18 should be int
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 19 should be int
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,103 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-07-19 18:40:07,104 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 2329
+2019-07-19 18:40:07,104 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0
+2019-07-19 18:40:07,104 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 0
+2019-07-19 18:40:07,104 - IMMO - FR - ENTREPARTICULIERS - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 96

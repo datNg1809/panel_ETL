@@ -1,0 +1,114 @@
+2019-07-09 10:40:26,625 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 98.45
+2019-07-09 10:40:26,625 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,625 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.82
+2019-07-09 10:40:26,625 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,625 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,625 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,625 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-07-09 10:40:26,625 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,625 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-07-09 10:40:26,626 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-07-09 10:40:26,626 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 98.27
+2019-07-09 10:40:26,626 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,626 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-07-09 10:40:26,626 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 142523
+2019-07-09 10:40:26,626 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,626 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 52000.0 on line 0 should be in ['int']
+2019-07-09 10:40:26,626 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 39575.0 on line 1 should be in ['int']
+2019-07-09 10:40:26,626 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 62140.0 on line 2 should be in ['int']
+2019-07-09 10:40:26,626 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 98000.0 on line 3 should be in ['int']
+2019-07-09 10:40:26,626 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 82146.0 on line 4 should be in ['int']
+2019-07-09 10:40:26,626 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 58000.0 on line 5 should be in ['int']
+2019-07-09 10:40:26,626 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 24030.0 on line 6 should be in ['int']
+2019-07-09 10:40:26,626 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 40000.0 on line 7 should be in ['int']
+2019-07-09 10:40:26,626 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 84776.0 on line 8 should be in ['int']
+2019-07-09 10:40:26,626 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 50140.0 on line 9 should be in ['int']
+2019-07-09 10:40:26,626 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 81000.0 on line 10 should be in ['int']
+2019-07-09 10:40:26,627 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 1.0 on line 11 should be in ['int']
+2019-07-09 10:40:26,627 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 32324.0 on line 12 should be in ['int']
+2019-07-09 10:40:26,627 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 40000.0 on line 13 should be in ['int']
+2019-07-09 10:40:26,627 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 41000.0 on line 14 should be in ['int']
+2019-07-09 10:40:26,627 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 35863.0 on line 15 should be in ['int']
+2019-07-09 10:40:26,627 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 999999.0 on line 16 should be in ['int']
+2019-07-09 10:40:26,627 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 999999.0 on line 17 should be in ['int']
+2019-07-09 10:40:26,627 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 34000.0 on line 18 should be in ['int']
+2019-07-09 10:40:26,627 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 116520.0 on line 19 should be in ['int']
+2019-07-09 10:40:26,627 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 0.0
+2019-07-09 10:40:26,627 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,627 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,627 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,627 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 98.45
+2019-07-09 10:40:26,627 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 98.45
+2019-07-09 10:40:26,627 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,627 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-07-09 10:40:26,628 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-07-09 10:40:26,629 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-07-09 10:40:26,629 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,629 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,629 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,629 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 96.71
+2019-07-09 10:40:26,629 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag duplo, Alarm...] on line  6, value length should be between 0 and 255
+2019-07-09 10:40:26,629 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag duplo, Alarm...] on line  9, value length should be between 0 and 255
+2019-07-09 10:40:26,629 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag duplo, Ar co...] on line  15, value length should be between 0 and 255
+2019-07-09 10:40:26,629 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [4x4, Air bag duplo, ...] on line  21, value length should be between 0 and 255
+2019-07-09 10:40:26,629 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag duplo, Air b...] on line  35, value length should be between 0 and 255
+2019-07-09 10:40:26,629 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag, Ar condicio...] on line  39, value length should be between 0 and 255
+2019-07-09 10:40:26,629 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag duplo, Air b...] on line  40, value length should be between 0 and 255
+2019-07-09 10:40:26,629 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag duplo, Air b...] on line  44, value length should be between 0 and 255
+2019-07-09 10:40:26,629 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag duplo, Air b...] on line  46, value length should be between 0 and 255
+2019-07-09 10:40:26,629 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag duplo, Air b...] on line  50, value length should be between 0 and 255
+2019-07-09 10:40:26,629 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag duplo, Air b...] on line  82, value length should be between 0 and 255
+2019-07-09 10:40:26,629 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag duplo, Air b...] on line  94, value length should be between 0 and 255
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag duplo, Air b...] on line  99, value length should be between 0 and 255
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag duplo, Air b...] on line  107, value length should be between 0 and 255
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag duplo, Air b...] on line  112, value length should be between 0 and 255
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag, Ar condicio...] on line  116, value length should be between 0 and 255
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag duplo, Air b...] on line  119, value length should be between 0 and 255
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag duplo, Air b...] on line  130, value length should be between 0 and 255
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag duplo, Ar di...] on line  134, value length should be between 0 and 255
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Air bag duplo, Air b...] on line  143, value length should be between 0 and 255
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 71.37
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 98.0
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,630 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-07-09 10:40:26,631 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,631 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,631 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,631 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,631 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-07-09 10:40:26,631 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-07-09 10:40:26,631 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-07-09 10:40:26,631 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 142197
+2019-07-09 10:40:26,631 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 326
+2019-07-09 10:40:26,631 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 68
+2019-07-09 10:40:26,631 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 450
+2019-07-09 10:40:26,631 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-07-09 10:40:26,631 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 11
+2019-07-09 10:40:26,631 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-07-09 10:40:26,631 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-07-09 10:40:26,631 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 827
+2019-07-09 10:40:26,631 - VO - BR - MEUCARRONOVO - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 27

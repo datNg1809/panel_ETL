@@ -1,0 +1,125 @@
+2019-09-30 10:18:29,176 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,176 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,176 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-09-30 10:18:29,177 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-09-30 10:18:29,177 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-09-30 10:18:29,177 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,177 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 0.0
+2019-09-30 10:18:29,177 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 98.79
+2019-09-30 10:18:29,177 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 96.96
+2019-09-30 10:18:29,177 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-09-30 10:18:29,177 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,177 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,177 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-09-30 10:18:29,177 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Exclusivite. Villars...] on line  0, value length should be between 0 and 255
+2019-09-30 10:18:29,177 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Exclusivite. Norante...] on line  1, value length should be between 0 and 255
+2019-09-30 10:18:29,177 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Exclusivite. Ski, vi...] on line  2, value length should be between 0 and 255
+2019-09-30 10:18:29,177 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Exclusivite. Thorame...] on line  3, value length should be between 0 and 255
+2019-09-30 10:18:29,177 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Exclusivite. A Senez...] on line  4, value length should be between 0 and 255
+2019-09-30 10:18:29,177 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Exclusivite. Thorame...] on line  5, value length should be between 0 and 255
+2019-09-30 10:18:29,177 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Exclusivite. Centre ...] on line  6, value length should be between 0 and 255
+2019-09-30 10:18:29,178 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Exclusivite. Tres Ra...] on line  7, value length should be between 0 and 255
+2019-09-30 10:18:29,178 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Exclusivite. St Andr...] on line  8, value length should be between 0 and 255
+2019-09-30 10:18:29,178 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Rare : Maison passiv...] on line  9, value length should be between 0 and 255
+2019-09-30 10:18:29,178 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Centre Vallon Pont d...] on line  10, value length should be between 0 and 255
+2019-09-30 10:18:29,178 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Ce mas provençal du ...] on line  11, value length should be between 0 and 255
+2019-09-30 10:18:29,178 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Idéalement située à ...] on line  12, value length should be between 0 and 255
+2019-09-30 10:18:29,178 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Appartements de gran...] on line  13, value length should be between 0 and 255
+2019-09-30 10:18:29,178 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Au coeur d'un enviro...] on line  14, value length should be between 0 and 255
+2019-09-30 10:18:29,178 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Dans le centre histo...] on line  15, value length should be between 0 and 255
+2019-09-30 10:18:29,178 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Située à proximité d...] on line  16, value length should be between 0 and 255
+2019-09-30 10:18:29,178 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Au coeur d'un enviro...] on line  17, value length should be between 0 and 255
+2019-09-30 10:18:29,178 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [En surplomb d'un ham...] on line  18, value length should be between 0 and 255
+2019-09-30 10:18:29,178 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Classé monument hist...] on line  19, value length should be between 0 and 255
+2019-09-30 10:18:29,178 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 8.7
+2019-09-30 10:18:29,178 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 99.87
+2019-09-30 10:18:29,178 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,178 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 83 on line 231, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 04 on line 401, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 23 on line 537, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 82 on line 1131, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 82 on line 1142, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 82 on line 1146, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 82 on line 1185, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 64 on line 1419, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 64 on line 1424, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 64 on line 1426, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 64 on line 1427, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 07 on line 1906, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 07 on line 1908, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 04 on line 2066, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 79 on line 2113, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 73 on line 2123, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 73 on line 2147, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 73 on line 2158, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,179 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 73 on line 2235, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 73 on line 2245, value should match regexp ^[0-9]{5}$
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 98.57
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 85211
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 60.0 on line 0 should be int
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 60.0 on line 1 should be int
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 69.0 on line 2 should be int
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 110.0 on line 3 should be int
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 37.0 on line 4 should be int
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 185.0 on line 5 should be int
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 114.0 on line 6 should be int
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 35.0 on line 7 should be int
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 140.0 on line 8 should be int
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 140.0 on line 9 should be int
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 10 should be int
+2019-09-30 10:18:29,180 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 260.0 on line 11 should be int
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 450.0 on line 12 should be int
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 130.0 on line 13 should be int
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 340.0 on line 14 should be int
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 180.0 on line 15 should be int
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 326.0 on line 16 should be int
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 750.0 on line 17 should be int
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 300.0 on line 18 should be int
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 480.0 on line 19 should be int
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 60.0 on line 0 should be int
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 60.0 on line 1 should be int
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 69.0 on line 2 should be int
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 110.0 on line 3 should be int
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 37.0 on line 4 should be int
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 185.0 on line 5 should be int
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 114.0 on line 6 should be int
+2019-09-30 10:18:29,181 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 35.0 on line 7 should be int
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 140.0 on line 8 should be int
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 140.0 on line 9 should be int
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 10 should be int
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 260.0 on line 11 should be int
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 450.0 on line 12 should be int
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 130.0 on line 13 should be int
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 340.0 on line 14 should be int
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 180.0 on line 15 should be int
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 326.0 on line 16 should be int
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 750.0 on line 17 should be int
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 300.0 on line 18 should be int
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 480.0 on line 19 should be int
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-09-30 10:18:29,182 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 99.99
+2019-09-30 10:18:29,183 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,183 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 0.0
+2019-09-30 10:18:29,183 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,183 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,183 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,183 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,183 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,183 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,183 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-09-30 10:18:29,183 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,183 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-09-30 10:18:29,183 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 11376
+2019-09-30 10:18:29,183 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 4156
+2019-09-30 10:18:29,183 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 81055
+2019-09-30 10:18:29,183 - IMMO - FR - GREENACRES - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 95

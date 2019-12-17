@@ -1,0 +1,320 @@
+2019-04-15 19:41:52,046 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - PRIX - correctly filled rate (%) - 98.97
+2019-04-15 19:41:52,046 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-04-15 19:41:52,046 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CARROSSERIE - correctly filled rate (%) - 100.0
+2019-04-15 19:41:52,046 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2003 on line 0 should be in ['int', 'float']
+2019-04-15 19:41:52,046 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2017 on line 1 should be in ['int', 'float']
+2019-04-15 19:41:52,047 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2016 on line 2 should be in ['int', 'float']
+2019-04-15 19:41:52,047 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2018 on line 3 should be in ['int', 'float']
+2019-04-15 19:41:52,047 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2018 on line 4 should be in ['int', 'float']
+2019-04-15 19:41:52,047 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2013 on line 5 should be in ['int', 'float']
+2019-04-15 19:41:52,047 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2017 on line 6 should be in ['int', 'float']
+2019-04-15 19:41:52,047 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2018 on line 7 should be in ['int', 'float']
+2019-04-15 19:41:52,047 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2018 on line 8 should be in ['int', 'float']
+2019-04-15 19:41:52,047 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2018 on line 9 should be in ['int', 'float']
+2019-04-15 19:41:52,047 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2015 on line 10 should be in ['int', 'float']
+2019-04-15 19:41:52,047 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2018 on line 11 should be in ['int', 'float']
+2019-04-15 19:41:52,047 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2015 on line 12 should be in ['int', 'float']
+2019-04-15 19:41:52,047 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2012 on line 13 should be in ['int', 'float']
+2019-04-15 19:41:52,048 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2017 on line 14 should be in ['int', 'float']
+2019-04-15 19:41:52,048 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2012 on line 15 should be in ['int', 'float']
+2019-04-15 19:41:52,048 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2016 on line 16 should be in ['int', 'float']
+2019-04-15 19:41:52,048 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2018 on line 17 should be in ['int', 'float']
+2019-04-15 19:41:52,048 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2018 on line 18 should be in ['int', 'float']
+2019-04-15 19:41:52,048 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2017 on line 19 should be in ['int', 'float']
+2019-04-15 19:41:52,048 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 0.0
+2019-04-15 19:41:52,048 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-04-15 19:41:52,048 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-04-15 19:41:52,048 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-04-15 19:41:52,048 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-04-15 19:41:52,049 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-04-15 19:41:52,049 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-04-15 19:41:52,049 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-04-15 19:41:52,049 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-04-15 19:41:52,049 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-04-15 19:41:52,049 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-04-15 19:41:52,049 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-04-15 19:41:52,049 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 100.0
+2019-04-15 19:41:52,049 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 0, value should not be null
+2019-04-15 19:41:52,049 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 63, value should not be null
+2019-04-15 19:41:52,049 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 120, value should not be null
+2019-04-15 19:41:52,050 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 121, value should not be null
+2019-04-15 19:41:52,050 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 122, value should not be null
+2019-04-15 19:41:52,050 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 129, value should not be null
+2019-04-15 19:41:52,050 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 135, value should not be null
+2019-04-15 19:41:52,050 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 158, value should not be null
+2019-04-15 19:41:52,050 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 160, value should not be null
+2019-04-15 19:41:52,050 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 161, value should not be null
+2019-04-15 19:41:52,050 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 171, value should not be null
+2019-04-15 19:41:52,050 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 172, value should not be null
+2019-04-15 19:41:52,050 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 179, value should not be null
+2019-04-15 19:41:52,050 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 216, value should not be null
+2019-04-15 19:41:52,050 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 217, value should not be null
+2019-04-15 19:41:52,051 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 230, value should not be null
+2019-04-15 19:41:52,051 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 231, value should not be null
+2019-04-15 19:41:52,051 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 234, value should not be null
+2019-04-15 19:41:52,051 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 235, value should not be null
+2019-04-15 19:41:52,051 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - OPTIONS - Unexpected value: None on line 248, value should not be null
+2019-04-15 19:41:52,051 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 80.73
+2019-04-15 19:41:52,051 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-04-15 19:41:52,051 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 0, value should not be null
+2019-04-15 19:41:52,051 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 1, value should not be null
+2019-04-15 19:41:52,051 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 2, value should not be null
+2019-04-15 19:41:52,051 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 3, value should not be null
+2019-04-15 19:41:52,052 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 4, value should not be null
+2019-04-15 19:41:52,052 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 5, value should not be null
+2019-04-15 19:41:52,052 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 6, value should not be null
+2019-04-15 19:41:52,052 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 7, value should not be null
+2019-04-15 19:41:52,052 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 8, value should not be null
+2019-04-15 19:41:52,052 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 9, value should not be null
+2019-04-15 19:41:52,052 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 10, value should not be null
+2019-04-15 19:41:52,052 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 11, value should not be null
+2019-04-15 19:41:52,052 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 12, value should not be null
+2019-04-15 19:41:52,052 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 13, value should not be null
+2019-04-15 19:41:52,052 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 14, value should not be null
+2019-04-15 19:41:52,052 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 15, value should not be null
+2019-04-15 19:41:52,053 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 16, value should not be null
+2019-04-15 19:41:52,053 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 17, value should not be null
+2019-04-15 19:41:52,053 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 18, value should not be null
+2019-04-15 19:41:52,053 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PORTE - Unexpected value: None on line 19, value should not be null
+2019-04-15 19:41:52,053 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-04-15 19:41:52,053 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 59990.0 on line 0 should be in ['int']
+2019-04-15 19:41:52,053 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 569900.0 on line 1 should be in ['int']
+2019-04-15 19:41:52,053 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 139900.0 on line 2 should be in ['int']
+2019-04-15 19:41:52,053 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 159900.0 on line 3 should be in ['int']
+2019-04-15 19:41:52,053 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 269900.0 on line 4 should be in ['int']
+2019-04-15 19:41:52,053 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 449900.0 on line 5 should be in ['int']
+2019-04-15 19:41:52,054 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 209900.0 on line 6 should be in ['int']
+2019-04-15 19:41:52,054 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 409900.0 on line 7 should be in ['int']
+2019-04-15 19:41:52,054 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 379900.0 on line 8 should be in ['int']
+2019-04-15 19:41:52,054 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 179900.0 on line 9 should be in ['int']
+2019-04-15 19:41:52,054 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 239990.0 on line 10 should be in ['int']
+2019-04-15 19:41:52,054 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 149990.0 on line 11 should be in ['int']
+2019-04-15 19:41:52,054 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 419990.0 on line 12 should be in ['int']
+2019-04-15 19:41:52,054 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 229990.0 on line 13 should be in ['int']
+2019-04-15 19:41:52,054 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 139990.0 on line 14 should be in ['int']
+2019-04-15 19:41:52,054 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 149990.0 on line 15 should be in ['int']
+2019-04-15 19:41:52,054 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 373236.0 on line 16 should be in ['int']
+2019-04-15 19:41:52,055 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 239990.0 on line 17 should be in ['int']
+2019-04-15 19:41:52,055 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 171900.0 on line 18 should be in ['int']
+2019-04-15 19:41:52,055 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 301900.0 on line 19 should be in ['int']
+2019-04-15 19:41:52,055 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 0.0
+2019-04-15 19:41:52,055 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 95.04
+2019-04-15 19:41:52,055 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 316000 on line 0 should be in ['int']
+2019-04-15 19:41:52,055 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 43300 on line 1 should be in ['int']
+2019-04-15 19:41:52,055 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 28547 on line 2 should be in ['int']
+2019-04-15 19:41:52,055 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 8397 on line 3 should be in ['int']
+2019-04-15 19:41:52,055 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 2967 on line 4 should be in ['int']
+2019-04-15 19:41:52,055 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 94199 on line 5 should be in ['int']
+2019-04-15 19:41:52,056 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 45000 on line 6 should be in ['int']
+2019-04-15 19:41:52,056 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 10201 on line 7 should be in ['int']
+2019-04-15 19:41:52,056 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 1927 on line 8 should be in ['int']
+2019-04-15 19:41:52,056 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 29351 on line 9 should be in ['int']
+2019-04-15 19:41:52,056 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 59989 on line 10 should be in ['int']
+2019-04-15 19:41:52,056 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 1002 on line 11 should be in ['int']
+2019-04-15 19:41:52,056 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 106400 on line 12 should be in ['int']
+2019-04-15 19:41:52,056 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 145967 on line 13 should be in ['int']
+2019-04-15 19:41:52,056 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 24720 on line 14 should be in ['int']
+2019-04-15 19:41:52,056 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 87015 on line 15 should be in ['int']
+2019-04-15 19:41:52,057 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 25528 on line 16 should be in ['int']
+2019-04-15 19:41:52,057 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 13258 on line 17 should be in ['int']
+2019-04-15 19:41:52,057 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 32198 on line 18 should be in ['int']
+2019-04-15 19:41:52,057 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 40779 on line 19 should be in ['int']
+2019-04-15 19:41:52,057 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 0.0
+2019-04-15 19:41:52,057 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-04-15 19:41:52,057 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 0, value should not be null
+2019-04-15 19:41:52,057 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 1, value should not be null
+2019-04-15 19:41:52,057 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 2, value should not be null
+2019-04-15 19:41:52,057 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 3, value should not be null
+2019-04-15 19:41:52,057 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 4, value should not be null
+2019-04-15 19:41:52,058 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 5, value should not be null
+2019-04-15 19:41:52,058 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 6, value should not be null
+2019-04-15 19:41:52,058 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 7, value should not be null
+2019-04-15 19:41:52,058 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 8, value should not be null
+2019-04-15 19:41:52,058 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 9, value should not be null
+2019-04-15 19:41:52,058 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 10, value should not be null
+2019-04-15 19:41:52,058 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 11, value should not be null
+2019-04-15 19:41:52,058 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 12, value should not be null
+2019-04-15 19:41:52,058 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 13, value should not be null
+2019-04-15 19:41:52,058 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 14, value should not be null
+2019-04-15 19:41:52,058 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 15, value should not be null
+2019-04-15 19:41:52,059 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 16, value should not be null
+2019-04-15 19:41:52,059 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 17, value should not be null
+2019-04-15 19:41:52,059 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 18, value should not be null
+2019-04-15 19:41:52,059 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - PLACE - Unexpected value: None on line 19, value should not be null
+2019-04-15 19:41:52,059 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-04-15 19:41:52,059 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 0 should be in ['int']
+2019-04-15 19:41:52,059 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 6.0 on line 1 should be in ['int']
+2019-04-15 19:41:52,059 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 6.0 on line 2 should be in ['int']
+2019-04-15 19:41:52,059 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 5.0 on line 3 should be in ['int']
+2019-04-15 19:41:52,059 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 8.0 on line 4 should be in ['int']
+2019-04-15 19:41:52,060 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 7.0 on line 5 should be in ['int']
+2019-04-15 19:41:52,060 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 6 should be in ['int']
+2019-04-15 19:41:52,060 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 7.0 on line 7 should be in ['int']
+2019-04-15 19:41:52,060 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 6.0 on line 8 should be in ['int']
+2019-04-15 19:41:52,060 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 9 should be in ['int']
+2019-04-15 19:41:52,060 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 10 should be in ['int']
+2019-04-15 19:41:52,060 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 10.0 on line 11 should be in ['int']
+2019-04-15 19:41:52,060 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 8.0 on line 12 should be in ['int']
+2019-04-15 19:41:52,060 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 10.0 on line 13 should be in ['int']
+2019-04-15 19:41:52,060 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 8.0 on line 14 should be in ['int']
+2019-04-15 19:41:52,060 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 15 should be in ['int']
+2019-04-15 19:41:52,060 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 10.0 on line 16 should be in ['int']
+2019-04-15 19:41:52,061 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 10.0 on line 17 should be in ['int']
+2019-04-15 19:41:52,061 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 6.0 on line 18 should be in ['int']
+2019-04-15 19:41:52,061 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 12.0 on line 19 should be in ['int']
+2019-04-15 19:41:52,061 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 0.0
+2019-04-15 19:41:52,061 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 98.46
+2019-04-15 19:41:52,061 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 0, value should not be null
+2019-04-15 19:41:52,061 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 1, value should not be null
+2019-04-15 19:41:52,061 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 2, value should not be null
+2019-04-15 19:41:52,061 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 3, value should not be null
+2019-04-15 19:41:52,061 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 4, value should not be null
+2019-04-15 19:41:52,061 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 5, value should not be null
+2019-04-15 19:41:52,062 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 6, value should not be null
+2019-04-15 19:41:52,062 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 7, value should not be null
+2019-04-15 19:41:52,062 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 8, value should not be null
+2019-04-15 19:41:52,062 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 9, value should not be null
+2019-04-15 19:41:52,062 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 10, value should not be null
+2019-04-15 19:41:52,062 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 11, value should not be null
+2019-04-15 19:41:52,062 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 12, value should not be null
+2019-04-15 19:41:52,062 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 13, value should not be null
+2019-04-15 19:41:52,062 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 14, value should not be null
+2019-04-15 19:41:52,062 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 15, value should not be null
+2019-04-15 19:41:52,062 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 16, value should not be null
+2019-04-15 19:41:52,063 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 17, value should not be null
+2019-04-15 19:41:52,063 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 18, value should not be null
+2019-04-15 19:41:52,063 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - LITRE - Unexpected value: None on line 19, value should not be null
+2019-04-15 19:41:52,063 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 0.0
+2019-04-15 19:41:52,063 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 0, value should not be null
+2019-04-15 19:41:52,063 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 1, value should not be null
+2019-04-15 19:41:52,063 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 2, value should not be null
+2019-04-15 19:41:52,063 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 3, value should not be null
+2019-04-15 19:41:52,063 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 4, value should not be null
+2019-04-15 19:41:52,063 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 5, value should not be null
+2019-04-15 19:41:52,063 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 6, value should not be null
+2019-04-15 19:41:52,064 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 7, value should not be null
+2019-04-15 19:41:52,064 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 8, value should not be null
+2019-04-15 19:41:52,064 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 9, value should not be null
+2019-04-15 19:41:52,064 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 10, value should not be null
+2019-04-15 19:41:52,064 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 11, value should not be null
+2019-04-15 19:41:52,064 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 12, value should not be null
+2019-04-15 19:41:52,064 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 13, value should not be null
+2019-04-15 19:41:52,064 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 14, value should not be null
+2019-04-15 19:41:52,064 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 15, value should not be null
+2019-04-15 19:41:52,064 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 16, value should not be null
+2019-04-15 19:41:52,064 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 17, value should not be null
+2019-04-15 19:41:52,064 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 18, value should not be null
+2019-04-15 19:41:52,065 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - IMMAT - Unexpected value: None on line 19, value should not be null
+2019-04-15 19:41:52,065 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 0.0
+2019-04-15 19:41:52,065 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 0, value should not be null
+2019-04-15 19:41:52,065 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 1, value should not be null
+2019-04-15 19:41:52,065 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 2, value should not be null
+2019-04-15 19:41:52,065 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 3, value should not be null
+2019-04-15 19:41:52,065 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 4, value should not be null
+2019-04-15 19:41:52,065 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 5, value should not be null
+2019-04-15 19:41:52,065 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 6, value should not be null
+2019-04-15 19:41:52,065 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 7, value should not be null
+2019-04-15 19:41:52,065 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 8, value should not be null
+2019-04-15 19:41:52,065 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 9, value should not be null
+2019-04-15 19:41:52,066 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 10, value should not be null
+2019-04-15 19:41:52,066 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 11, value should not be null
+2019-04-15 19:41:52,066 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 12, value should not be null
+2019-04-15 19:41:52,066 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 13, value should not be null
+2019-04-15 19:41:52,066 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 14, value should not be null
+2019-04-15 19:41:52,066 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 15, value should not be null
+2019-04-15 19:41:52,066 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 16, value should not be null
+2019-04-15 19:41:52,066 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 17, value should not be null
+2019-04-15 19:41:52,066 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 18, value should not be null
+2019-04-15 19:41:52,066 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VN_IND - Unexpected value: None on line 19, value should not be null
+2019-04-15 19:41:52,066 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-04-15 19:41:52,067 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 0, value should not be null
+2019-04-15 19:41:52,067 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 1, value should not be null
+2019-04-15 19:41:52,067 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 2, value should not be null
+2019-04-15 19:41:52,067 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 3, value should not be null
+2019-04-15 19:41:52,067 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 4, value should not be null
+2019-04-15 19:41:52,067 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 5, value should not be null
+2019-04-15 19:41:52,067 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 6, value should not be null
+2019-04-15 19:41:52,067 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 7, value should not be null
+2019-04-15 19:41:52,067 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 8, value should not be null
+2019-04-15 19:41:52,067 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 9, value should not be null
+2019-04-15 19:41:52,067 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 10, value should not be null
+2019-04-15 19:41:52,068 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 11, value should not be null
+2019-04-15 19:41:52,068 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 12, value should not be null
+2019-04-15 19:41:52,068 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 13, value should not be null
+2019-04-15 19:41:52,068 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 14, value should not be null
+2019-04-15 19:41:52,068 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 15, value should not be null
+2019-04-15 19:41:52,068 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 16, value should not be null
+2019-04-15 19:41:52,068 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 17, value should not be null
+2019-04-15 19:41:52,068 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 18, value should not be null
+2019-04-15 19:41:52,068 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - ADRESSE - Unexpected value: None on line 19, value should not be null
+2019-04-15 19:41:52,068 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-04-15 19:41:52,068 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 0, value should not be null
+2019-04-15 19:41:52,068 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 1, value should not be null
+2019-04-15 19:41:52,069 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 2, value should not be null
+2019-04-15 19:41:52,069 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 3, value should not be null
+2019-04-15 19:41:52,069 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 4, value should not be null
+2019-04-15 19:41:52,069 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 5, value should not be null
+2019-04-15 19:41:52,069 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 6, value should not be null
+2019-04-15 19:41:52,069 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 7, value should not be null
+2019-04-15 19:41:52,069 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 8, value should not be null
+2019-04-15 19:41:52,069 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 9, value should not be null
+2019-04-15 19:41:52,069 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 10, value should not be null
+2019-04-15 19:41:52,069 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 11, value should not be null
+2019-04-15 19:41:52,069 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 12, value should not be null
+2019-04-15 19:41:52,069 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 13, value should not be null
+2019-04-15 19:41:52,070 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 14, value should not be null
+2019-04-15 19:41:52,070 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 15, value should not be null
+2019-04-15 19:41:52,070 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 16, value should not be null
+2019-04-15 19:41:52,070 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 17, value should not be null
+2019-04-15 19:41:52,070 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 18, value should not be null
+2019-04-15 19:41:52,070 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - VILLE - Unexpected value: None on line 19, value should not be null
+2019-04-15 19:41:52,070 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 0.0
+2019-04-15 19:41:52,070 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 0, value should not be null
+2019-04-15 19:41:52,070 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 1, value should not be null
+2019-04-15 19:41:52,070 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 2, value should not be null
+2019-04-15 19:41:52,070 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 3, value should not be null
+2019-04-15 19:41:52,071 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 4, value should not be null
+2019-04-15 19:41:52,071 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 5, value should not be null
+2019-04-15 19:41:52,071 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 6, value should not be null
+2019-04-15 19:41:52,071 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 7, value should not be null
+2019-04-15 19:41:52,071 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 8, value should not be null
+2019-04-15 19:41:52,071 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 9, value should not be null
+2019-04-15 19:41:52,071 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 10, value should not be null
+2019-04-15 19:41:52,071 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 11, value should not be null
+2019-04-15 19:41:52,071 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 12, value should not be null
+2019-04-15 19:41:52,071 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 13, value should not be null
+2019-04-15 19:41:52,071 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 14, value should not be null
+2019-04-15 19:41:52,071 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 15, value should not be null
+2019-04-15 19:41:52,072 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 16, value should not be null
+2019-04-15 19:41:52,072 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 17, value should not be null
+2019-04-15 19:41:52,072 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 18, value should not be null
+2019-04-15 19:41:52,072 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - CP - Unexpected value: None on line 19, value should not be null
+2019-04-15 19:41:52,072 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-04-15 19:41:52,072 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 100.0
+2019-04-15 19:41:52,072 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 93.06
+2019-04-15 19:41:52,072 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.92
+2019-04-15 19:41:52,072 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 66270
+2019-04-15 19:41:52,072 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 44352
+2019-04-15 19:41:52,073 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 20301
+2019-04-15 19:41:52,073 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 100.0
+2019-04-15 19:41:52,073 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 0, value should not be null
+2019-04-15 19:41:52,073 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 1, value should not be null
+2019-04-15 19:41:52,073 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 2, value should not be null
+2019-04-15 19:41:52,073 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 3, value should not be null
+2019-04-15 19:41:52,073 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 4, value should not be null
+2019-04-15 19:41:52,073 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 5, value should not be null
+2019-04-15 19:41:52,073 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 6, value should not be null
+2019-04-15 19:41:52,073 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 7, value should not be null
+2019-04-15 19:41:52,073 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 8, value should not be null
+2019-04-15 19:41:52,074 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 9, value should not be null
+2019-04-15 19:41:52,074 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 10, value should not be null
+2019-04-15 19:41:52,074 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 11, value should not be null
+2019-04-15 19:41:52,074 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 12, value should not be null
+2019-04-15 19:41:52,074 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 13, value should not be null
+2019-04-15 19:41:52,074 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 14, value should not be null
+2019-04-15 19:41:52,074 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 15, value should not be null
+2019-04-15 19:41:52,074 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 16, value should not be null
+2019-04-15 19:41:52,074 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 17, value should not be null
+2019-04-15 19:41:52,074 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 18, value should not be null
+2019-04-15 19:41:52,074 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_not_be_null - GARAGE_NAME - Unexpected value: None on line 19, value should not be null
+2019-04-15 19:41:52,074 - VO - ZA - GUMTREE - 2019-02-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_NAME - correctly filled rate (%) - 0.0

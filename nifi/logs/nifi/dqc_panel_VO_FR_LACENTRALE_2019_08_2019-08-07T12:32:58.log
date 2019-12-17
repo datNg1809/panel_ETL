@@ -1,0 +1,111 @@
+2019-08-07 15:19:04,558 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 91.21
+2019-08-07 15:19:04,558 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,558 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,558 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,558 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,558 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,558 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-08-07 15:19:04,558 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 98.66
+2019-08-07 15:19:04,558 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 97.79
+2019-08-07 15:19:04,559 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,559 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 94.86
+2019-08-07 15:19:04,559 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 92.36
+2019-08-07 15:19:04,559 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,559 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-08-07 15:19:04,559 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 295510
+2019-08-07 15:19:04,559 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,559 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,559 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,559 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,559 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,559 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,559 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,559 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,559 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-08-07 15:19:04,559 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-08-07 15:19:04,560 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-08-07 15:19:04,561 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-08-07 15:19:04,561 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,561 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,561 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MG TF 135...] on line  1265, value length should be between 10 and 255
+2019-08-07 15:19:04,561 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MG TF 135...] on line  4623, value length should be between 10 and 255
+2019-08-07 15:19:04,561 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MG TF 160...] on line  6485, value length should be between 10 and 255
+2019-08-07 15:19:04,561 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MG TF 160...] on line  15006, value length should be between 10 and 255
+2019-08-07 15:19:04,561 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MORGAN V6...] on line  23142, value length should be between 10 and 255
+2019-08-07 15:19:04,561 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MG TF 115...] on line  30314, value length should be between 10 and 255
+2019-08-07 15:19:04,561 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MEGA 1.4...] on line  52619, value length should be between 10 and 255
+2019-08-07 15:19:04,561 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [GMC E85...] on line  58564, value length should be between 10 and 255
+2019-08-07 15:19:04,561 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 6...] on line  110233, value length should be between 10 and 255
+2019-08-07 15:19:04,561 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JAGUAR S...] on line  124484, value length should be between 10 and 255
+2019-08-07 15:19:04,561 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [LOTUS S2...] on line  186561, value length should be between 10 and 255
+2019-08-07 15:19:04,561 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MG TF 135...] on line  188264, value length should be between 10 and 255
+2019-08-07 15:19:04,561 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BUICK CXL...] on line  191980, value length should be between 10 and 255
+2019-08-07 15:19:04,561 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 560CH...] on line  195889, value length should be between 10 and 255
+2019-08-07 15:19:04,562 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FIAT BVA...] on line  201762, value length should be between 10 and 255
+2019-08-07 15:19:04,562 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MG TF 135...] on line  249891, value length should be between 10 and 255
+2019-08-07 15:19:04,562 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MG TF 115...] on line  257473, value length should be between 10 and 255
+2019-08-07 15:19:04,562 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [IVECO C35...] on line  288775, value length should be between 10 and 255
+2019-08-07 15:19:04,562 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.99
+2019-08-07 15:19:04,562 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-08-07 15:19:04,562 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,562 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,562 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-08-07 15:19:04,562 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-08-07 15:19:04,562 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,562 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,562 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-08-07 15:19:04,562 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,562 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,562 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.99
+2019-08-07 15:19:04,562 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-08-07 15:19:04,563 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-08-07 15:19:04,563 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.94
+2019-08-07 15:19:04,563 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-08-07 15:19:04,563 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 272980
+2019-08-07 15:19:04,563 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 22530
+2019-08-07 15:19:04,563 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 99
+2019-08-07 15:19:04,563 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 930
+2019-08-07 15:19:04,563 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 13
+2019-08-07 15:19:04,563 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 12
+2019-08-07 15:19:04,563 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 73.97
+2019-08-07 15:19:04,563 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3.0 on line 0 should be in ['int']
+2019-08-07 15:19:04,563 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.9 on line 1 should be in ['int']
+2019-08-07 15:19:04,563 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.7 on line 2 should be in ['int']
+2019-08-07 15:19:04,563 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 4 should be in ['int']
+2019-08-07 15:19:04,563 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 9 should be in ['int']
+2019-08-07 15:19:04,563 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 10 should be in ['int']
+2019-08-07 15:19:04,563 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.4 on line 12 should be in ['int']
+2019-08-07 15:19:04,564 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 13 should be in ['int']
+2019-08-07 15:19:04,564 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.8 on line 14 should be in ['int']
+2019-08-07 15:19:04,564 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.5 on line 16 should be in ['int']
+2019-08-07 15:19:04,564 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 17 should be in ['int']
+2019-08-07 15:19:04,564 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.4 on line 19 should be in ['int']
+2019-08-07 15:19:04,564 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.4 on line 20 should be in ['int']
+2019-08-07 15:19:04,564 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.5 on line 21 should be in ['int']
+2019-08-07 15:19:04,564 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.4 on line 22 should be in ['int']
+2019-08-07 15:19:04,564 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 28 should be in ['int']
+2019-08-07 15:19:04,564 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.8 on line 29 should be in ['int']
+2019-08-07 15:19:04,564 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 30 should be in ['int']
+2019-08-07 15:19:04,564 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.2 on line 32 should be in ['int']
+2019-08-07 15:19:04,564 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 33 should be in ['int']
+2019-08-07 15:19:04,564 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-08-07 15:19:04,564 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-08-07 15:19:04,564 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 3087
+2019-08-07 15:19:04,564 - VO - FR - LACENTRALE - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 96

@@ -1,0 +1,174 @@
+2019-06-11 20:37:07,597 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-06-11 20:37:07,597 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,597 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.89
+2019-06-11 20:37:07,597 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1797, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1798, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3998, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4507, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 5861, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9753, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 10123, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 12421, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 15810, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 16813, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 16853, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 23449, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 23450, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 24882, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 27300, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 27415, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 28595, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 28640, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,598 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 28782, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 29100, value should match regexp ^[0-9]{4}$
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.92
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 99.92
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: CF375SP on line 0, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: CF375SP on line 1, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: CF375SP on line 2, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: CF375SP on line 3, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: CF375SP on line 4, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: CF375SP on line 5, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: CF375SP on line 6, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: CF375SP on line 7, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: CF375SP on line 8, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: CF375SP on line 9, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,599 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: CF375SP on line 10, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: CF375SP on line 11, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: CF314LH on line 12, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: HG31EP on line 13, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: HG31EP on line 14, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: HG31EP on line 15, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: HG31EP on line 16, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: HG31EP on line 17, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: S92FZ on line 18, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: LS296BX on line 19, value should match regexp ^[A-Z][A-Z0-9]{1,3} [0-9]{1}[A-Z]{2}$
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 0.44
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 99.92
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 167012
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,600 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 99.91
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-06-11 20:37:07,601 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Kia RIO 2...] on line  418, value length should be between 10 and 255
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Kia Rio 2...] on line  1789, value length should be between 10 and 255
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [KIA RIO 2...] on line  3365, value length should be between 10 and 255
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Kia RIO 3...] on line  6012, value length should be between 10 and 255
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Kia Rio 1...] on line  12481, value length should be between 10 and 255
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Kia RIO 2...] on line  13945, value length should be between 10 and 255
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Kia RIO 2...] on line  13946, value length should be between 10 and 255
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW I8 I8...] on line  16952, value length should be between 10 and 255
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi TT...] on line  17762, value length should be between 10 and 255
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW X3 SE...] on line  17831, value length should be between 10 and 255
+2019-06-11 20:37:07,602 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW I3...] on line  17840, value length should be between 10 and 255
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW X3 SE...] on line  17883, value length should be between 10 and 255
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW Z4...] on line  18152, value length should be between 10 and 255
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW X1 SE...] on line  18239, value length should be between 10 and 255
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW X5 SE...] on line  18361, value length should be between 10 and 255
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW X3 SE...] on line  18387, value length should be between 10 and 255
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi TT...] on line  18397, value length should be between 10 and 255
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW X1 SE...] on line  18460, value length should be between 10 and 255
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW X3 SE...] on line  18461, value length should be between 10 and 255
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Jaguar XK...] on line  18512, value length should be between 10 and 255
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.94
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 99.92
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,603 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 99.92
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441443852315.0 on line 0, value should match a phone number format
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441443852315.0 on line 1, value should match a phone number format
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441443852315.0 on line 2, value should match a phone number format
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441443852315.0 on line 3, value should match a phone number format
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441443852315.0 on line 4, value should match a phone number format
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441443852315.0 on line 5, value should match a phone number format
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441443852315.0 on line 6, value should match a phone number format
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441443852315.0 on line 7, value should match a phone number format
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441443852315.0 on line 8, value should match a phone number format
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441443852315.0 on line 9, value should match a phone number format
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441443852315.0 on line 10, value should match a phone number format
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441443852315.0 on line 11, value should match a phone number format
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441656242086.0 on line 12, value should match a phone number format
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441423397681.0 on line 13, value should match a phone number format
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441423397681.0 on line 14, value should match a phone number format
+2019-06-11 20:37:07,604 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441423397681.0 on line 15, value should match a phone number format
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441423397681.0 on line 16, value should match a phone number format
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441423397681.0 on line 17, value should match a phone number format
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441143382039.0 on line 18, value should match a phone number format
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 441138033026.0 on line 19, value should match a phone number format
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 0.0
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 0.0
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 0
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 64
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 798
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 248
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 35
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 88.28
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1199.0 on line 0 should be in ['int']
+2019-06-11 20:37:07,605 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 1 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1398.0 on line 2 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 3 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1499.0 on line 4 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1956.0 on line 5 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1364.0 on line 6 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 7 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 8 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1956.0 on line 9 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 10 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1398.0 on line 11 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1685.0 on line 12 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2143.0 on line 13 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2143.0 on line 14 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3982.0 on line 15 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1461.0 on line 16 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2143.0 on line 17 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 898.0 on line 18 should be in ['int']
+2019-06-11 20:37:07,606 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1198.0 on line 19 should be in ['int']
+2019-06-11 20:37:07,607 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-06-11 20:37:07,607 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-06-11 20:37:07,607 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 0
+2019-06-11 20:37:07,607 - VO - UK - VCARS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0

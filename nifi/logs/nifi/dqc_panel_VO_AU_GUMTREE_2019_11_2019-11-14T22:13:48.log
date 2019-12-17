@@ -1,0 +1,166 @@
+2019-11-14 22:13:55,730 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-11-14 22:13:55,730 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 99.89
+2019-11-14 22:13:55,730 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - True - 1
+2019-11-14 22:13:55,730 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-11-14 22:13:55,730 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-11-14 22:13:55,730 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 97.56
+2019-11-14 22:13:55,730 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 3649
+2019-11-14 22:13:55,730 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - True - 1
+2019-11-14 22:13:55,730 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 96.89
+2019-11-14 22:13:55,730 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - False - 0
+2019-11-14 22:13:55,730 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2004.0 on line 0, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 1, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 2, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2006.0 on line 3, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2008.0 on line 4, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2015.0 on line 5, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2013.0 on line 6, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2011.0 on line 7, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2013.0 on line 8, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2011.0 on line 9, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2013.0 on line 10, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2009.0 on line 11, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2016.0 on line 12, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 13, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 14, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2008.0 on line 15, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2005.0 on line 16, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2003.0 on line 17, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,731 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 18, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,732 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2007.0 on line 19, value should match regexp ^[0-9]{4}$
+2019-11-14 22:13:55,732 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 0.0
+2019-11-14 22:13:55,732 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-11-14 22:13:55,732 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-11-14 22:13:55,732 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-11-14 22:13:55,732 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-11-14 22:13:55,732 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-11-14 22:13:55,732 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 93.56
+2019-11-14 22:13:55,732 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - True - 1
+2019-11-14 22:13:55,732 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 95.61
+2019-11-14 22:13:55,732 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - True - 1
+2019-11-14 22:13:55,732 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-11-14 22:13:55,732 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - False - 0
+2019-11-14 22:13:55,732 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 100.0
+2019-11-14 22:13:55,732 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - True - 1
+2019-11-14 22:13:55,732 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-11-14 22:13:55,732 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 154246
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 42.75
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - False - 0
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 118711.0 on line 0 should be in ['int']
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 19142.0 on line 1 should be in ['int']
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 68886.0 on line 2 should be in ['int']
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 142789.0 on line 3 should be in ['int']
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 147000.0 on line 4 should be in ['int']
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 31388.0 on line 5 should be in ['int']
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 26400.0 on line 6 should be in ['int']
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 83933.0 on line 7 should be in ['int']
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 199073.0 on line 8 should be in ['int']
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 82460.0 on line 9 should be in ['int']
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 372061.0 on line 10 should be in ['int']
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 195217.0 on line 11 should be in ['int']
+2019-11-14 22:13:55,733 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 45764.0 on line 12 should be in ['int']
+2019-11-14 22:13:55,734 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 197337.0 on line 13 should be in ['int']
+2019-11-14 22:13:55,734 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 59109.0 on line 14 should be in ['int']
+2019-11-14 22:13:55,734 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 100.0 on line 15 should be in ['int']
+2019-11-14 22:13:55,734 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 164000.0 on line 16 should be in ['int']
+2019-11-14 22:13:55,734 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 138000.0 on line 17 should be in ['int']
+2019-11-14 22:13:55,734 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 9384.0 on line 18 should be in ['int']
+2019-11-14 22:13:55,734 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 130200.0 on line 19 should be in ['int']
+2019-11-14 22:13:55,734 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 0.0
+2019-11-14 22:13:55,734 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - False - 0
+2019-11-14 22:13:55,734 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 99.65
+2019-11-14 22:13:55,734 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-11-14 22:13:55,734 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 0.0
+2019-11-14 22:13:55,734 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - False - 0
+2019-11-14 22:13:55,734 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 99.82
+2019-11-14 22:13:55,734 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-11-14 22:13:55,734 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 98.98
+2019-11-14 22:13:55,734 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - True - 1
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 0.0
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - False - 0
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 120i ...] on line  56, value length should be between 10 and 255
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Pajero ...] on line  147, value length should be between 10 and 255
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Subaru ...] on line  265, value length should be between 10 and 255
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Mr max ...] on line  408, value length should be between 10 and 255
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Car ...] on line  584, value length should be between 10 and 255
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW ...] on line  589, value length should be between 10 and 255
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [SUV ...] on line  631, value length should be between 10 and 255
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Argent ...] on line  802, value length should be between 10 and 255
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 120i ...] on line  997, value length should be between 10 and 255
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 530i ...] on line  1016, value length should be between 10 and 255
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [525I bmw ...] on line  1080, value length should be between 10 and 255
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [ bmw e90 ...] on line  1081, value length should be between 10 and 255
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw e21 ...] on line  1089, value length should be between 10 and 255
+2019-11-14 22:13:55,735 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW E46 ...] on line  1092, value length should be between 10 and 255
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw E53 ...] on line  1120, value length should be between 10 and 255
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 328i ...] on line  1713, value length should be between 10 and 255
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Tool box ...] on line  1758, value length should be between 10 and 255
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 2002 ...] on line  1764, value length should be between 10 and 255
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Eh sedan ...] on line  2063, value length should be between 10 and 255
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Vz sv6 ...] on line  2288, value length should be between 10 and 255
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.02
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-11-14 22:13:55,736 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-11-14 22:13:55,737 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 19990.0 on line 0 should be in ['int']
+2019-11-14 22:13:55,737 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 41999.0 on line 1 should be in ['int']
+2019-11-14 22:13:55,737 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 35888.0 on line 2 should be in ['int']
+2019-11-14 22:13:55,737 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 10990.0 on line 3 should be in ['int']
+2019-11-14 22:13:55,737 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 13990.0 on line 4 should be in ['int']
+2019-11-14 22:13:55,737 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 52999.0 on line 5 should be in ['int']
+2019-11-14 22:13:55,737 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 26000.0 on line 6 should be in ['int']
+2019-11-14 22:13:55,737 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 26999.0 on line 7 should be in ['int']
+2019-11-14 22:13:55,737 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 30257.0 on line 8 should be in ['int']
+2019-11-14 22:13:55,737 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 18950.0 on line 9 should be in ['int']
+2019-11-14 22:13:55,737 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 15999.0 on line 10 should be in ['int']
+2019-11-14 22:13:55,737 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 12989.0 on line 11 should be in ['int']
+2019-11-14 22:13:55,737 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 25995.0 on line 12 should be in ['int']
+2019-11-14 22:13:55,737 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 23980.0 on line 13 should be in ['int']
+2019-11-14 22:13:55,737 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 43888.0 on line 14 should be in ['int']
+2019-11-14 22:13:55,737 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 499.0 on line 15 should be in ['int']
+2019-11-14 22:13:55,737 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 6900.0 on line 16 should be in ['int']
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 6400.0 on line 17 should be in ['int']
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 74999.0 on line 18 should be in ['int']
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 30500.0 on line 19 should be in ['int']
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 0.0
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - False - 0
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 97.74
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 100.0
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - True - 1
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 0.0
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - False - 0
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 0.0
+2019-11-14 22:13:55,738 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - False - 0
+2019-11-14 22:13:55,739 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 100.0
+2019-11-14 22:13:55,739 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - True - 1
+2019-11-14 22:13:55,739 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-11-14 22:13:55,739 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - VN_IND - True - 1
+2019-11-14 22:13:55,739 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 10
+2019-11-14 22:13:55,739 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 7
+2019-11-14 22:13:55,739 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-11-14 22:13:55,739 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-11-14 22:13:55,739 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 8
+2019-11-14 22:13:55,739 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 0
+2019-11-14 22:13:55,739 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-11-14 22:13:55,739 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 53483
+2019-11-14 22:13:55,739 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 100039
+2019-11-14 22:13:55,739 - VO - AU - GUMTREE - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_NEWCARS - total number of row with conditions - 692

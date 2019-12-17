@@ -1,0 +1,205 @@
+2019-10-18 06:23:33,426 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-10-18 06:23:33,426 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 99.04
+2019-10-18 06:23:33,426 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - True - 1
+2019-10-18 06:23:33,426 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,426 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-10-18 06:23:33,426 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 0, value should be between 1980 and 2019
+2019-10-18 06:23:33,426 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 1, value should be between 1980 and 2019
+2019-10-18 06:23:33,426 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 2, value should be between 1980 and 2019
+2019-10-18 06:23:33,426 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 3, value should be between 1980 and 2019
+2019-10-18 06:23:33,426 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 4, value should be between 1980 and 2019
+2019-10-18 06:23:33,426 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 5, value should be between 1980 and 2019
+2019-10-18 06:23:33,426 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 6, value should be between 1980 and 2019
+2019-10-18 06:23:33,426 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 7, value should be between 1980 and 2019
+2019-10-18 06:23:33,426 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 8, value should be between 1980 and 2019
+2019-10-18 06:23:33,427 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 9, value should be between 1980 and 2019
+2019-10-18 06:23:33,427 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 10, value should be between 1980 and 2019
+2019-10-18 06:23:33,427 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 11, value should be between 1980 and 2019
+2019-10-18 06:23:33,427 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 12, value should be between 1980 and 2019
+2019-10-18 06:23:33,427 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 13, value should be between 1980 and 2019
+2019-10-18 06:23:33,427 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 14, value should be between 1980 and 2019
+2019-10-18 06:23:33,427 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 15, value should be between 1980 and 2019
+2019-10-18 06:23:33,427 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 16, value should be between 1980 and 2019
+2019-10-18 06:23:33,427 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 17, value should be between 1980 and 2019
+2019-10-18 06:23:33,427 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 18, value should be between 1980 and 2019
+2019-10-18 06:23:33,427 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 19, value should be between 1980 and 2019
+2019-10-18 06:23:33,427 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 84.41
+2019-10-18 06:23:33,427 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 10112
+2019-10-18 06:23:33,427 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - False - 0
+2019-10-18 06:23:33,427 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,427 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-10-18 06:23:33,427 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 0, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 5, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 6, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 8, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 10, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 11, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 12, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 13, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 14, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 15, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 16, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 17, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,428 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 18, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 19, value should match regexp ^[0-9]{4}$
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 84.6
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 98.66
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - True - 1
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 99.26
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - True - 1
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 99.96
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-10-18 06:23:33,429 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 64862
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 0.0
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - False - 0
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 92.3
+2019-10-18 06:23:33,430 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - True - 1
+2019-10-18 06:23:33,431 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,431 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - True - 1
+2019-10-18 06:23:33,431 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-10-18 06:23:33,431 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-10-18 06:23:33,431 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-10-18 06:23:33,431 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-10-18 06:23:33,431 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-10-18 06:23:33,431 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-10-18 06:23:33,431 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-10-18 06:23:33,431 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-10-18 06:23:33,431 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-10-18 06:23:33,431 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-10-18 06:23:33,431 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-10-18 06:23:33,431 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-10-18 06:23:33,431 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-10-18 06:23:33,431 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-10-18 06:23:33,431 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-10-18 06:23:33,432 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-10-18 06:23:33,432 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-10-18 06:23:33,432 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-10-18 06:23:33,432 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-10-18 06:23:33,432 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-10-18 06:23:33,432 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 84.6
+2019-10-18 06:23:33,432 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - unexpected count - 9987
+2019-10-18 06:23:33,432 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MOIS - False - 0
+2019-10-18 06:23:33,432 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,432 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - MOIS - True - 1
+2019-10-18 06:23:33,432 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,432 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-10-18 06:23:33,432 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,432 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - True - 1
+2019-10-18 06:23:33,432 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 99.26
+2019-10-18 06:23:33,432 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - True - 1
+2019-10-18 06:23:33,432 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [5 T?ren, Allrad, ABS...] on line  0, value length should be between 0 and 255
+2019-10-18 06:23:33,433 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2 T?ren, ABS, Wegfah...] on line  2, value length should be between 0 and 255
+2019-10-18 06:23:33,433 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2 T?ren, ABS, Wegfah...] on line  3, value length should be between 0 and 255
+2019-10-18 06:23:33,433 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2 T?ren, ABS, Wegfah...] on line  4, value length should be between 0 and 255
+2019-10-18 06:23:33,433 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2 T?ren, ABS, Wegfah...] on line  5, value length should be between 0 and 255
+2019-10-18 06:23:33,433 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2 T?ren, ABS, Wegfah...] on line  6, value length should be between 0 and 255
+2019-10-18 06:23:33,433 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2 T?ren, ABS, Wegfah...] on line  7, value length should be between 0 and 255
+2019-10-18 06:23:33,433 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [4 T?ren, ABS, Wegfah...] on line  8, value length should be between 0 and 255
+2019-10-18 06:23:33,433 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [4 T?ren, ABS, Stabil...] on line  9, value length should be between 0 and 255
+2019-10-18 06:23:33,433 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [4 T?ren, ABS, Stabil...] on line  10, value length should be between 0 and 255
+2019-10-18 06:23:33,433 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [4 T?ren, ABS, Stabil...] on line  11, value length should be between 0 and 255
+2019-10-18 06:23:33,433 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [4 T?ren, ABS, Wegfah...] on line  12, value length should be between 0 and 255
+2019-10-18 06:23:33,433 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [4 T?ren, ABS, Wegfah...] on line  13, value length should be between 0 and 255
+2019-10-18 06:23:33,433 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [4 T?ren, ABS, Wegfah...] on line  14, value length should be between 0 and 255
+2019-10-18 06:23:33,433 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [4 T?ren, ABS, Wegfah...] on line  15, value length should be between 0 and 255
+2019-10-18 06:23:33,433 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [4 T?ren, ABS, Wegfah...] on line  16, value length should be between 0 and 255
+2019-10-18 06:23:33,433 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [4 T?ren, ABS, Wegfah...] on line  17, value length should be between 0 and 255
+2019-10-18 06:23:33,433 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [4 T?ren, ABS, Wegfah...] on line  18, value length should be between 0 and 255
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [4 T?ren, ABS, Wegfah...] on line  19, value length should be between 0 and 255
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [4 T?ren, ABS, Wegfah...] on line  20, value length should be between 0 and 255
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 5.92
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - OPTIONS - False - 0
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 97.67
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - True - 1
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PORTE - True - 1
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,434 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-10-18 06:23:33,435 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-10-18 06:23:33,435 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - False - 0
+2019-10-18 06:23:33,435 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,435 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-10-18 06:23:33,435 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 99.04
+2019-10-18 06:23:33,435 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-10-18 06:23:33,435 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,435 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-10-18 06:23:33,435 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 99.26
+2019-10-18 06:23:33,435 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-10-18 06:23:33,435 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-10-18 06:23:33,435 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,435 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-10-18 06:23:33,435 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 74.54
+2019-10-18 06:23:33,435 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - False - 0
+2019-10-18 06:23:33,435 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-10-18 06:23:33,436 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - VN_IND - True - 1
+2019-10-18 06:23:33,436 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 77
+2019-10-18 06:23:33,436 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 898
+2019-10-18 06:23:33,436 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 8
+2019-10-18 06:23:33,436 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 7
+2019-10-18 06:23:33,436 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 96.91
+2019-10-18 06:23:33,436 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - True - 1
+2019-10-18 06:23:33,436 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.598 on line 0 should be in ['int']
+2019-10-18 06:23:33,436 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.242 on line 2 should be in ['int']
+2019-10-18 06:23:33,436 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.242 on line 3 should be in ['int']
+2019-10-18 06:23:33,436 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.199 on line 4 should be in ['int']
+2019-10-18 06:23:33,436 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.199 on line 5 should be in ['int']
+2019-10-18 06:23:33,436 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.199 on line 6 should be in ['int']
+2019-10-18 06:23:33,436 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.199 on line 7 should be in ['int']
+2019-10-18 06:23:33,436 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.390 on line 8 should be in ['int']
+2019-10-18 06:23:33,436 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.197 on line 9 should be in ['int']
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.197 on line 10 should be in ['int']
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.197 on line 11 should be in ['int']
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.399 on line 12 should be in ['int']
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.399 on line 13 should be in ['int']
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.390 on line 14 should be in ['int']
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.390 on line 15 should be in ['int']
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 996 on line 16 should be in ['int']
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 996 on line 17 should be in ['int']
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.798 on line 18 should be in ['int']
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.968 on line 19 should be in ['int']
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 996 on line 20 should be in ['int']
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - CYLINDRE - False - 0
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 658
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 0
+2019-10-18 06:23:33,437 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-10-18 06:23:33,438 - VO - DE - MOTOSO - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_NEWCARS - total number of row with conditions - 0

@@ -1,0 +1,209 @@
+2019-12-13 00:43:23,746 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-12-13 00:43:23,746 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-12-13 00:43:23,746 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ACHAT_LOC - True - 1
+2019-12-13 00:43:23,746 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 99.45
+2019-12-13 00:43:23,746 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - ACHAT_LOC - True - 1
+2019-12-13 00:43:23,746 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-12-13 00:43:23,746 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 95.29
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ADRESSE - True - 1
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 96.81
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_CP - True - 1
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6800 on line 332, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 17 on line 1271, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 8000 on line 1391, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 83 on line 2408, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 13 on line 3403, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 4260 on line 3874, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 1700 on line 4669, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 13 on line 5281, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 4260 on line 6592, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6803 on line 7461, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 4260 on line 7756, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6803 on line 8252, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 1000 on line 8675, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,747 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6800 on line 8834, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 1000 on line 9067, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6130 on line 10262, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 1000 on line 10796, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 1000 on line 12171, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 1000 on line 13302, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 1000 on line 13723, value should match regexp ^[0-9]{5}$
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 99.8
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - AGENCE_CP - False - 0
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ID - True - 1
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 100.0
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_NOM - True - 1
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.97
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - AGENCE_TEL - True - 1
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 91.72
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_TEL - True - 1
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 96.84
+2019-12-13 00:43:23,748 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_VILLE - True - 1
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_DATE - True - 1
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10069236 on line 38, value should be unique
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10069236 on line 39, value should be unique
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10069236 on line 40, value should be unique
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10069236 on line 41, value should be unique
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10069236 on line 42, value should be unique
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10069236 on line 43, value should be unique
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10069236 on line 44, value should be unique
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10069236 on line 45, value should be unique
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10069236 on line 46, value should be unique
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10069236 on line 47, value should be unique
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10069236 on line 48, value should be unique
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10069236 on line 49, value should be unique
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10069236 on line 50, value should be unique
+2019-12-13 00:43:23,749 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10069236 on line 51, value should be unique
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10072556 on line 53, value should be unique
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10072556 on line 54, value should be unique
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10072556 on line 55, value should be unique
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10072556 on line 56, value should be unique
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10072556 on line 57, value should be unique
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://www.explorimmoneuf.com/programme/detail-10127646 on line 100, value should be unique
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 94.03
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - False - 0
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Immobilier.notaires ...] on line  1, value length should be between 0 and 255
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Immobilier.notaires ...] on line  2, value length should be between 0 and 255
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Proche Caussade, 1 h...] on line  6, value length should be between 0 and 255
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Vente- ref:M259 -VIT...] on line  7, value length should be between 0 and 255
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Centre ville Maison ...] on line  10, value length should be between 0 and 255
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Splendide Mas du 19e...] on line  13, value length should be between 0 and 255
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Secteur Jussac, sur ...] on line  14, value length should be between 0 and 255
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Immobilier.notaires ...] on line  16, value length should be between 0 and 255
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Situee dans un villa...] on line  21, value length should be between 0 and 255
+2019-12-13 00:43:23,750 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Face Gare ,Situe en ...] on line  22, value length should be between 0 and 255
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Maison 3 chambres, p...] on line  24, value length should be between 0 and 255
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A Limoges, sur la pl...] on line  25, value length should be between 0 and 255
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Situee sur le Mont S...] on line  26, value length should be between 0 and 255
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [ORTHEZ En position d...] on line  27, value length should be between 0 and 255
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A 5.5 km du centre d...] on line  28, value length should be between 0 and 255
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [En dehors de Chabana...] on line  31, value length should be between 0 and 255
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [RONCE LES BAINS - 1K...] on line  37, value length should be between 0 and 255
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A louer, plusieurs e...] on line  52, value length should be between 0 and 255
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [GRENOBLE BERRIAT/EUR...] on line  58, value length should be between 0 and 255
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [District de Dinan, b...] on line  59, value length should be between 0 and 255
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 25.7
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - False - 0
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 92.68
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_TEXT - False - 0
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CATEGORIE - True - 1
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.98
+2019-12-13 00:43:23,751 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - True - 1
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 583509
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 98.0 on line 0 should be int
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 65.0 on line 1 should be int
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 43.0 on line 2 should be int
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 79.0 on line 3 should be int
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 52.0 on line 4 should be int
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 350.0 on line 5 should be int
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 270.0 on line 6 should be int
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 101.0 on line 7 should be int
+2019-12-13 00:43:23,752 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 45.0 on line 8 should be int
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 9 should be int
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 83.0 on line 10 should be int
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 47.0 on line 11 should be int
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 63.0 on line 12 should be int
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 330.0 on line 13 should be int
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 100.0 on line 14 should be int
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 65.0 on line 15 should be int
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 98.0 on line 16 should be int
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 61.82 on line 17 should be int
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 49.0 on line 18 should be int
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 230.0 on line 19 should be int
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2 - False - 0
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 99.52
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2 - True - 1
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 98.0 on line 0 should be int
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 65.0 on line 1 should be int
+2019-12-13 00:43:23,753 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 43.0 on line 2 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 79.0 on line 3 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 52.0 on line 4 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 350.0 on line 5 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 270.0 on line 6 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 101.0 on line 7 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 45.0 on line 8 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 9 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 83.0 on line 10 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 47.0 on line 11 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 63.0 on line 12 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 330.0 on line 13 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 100.0 on line 14 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 65.0 on line 15 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 98.0 on line 16 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 61.82 on line 17 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 49.0 on line 18 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 230.0 on line 19 should be int
+2019-12-13 00:43:23,754 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2_TOTALE - False - 0
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 100.0
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2_TOTALE - True - 1
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MAISON_APT - True - 1
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - unexpected count - 0
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MAISON_APT - True - 1
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 93.66
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MINI_SITE_ID - True - 1
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 93.66
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - True - 1
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 0.0
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PAYS_AD - False - 0
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 99.95
+2019-12-13 00:43:23,755 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PIECE - True - 1
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PIECE - True - 1
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 700.0 on line 0 should be int
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 99800.0 on line 1 should be int
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 127000.0 on line 2 should be int
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 585.0 on line 3 should be int
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 174900.0 on line 4 should be int
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 567000.0 on line 5 should be int
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 139000.0 on line 6 should be int
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 188000.0 on line 7 should be int
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 80000.0 on line 8 should be int
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 14000.0 on line 9 should be int
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 780.0 on line 10 should be int
+2019-12-13 00:43:23,756 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 550.0 on line 11 should be int
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 348000.0 on line 12 should be int
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1170000.0 on line 13 should be int
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 129400.0 on line 14 should be int
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 700.0 on line 15 should be int
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 146720.0 on line 16 should be int
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 450.0 on line 17 should be int
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 404.0 on line 18 should be int
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 578000.0 on line 19 should be int
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PRIX - False - 0
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 99.83
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - False - 0
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 97.72
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - VILLE - True - 1
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-12-13 00:43:23,757 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-12-13 00:43:23,758 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 23741
+2019-12-13 00:43:23,758 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 13135
+2019-12-13 00:43:23,758 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 570374
+2019-12-13 00:43:23,758 - IMMO - FR - EXPLORIMMO - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 95

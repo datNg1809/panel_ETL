@@ -1,0 +1,105 @@
+2019-09-30 10:19:18,282 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,282 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,282 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 37.49
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 0.0
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.98
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 98.94
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Dans immeuble de sta...] on line  0, value length should be between 0 and 255
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Situe dans un bel im...] on line  34, value length should be between 0 and 255
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Loue dans quartier r...] on line  57, value length should be between 0 and 255
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Rue Brillat Savarin,...] on line  66, value length should be between 0 and 255
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A proximite de toute...] on line  82, value length should be between 0 and 255
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Au centre ville d'At...] on line  84, value length should be between 0 and 255
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Dans un immeuble anc...] on line  98, value length should be between 0 and 255
+2019-09-30 10:19:18,283 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Grand T4 de 83,58m s...] on line  103, value length should be between 0 and 255
+2019-09-30 10:19:18,284 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Au coeur du quartier...] on line  117, value length should be between 0 and 255
+2019-09-30 10:19:18,284 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Centre ville (Place ...] on line  136, value length should be between 0 and 255
+2019-09-30 10:19:18,284 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A louer dans residen...] on line  138, value length should be between 0 and 255
+2019-09-30 10:19:18,284 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Agreable maison anci...] on line  139, value length should be between 0 and 255
+2019-09-30 10:19:18,284 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [7 km de Rieumes, FOR...] on line  140, value length should be between 0 and 255
+2019-09-30 10:19:18,284 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [9 place du bicentena...] on line  144, value length should be between 0 and 255
+2019-09-30 10:19:18,284 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A louer dans residen...] on line  147, value length should be between 0 and 255
+2019-09-30 10:19:18,284 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Proche des acces aut...] on line  164, value length should be between 0 and 255
+2019-09-30 10:19:18,284 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [VICHY - dans grande ...] on line  176, value length should be between 0 and 255
+2019-09-30 10:19:18,284 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Rue Benoist. Centre ...] on line  181, value length should be between 0 and 255
+2019-09-30 10:19:18,284 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Joli duplex entierem...] on line  196, value length should be between 0 and 255
+2019-09-30 10:19:18,284 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [SANS FRAIS D'AGENCE<...] on line  208, value length should be between 0 and 255
+2019-09-30 10:19:18,284 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 22.02
+2019-09-30 10:19:18,284 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 39.8
+2019-09-30 10:19:18,284 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,284 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,284 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 85852
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 30.0 on line 0 should be int
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 1 should be int
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 2 should be int
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 3 should be int
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 23.0 on line 4 should be int
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 77.0 on line 5 should be int
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 21.0 on line 6 should be int
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 54.0 on line 7 should be int
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 60.0 on line 8 should be int
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 55.0 on line 9 should be int
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 10 should be int
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 11 should be int
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 12 should be int
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 13 should be int
+2019-09-30 10:19:18,285 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 14 should be int
+2019-09-30 10:19:18,286 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 15 should be int
+2019-09-30 10:19:18,286 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 16 should be int
+2019-09-30 10:19:18,286 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 17 should be int
+2019-09-30 10:19:18,286 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 18 should be int
+2019-09-30 10:19:18,286 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 19 should be int
+2019-09-30 10:19:18,286 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-09-30 10:19:18,286 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,286 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 30.0 on line 0 should be int
+2019-09-30 10:19:18,286 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 1 should be int
+2019-09-30 10:19:18,286 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 2 should be int
+2019-09-30 10:19:18,286 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 3 should be int
+2019-09-30 10:19:18,286 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 4 should be int
+2019-09-30 10:19:18,286 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 5 should be int
+2019-09-30 10:19:18,286 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 6 should be int
+2019-09-30 10:19:18,286 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 7 should be int
+2019-09-30 10:19:18,286 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 8 should be int
+2019-09-30 10:19:18,286 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 9 should be int
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 10 should be int
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 11 should be int
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 12 should be int
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 13 should be int
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 14 should be int
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 15 should be int
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 16 should be int
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 17 should be int
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 18 should be int
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 19 should be int
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 39.8
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,287 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 0.0
+2019-09-30 10:19:18,288 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,288 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,288 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,288 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,288 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,288 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,288 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-09-30 10:19:18,288 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,288 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-09-30 10:19:18,288 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 8763
+2019-09-30 10:19:18,288 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 4
+2019-09-30 10:19:18,288 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 85848
+2019-09-30 10:19:18,288 - IMMO - FR - LOUERVITE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 96

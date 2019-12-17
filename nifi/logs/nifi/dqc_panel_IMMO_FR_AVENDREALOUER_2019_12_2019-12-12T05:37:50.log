@@ -1,0 +1,169 @@
+2019-12-13 18:19:08,463 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-12-13 18:19:08,463 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,463 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ACHAT_LOC - True - 1
+2019-12-13 18:19:08,463 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 99.8
+2019-12-13 18:19:08,463 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - ACHAT_LOC - True - 1
+2019-12-13 18:19:08,463 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-12-13 18:19:08,464 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-12-13 18:19:08,464 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 76.64
+2019-12-13 18:19:08,464 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ADRESSE - False - 0
+2019-12-13 18:19:08,464 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 96.45
+2019-12-13 18:19:08,464 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_CP - True - 1
+2019-12-13 18:19:08,464 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,464 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - AGENCE_CP - True - 1
+2019-12-13 18:19:08,464 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,464 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ID - True - 1
+2019-12-13 18:19:08,464 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,464 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_NOM - True - 1
+2019-12-13 18:19:08,464 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.99
+2019-12-13 18:19:08,464 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - AGENCE_TEL - True - 1
+2019-12-13 18:19:08,464 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 99.99
+2019-12-13 18:19:08,464 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_TEL - True - 1
+2019-12-13 18:19:08,465 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 32.73
+2019-12-13 18:19:08,465 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_VILLE - False - 0
+2019-12-13 18:19:08,465 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,465 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_DATE - True - 1
+2019-12-13 18:19:08,465 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,465 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-12-13 18:19:08,465 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-12-13 18:19:08,465 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-12-13 18:19:08,465 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Maison comprenant cu...] on line  4456, value length should be between 0 and 255
+2019-12-13 18:19:08,465 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Maison comprenant cu...] on line  4457, value length should be between 0 and 255
+2019-12-13 18:19:08,465 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [MAISON sur sous-sol ...] on line  4460, value length should be between 0 and 255
+2019-12-13 18:19:08,465 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Maison comprenant, v...] on line  4461, value length should be between 0 and 255
+2019-12-13 18:19:08,465 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A 2h15 de PARIS, a s...] on line  4462, value length should be between 0 and 255
+2019-12-13 18:19:08,465 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Ideale week-end et v...] on line  4463, value length should be between 0 and 255
+2019-12-13 18:19:08,465 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A 300 metres de la r...] on line  4464, value length should be between 0 and 255
+2019-12-13 18:19:08,466 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Cette Barronnie, con...] on line  4465, value length should be between 0 and 255
+2019-12-13 18:19:08,466 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Situee aux abords du...] on line  4466, value length should be between 0 and 255
+2019-12-13 18:19:08,466 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [tres belle maison fi...] on line  4473, value length should be between 0 and 255
+2019-12-13 18:19:08,466 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Maison a investissem...] on line  4476, value length should be between 0 and 255
+2019-12-13 18:19:08,466 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [CHABRISMaison de bou...] on line  4478, value length should be between 0 and 255
+2019-12-13 18:19:08,466 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Terrain constructibl...] on line  4479, value length should be between 0 and 255
+2019-12-13 18:19:08,466 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Tres belle villa de ...] on line  4480, value length should be between 0 and 255
+2019-12-13 18:19:08,466 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Proche valenciennes ...] on line  4481, value length should be between 0 and 255
+2019-12-13 18:19:08,466 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Maison contemporaine...] on line  4482, value length should be between 0 and 255
+2019-12-13 18:19:08,466 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Immobilier.notaires ...] on line  4483, value length should be between 0 and 255
+2019-12-13 18:19:08,466 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [APPARTEMENT T4 EN CE...] on line  4484, value length should be between 0 and 255
+2019-12-13 18:19:08,466 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Un appartement de ty...] on line  4487, value length should be between 0 and 255
+2019-12-13 18:19:08,466 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Superbe propriete si...] on line  4488, value length should be between 0 and 255
+2019-12-13 18:19:08,466 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 9.67
+2019-12-13 18:19:08,466 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - False - 0
+2019-12-13 18:19:08,467 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 96.06
+2019-12-13 18:19:08,467 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_TEXT - False - 0
+2019-12-13 18:19:08,467 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,467 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CATEGORIE - True - 1
+2019-12-13 18:19:08,467 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,467 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-12-13 18:19:08,467 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,467 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-12-13 18:19:08,467 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,467 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - True - 1
+2019-12-13 18:19:08,467 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 1002092
+2019-12-13 18:19:08,467 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,467 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-12-13 18:19:08,467 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-12-13 18:19:08,467 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-12-13 18:19:08,468 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 46.0 on line 666 should be int
+2019-12-13 18:19:08,468 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 60.0 on line 4437 should be int
+2019-12-13 18:19:08,468 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 65.0 on line 4456 should be int
+2019-12-13 18:19:08,468 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 79.0 on line 4457 should be int
+2019-12-13 18:19:08,468 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 4458 should be int
+2019-12-13 18:19:08,468 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 4459 should be int
+2019-12-13 18:19:08,468 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 90.0 on line 4460 should be int
+2019-12-13 18:19:08,468 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 100.0 on line 4461 should be int
+2019-12-13 18:19:08,468 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 56.0 on line 4462 should be int
+2019-12-13 18:19:08,468 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 55.0 on line 4463 should be int
+2019-12-13 18:19:08,468 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 4464 should be int
+2019-12-13 18:19:08,468 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 490.0 on line 4465 should be int
+2019-12-13 18:19:08,468 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 4466 should be int
+2019-12-13 18:19:08,468 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 86.0 on line 4467 should be int
+2019-12-13 18:19:08,469 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 4468 should be int
+2019-12-13 18:19:08,469 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 4469 should be int
+2019-12-13 18:19:08,469 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 4470 should be int
+2019-12-13 18:19:08,469 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 4471 should be int
+2019-12-13 18:19:08,469 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 4472 should be int
+2019-12-13 18:19:08,469 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 127.0 on line 4473 should be int
+2019-12-13 18:19:08,469 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-12-13 18:19:08,469 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2 - False - 0
+2019-12-13 18:19:08,469 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 99.3
+2019-12-13 18:19:08,469 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2 - True - 1
+2019-12-13 18:19:08,469 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 0 should be int
+2019-12-13 18:19:08,469 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 1 should be int
+2019-12-13 18:19:08,469 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 2 should be int
+2019-12-13 18:19:08,469 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 3 should be int
+2019-12-13 18:19:08,469 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 4 should be int
+2019-12-13 18:19:08,469 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 5 should be int
+2019-12-13 18:19:08,470 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 6 should be int
+2019-12-13 18:19:08,470 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 7 should be int
+2019-12-13 18:19:08,470 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 8 should be int
+2019-12-13 18:19:08,470 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 9 should be int
+2019-12-13 18:19:08,470 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 10 should be int
+2019-12-13 18:19:08,470 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 11 should be int
+2019-12-13 18:19:08,470 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 12 should be int
+2019-12-13 18:19:08,470 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 13 should be int
+2019-12-13 18:19:08,470 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 14 should be int
+2019-12-13 18:19:08,475 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 15 should be int
+2019-12-13 18:19:08,476 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 16 should be int
+2019-12-13 18:19:08,476 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 17 should be int
+2019-12-13 18:19:08,476 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 18 should be int
+2019-12-13 18:19:08,476 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 19 should be int
+2019-12-13 18:19:08,476 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-12-13 18:19:08,476 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2_TOTALE - False - 0
+2019-12-13 18:19:08,476 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,476 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2_TOTALE - True - 1
+2019-12-13 18:19:08,476 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,476 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MAISON_APT - True - 1
+2019-12-13 18:19:08,476 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,476 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - unexpected count - 0
+2019-12-13 18:19:08,477 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MAISON_APT - True - 1
+2019-12-13 18:19:08,477 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-12-13 18:19:08,477 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MINI_SITE_ID - False - 0
+2019-12-13 18:19:08,477 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 99.98
+2019-12-13 18:19:08,477 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-12-13 18:19:08,477 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,477 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - True - 1
+2019-12-13 18:19:08,477 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 0.0
+2019-12-13 18:19:08,477 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PAYS_AD - False - 0
+2019-12-13 18:19:08,477 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 98.86
+2019-12-13 18:19:08,477 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-12-13 18:19:08,477 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,477 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-12-13 18:19:08,477 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,477 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PIECE - True - 1
+2019-12-13 18:19:08,478 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,478 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PIECE - True - 1
+2019-12-13 18:19:08,478 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 152000.0 on line 0 should be int
+2019-12-13 18:19:08,478 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 259000.0 on line 1 should be int
+2019-12-13 18:19:08,478 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 176000.0 on line 2 should be int
+2019-12-13 18:19:08,478 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 57900.0 on line 3 should be int
+2019-12-13 18:19:08,478 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 175000.0 on line 4 should be int
+2019-12-13 18:19:08,478 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 211000.0 on line 5 should be int
+2019-12-13 18:19:08,478 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 180000.0 on line 6 should be int
+2019-12-13 18:19:08,478 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 335000.0 on line 7 should be int
+2019-12-13 18:19:08,478 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 310000.0 on line 8 should be int
+2019-12-13 18:19:08,478 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 376000.0 on line 9 should be int
+2019-12-13 18:19:08,478 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 347000.0 on line 10 should be int
+2019-12-13 18:19:08,478 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 119000.0 on line 11 should be int
+2019-12-13 18:19:08,478 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 146000.0 on line 12 should be int
+2019-12-13 18:19:08,479 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 180000.0 on line 13 should be int
+2019-12-13 18:19:08,479 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 256500.0 on line 14 should be int
+2019-12-13 18:19:08,479 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 235000.0 on line 15 should be int
+2019-12-13 18:19:08,479 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 480000.0 on line 16 should be int
+2019-12-13 18:19:08,479 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 193000.0 on line 17 should be int
+2019-12-13 18:19:08,479 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 157000.0 on line 18 should be int
+2019-12-13 18:19:08,479 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 351000.0 on line 19 should be int
+2019-12-13 18:19:08,479 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-12-13 18:19:08,479 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PRIX - False - 0
+2019-12-13 18:19:08,479 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 99.96
+2019-12-13 18:19:08,479 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-12-13 18:19:08,479 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-12-13 18:19:08,479 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - False - 0
+2019-12-13 18:19:08,479 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,479 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - VILLE - True - 1
+2019-12-13 18:19:08,480 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-12-13 18:19:08,480 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-12-13 18:19:08,480 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 36789
+2019-12-13 18:19:08,480 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0
+2019-12-13 18:19:08,480 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 1002092
+2019-12-13 18:19:08,480 - IMMO - FR - AVENDREALOUER - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 96

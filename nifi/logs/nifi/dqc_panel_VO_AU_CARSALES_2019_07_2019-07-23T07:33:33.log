@@ -1,0 +1,257 @@
+2019-07-23 07:33:50,953 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-07-23 07:33:50,953 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-07-23 07:33:50,953 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.04
+2019-07-23 07:33:50,953 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 99.74
+2019-07-23 07:33:50,953 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2016.0 on line 0, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,953 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 1, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,953 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 2, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,953 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 1998.0 on line 3, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,953 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2015.0 on line 4, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,953 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2010.0 on line 5, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,953 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2017.0 on line 6, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,953 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2016.0 on line 7, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,953 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 8, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,953 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2012.0 on line 9, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,954 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2015.0 on line 10, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,954 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2006.0 on line 11, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,954 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2006.0 on line 12, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,954 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 13, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,954 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 14, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,954 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2016.0 on line 15, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,954 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2015.0 on line 16, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,954 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2017.0 on line 17, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,954 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2013.0 on line 18, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,954 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2013.0 on line 19, value should match regexp ^[0-9]{4}$
+2019-07-23 07:33:50,954 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 0.0
+2019-07-23 07:33:50,954 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-07-23 07:33:50,954 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-07-23 07:33:50,954 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 99.93
+2019-07-23 07:33:50,954 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 99.98
+2019-07-23 07:33:50,954 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-07-23 07:33:50,954 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: IMMAT on line 193522, value should match regexp [0-9]{4}
+2019-07-23 07:33:50,955 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 0.0
+2019-07-23 07:33:50,955 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 100.0
+2019-07-23 07:33:50,955 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-07-23 07:33:50,955 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-07-23 07:33:50,955 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 197951
+2019-07-23 07:33:50,955 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 72.27
+2019-07-23 07:33:50,955 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 28300.0 on line 0 should be in ['int']
+2019-07-23 07:33:50,955 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 91732.0 on line 1 should be in ['int']
+2019-07-23 07:33:50,955 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 2478.0 on line 2 should be in ['int']
+2019-07-23 07:33:50,955 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 172890.0 on line 3 should be in ['int']
+2019-07-23 07:33:50,955 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 117690.0 on line 4 should be in ['int']
+2019-07-23 07:33:50,955 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 155843.0 on line 5 should be in ['int']
+2019-07-23 07:33:50,955 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 22193.0 on line 7 should be in ['int']
+2019-07-23 07:33:50,955 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 114073.0 on line 8 should be in ['int']
+2019-07-23 07:33:50,955 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 48335.0 on line 9 should be in ['int']
+2019-07-23 07:33:50,955 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 120309.0 on line 10 should be in ['int']
+2019-07-23 07:33:50,955 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 200027.0 on line 11 should be in ['int']
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 233126.0 on line 12 should be in ['int']
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 34052.0 on line 14 should be in ['int']
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 87922.0 on line 16 should be in ['int']
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 8095.0 on line 17 should be in ['int']
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 310.0 on line 21 should be in ['int']
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 62695.0 on line 22 should be in ['int']
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 174100.0 on line 24 should be in ['int']
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 108968.0 on line 25 should be in ['int']
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 2492.0 on line 26 should be in ['int']
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 0.0
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 81.68
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 1797 cc on line 0 should be in ['int', 'float']
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 2993 cc on line 1 should be in ['int', 'float']
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 1987 cc on line 2 should be in ['int', 'float']
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 3791 cc on line 3 should be in ['int', 'float']
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 2720 cc on line 4 should be in ['int', 'float']
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 2694 cc on line 5 should be in ['int', 'float']
+2019-07-23 07:33:50,956 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 2694 cc on line 6 should be in ['int', 'float']
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 1797 cc on line 7 should be in ['int', 'float']
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 2999 cc on line 8 should be in ['int', 'float']
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 2198 cc on line 9 should be in ['int', 'float']
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 1997 cc on line 10 should be in ['int', 'float']
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 2982 cc on line 11 should be in ['int', 'float']
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 2694 cc on line 12 should be in ['int', 'float']
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 3198 cc on line 13 should be in ['int', 'float']
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 3198 cc on line 14 should be in ['int', 'float']
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 2494 cc on line 15 should be in ['int', 'float']
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 2494 cc on line 16 should be in ['int', 'float']
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 2359 cc on line 17 should be in ['int', 'float']
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 1798 cc on line 18 should be in ['int', 'float']
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 1798 cc on line 19 should be in ['int', 'float']
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 0.0
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 99.72
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-07-23 07:33:50,957 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 96.13
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 100.0
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 1.0 on line 0, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 6.0 on line 2, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 4.0 on line 4, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 10.0 on line 5, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 1.0 on line 6, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 1.0 on line 7, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 9.0 on line 8, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 12.0 on line 9, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 1.0 on line 10, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 11.0 on line 11, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 8.0 on line 12, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 9.0 on line 13, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 9.0 on line 14, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 5.0 on line 15, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 12.0 on line 16, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 9.0 on line 17, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,958 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 12.0 on line 18, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 12.0 on line 19, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 8.0 on line 20, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 6.0 on line 21, value should match regexp ^[0-9]{1,2}$
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 0.0
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 100.0
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 100.0
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 24.0 on line 0 should be in ['int']
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 13.0 on line 1 should be in ['int']
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 22.0 on line 2 should be in ['int']
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 14.0 on line 3 should be in ['int']
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 15.0 on line 4 should be in ['int']
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 25.0 on line 5 should be in ['int']
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 21.0 on line 7 should be in ['int']
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 18.0 on line 8 should be in ['int']
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 26.0 on line 9 should be in ['int']
+2019-07-23 07:33:50,959 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 22.0 on line 10 should be in ['int']
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 22.0 on line 11 should be in ['int']
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 21.0 on line 12 should be in ['int']
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 27.0 on line 14 should be in ['int']
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 20.0 on line 16 should be in ['int']
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 14.0 on line 17 should be in ['int']
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 17.0 on line 21 should be in ['int']
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 21.0 on line 22 should be in ['int']
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 19.0 on line 24 should be in ['int']
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 25.0 on line 25 should be in ['int']
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 29.0 on line 26 should be in ['int']
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 0.0
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 86.66
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 0 should be in ['int']
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 1 should be in ['int']
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 2 should be in ['int']
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 3 should be in ['int']
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 4 should be in ['int']
+2019-07-23 07:33:50,960 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 14.0 on line 5 should be in ['int']
+2019-07-23 07:33:50,961 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 6 should be in ['int']
+2019-07-23 07:33:50,961 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 7 should be in ['int']
+2019-07-23 07:33:50,961 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 8 should be in ['int']
+2019-07-23 07:33:50,961 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 12.0 on line 9 should be in ['int']
+2019-07-23 07:33:50,961 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 10 should be in ['int']
+2019-07-23 07:33:50,961 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 8.0 on line 11 should be in ['int']
+2019-07-23 07:33:50,961 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 12 should be in ['int']
+2019-07-23 07:33:50,961 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 13 should be in ['int']
+2019-07-23 07:33:50,961 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 14 should be in ['int']
+2019-07-23 07:33:50,961 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 15 should be in ['int']
+2019-07-23 07:33:50,961 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 16 should be in ['int']
+2019-07-23 07:33:50,961 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 17 should be in ['int']
+2019-07-23 07:33:50,961 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 18 should be in ['int']
+2019-07-23 07:33:50,961 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 19 should be in ['int']
+2019-07-23 07:33:50,961 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-07-23 07:33:50,961 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 99.87
+2019-07-23 07:33:50,961 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 99.93
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 0 should be in ['int', 'float']
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 1 should be in ['int', 'float']
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 2 should be in ['int', 'float']
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 4 on line 3 should be in ['int', 'float']
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 4 should be in ['int', 'float']
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: Side sliding LHS(passenger side) Side sliding RHS(drivers side) 5 on line 5 should be in ['int', 'float']
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: Side sliding LHS(passenger side) 4 on line 6 should be in ['int', 'float']
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 7 should be in ['int', 'float']
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 2 on line 8 should be in ['int', 'float']
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: Side sliding LHS(passenger side) 5 on line 9 should be in ['int', 'float']
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 10 should be in ['int', 'float']
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 11 should be in ['int', 'float']
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 2 on line 12 should be in ['int', 'float']
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: Rear Tailgate 4 on line 13 should be in ['int', 'float']
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 4 on line 14 should be in ['int', 'float']
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 4 on line 15 should be in ['int', 'float']
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 16 should be in ['int', 'float']
+2019-07-23 07:33:50,962 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 17 should be in ['int', 'float']
+2019-07-23 07:33:50,963 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 4 on line 18 should be in ['int', 'float']
+2019-07-23 07:33:50,963 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 4 on line 19 should be in ['int', 'float']
+2019-07-23 07:33:50,963 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 0.0
+2019-07-23 07:33:50,963 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 17470.0 on line 0 should be in ['int']
+2019-07-23 07:33:50,963 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 47990.0 on line 1 should be in ['int']
+2019-07-23 07:33:50,963 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 24950.0 on line 2 should be in ['int']
+2019-07-23 07:33:50,963 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 5990.0 on line 3 should be in ['int']
+2019-07-23 07:33:50,963 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 20980.0 on line 4 should be in ['int']
+2019-07-23 07:33:50,963 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 25980.0 on line 5 should be in ['int']
+2019-07-23 07:33:50,963 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 17470.0 on line 7 should be in ['int']
+2019-07-23 07:33:50,963 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 19980.0 on line 8 should be in ['int']
+2019-07-23 07:33:50,963 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 28980.0 on line 9 should be in ['int']
+2019-07-23 07:33:50,963 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 14950.0 on line 10 should be in ['int']
+2019-07-23 07:33:50,963 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 18950.0 on line 11 should be in ['int']
+2019-07-23 07:33:50,963 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 9950.0 on line 12 should be in ['int']
+2019-07-23 07:33:50,963 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 30980.0 on line 14 should be in ['int']
+2019-07-23 07:33:50,963 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 26950.0 on line 16 should be in ['int']
+2019-07-23 07:33:50,964 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 24990.0 on line 17 should be in ['int']
+2019-07-23 07:33:50,964 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 24990.0 on line 21 should be in ['int']
+2019-07-23 07:33:50,964 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 22950.0 on line 22 should be in ['int']
+2019-07-23 07:33:50,964 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 18980.0 on line 24 should be in ['int']
+2019-07-23 07:33:50,964 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 20950.0 on line 25 should be in ['int']
+2019-07-23 07:33:50,964 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 59990.0 on line 26 should be in ['int']
+2019-07-23 07:33:50,964 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 0.0
+2019-07-23 07:33:50,964 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 89.07
+2019-07-23 07:33:50,964 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 93.59
+2019-07-23 07:33:50,964 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-07-23 07:33:50,964 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 33.05
+2019-07-23 07:33:50,964 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-07-23 07:33:50,964 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-07-23 07:33:50,964 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-07-23 07:33:50,964 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 0.0
+2019-07-23 07:33:50,964 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 100.0
+2019-07-23 07:33:50,965 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180224, value should among [0, 1, 2]
+2019-07-23 07:33:50,965 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180225, value should among [0, 1, 2]
+2019-07-23 07:33:50,965 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180226, value should among [0, 1, 2]
+2019-07-23 07:33:50,965 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180227, value should among [0, 1, 2]
+2019-07-23 07:33:50,965 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180228, value should among [0, 1, 2]
+2019-07-23 07:33:50,965 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180229, value should among [0, 1, 2]
+2019-07-23 07:33:50,965 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180230, value should among [0, 1, 2]
+2019-07-23 07:33:50,965 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180231, value should among [0, 1, 2]
+2019-07-23 07:33:50,965 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180232, value should among [0, 1, 2]
+2019-07-23 07:33:50,965 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180233, value should among [0, 1, 2]
+2019-07-23 07:33:50,965 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180234, value should among [0, 1, 2]
+2019-07-23 07:33:50,965 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180235, value should among [0, 1, 2]
+2019-07-23 07:33:50,965 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180236, value should among [0, 1, 2]
+2019-07-23 07:33:50,965 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180237, value should among [0, 1, 2]
+2019-07-23 07:33:50,965 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180238, value should among [0, 1, 2]
+2019-07-23 07:33:50,965 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180239, value should among [0, 1, 2]
+2019-07-23 07:33:50,965 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180240, value should among [0, 1, 2]
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180241, value should among [0, 1, 2]
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180242, value should among [0, 1, 2]
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - VN_IND - Unexpected value: 0 on line 180243, value should among [0, 1, 2]
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 91.72
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 82
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 13
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 99.76
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 0 should be in ['int']
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 8.0 on line 1 should be in ['int']
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 10.0 on line 2 should be in ['int']
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 5.0 on line 3 should be in ['int']
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 4 should be in ['int']
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4.0 on line 5 should be in ['int']
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 6 should be in ['int']
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 7 should be in ['int']
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 5.0 on line 8 should be in ['int']
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 9 should be in ['int']
+2019-07-23 07:33:50,966 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 10 should be in ['int']
+2019-07-23 07:33:50,967 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 5.0 on line 11 should be in ['int']
+2019-07-23 07:33:50,967 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 5.0 on line 12 should be in ['int']
+2019-07-23 07:33:50,967 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 13 should be in ['int']
+2019-07-23 07:33:50,967 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 14 should be in ['int']
+2019-07-23 07:33:50,967 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 15 should be in ['int']
+2019-07-23 07:33:50,967 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 16 should be in ['int']
+2019-07-23 07:33:50,967 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 6.0 on line 17 should be in ['int']
+2019-07-23 07:33:50,967 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 7.0 on line 18 should be in ['int']
+2019-07-23 07:33:50,967 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 7.0 on line 19 should be in ['int']
+2019-07-23 07:33:50,967 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-07-23 07:33:50,967 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 9
+2019-07-23 07:33:50,967 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 1
+2019-07-23 07:33:50,967 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 1
+2019-07-23 07:33:50,967 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 103777
+2019-07-23 07:33:50,967 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 66299
+2019-07-23 07:33:50,967 - VO - AU - CARSALES - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_NEWCARS - total number of row with conditions - 27874

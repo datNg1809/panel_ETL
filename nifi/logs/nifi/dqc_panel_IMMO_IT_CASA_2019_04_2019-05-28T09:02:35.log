@@ -1,0 +1,78 @@
+2019-05-28 09:03:53,294 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,294 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,294 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 55.82
+2019-05-28 09:03:53,294 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 96.3
+2019-05-28 09:03:53,294 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 20.72
+2019-05-28 09:03:53,294 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 60025.0 on line 3, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,294 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 64025.0 on line 5, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,294 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 52100.0 on line 7, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 1027.0 on line 43, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 37047.0 on line 53, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 31048.0 on line 76, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 186.0 on line 81, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 15057.0 on line 92, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 27029.0 on line 103, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 50136.0 on line 132, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 40121.0 on line 140, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 57022.0 on line 159, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 72013.0 on line 174, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 72013.0 on line 176, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 9044.0 on line 178, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 25019.0 on line 187, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 22075.0 on line 216, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 52100.0 on line 257, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 31100.0 on line 289, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6049.0 on line 300, value should match regexp ^[0-9]{5}$
+2019-05-28 09:03:53,295 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 23.03
+2019-05-28 09:03:53,296 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,296 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 95.24
+2019-05-28 09:03:53,296 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.81
+2019-05-28 09:03:53,296 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 99.02
+2019-05-28 09:03:53,296 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,296 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,296 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,296 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-05-28 09:03:53,296 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 1.28
+2019-05-28 09:03:53,296 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-05-28 09:03:53,296 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 678342
+2019-05-28 09:03:53,296 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,296 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-05-28 09:03:53,296 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 320.0 on line 0 should be int
+2019-05-28 09:03:53,296 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 82.0 on line 1 should be int
+2019-05-28 09:03:53,296 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 150.0 on line 2 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 338.0 on line 3 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 210.0 on line 4 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 95.0 on line 5 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 150.0 on line 6 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 100.0 on line 7 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 127.0 on line 8 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 90.0 on line 9 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 80.0 on line 10 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 500.0 on line 11 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 500.0 on line 12 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 100.0 on line 13 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 350.0 on line 14 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 500.0 on line 15 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 100.0 on line 16 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 200.0 on line 17 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 120.0 on line 18 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 90.0 on line 19 should be int
+2019-05-28 09:03:53,297 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-05-28 09:03:53,298 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,298 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,298 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,298 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-05-28 09:03:53,298 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,298 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,298 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,298 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,298 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,298 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,298 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,298 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,298 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-05-28 09:03:53,298 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,298 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-05-28 09:03:53,298 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 383
+2019-05-28 09:03:53,299 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 25593
+2019-05-28 09:03:53,299 - IMMO - IT - CASA - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 652738

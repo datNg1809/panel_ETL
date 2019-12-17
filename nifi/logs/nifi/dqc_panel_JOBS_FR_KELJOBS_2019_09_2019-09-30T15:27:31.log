@@ -1,0 +1,230 @@
+2019-09-30 15:27:33,027 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+
+2019-09-30 15:27:33,028 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+
+2019-09-30 15:27:33,028 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 100.0
+
+2019-09-30 15:27:33,028 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Directement rattaché...] on line  0, value length should be between 0 and 255
+
+2019-09-30 15:27:33,028 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Manpower LILLE TERTI...] on line  1, value length should be between 0 and 255
+
+2019-09-30 15:27:33,028 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Notre client est l'u...] on line  2, value length should be between 0 and 255
+
+2019-09-30 15:27:33,028 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Manpower LILLE TERTI...] on line  3, value length should be between 0 and 255
+
+2019-09-30 15:27:33,028 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Manpower LILLE ASSUR...] on line  4, value length should be between 0 and 255
+
+2019-09-30 15:27:33,028 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Il ou elle aura en c...] on line  5, value length should be between 0 and 255
+
+2019-09-30 15:27:33,028 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Manpower DOUAI reche...] on line  6, value length should be between 0 and 255
+
+2019-09-30 15:27:33,028 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Manpower AIX TERTIAI...] on line  7, value length should be between 0 and 255
+
+2019-09-30 15:27:33,028 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Notre client est une...] on line  8, value length should be between 0 and 255
+
+2019-09-30 15:27:33,028 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Affecté(e) au labora...] on line  9, value length should be between 0 and 255
+
+2019-09-30 15:27:33,028 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Expectra / Expectra ...] on line  10, value length should be between 0 and 255
+
+2019-09-30 15:27:33,028 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Vous avez un profil ...] on line  11, value length should be between 0 and 255
+
+2019-09-30 15:27:33,028 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Manpower LILLE Assur...] on line  12, value length should be between 0 and 255
+
+2019-09-30 15:27:33,028 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Société prestataire ...] on line  13, value length should be between 0 and 255
+
+2019-09-30 15:27:33,028 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Le Cabinet Conseil R...] on line  14, value length should be between 0 and 255
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Le cabinet Conseil R...] on line  15, value length should be between 0 and 255
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Le cabinet du Val d'...] on line  16, value length should be between 0 and 255
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Le cabinet du Val d'...] on line  17, value length should be between 0 and 255
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Manpower Conseil rec...] on line  18, value length should be between 0 and 255
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Bonjour,Alerte emplo...] on line  19, value length should be between 0 and 255
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 0.02
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCEUR - correctly filled rate (%) - 100.0
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCEUR_ID - correctly filled rate (%) - 100.0
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: CARRÉVO on line 360, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: BOLLORÉ on line 401, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: RÉZOSOC on line 405, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: THÉÂTRE on line 461, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: BA&AMPS on line 577, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: DEGRAËT on line 697, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: DEGRAËT on line 700, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: DEGRAËT on line 728, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: DEGRAËT on line 745, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,029 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: FIELD&A on line 809, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,030 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: KÉOLIS on line 814, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,030 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: KÉOLIS on line 815, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,030 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: KÉOLIS on line 826, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,030 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: KÉOLIS on line 908, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,030 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: KÉOLIS on line 909, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,030 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: KÉOLIS on line 910, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,030 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: KÉOLIS on line 911, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,030 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: KÉOLIS on line 912, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,030 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: EXPERT& on line 1003, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,030 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: EXPERT& on line 1004, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:27:33,030 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNONCEUR_ID - correctly filled rate (%) - 97.37
+
+2019-09-30 15:27:33,030 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCEUR_ID_3 - correctly filled rate (%) - 100.0
+
+2019-09-30 15:27:33,030 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: CARRÉ on line 360, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,030 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: RÉZOS on line 405, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,030 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: THÉÂT on line 461, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,030 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: BA&AM on line 577, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,030 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: KÉOLI on line 814, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: KÉOLI on line 815, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: KÉOLI on line 826, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: KÉOLI on line 908, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: KÉOLI on line 909, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: KÉOLI on line 910, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: KÉOLI on line 911, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: KÉOLI on line 912, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: KÉOLI on line 1005, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: KÉOLI on line 1048, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: CRÉDI on line 1510, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: GÉNÉR on line 6953, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: AÉOSC on line 12250, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: AÉOSC on line 12316, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: AÉOSC on line 12326, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: AÉOSC on line 12327, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - correctly filled rate (%) - 99.55
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CABINET - correctly filled rate (%) - 100.0
+
+2019-09-30 15:27:33,031 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - CABINET - observed proportion - 100.0
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CABINET - CABINET RH - 33508
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CABINET - AUTRE - 7736
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CABINET - SSII - 1013
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CONTRAT - correctly filled rate (%) - 100.0
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - CONTRAT - observed proportion - 100.0
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CONTRAT - Interim - 17094
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CONTRAT - CDI - 19951
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CONTRAT - CDD - 2314
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CONTRAT - AUTRE - 2898
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 1 on line 60, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 1 on line 267, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 2 on line 318, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 2 on line 339, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 6 on line 532, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 6 on line 533, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 6 on line 614, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,032 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 1 on line 658, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 1 on line 679, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 1 on line 701, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 2 on line 723, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 2 on line 774, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 2 on line 925, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 2 on line 998, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 6 on line 1019, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 6 on line 1029, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 6 on line 1032, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 6 on line 1038, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 1 on line 1040, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 6 on line 1051, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - DEPARTEMENT - correctly filled rate (%) - 95.1
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ENTREPRISE - correctly filled rate (%) - 100.0
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 42257
+
+2019-09-30 15:27:33,033 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LIEU - correctly filled rate (%) - 99.62
+
+2019-09-30 15:27:33,034 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - METIER - correctly filled rate (%) - 100.0
+
+2019-09-30 15:27:33,034 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ON_SITE - correctly filled rate (%) - 0.0
+
+2019-09-30 15:27:33,034 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OTHER_SITE - correctly filled rate (%) - 0.0
+
+2019-09-30 15:27:33,034 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 100.0
+
+2019-09-30 15:27:33,034 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - REGION - total number of unique rows - 22
+
+2019-09-30 15:27:33,034 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE_EMPLOI - correctly filled rate (%) - 100.0
+
+2019-09-30 15:27:33,034 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SALAIRE - correctly filled rate (%) - 0.0
+
+2019-09-30 15:27:33,034 - JOBS - FR - KELJOBS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SECTEUR - correctly filled rate (%) - 0.0
+

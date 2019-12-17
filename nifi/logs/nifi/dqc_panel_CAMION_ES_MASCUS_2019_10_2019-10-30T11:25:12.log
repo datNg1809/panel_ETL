@@ -1,0 +1,169 @@
+2019-10-30 11:25:33,170 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-10-30 11:25:33,170 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 37.54
+2019-10-30 11:25:33,170 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-10-30 11:25:33,170 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-10-30 11:25:33,170 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-10-30 11:25:33,170 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 95.58
+2019-10-30 11:25:33,170 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 674
+2019-10-30 11:25:33,170 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - True - 1
+2019-10-30 11:25:33,170 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-10-30 11:25:33,170 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 5, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 14, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 18, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 32, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 34, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 48, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 70, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 77, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 84, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 86, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 88, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 93, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 99, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 101, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 106, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 111, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 112, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 131, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,171 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 138, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,172 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 149, value should match regexp ^[0-9]{4}$
+2019-10-30 11:25:33,172 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 96.03
+2019-10-30 11:25:33,172 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-10-30 11:25:33,172 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-30 11:25:33,172 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-10-30 11:25:33,172 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-30 11:25:33,172 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-10-30 11:25:33,172 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 34.79
+2019-10-30 11:25:33,172 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - False - 0
+2019-10-30 11:25:33,172 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-10-30 11:25:33,172 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - False - 0
+2019-10-30 11:25:33,172 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 38.59
+2019-10-30 11:25:33,172 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - False - 0
+2019-10-30 11:25:33,172 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 96.96
+2019-10-30 11:25:33,172 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-10-30 11:25:33,172 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-10-30 11:25:33,172 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 15262
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 0.0
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - False - 0
+2019-10-30 11:25:33,173 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 0.0
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - False - 0
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 99.99
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Hamm 3307...] on line  54, value length should be between 10 and 255
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [PM 16523...] on line  64, value length should be between 10 and 255
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [PM 4...] on line  71, value length should be between 10 and 255
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Hamm 3411...] on line  76, value length should be between 10 and 255
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volvo 320...] on line  88, value length should be between 10 and 255
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JLG 860SJ...] on line  89, value length should be between 10 and 255
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [ZF APB755...] on line  93, value length should be between 10 and 255
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Hamm 3412...] on line  97, value length should be between 10 and 255
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [PUNTALES...] on line  99, value length should be between 10 and 255
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [ZF P4300...] on line  101, value length should be between 10 and 255
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [VARIOS...] on line  111, value length should be between 10 and 255
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Linde H60...] on line  140, value length should be between 10 and 255
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Iveco...] on line  167, value length should be between 10 and 255
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JCB 3CX...] on line  182, value length should be between 10 and 255
+2019-10-30 11:25:33,174 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JLG 800AJ...] on line  209, value length should be between 10 and 255
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MAN 8.153...] on line  252, value length should be between 10 and 255
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Euclid...] on line  309, value length should be between 10 and 255
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Iveco 440...] on line  451, value length should be between 10 and 255
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Mack...] on line  639, value length should be between 10 and 255
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JLG 600AJ...] on line  672, value length should be between 10 and 255
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 98.36
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 7.65
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Estéreo, Suspensión ...] on line  292, value length should be between 0 and 255
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aire acondicionado, ...] on line  330, value length should be between 0 and 255
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Ref. cliente : r4872...] on line  616, value length should be between 0 and 255
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABD, ABS, ASR, Defle...] on line  922, value length should be between 0 and 255
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Mercedes 2532 motor ...] on line  947, value length should be between 0 and 255
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS, Airbags, Deflec...] on line  1264, value length should be between 0 and 255
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS, EBV, EDC, Ejes ...] on line  1616, value length should be between 0 and 255
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aire acondicionado, ...] on line  1831, value length should be between 0 and 255
+2019-10-30 11:25:33,175 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABD, ABS, ADR, ASR, ...] on line  1918, value length should be between 0 and 255
+2019-10-30 11:25:33,176 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABD, ABS, Airbags, A...] on line  2315, value length should be between 0 and 255
+2019-10-30 11:25:33,176 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS, Airbags, ASR, D...] on line  2416, value length should be between 0 and 255
+2019-10-30 11:25:33,176 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS, Airbags, Espejo...] on line  2617, value length should be between 0 and 255
+2019-10-30 11:25:33,176 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aire acondicionado, ...] on line  3438, value length should be between 0 and 255
+2019-10-30 11:25:33,176 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aire acondicionado, ...] on line  3907, value length should be between 0 and 255
+2019-10-30 11:25:33,176 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aire acondicionado, ...] on line  4045, value length should be between 0 and 255
+2019-10-30 11:25:33,176 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aire acondicionado, ...] on line  4620, value length should be between 0 and 255
+2019-10-30 11:25:33,176 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aire acondicionado, ...] on line  4892, value length should be between 0 and 255
+2019-10-30 11:25:33,176 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aire acondicionado, ...] on line  5331, value length should be between 0 and 255
+2019-10-30 11:25:33,176 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aire acondicionado, ...] on line  5537, value length should be between 0 and 255
+2019-10-30 11:25:33,176 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aire acondicionado, ...] on line  5645, value length should be between 0 and 255
+2019-10-30 11:25:33,176 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 93.24
+2019-10-30 11:25:33,176 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - OPTIONS - False - 0
+2019-10-30 11:25:33,176 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-30 11:25:33,176 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-10-30 11:25:33,176 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-30 11:25:33,176 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - False - 0
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 99.97
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.97
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-10-30 11:25:33,177 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-10-30 11:25:33,178 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-10-30 11:25:33,178 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.72
+2019-10-30 11:25:33,178 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-10-30 11:25:33,178 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-10-30 11:25:33,178 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - False - 0
+2019-10-30 11:25:33,178 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 114
+2019-10-30 11:25:33,178 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 264
+2019-10-30 11:25:33,178 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-10-30 11:25:33,178 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 1
+2019-10-30 11:25:33,178 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-10-30 11:25:33,178 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-10-30 11:25:33,178 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-10-30 11:25:33,178 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 429
+2019-10-30 11:25:33,178 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-10-30 11:25:33,178 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 15261
+2019-10-30 11:25:33,178 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 1
+2019-10-30 11:25:33,178 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRUCKS - total number of row with conditions - 1274
+2019-10-30 11:25:33,179 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRACTOR UNITS - total number of row with conditions - 1619
+2019-10-30 11:25:33,179 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRAILERS - total number of row with conditions - 27
+2019-10-30 11:25:33,179 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - VANS - total number of row with conditions - 8934
+2019-10-30 11:25:33,179 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - HEAVY EQUIPMENTS - total number of row with conditions - 3120
+2019-10-30 11:25:33,179 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - SEMI TRAILERS - total number of row with conditions - 288
+2019-10-30 11:25:33,179 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRUCKS - total number of row with conditions - 1274
+2019-10-30 11:25:33,179 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRUCKS - total number of row with conditions - 0
+2019-10-30 11:25:33,179 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRACTOR UNITS - total number of row with conditions - 1619
+2019-10-30 11:25:33,179 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRACTOR UNITS - total number of row with conditions - 0
+2019-10-30 11:25:33,179 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRAILERS - total number of row with conditions - 27
+2019-10-30 11:25:33,179 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRAILERS - total number of row with conditions - 0
+2019-10-30 11:25:33,179 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_VANS - total number of row with conditions - 8933
+2019-10-30 11:25:33,179 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_VANS - total number of row with conditions - 1
+2019-10-30 11:25:33,179 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_HEAVY EQUIPMENTS - total number of row with conditions - 3120
+2019-10-30 11:25:33,179 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_HEAVY EQUIPMENTS - total number of row with conditions - 0
+2019-10-30 11:25:33,179 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_SEMI TRAILERS - total number of row with conditions - 288
+2019-10-30 11:25:33,179 - CAMION - ES - MASCUS - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_SEMI TRAILERS - total number of row with conditions - 0

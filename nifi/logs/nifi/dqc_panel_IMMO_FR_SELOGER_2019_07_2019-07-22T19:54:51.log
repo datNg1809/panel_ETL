@@ -1,0 +1,144 @@
+2019-07-25 18:12:40,312 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-07-25 18:12:40,312 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 99.62
+2019-07-25 18:12:40,312 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-07-25 18:12:40,312 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-07-25 18:12:40,312 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-07-25 18:12:40,313 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-07-25 18:12:40,313 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 99.25
+2019-07-25 18:12:40,313 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 764087728.0 on line 7, value should match a phone number format
+2019-07-25 18:12:40,313 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 627856729.0 on line 8, value should match a phone number format
+2019-07-25 18:12:40,313 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 475312410.0 on line 9, value should match a phone number format
+2019-07-25 18:12:40,313 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 475312410.0 on line 10, value should match a phone number format
+2019-07-25 18:12:40,313 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 475312410.0 on line 11, value should match a phone number format
+2019-07-25 18:12:40,313 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 475312410.0 on line 12, value should match a phone number format
+2019-07-25 18:12:40,313 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 143271854.0 on line 13, value should match a phone number format
+2019-07-25 18:12:40,313 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 615372302.0 on line 14, value should match a phone number format
+2019-07-25 18:12:40,313 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 771613535.0 on line 15, value should match a phone number format
+2019-07-25 18:12:40,313 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 475492373.0 on line 16, value should match a phone number format
+2019-07-25 18:12:40,313 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 475492373.0 on line 17, value should match a phone number format
+2019-07-25 18:12:40,314 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 475492373.0 on line 18, value should match a phone number format
+2019-07-25 18:12:40,314 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 475492373.0 on line 19, value should match a phone number format
+2019-07-25 18:12:40,314 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 222440202.0 on line 20, value should match a phone number format
+2019-07-25 18:12:40,314 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 222440202.0 on line 21, value should match a phone number format
+2019-07-25 18:12:40,314 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 247952004.0 on line 22, value should match a phone number format
+2019-07-25 18:12:40,314 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 625950181.0 on line 23, value should match a phone number format
+2019-07-25 18:12:40,314 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 610765352.0 on line 24, value should match a phone number format
+2019-07-25 18:12:40,314 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 610765352.0 on line 25, value should match a phone number format
+2019-07-25 18:12:40,314 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 610765352.0 on line 26, value should match a phone number format
+2019-07-25 18:12:40,314 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 0.01
+2019-07-25 18:12:40,314 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 99.74
+2019-07-25 18:12:40,315 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-07-25 18:12:40,315 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-07-25 18:12:40,315 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-07-25 18:12:40,315 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-07-25 18:12:40,315 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 100.0
+2019-07-25 18:12:40,315 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 0.0
+2019-07-25 18:12:40,315 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-07-25 18:12:40,315 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-07-25 18:12:40,315 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7400 on line 16, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,315 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7400 on line 17, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,315 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7350 on line 18, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,315 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9270 on line 37, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,315 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1090 on line 138, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,315 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6300 on line 141, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,315 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6160 on line 150, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7100 on line 165, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3700 on line 222, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1450 on line 231, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 5200 on line 232, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 5000 on line 234, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 5400 on line 235, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1450 on line 236, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1450 on line 240, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6400 on line 259, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6100 on line 269, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6390 on line 283, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7380 on line 340, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9120 on line 439, value should match regexp ^[0-9]{5}$
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 91.96
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 962023
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-07-25 18:12:40,316 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-07-25 18:12:40,317 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 172.0 on line 0 should be int
+2019-07-25 18:12:40,317 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 94.0 on line 1 should be int
+2019-07-25 18:12:40,317 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 113.0 on line 2 should be int
+2019-07-25 18:12:40,317 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 168.0 on line 3 should be int
+2019-07-25 18:12:40,317 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 218.0 on line 4 should be int
+2019-07-25 18:12:40,317 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 63.0 on line 5 should be int
+2019-07-25 18:12:40,317 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 163.0 on line 6 should be int
+2019-07-25 18:12:40,317 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 114.0 on line 7 should be int
+2019-07-25 18:12:40,317 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 800.0 on line 8 should be int
+2019-07-25 18:12:40,317 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 60.0 on line 9 should be int
+2019-07-25 18:12:40,317 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 78.0 on line 10 should be int
+2019-07-25 18:12:40,317 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 25.0 on line 11 should be int
+2019-07-25 18:12:40,317 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 118.0 on line 12 should be int
+2019-07-25 18:12:40,317 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 92.0 on line 13 should be int
+2019-07-25 18:12:40,317 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 72.0 on line 14 should be int
+2019-07-25 18:12:40,317 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 198.0 on line 15 should be int
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 50.0 on line 16 should be int
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 15.0 on line 17 should be int
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 97.0 on line 18 should be int
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 58.0 on line 19 should be int
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 97.53
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 172.0 on line 0 should be int
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 94.0 on line 1 should be int
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 113.0 on line 2 should be int
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 168.0 on line 3 should be int
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 218.0 on line 4 should be int
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 63.0 on line 5 should be int
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 163.0 on line 6 should be int
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 114.0 on line 7 should be int
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 800.0 on line 8 should be int
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 60.0 on line 9 should be int
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 78.0 on line 10 should be int
+2019-07-25 18:12:40,318 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 25.0 on line 11 should be int
+2019-07-25 18:12:40,319 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 118.0 on line 12 should be int
+2019-07-25 18:12:40,319 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 92.0 on line 13 should be int
+2019-07-25 18:12:40,319 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 72.0 on line 14 should be int
+2019-07-25 18:12:40,319 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 198.0 on line 15 should be int
+2019-07-25 18:12:40,319 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 50.0 on line 16 should be int
+2019-07-25 18:12:40,319 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 15.0 on line 17 should be int
+2019-07-25 18:12:40,319 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 97.0 on line 18 should be int
+2019-07-25 18:12:40,319 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 58.0 on line 19 should be int
+2019-07-25 18:12:40,319 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-07-25 18:12:40,319 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 100.0
+2019-07-25 18:12:40,319 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-07-25 18:12:40,319 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-07-25 18:12:40,319 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-07-25 18:12:40,319 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 0.0
+2019-07-25 18:12:40,320 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 0.0
+2019-07-25 18:12:40,320 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 99.69
+2019-07-25 18:12:40,320 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-07-25 18:12:40,320 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-07-25 18:12:40,320 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-07-25 18:12:40,320 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 127800.0 on line 0 should be int
+2019-07-25 18:12:40,320 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 74700.0 on line 1 should be int
+2019-07-25 18:12:40,320 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 122400.0 on line 2 should be int
+2019-07-25 18:12:40,320 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 210000.0 on line 3 should be int
+2019-07-25 18:12:40,320 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 229000.0 on line 4 should be int
+2019-07-25 18:12:40,320 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 127800.0 on line 5 should be int
+2019-07-25 18:12:40,320 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 393000.0 on line 6 should be int
+2019-07-25 18:12:40,321 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 410000.0 on line 7 should be int
+2019-07-25 18:12:40,321 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 350000.0 on line 8 should be int
+2019-07-25 18:12:40,321 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 414.0 on line 9 should be int
+2019-07-25 18:12:40,321 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 470.0 on line 10 should be int
+2019-07-25 18:12:40,321 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 280.0 on line 11 should be int
+2019-07-25 18:12:40,321 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 337000.0 on line 12 should be int
+2019-07-25 18:12:40,321 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1935.0 on line 13 should be int
+2019-07-25 18:12:40,321 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 100000.0 on line 14 should be int
+2019-07-25 18:12:40,321 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 160000.0 on line 15 should be int
+2019-07-25 18:12:40,321 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 314.0 on line 16 should be int
+2019-07-25 18:12:40,321 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 57.0 on line 17 should be int
+2019-07-25 18:12:40,321 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 532.0 on line 18 should be int
+2019-07-25 18:12:40,321 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 572.0 on line 19 should be int
+2019-07-25 18:12:40,322 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-07-25 18:12:40,322 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-07-25 18:12:40,322 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-07-25 18:12:40,322 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 99.99
+2019-07-25 18:12:40,322 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-07-25 18:12:40,322 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 41979
+2019-07-25 18:12:40,322 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0
+2019-07-25 18:12:40,322 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 0
+2019-07-25 18:12:40,322 - IMMO - FR - SELOGER - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 105

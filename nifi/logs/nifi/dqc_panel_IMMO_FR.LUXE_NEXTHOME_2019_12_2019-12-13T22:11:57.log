@@ -1,0 +1,147 @@
+2019-12-13 22:11:59,509 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-12-13 22:11:59,509 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,509 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ACHAT_LOC - True - 1
+2019-12-13 22:11:59,509 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 93.61
+2019-12-13 22:11:59,509 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - ACHAT_LOC - True - 1
+2019-12-13 22:11:59,509 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-12-13 22:11:59,509 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-12-13 22:11:59,509 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,509 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ADRESSE - True - 1
+2019-12-13 22:11:59,509 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,510 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_CP - True - 1
+2019-12-13 22:11:59,510 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,510 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - AGENCE_CP - True - 1
+2019-12-13 22:11:59,510 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,510 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_NOM - True - 1
+2019-12-13 22:11:59,510 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.31
+2019-12-13 22:11:59,510 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - AGENCE_TEL - True - 1
+2019-12-13 22:11:59,510 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 99.98
+2019-12-13 22:11:59,510 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_TEL - True - 1
+2019-12-13 22:11:59,510 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 98.79
+2019-12-13 22:11:59,510 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_VILLE - True - 1
+2019-12-13 22:11:59,510 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,510 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_DATE - True - 1
+2019-12-13 22:11:59,510 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,511 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-12-13 22:11:59,511 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-12-13 22:11:59,511 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-12-13 22:11:59,511 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [EXCLUSIVITE - Situé ...] on line  0, value length should be between 0 and 255
+2019-12-13 22:11:59,511 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Belle appartement su...] on line  1, value length should be between 0 and 255
+2019-12-13 22:11:59,511 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Croix des Gardes- Pr...] on line  2, value length should be between 0 and 255
+2019-12-13 22:11:59,511 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Avenue Prince de Gal...] on line  3, value length should be between 0 and 255
+2019-12-13 22:11:59,511 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Situé au Cannet, lim...] on line  4, value length should be between 0 and 255
+2019-12-13 22:11:59,511 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Résidence de prestig...] on line  5, value length should be between 0 and 255
+2019-12-13 22:11:59,511 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Appartement dans un ...] on line  6, value length should be between 0 and 255
+2019-12-13 22:11:59,511 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Bel appartement lumi...] on line  7, value length should be between 0 and 255
+2019-12-13 22:11:59,511 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Mougins, dans petit ...] on line  8, value length should be between 0 and 255
+2019-12-13 22:11:59,511 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Tout comme la réside...] on line  9, value length should be between 0 and 255
+2019-12-13 22:11:59,511 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [AU COEUR DU VILLAGE ...] on line  11, value length should be between 0 and 255
+2019-12-13 22:11:59,511 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Magnifique maison de...] on line  12, value length should be between 0 and 255
+2019-12-13 22:11:59,511 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A deux pas deux plag...] on line  14, value length should be between 0 and 255
+2019-12-13 22:11:59,512 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Notre agence vous pr...] on line  15, value length should be between 0 and 255
+2019-12-13 22:11:59,512 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Découvrez ce produit...] on line  16, value length should be between 0 and 255
+2019-12-13 22:11:59,512 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A Cannes, quartier d...] on line  17, value length should be between 0 and 255
+2019-12-13 22:11:59,512 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Grand 2 pièces en re...] on line  18, value length should be between 0 and 255
+2019-12-13 22:11:59,512 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Exclusivité. Excepti...] on line  20, value length should be between 0 and 255
+2019-12-13 22:11:59,512 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Au 4ème et dernier é...] on line  21, value length should be between 0 and 255
+2019-12-13 22:11:59,512 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [CANNES plein centre ...] on line  23, value length should be between 0 and 255
+2019-12-13 22:11:59,512 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 14.65
+2019-12-13 22:11:59,512 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - False - 0
+2019-12-13 22:11:59,512 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 99.4
+2019-12-13 22:11:59,512 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_TEXT - False - 0
+2019-12-13 22:11:59,512 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,512 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CATEGORIE - True - 1
+2019-12-13 22:11:59,512 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,512 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-12-13 22:11:59,513 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,513 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-12-13 22:11:59,513 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,513 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - True - 1
+2019-12-13 22:11:59,513 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 4366
+2019-12-13 22:11:59,513 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,513 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-12-13 22:11:59,513 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-12-13 22:11:59,513 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-12-13 22:11:59,513 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 95.0 on line 0 should be int
+2019-12-13 22:11:59,513 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 40.0 on line 1 should be int
+2019-12-13 22:11:59,513 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 210.0 on line 2 should be int
+2019-12-13 22:11:59,513 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 41.0 on line 3 should be int
+2019-12-13 22:11:59,513 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 20.0 on line 4 should be int
+2019-12-13 22:11:59,513 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 50.0 on line 5 should be int
+2019-12-13 22:11:59,514 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 72.0 on line 7 should be int
+2019-12-13 22:11:59,514 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 116.0 on line 8 should be int
+2019-12-13 22:11:59,514 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 66.0 on line 9 should be int
+2019-12-13 22:11:59,514 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 650.0 on line 10 should be int
+2019-12-13 22:11:59,514 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 124.0 on line 11 should be int
+2019-12-13 22:11:59,514 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 100.0 on line 12 should be int
+2019-12-13 22:11:59,514 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 91.0 on line 13 should be int
+2019-12-13 22:11:59,514 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 82.0 on line 14 should be int
+2019-12-13 22:11:59,514 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 60.0 on line 15 should be int
+2019-12-13 22:11:59,514 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 165.0 on line 16 should be int
+2019-12-13 22:11:59,514 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 66.0 on line 17 should be int
+2019-12-13 22:11:59,514 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 59.0 on line 18 should be int
+2019-12-13 22:11:59,514 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 550.0 on line 19 should be int
+2019-12-13 22:11:59,514 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 75.0 on line 21 should be int
+2019-12-13 22:11:59,514 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-12-13 22:11:59,514 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2_TOTALE - False - 0
+2019-12-13 22:11:59,514 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 92.1
+2019-12-13 22:11:59,515 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2_TOTALE - True - 1
+2019-12-13 22:11:59,515 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 0.0
+2019-12-13 22:11:59,515 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MAISON_APT - False - 0
+2019-12-13 22:11:59,515 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-12-13 22:11:59,515 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MINI_SITE_ID - False - 0
+2019-12-13 22:11:59,515 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,515 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-12-13 22:11:59,515 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,515 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - True - 1
+2019-12-13 22:11:59,515 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - PAYS_AD - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,515 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - PAYS_AD - True - 1
+2019-12-13 22:11:59,515 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,515 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PAYS_AD - True - 1
+2019-12-13 22:11:59,515 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,515 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-12-13 22:11:59,515 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,515 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 97.43
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PIECE - True - 1
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PIECE - True - 1
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 515000.0 on line 0 should be int
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 239000.0 on line 1 should be int
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2990000.0 on line 2 should be int
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 840.0 on line 3 should be int
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 560.0 on line 4 should be int
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 530000.0 on line 5 should be int
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 890000.0 on line 6 should be int
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 286200.0 on line 7 should be int
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 795000.0 on line 8 should be int
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 450000.0 on line 9 should be int
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 350000.0 on line 10 should be int
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 220000.0 on line 11 should be int
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 450000.0 on line 12 should be int
+2019-12-13 22:11:59,516 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 755000.0 on line 13 should be int
+2019-12-13 22:11:59,517 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 583000.0 on line 14 should be int
+2019-12-13 22:11:59,517 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 245000.0 on line 15 should be int
+2019-12-13 22:11:59,517 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1350000.0 on line 16 should be int
+2019-12-13 22:11:59,517 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 195000.0 on line 17 should be int
+2019-12-13 22:11:59,517 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 325000.0 on line 18 should be int
+2019-12-13 22:11:59,517 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 350000.0 on line 19 should be int
+2019-12-13 22:11:59,517 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-12-13 22:11:59,517 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PRIX - False - 0
+2019-12-13 22:11:59,517 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 93.56
+2019-12-13 22:11:59,517 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-12-13 22:11:59,517 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 0.0
+2019-12-13 22:11:59,517 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRO_IND - False - 0
+2019-12-13 22:11:59,517 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-12-13 22:11:59,518 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - False - 0
+2019-12-13 22:11:59,518 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,518 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SELLER_TYPE - True - 1
+2019-12-13 22:11:59,518 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,518 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - SELLER_TYPE - True - 1
+2019-12-13 22:11:59,518 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,518 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - VILLE - True - 1
+2019-12-13 22:11:59,518 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-12-13 22:11:59,518 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-12-13 22:11:59,518 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 105
+2019-12-13 22:11:59,518 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 4366
+2019-12-13 22:11:59,518 - IMMO - FR.LUXE - NEXTHOME - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0

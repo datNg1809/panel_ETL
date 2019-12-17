@@ -1,0 +1,85 @@
+2019-09-30 10:30:11,904 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,904 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,904 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-09-30 10:30:11,904 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-09-30 10:30:11,904 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-09-30 10:30:11,904 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,904 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 96.81
+2019-09-30 10:30:11,904 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.95
+2019-09-30 10:30:11,904 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 88.26
+2019-09-30 10:30:11,905 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-09-30 10:30:11,905 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,905 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,905 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-09-30 10:30:11,905 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,905 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 0.0
+2019-09-30 10:30:11,905 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,905 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,905 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,905 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,905 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 882566
+2019-09-30 10:30:11,905 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,905 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-09-30 10:30:11,905 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 5.0 on line 0 should be int
+2019-09-30 10:30:11,905 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 8.0 on line 1 should be int
+2019-09-30 10:30:11,905 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 88.0 on line 2 should be int
+2019-09-30 10:30:11,905 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 28.0 on line 3 should be int
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 4 should be int
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 283.0 on line 5 should be int
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 6 should be int
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 100.0 on line 7 should be int
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 550.0 on line 8 should be int
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 250.0 on line 9 should be int
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 260.0 on line 10 should be int
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 80.0 on line 11 should be int
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 724.0 on line 12 should be int
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 120.0 on line 13 should be int
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 50.0 on line 14 should be int
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 100.0 on line 15 should be int
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 240.0 on line 16 should be int
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 62.0 on line 17 should be int
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 171.0 on line 18 should be int
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 18.0 on line 19 should be int
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,906 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 5.0 on line 0 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 8.0 on line 1 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 88.0 on line 2 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 28.0 on line 3 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 4 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 283.0 on line 5 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 6 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 100.0 on line 7 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 550.0 on line 8 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 250.0 on line 9 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 260.0 on line 10 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 80.0 on line 11 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 724.0 on line 12 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 120.0 on line 13 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 50.0 on line 14 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 100.0 on line 15 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 240.0 on line 16 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 62.0 on line 17 should be int
+2019-09-30 10:30:11,907 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 171.0 on line 18 should be int
+2019-09-30 10:30:11,908 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 18.0 on line 19 should be int
+2019-09-30 10:30:11,908 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-09-30 10:30:11,908 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,908 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,908 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,908 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 19.02
+2019-09-30 10:30:11,908 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 33.46
+2019-09-30 10:30:11,908 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,908 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 0.0
+2019-09-30 10:30:11,908 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,908 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 99.07
+2019-09-30 10:30:11,908 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,908 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,908 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,908 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,908 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-09-30 10:30:11,908 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,909 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-09-30 10:30:11,909 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 31583
+2019-09-30 10:30:11,909 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0
+2019-09-30 10:30:11,909 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 882565
+2019-09-30 10:30:11,909 - IMMO - FR - SUPERIMMO - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 95

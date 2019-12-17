@@ -1,0 +1,127 @@
+2019-11-29 22:20:37,467 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-11-29 22:20:37,467 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-11-29 22:20:37,467 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-11-29 22:20:37,467 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,467 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.94
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 28
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - True - 1
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - True - 1
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - True - 1
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 99.95
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - True - 1
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-11-29 22:20:37,468 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,469 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-11-29 22:20:37,469 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-11-29 22:20:37,469 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-11-29 22:20:37,469 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 46898
+2019-11-29 22:20:37,469 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 0.0
+2019-11-29 22:20:37,469 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - False - 0
+2019-11-29 22:20:37,469 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,469 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-11-29 22:20:37,469 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,469 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-11-29 22:20:37,469 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 0.0
+2019-11-29 22:20:37,469 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - False - 0
+2019-11-29 22:20:37,469 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,469 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-11-29 22:20:37,470 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,470 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - True - 1
+2019-11-29 22:20:37,470 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 0.0
+2019-11-29 22:20:37,470 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - False - 0
+2019-11-29 22:20:37,470 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,470 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-11-29 22:20:37,470 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2015FAWF5...] on line  22515, value length should be between 10 and 255
+2019-11-29 22:20:37,470 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,470 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-11-29 22:20:37,470 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-11-29 22:20:37,470 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-11-29 22:20:37,470 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     16 on line 0 should be in ['int']
+2019-11-29 22:20:37,470 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     10 on line 1 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     6 on line 2 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     6 on line 3 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     8 on line 4 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     14 on line 5 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     8 on line 6 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     6 on line 7 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     11 on line 8 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     11 on line 9 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     12 on line 10 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     18 on line 11 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     14 on line 12 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     9 on line 13 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     18 on line 14 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     29 on line 15 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     8 on line 16 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     29 on line 17 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     17 on line 18 should be in ['int']
+2019-11-29 22:20:37,471 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value:     28 on line 19 should be in ['int']
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 0.0
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - False - 0
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 290000MXN on line 0 should be in ['int']
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 85000MXN on line 1 should be in ['int']
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 95000MXN on line 2 should be in ['int']
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 350000MXN on line 3 should be in ['int']
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 275000MXN on line 4 should be in ['int']
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 320000MXN on line 5 should be in ['int']
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 185000MXN on line 6 should be in ['int']
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 250000MXN on line 7 should be in ['int']
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 350000MXN on line 8 should be in ['int']
+2019-11-29 22:20:37,472 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 280000MXN on line 9 should be in ['int']
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 320000MXN on line 10 should be in ['int']
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 135000MXN on line 11 should be in ['int']
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 400000MXN on line 12 should be in ['int']
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 45000MXN on line 13 should be in ['int']
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 750000MXN on line 14 should be in ['int']
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 250000MXN on line 15 should be in ['int']
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 140000MXN on line 16 should be in ['int']
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 180000MXN on line 17 should be in ['int']
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 88000MXN on line 18 should be in ['int']
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 90000MXN on line 19 should be in ['int']
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 0.0
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - False - 0
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 99.9
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - True - 1
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,473 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-11-29 22:20:37,474 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 44.05
+2019-11-29 22:20:37,474 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - False - 0
+2019-11-29 22:20:37,474 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.95
+2019-11-29 22:20:37,474 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-11-29 22:20:37,474 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,474 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-11-29 22:20:37,474 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-11-29 22:20:37,474 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 85.13
+2019-11-29 22:20:37,474 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - False - 0
+2019-11-29 22:20:37,474 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,474 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - True - 1
+2019-11-29 22:20:37,474 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-11-29 22:20:37,474 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - VN_IND - True - 1
+2019-11-29 22:20:37,474 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 28227
+2019-11-29 22:20:37,474 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 18671
+2019-11-29 22:20:37,474 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 46
+2019-11-29 22:20:37,474 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 20
+2019-11-29 22:20:37,475 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-11-29 22:20:37,475 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-11-29 22:20:37,475 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 32
+2019-11-29 22:20:37,475 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 403
+2019-11-29 22:20:37,475 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-11-29 22:20:37,475 - VO - MX - SOLOAUTOS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - GARAGE_ID - total number of unique rows - 0

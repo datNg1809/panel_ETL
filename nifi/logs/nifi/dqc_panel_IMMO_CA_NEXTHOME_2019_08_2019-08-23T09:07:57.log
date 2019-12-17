@@ -1,0 +1,102 @@
+2019-08-23 09:08:02,296 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,297 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,297 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,297 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-08-23 09:08:02,297 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-08-23 09:08:02,297 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,297 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,297 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,297 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 97.42
+2019-08-23 09:08:02,297 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-08-23 09:08:02,297 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,297 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,297 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-08-23 09:08:02,298 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,298 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: B3M 3Z4 on line 0, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,298 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: B3M 3Z4 on line 1, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,298 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: B3M 4L9 on line 2, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,298 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: B3A 4H5 on line 3, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,298 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: B3A 4H5 on line 4, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,298 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: B2Y 3W7 on line 5, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,298 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: B2Y 3W6 on line 6, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,298 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: B3A 2S1 on line 7, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,298 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: m8x 1a7 on line 8, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,298 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: V7T 1A7 on line 9, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,298 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M8X 0A1 on line 10, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,298 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M8X 0A1 on line 11, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,298 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M8X 0A1 on line 12, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,299 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M8X 0A1 on line 13, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,299 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: R3B 2B5 on line 14, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,299 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: R3M 0X9 on line 15, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,299 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: T4B 0N7 on line 16, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,299 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: R2M 1A1 on line 17, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,299 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: R3M 1Y7 on line 18, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,299 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: B3M 4R2 on line 19, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-08-23 09:08:02,299 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 0.0
+2019-08-23 09:08:02,299 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_match_regex - CP - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,299 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 0.0
+2019-08-23 09:08:02,299 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 7609
+2019-08-23 09:08:02,299 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,299 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-08-23 09:08:02,300 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 8 should be int
+2019-08-23 09:08:02,300 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 689.0 on line 9 should be int
+2019-08-23 09:08:02,300 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 10 should be int
+2019-08-23 09:08:02,300 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 11 should be int
+2019-08-23 09:08:02,300 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 12 should be int
+2019-08-23 09:08:02,300 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 13 should be int
+2019-08-23 09:08:02,300 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 14 should be int
+2019-08-23 09:08:02,300 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 1328.0 on line 16 should be int
+2019-08-23 09:08:02,300 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 1445.0 on line 19 should be int
+2019-08-23 09:08:02,300 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 800.0 on line 20 should be int
+2019-08-23 09:08:02,300 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 940.0 on line 21 should be int
+2019-08-23 09:08:02,300 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 779.0 on line 23 should be int
+2019-08-23 09:08:02,300 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 1950.0 on line 25 should be int
+2019-08-23 09:08:02,300 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 1600.0 on line 26 should be int
+2019-08-23 09:08:02,301 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 872.0 on line 30 should be int
+2019-08-23 09:08:02,301 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 872.0 on line 31 should be int
+2019-08-23 09:08:02,301 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 400.0 on line 35 should be int
+2019-08-23 09:08:02,301 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 900.0 on line 36 should be int
+2019-08-23 09:08:02,301 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 1180.0 on line 37 should be int
+2019-08-23 09:08:02,301 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 38 should be int
+2019-08-23 09:08:02,301 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-08-23 09:08:02,301 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 70.34
+2019-08-23 09:08:02,301 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,301 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,301 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-08-23 09:08:02,301 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 0.0
+2019-08-23 09:08:02,301 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PHOTO - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,302 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,302 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,302 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PIECE - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,302 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,302 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,302 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,302 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,302 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,302 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,302 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-08-23 09:08:02,302 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 0 should be int
+2019-08-23 09:08:02,302 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 1 should be int
+2019-08-23 09:08:02,302 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 2 should be int
+2019-08-23 09:08:02,303 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 3 should be int
+2019-08-23 09:08:02,303 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 4 should be int
+2019-08-23 09:08:02,303 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 5 should be int
+2019-08-23 09:08:02,303 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 6 should be int
+2019-08-23 09:08:02,303 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 7 should be int
+2019-08-23 09:08:02,303 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 8 should be int
+2019-08-23 09:08:02,303 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 9 should be int
+2019-08-23 09:08:02,303 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 10 should be int
+2019-08-23 09:08:02,303 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 11 should be int
+2019-08-23 09:08:02,303 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 12 should be int
+2019-08-23 09:08:02,303 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 13 should be int
+2019-08-23 09:08:02,303 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 14 should be int
+2019-08-23 09:08:02,303 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 15 should be int
+2019-08-23 09:08:02,303 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 16 should be int
+2019-08-23 09:08:02,304 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 17 should be int
+2019-08-23 09:08:02,304 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 18 should be int
+2019-08-23 09:08:02,304 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 19 should be int
+2019-08-23 09:08:02,304 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-08-23 09:08:02,304 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 98.11
+2019-08-23 09:08:02,304 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-08-23 09:08:02,304 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0
+2019-08-23 09:08:02,304 - IMMO - CA - NEXTHOME - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 7609

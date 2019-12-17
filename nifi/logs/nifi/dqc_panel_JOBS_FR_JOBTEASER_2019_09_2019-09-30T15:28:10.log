@@ -1,0 +1,228 @@
+2019-09-30 15:28:11,116 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+
+2019-09-30 15:28:11,117 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+
+2019-09-30 15:28:11,117 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 99.92
+
+2019-09-30 15:28:11,117 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [ENTREPRISE : Lancée ...] on line  0, value length should be between 0 and 255
+
+2019-09-30 15:28:11,117 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [ATRADIUS n°2 mondial...] on line  1, value length should be between 0 and 255
+
+2019-09-30 15:28:11,117 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Entreprise Acteur ma...] on line  2, value length should be between 0 and 255
+
+2019-09-30 15:28:11,117 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Entreprise Acteur ma...] on line  3, value length should be between 0 and 255
+
+2019-09-30 15:28:11,117 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Entreprise : GE est ...] on line  4, value length should be between 0 and 255
+
+2019-09-30 15:28:11,117 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Entreprise : GE est ...] on line  5, value length should be between 0 and 255
+
+2019-09-30 15:28:11,117 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [CDI Ingénieur Manufa...] on line  6, value length should be between 0 and 255
+
+2019-09-30 15:28:11,117 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Are you the Software...] on line  7, value length should be between 0 and 255
+
+2019-09-30 15:28:11,117 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Are you the Software...] on line  8, value length should be between 0 and 255
+
+2019-09-30 15:28:11,117 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Are you the Software...] on line  9, value length should be between 0 and 255
+
+2019-09-30 15:28:11,117 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [PRESENTATION Au croi...] on line  10, value length should be between 0 and 255
+
+2019-09-30 15:28:11,117 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Vous souhaitez être ...] on line  11, value length should be between 0 and 255
+
+2019-09-30 15:28:11,117 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [« Poste d’expertise ...] on line  12, value length should be between 0 and 255
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Période de recruteme...] on line  13, value length should be between 0 and 255
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Lincoln est un exper...] on line  14, value length should be between 0 and 255
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Meero recherche un D...] on line  15, value length should be between 0 and 255
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A PROPOS DE WAVESTON...] on line  16, value length should be between 0 and 255
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A PROPOS DE WAVESTON...] on line  17, value length should be between 0 and 255
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Ce que nous vous pro...] on line  18, value length should be between 0 and 255
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A PROPOS DE WAVESTON...] on line  19, value length should be between 0 and 255
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 2.8
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCEUR - correctly filled rate (%) - 100.0
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCEUR_ID - correctly filled rate (%) - 100.0
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: LORÉALO on line 6, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: CRÉDITA on line 37, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: CRÉDITA on line 62, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: CRÉDITA on line 63, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: CRÉDITA on line 105, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: LORÉALO on line 107, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: NESTLÉ on line 137, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,118 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: NESTLÉ on line 138, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: NESTLÉ on line 139, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: NESTLÉ on line 140, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: LORÉALO on line 141, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: LORÉALO on line 147, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: LORÉALO on line 148, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: LORÉALO on line 149, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: LORÉALO on line 181, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: LORÉALO on line 182, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: LORÉALO on line 183, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: LORÉALO on line 184, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: LORÉALO on line 191, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: NESTLÉ on line 210, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNONCEUR_ID - correctly filled rate (%) - 97.77
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCEUR_ID_3 - correctly filled rate (%) - 100.0
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: LORÉA on line 6, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: CRÉDI on line 37, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: CRÉDI on line 62, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,119 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: CRÉDI on line 63, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,120 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: CRÉDI on line 105, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,120 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: LORÉA on line 107, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,120 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: LORÉA on line 141, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,120 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: LORÉA on line 147, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,120 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: LORÉA on line 148, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,120 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: LORÉA on line 149, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,120 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: LORÉA on line 181, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,120 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: LORÉA on line 182, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,120 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: LORÉA on line 183, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,120 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: LORÉA on line 184, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,120 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: LORÉA on line 191, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,120 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ARMÉE on line 341, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,120 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ARMÉE on line 342, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,120 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ARMÉE on line 343, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,120 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ARMÉE on line 344, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,120 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ARMÉE on line 345, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-09-30 15:28:11,120 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - correctly filled rate (%) - 98.46
+
+2019-09-30 15:28:11,121 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CABINET - correctly filled rate (%) - 100.0
+
+2019-09-30 15:28:11,121 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - CABINET - observed proportion - 100.0
+
+2019-09-30 15:28:11,121 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CABINET - AUTRE - 13011
+
+2019-09-30 15:28:11,121 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CABINET - CABINET RH - 1126
+
+2019-09-30 15:28:11,121 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CABINET - SSII - 364
+
+2019-09-30 15:28:11,121 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CONTRAT - correctly filled rate (%) - 100.0
+
+2019-09-30 15:28:11,121 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - CONTRAT - observed proportion - 100.0
+
+2019-09-30 15:28:11,121 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CONTRAT - AUTRE - 7020
+
+2019-09-30 15:28:11,121 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CONTRAT - CDI - 7135
+
+2019-09-30 15:28:11,121 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CONTRAT - CDD - 346
+
+2019-09-30 15:28:11,121 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 25.85
+
+2019-09-30 15:28:11,121 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 75.0 on line 0, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,121 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 92.0 on line 1, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,121 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 75.0 on line 2, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,121 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 75.0 on line 3, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,121 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 6.0 on line 7, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,121 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 6.0 on line 8, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 6.0 on line 9, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 92.0 on line 10, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 92.0 on line 11, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 93.0 on line 12, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 75.0 on line 14, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 75.0 on line 15, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 92.0 on line 16, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 92.0 on line 17, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 75.0 on line 18, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 92.0 on line 19, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 75.0 on line 20, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 75.0 on line 21, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 75.0 on line 22, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 75.0 on line 23, value should match regexp ^[0-9]{2}$
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - DEPARTEMENT - correctly filled rate (%) - 0.0
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ENTREPRISE - correctly filled rate (%) - 100.0
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+
+2019-09-30 15:28:11,122 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+
+2019-09-30 15:28:11,123 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 14501
+
+2019-09-30 15:28:11,123 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LIEU - correctly filled rate (%) - 94.11
+
+2019-09-30 15:28:11,123 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - METIER - correctly filled rate (%) - 100.0
+
+2019-09-30 15:28:11,123 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ON_SITE - correctly filled rate (%) - 0.0
+
+2019-09-30 15:28:11,123 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OTHER_SITE - correctly filled rate (%) - 0.0
+
+2019-09-30 15:28:11,123 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 25.85
+
+2019-09-30 15:28:11,123 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - REGION - total number of unique rows - 20
+
+2019-09-30 15:28:11,123 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE_EMPLOI - correctly filled rate (%) - 100.0
+
+2019-09-30 15:28:11,123 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SALAIRE - correctly filled rate (%) - 0.0
+
+2019-09-30 15:28:11,123 - JOBS - FR - JOBSTEASER - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SECTEUR - correctly filled rate (%) - 14.97
+

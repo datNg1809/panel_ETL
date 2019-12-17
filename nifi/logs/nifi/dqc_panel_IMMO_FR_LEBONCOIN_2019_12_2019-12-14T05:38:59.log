@@ -1,0 +1,147 @@
+2019-12-15 16:12:20,292 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-12-15 16:12:20,292 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,292 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ACHAT_LOC - True - 1
+2019-12-15 16:12:20,292 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 99.04
+2019-12-15 16:12:20,292 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - ACHAT_LOC - True - 1
+2019-12-15 16:12:20,292 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-12-15 16:12:20,292 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-12-15 16:12:20,293 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 72.65
+2019-12-15 16:12:20,293 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ADRESSE - False - 0
+2019-12-15 16:12:20,293 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 72.65
+2019-12-15 16:12:20,293 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_CP - False - 0
+2019-12-15 16:12:20,293 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,293 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - AGENCE_CP - True - 1
+2019-12-15 16:12:20,293 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,293 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ID - True - 1
+2019-12-15 16:12:20,293 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,293 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_NOM - True - 1
+2019-12-15 16:12:20,293 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,293 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - AGENCE_TEL - True - 1
+2019-12-15 16:12:20,293 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 99.9
+2019-12-15 16:12:20,293 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_TEL - True - 1
+2019-12-15 16:12:20,293 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 72.65
+2019-12-15 16:12:20,294 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_VILLE - False - 0
+2019-12-15 16:12:20,294 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,294 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_DATE - True - 1
+2019-12-15 16:12:20,294 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,294 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-12-15 16:12:20,294 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-12-15 16:12:20,294 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-12-15 16:12:20,294 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 0.0
+2019-12-15 16:12:20,294 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_TEXT - False - 0
+2019-12-15 16:12:20,294 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,294 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CATEGORIE - True - 1
+2019-12-15 16:12:20,294 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,294 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-12-15 16:12:20,294 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,294 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-12-15 16:12:20,295 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,295 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - True - 1
+2019-12-15 16:12:20,295 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 1252319
+2019-12-15 16:12:20,295 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,295 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-12-15 16:12:20,295 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-12-15 16:12:20,295 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-12-15 16:12:20,295 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 400.0 on line 0 should be int
+2019-12-15 16:12:20,295 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 343.0 on line 1 should be int
+2019-12-15 16:12:20,295 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 11.0 on line 2 should be int
+2019-12-15 16:12:20,295 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 530.0 on line 3 should be int
+2019-12-15 16:12:20,295 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 20.0 on line 4 should be int
+2019-12-15 16:12:20,295 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 87.0 on line 5 should be int
+2019-12-15 16:12:20,295 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 161.0 on line 6 should be int
+2019-12-15 16:12:20,295 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 530.0 on line 7 should be int
+2019-12-15 16:12:20,296 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 2400.0 on line 8 should be int
+2019-12-15 16:12:20,296 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 185.0 on line 9 should be int
+2019-12-15 16:12:20,296 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 1529.0 on line 10 should be int
+2019-12-15 16:12:20,296 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 1005.0 on line 11 should be int
+2019-12-15 16:12:20,296 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 932.0 on line 13 should be int
+2019-12-15 16:12:20,296 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 60.0 on line 14 should be int
+2019-12-15 16:12:20,296 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 12.0 on line 15 should be int
+2019-12-15 16:12:20,296 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 12.0 on line 16 should be int
+2019-12-15 16:12:20,296 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 11.0 on line 17 should be int
+2019-12-15 16:12:20,296 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 189.0 on line 18 should be int
+2019-12-15 16:12:20,296 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 9.0 on line 19 should be int
+2019-12-15 16:12:20,296 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 92.0 on line 20 should be int
+2019-12-15 16:12:20,296 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-12-15 16:12:20,296 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2 - False - 0
+2019-12-15 16:12:20,296 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 95.91
+2019-12-15 16:12:20,296 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2 - True - 1
+2019-12-15 16:12:20,297 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 400.0 on line 0 should be int
+2019-12-15 16:12:20,297 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 343.0 on line 1 should be int
+2019-12-15 16:12:20,297 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 11.0 on line 2 should be int
+2019-12-15 16:12:20,297 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 530.0 on line 3 should be int
+2019-12-15 16:12:20,297 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 20.0 on line 4 should be int
+2019-12-15 16:12:20,297 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 87.0 on line 5 should be int
+2019-12-15 16:12:20,297 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 161.0 on line 6 should be int
+2019-12-15 16:12:20,297 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 530.0 on line 7 should be int
+2019-12-15 16:12:20,297 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 2400.0 on line 8 should be int
+2019-12-15 16:12:20,297 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 185.0 on line 9 should be int
+2019-12-15 16:12:20,297 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1529.0 on line 10 should be int
+2019-12-15 16:12:20,297 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1005.0 on line 11 should be int
+2019-12-15 16:12:20,297 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 12 should be int
+2019-12-15 16:12:20,297 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 932.0 on line 13 should be int
+2019-12-15 16:12:20,297 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 60.0 on line 14 should be int
+2019-12-15 16:12:20,297 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 12.0 on line 15 should be int
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 12.0 on line 16 should be int
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 11.0 on line 17 should be int
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 189.0 on line 18 should be int
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 9.0 on line 19 should be int
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2_TOTALE - False - 0
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2_TOTALE - True - 1
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MAISON_APT - True - 1
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - unexpected count - 0
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MAISON_APT - True - 1
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MINI_SITE_ID - True - 1
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-12-15 16:12:20,298 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - True - 1
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 0.0
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PAYS_AD - False - 0
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PIECE - True - 1
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PIECE - True - 1
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 80000.0 on line 0 should be int
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 157000.0 on line 1 should be int
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 20.0 on line 2 should be int
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 53000.0 on line 3 should be int
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 475.0 on line 4 should be int
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 35000.0 on line 5 should be int
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 163000.0 on line 6 should be int
+2019-12-15 16:12:20,299 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 950000.0 on line 7 should be int
+2019-12-15 16:12:20,300 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 25.0 on line 8 should be int
+2019-12-15 16:12:20,300 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 840000.0 on line 9 should be int
+2019-12-15 16:12:20,300 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 57500.0 on line 10 should be int
+2019-12-15 16:12:20,300 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 99000.0 on line 11 should be int
+2019-12-15 16:12:20,300 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 21000.0 on line 12 should be int
+2019-12-15 16:12:20,300 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 74793.0 on line 13 should be int
+2019-12-15 16:12:20,300 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 65000.0 on line 14 should be int
+2019-12-15 16:12:20,300 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 58.0 on line 15 should be int
+2019-12-15 16:12:20,300 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 58.0 on line 16 should be int
+2019-12-15 16:12:20,300 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 58.0 on line 17 should be int
+2019-12-15 16:12:20,300 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 370.0 on line 18 should be int
+2019-12-15 16:12:20,300 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 64.0 on line 19 should be int
+2019-12-15 16:12:20,300 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-12-15 16:12:20,300 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PRIX - False - 0
+2019-12-15 16:12:20,300 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 99.93
+2019-12-15 16:12:20,301 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-12-15 16:12:20,301 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-12-15 16:12:20,301 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - False - 0
+2019-12-15 16:12:20,301 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-12-15 16:12:20,301 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - VILLE - True - 1
+2019-12-15 16:12:20,301 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.72
+2019-12-15 16:12:20,301 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-12-15 16:12:20,301 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 31177
+2019-12-15 16:12:20,301 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 272578
+2019-12-15 16:12:20,301 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 979741
+2019-12-15 16:12:20,301 - IMMO - FR - LEBONCOIN - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 95

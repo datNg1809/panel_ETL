@@ -1,0 +1,76 @@
+2019-05-07 13:28:13,840 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,840 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,840 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.22
+2019-05-07 13:28:13,840 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,840 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-05-07 13:28:13,840 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,840 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-05-07 13:28:13,840 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,840 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 99.78
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 99.77
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 97.86
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 95.0 on line 0 should be in ['int']
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 116000.0 on line 1 should be in ['int']
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 58000.0 on line 2 should be in ['int']
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 127000.0 on line 3 should be in ['int']
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 87000.0 on line 4 should be in ['int']
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 84000.0 on line 5 should be in ['int']
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 110000.0 on line 6 should be in ['int']
+2019-05-07 13:28:13,841 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 60.0 on line 7 should be in ['int']
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 154000.0 on line 8 should be in ['int']
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 147000.0 on line 9 should be in ['int']
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 10 should be in ['int']
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 113000.0 on line 12 should be in ['int']
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 160000.0 on line 14 should be in ['int']
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 134210.0 on line 15 should be in ['int']
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 85000.0 on line 17 should be in ['int']
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 131900.0 on line 18 should be in ['int']
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 190000.0 on line 19 should be in ['int']
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 20 should be in ['int']
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 1.0 on line 21 should be in ['int']
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 120.0 on line 22 should be in ['int']
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 0.0
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 95.77
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,842 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.99
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31984428490.0 on line 0, value should match a phone number format
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31997351244.0 on line 1, value should match a phone number format
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31985514732.0 on line 2, value should match a phone number format
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31993776430.0 on line 3, value should match a phone number format
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31992370050.0 on line 5, value should match a phone number format
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31985236308.0 on line 6, value should match a phone number format
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31999021846.0 on line 7, value should match a phone number format
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31992663298.0 on line 8, value should match a phone number format
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31999084433.0 on line 10, value should match a phone number format
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31991628916.0 on line 12, value should match a phone number format
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31999740488.0 on line 14, value should match a phone number format
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31999576876.0 on line 15, value should match a phone number format
+2019-05-07 13:28:13,843 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31999548330.0 on line 17, value should match a phone number format
+2019-05-07 13:28:13,844 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31992727017.0 on line 18, value should match a phone number format
+2019-05-07 13:28:13,844 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31986670871.0 on line 19, value should match a phone number format
+2019-05-07 13:28:13,844 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31984894262.0 on line 21, value should match a phone number format
+2019-05-07 13:28:13,844 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31999761010.0 on line 23, value should match a phone number format
+2019-05-07 13:28:13,844 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31984210707.0 on line 24, value should match a phone number format
+2019-05-07 13:28:13,844 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31992789678.0 on line 25, value should match a phone number format
+2019-05-07 13:28:13,844 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31998592618.0 on line 27, value should match a phone number format
+2019-05-07 13:28:13,844 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 33.15
+2019-05-07 13:28:13,844 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 25177
+2019-05-07 13:28:13,844 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 16113
+2019-05-07 13:28:13,844 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 9064
+2019-05-07 13:28:13,844 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-05-07 13:28:13,844 - VO - BR - SEMINOVOSBH - 2019-03-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 100.0

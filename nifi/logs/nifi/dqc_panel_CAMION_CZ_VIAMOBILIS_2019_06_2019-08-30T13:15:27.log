@@ -1,0 +1,89 @@
+2019-08-30 13:15:28,180 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,180 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,180 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 97.22
+2019-08-30 13:15:28,180 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,180 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 58, value should match regexp ^[0-9]{4}$
+2019-08-30 13:15:28,180 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 68, value should match regexp ^[0-9]{4}$
+2019-08-30 13:15:28,180 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 98.15
+2019-08-30 13:15:28,180 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,180 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-08-30 13:15:28,180 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 12.96
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 58.33
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7141JE on line 7, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 5450-020 on line 13, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9028 on line 14, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2490 on line 16, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1435 on line 48, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2640-771 on line 53, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 56-300 on line 66, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 33-311 on line 68, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7141JE on line 76, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7141JE on line 78, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7141JE on line 89, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 63-700 on line 90, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3250-394 on line 91, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7141JE on line 93, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 56-300 on line 96, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,181 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 56-300 on line 97, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 56-300 on line 98, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 56-300 on line 99, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9028 on line 103, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7141JE on line 105, value should match regexp [0-9]{5}
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 81.48
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 108
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 30.56
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,182 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,183 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-08-30 13:15:28,183 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,183 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,183 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-08-30 13:15:28,183 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-08-30 13:15:28,183 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,183 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,183 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-08-30 13:15:28,183 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,183 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,183 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 93.52
+2019-08-30 13:15:28,183 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,183 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-08-30 13:15:28,183 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-08-30 13:15:28,183 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-08-30 13:15:28,183 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 33
+2019-08-30 13:15:28,183 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 25
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 7
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 3
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 45
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 7
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 108
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRUCKS - total number of row with conditions - 0
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRACTOR UNITS - total number of row with conditions - 0
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRAILERS - total number of row with conditions - 0
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - VANS - total number of row with conditions - 0
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - HEAVY EQUIPMENTS - total number of row with conditions - 108
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - SEMI TRAILERS - total number of row with conditions - 0
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRUCKS - total number of row with conditions - 0
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRUCKS - total number of row with conditions - 0
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRACTOR UNITS - total number of row with conditions - 0
+2019-08-30 13:15:28,184 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRACTOR UNITS - total number of row with conditions - 0
+2019-08-30 13:15:28,185 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRAILERS - total number of row with conditions - 0
+2019-08-30 13:15:28,185 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRAILERS - total number of row with conditions - 0
+2019-08-30 13:15:28,185 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_VANS - total number of row with conditions - 0
+2019-08-30 13:15:28,185 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_VANS - total number of row with conditions - 0
+2019-08-30 13:15:28,185 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_HEAVY EQUIPMENTS - total number of row with conditions - 108
+2019-08-30 13:15:28,185 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_HEAVY EQUIPMENTS - total number of row with conditions - 0
+2019-08-30 13:15:28,185 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_SEMI TRAILERS - total number of row with conditions - 0
+2019-08-30 13:15:28,185 - CAMION - CZ - VIAMOBILIS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_SEMI TRAILERS - total number of row with conditions - 0

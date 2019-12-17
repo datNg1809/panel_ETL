@@ -1,0 +1,112 @@
+2019-07-09 10:47:14,922 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-07-09 10:47:14,922 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,922 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.45
+2019-07-09 10:47:14,922 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,922 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,922 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,922 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-07-09 10:47:14,923 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,923 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-07-09 10:47:14,923 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-07-09 10:47:14,923 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 92.33
+2019-07-09 10:47:14,923 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,923 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-07-09 10:47:14,923 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 426949
+2019-07-09 10:47:14,923 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,923 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 54000.0 on line 0 should be in ['int']
+2019-07-09 10:47:14,923 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 112000.0 on line 1 should be in ['int']
+2019-07-09 10:47:14,923 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 2 should be in ['int']
+2019-07-09 10:47:14,923 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 83000.0 on line 3 should be in ['int']
+2019-07-09 10:47:14,923 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 60000.0 on line 4 should be in ['int']
+2019-07-09 10:47:14,923 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 5 should be in ['int']
+2019-07-09 10:47:14,923 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 61000.0 on line 6 should be in ['int']
+2019-07-09 10:47:14,923 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 123000.0 on line 7 should be in ['int']
+2019-07-09 10:47:14,923 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 9000.0 on line 8 should be in ['int']
+2019-07-09 10:47:14,924 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 9 should be in ['int']
+2019-07-09 10:47:14,924 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 180000.0 on line 10 should be in ['int']
+2019-07-09 10:47:14,924 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 58300.0 on line 11 should be in ['int']
+2019-07-09 10:47:14,924 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 96500.0 on line 12 should be in ['int']
+2019-07-09 10:47:14,924 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 54000.0 on line 13 should be in ['int']
+2019-07-09 10:47:14,924 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 14 should be in ['int']
+2019-07-09 10:47:14,924 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 61500.0 on line 15 should be in ['int']
+2019-07-09 10:47:14,924 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 50000.0 on line 16 should be in ['int']
+2019-07-09 10:47:14,924 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 225000.0 on line 17 should be in ['int']
+2019-07-09 10:47:14,924 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 69000.0 on line 18 should be in ['int']
+2019-07-09 10:47:14,924 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 19 should be in ['int']
+2019-07-09 10:47:14,924 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 0.0
+2019-07-09 10:47:14,924 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,924 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,924 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,924 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,924 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 99.56
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-07-09 10:47:14,925 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-07-09 10:47:14,926 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-07-09 10:47:14,926 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-07-09 10:47:14,926 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-07-09 10:47:14,926 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,926 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,926 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,926 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-07-09 10:47:14,926 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,926 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,926 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,926 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,926 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-07-09 10:47:14,926 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,926 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,926 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-07-09 10:47:14,926 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,926 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11987721111.0 on line 1, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11971445624.0 on line 2, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11997671000.0 on line 3, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 19982513831.0 on line 5, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11945402700.0 on line 6, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11995851975.0 on line 7, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 19999870310.0 on line 10, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 31984001736.0 on line 11, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11942374399.0 on line 14, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 17991321916.0 on line 17, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11996192473.0 on line 25, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11947152762.0 on line 27, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 41992221864.0 on line 28, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11992958328.0 on line 31, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 21994747711.0 on line 33, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 16981110123.0 on line 34, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 19996914494.0 on line 36, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 11966023340.0 on line 38, value should match a phone number format
+2019-07-09 10:47:14,927 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 21979630649.0 on line 39, value should match a phone number format
+2019-07-09 10:47:14,928 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 13974101999.0 on line 40, value should match a phone number format
+2019-07-09 10:47:14,928 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 76.79
+2019-07-09 10:47:14,928 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,928 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-07-09 10:47:14,928 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-07-09 10:47:14,928 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-07-09 10:47:14,928 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 325835
+2019-07-09 10:47:14,928 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 101114
+2019-07-09 10:47:14,928 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 122
+2019-07-09 10:47:14,928 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 678
+2019-07-09 10:47:14,928 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-07-09 10:47:14,928 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 17
+2019-07-09 10:47:14,928 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-07-09 10:47:14,928 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-07-09 10:47:14,928 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 2268
+2019-07-09 10:47:14,928 - VO - BR - WEBMOTORS - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 27

@@ -1,0 +1,163 @@
+2019-10-25 21:10:39,259 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-10-25 21:10:39,259 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-10-25 21:10:39,259 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ACHAT_LOC - True - 1
+2019-10-25 21:10:39,259 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 99.19
+2019-10-25 21:10:39,259 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - ACHAT_LOC - True - 1
+2019-10-25 21:10:39,259 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-10-25 21:10:39,259 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-10-25 21:10:39,259 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-10-25 21:10:39,259 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ADRESSE - False - 0
+2019-10-25 21:10:39,259 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-10-25 21:10:39,259 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_CP - False - 0
+2019-10-25 21:10:39,259 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 99.22
+2019-10-25 21:10:39,259 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_NOM - True - 1
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.99
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - AGENCE_TEL - True - 1
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 99.43
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_TEL - True - 1
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_VILLE - False - 0
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 0.0
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_DATE - False - 0
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Immeuble EUROPARIS B...] on line  0, value length should be between 0 and 255
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [CHASSE SUR RHONE (38...] on line  1, value length should be between 0 and 255
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Situées dans un imme...] on line  2, value length should be between 0 and 255
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [DIJON CENTRE VILLE -...] on line  3, value length should be between 0 and 255
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [SECTEUR COLOMIERS - ...] on line  4, value length should be between 0 and 255
+2019-10-25 21:10:39,260 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [SECTEUR ZFU, Au coeu...] on line  5, value length should be between 0 and 255
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [ZAC DE VIDAILHAN, Da...] on line  6, value length should be between 0 and 255
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Honoraires: 15% HT d...] on line  7, value length should be between 0 and 255
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [CHASSE SUR RHONE (38...] on line  8, value length should be between 0 and 255
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [17380075 ZAC de La G...] on line  9, value length should be between 0 and 255
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [CHASSIEU (69). Terra...] on line  10, value length should be between 0 and 255
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [En plein coeur de To...] on line  12, value length should be between 0 and 255
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [En plein coeur de To...] on line  13, value length should be between 0 and 255
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Nous accueillons les...] on line  14, value length should be between 0 and 255
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [EN PLEIN COEUR DE LA...] on line  15, value length should be between 0 and 255
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [TOULOUSE SUD OUEST -...] on line  18, value length should be between 0 and 255
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [SECTEUR BASSO CAMBO,...] on line  19, value length should be between 0 and 255
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Bureaux à louer Bure...] on line  20, value length should be between 0 and 255
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [A toute proximité de...] on line  21, value length should be between 0 and 255
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [BUREAUX A LOUER Au c...] on line  22, value length should be between 0 and 255
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 23.93
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - False - 0
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 97.8
+2019-10-25 21:10:39,261 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_TEXT - False - 0
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CATEGORIE - True - 1
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.99
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1150 on line 216, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2200 on line 253, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6560 on line 295, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6560 on line 317, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2700 on line 336, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2200 on line 337, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2200 on line 338, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9340 on line 339, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2200 on line 341, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9160 on line 342, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9210 on line 346, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9300 on line 347, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2200 on line 350, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2300 on line 353, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,262 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2700 on line 355, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,263 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2200 on line 357, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,263 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6110 on line 447, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,263 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6400 on line 448, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,263 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6370 on line 449, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,263 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6130 on line 450, value should match regexp ^[0-9]{5}$
+2019-10-25 21:10:39,263 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 95.23
+2019-10-25 21:10:39,263 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-10-25 21:10:39,263 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 99.99
+2019-10-25 21:10:39,263 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - True - 1
+2019-10-25 21:10:39,263 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 33877
+2019-10-25 21:10:39,263 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-25 21:10:39,263 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-10-25 21:10:39,263 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-25 21:10:39,263 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-10-25 21:10:39,263 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 5113.0 on line 0 should be int
+2019-10-25 21:10:39,263 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1750.0 on line 1 should be int
+2019-10-25 21:10:39,263 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 873.0 on line 2 should be int
+2019-10-25 21:10:39,264 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 146.0 on line 3 should be int
+2019-10-25 21:10:39,264 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 2136.0 on line 4 should be int
+2019-10-25 21:10:39,264 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 75.0 on line 5 should be int
+2019-10-25 21:10:39,264 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 4690.0 on line 6 should be int
+2019-10-25 21:10:39,264 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 497.0 on line 7 should be int
+2019-10-25 21:10:39,264 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1750.0 on line 8 should be int
+2019-10-25 21:10:39,264 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 25620.0 on line 9 should be int
+2019-10-25 21:10:39,264 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 10000.0 on line 10 should be int
+2019-10-25 21:10:39,264 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1379.0 on line 11 should be int
+2019-10-25 21:10:39,264 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 742.0 on line 15 should be int
+2019-10-25 21:10:39,264 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 121.0 on line 16 should be int
+2019-10-25 21:10:39,264 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 420.0 on line 17 should be int
+2019-10-25 21:10:39,264 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 100.0 on line 18 should be int
+2019-10-25 21:10:39,264 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 9999.0 on line 19 should be int
+2019-10-25 21:10:39,264 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 612.0 on line 20 should be int
+2019-10-25 21:10:39,264 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 370.0 on line 21 should be int
+2019-10-25 21:10:39,264 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 3740.0 on line 22 should be int
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2_TOTALE - False - 0
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 99.65
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2_TOTALE - True - 1
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 0.0
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MAISON_APT - False - 0
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MINI_SITE_ID - False - 0
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - True - 1
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - PAYS_AD - correctly filled rate (%) - 100.0
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - PAYS_AD - True - 1
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 100.0
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PAYS_AD - True - 1
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-25 21:10:39,265 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 0.0
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PIECE - False - 0
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 102260.0 on line 0 should be int
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 17460.0 on line 2 should be int
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1837.0 on line 3 should be int
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 23140.0 on line 4 should be int
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 718.0 on line 5 should be int
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 56670.0 on line 6 should be int
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 320000.0 on line 7 should be int
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 102480.0 on line 9 should be int
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 6666.0 on line 10 should be int
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 13790.0 on line 11 should be int
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 200.0 on line 12 should be int
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 200.0 on line 13 should be int
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 290.0 on line 14 should be int
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1335618.0 on line 15 should be int
+2019-10-25 21:10:39,266 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 110000.0 on line 17 should be int
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 875.0 on line 18 should be int
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 120821.0 on line 19 should be int
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 8160.0 on line 20 should be int
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 4470.0 on line 21 should be int
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 45191.0 on line 22 should be int
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PRIX - False - 0
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 87.25
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - False - 0
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 0.0
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRO_IND - False - 0
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - False - 0
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SELLER_TYPE - True - 1
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - SELLER_TYPE - True - 1
+2019-10-25 21:10:39,267 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-10-25 21:10:39,268 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - VILLE - True - 1
+2019-10-25 21:10:39,268 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-10-25 21:10:39,268 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-10-25 21:10:39,268 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 2698
+2019-10-25 21:10:39,268 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 33877
+2019-10-25 21:10:39,268 - IMMO - FR.BUCOM - GEOLOCAUX - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0

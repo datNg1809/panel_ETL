@@ -1,0 +1,178 @@
+2019-10-19 22:05:51,960 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-10-19 22:05:51,960 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 99.99
+2019-10-19 22:05:51,960 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - True - 1
+2019-10-19 22:05:51,960 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,960 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-10-19 22:05:51,960 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 23, value should be between 1980 and 2019
+2019-10-19 22:05:51,960 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 26, value should be between 1980 and 2019
+2019-10-19 22:05:51,960 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 56, value should be between 1980 and 2019
+2019-10-19 22:05:51,960 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 62, value should be between 1980 and 2019
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 63, value should be between 1980 and 2019
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 72, value should be between 1980 and 2019
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 76, value should be between 1980 and 2019
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 88, value should be between 1980 and 2019
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 91, value should be between 1980 and 2019
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 101, value should be between 1980 and 2019
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 104, value should be between 1980 and 2019
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 126, value should be between 1980 and 2019
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 143, value should be between 1980 and 2019
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 145, value should be between 1980 and 2019
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 146, value should be between 1980 and 2019
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 147, value should be between 1980 and 2019
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 160, value should be between 1980 and 2019
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 163, value should be between 1980 and 2019
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 174, value should be between 1980 and 2019
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 185, value should be between 1980 and 2019
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 87.15
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 52272
+2019-10-19 22:05:51,961 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - False - 0
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 23, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 26, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 56, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 62, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 63, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 72, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 76, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 88, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 91, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 101, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 104, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 126, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 143, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 145, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 146, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 147, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,962 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 160, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,963 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 163, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,963 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 174, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,963 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 185, value should match regexp ^[0-9]{4}$
+2019-10-19 22:05:51,963 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 87.15
+2019-10-19 22:05:51,963 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-10-19 22:05:51,963 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,963 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-10-19 22:05:51,963 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-19 22:05:51,963 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-10-19 22:05:51,963 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 99.99
+2019-10-19 22:05:51,963 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - True - 1
+2019-10-19 22:05:51,963 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-10-19 22:05:51,963 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - False - 0
+2019-10-19 22:05:51,963 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.99
+2019-10-19 22:05:51,963 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-10-19 22:05:51,963 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,963 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 99.99
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 406637
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 99.99
+2019-10-19 22:05:51,964 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 3.42
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - False - 0
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - True - 1
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 23, value should be between 1 and 12
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 26, value should be between 1 and 12
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 56, value should be between 1 and 12
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 62, value should be between 1 and 12
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 63, value should be between 1 and 12
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 72, value should be between 1 and 12
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 76, value should be between 1 and 12
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 88, value should be between 1 and 12
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 91, value should be between 1 and 12
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 101, value should be between 1 and 12
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 104, value should be between 1 and 12
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 126, value should be between 1 and 12
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 143, value should be between 1 and 12
+2019-10-19 22:05:51,965 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 145, value should be between 1 and 12
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 146, value should be between 1 and 12
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 147, value should be between 1 and 12
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 160, value should be between 1 and 12
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 163, value should be between 1 and 12
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 174, value should be between 1 and 12
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 185, value should be between 1 and 12
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 87.15
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - unexpected count - 52272
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MOIS - False - 0
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - MOIS - True - 1
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 99.99
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Mii...] on line  22, value length should be between 10 and 255
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Leon...] on line  83, value length should be between 10 and 255
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Crafter...] on line  99, value length should be between 10 and 255
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [308...] on line  101, value length should be between 10 and 255
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Q3...] on line  109, value length should be between 10 and 255
+2019-10-19 22:05:51,966 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Golf VII...] on line  117, value length should be between 10 and 255
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Alhambra...] on line  124, value length should be between 10 and 255
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Twingo...] on line  147, value length should be between 10 and 255
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Tiguan...] on line  221, value length should be between 10 and 255
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Kadjar...] on line  316, value length should be between 10 and 255
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [SCALA...] on line  328, value length should be between 10 and 255
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Q5...] on line  409, value length should be between 10 and 255
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Tiguan ...] on line  437, value length should be between 10 and 255
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [V70...] on line  445, value length should be between 10 and 255
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Soul...] on line  449, value length should be between 10 and 255
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Q2...] on line  469, value length should be between 10 and 255
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Polo ...] on line  487, value length should be between 10 and 255
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Crafter...] on line  514, value length should be between 10 and 255
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [ML 350...] on line  536, value length should be between 10 and 255
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [T6...] on line  548, value length should be between 10 and 255
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 96.73
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-10-19 22:05:51,967 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - False - 0
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 99.99
+2019-10-19 22:05:51,968 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 0.0
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - False - 0
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.99
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - True - 1
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - VN_IND - True - 1
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 49
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 765
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 9
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 1498
+2019-10-19 22:05:51,969 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-10-19 22:05:51,970 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 0
+2019-10-19 22:05:51,970 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-10-19 22:05:51,970 - VO - DE - HEYCAR - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_NEWCARS - total number of row with conditions - 0

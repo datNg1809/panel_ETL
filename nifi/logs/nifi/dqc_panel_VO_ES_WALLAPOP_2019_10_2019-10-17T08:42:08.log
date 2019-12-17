@@ -1,0 +1,203 @@
+2019-10-17 09:40:06,980 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-10-17 09:40:06,980 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-10-17 09:40:06,980 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-10-17 09:40:06,980 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,980 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 98.14
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 3928
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - True - 1
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 11, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 17, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 25, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 55, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 60, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 66, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 68, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 73, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 78, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 83, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 85, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 90, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,981 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 99, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,982 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 103, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,982 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 104, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,982 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 110, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,982 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 111, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,982 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 115, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,982 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 140, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,982 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 142, value should match regexp ^[0-9]{4}$
+2019-10-17 09:40:06,982 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.0
+2019-10-17 09:40:06,982 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-10-17 09:40:06,982 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,982 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-10-17 09:40:06,982 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-17 09:40:06,982 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-10-17 09:40:06,982 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 96.48
+2019-10-17 09:40:06,982 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - True - 1
+2019-10-17 09:40:06,982 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,982 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - True - 1
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - True - 1
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 210932
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-10-17 09:40:06,983 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 99.04
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 99.04
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - True - 1
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - True - 1
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-10-17 09:40:06,984 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-10-17 09:40:06,985 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-10-17 09:40:06,985 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-10-17 09:40:06,985 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-10-17 09:40:06,985 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-10-17 09:40:06,985 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-10-17 09:40:06,985 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-10-17 09:40:06,985 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-10-17 09:40:06,985 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-10-17 09:40:06,985 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-10-17 09:40:06,985 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-10-17 09:40:06,985 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-10-17 09:40:06,985 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-10-17 09:40:06,985 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - unexpected count - 210932
+2019-10-17 09:40:06,985 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MOIS - False - 0
+2019-10-17 09:40:06,985 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,985 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - MOIS - True - 1
+2019-10-17 09:40:06,985 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Seat 600...] on line  8, value length should be between 10 and 255
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ossa 160...] on line  60, value length should be between 10 and 255
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Coche...] on line  61, value length should be between 10 and 255
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Coche...] on line  73, value length should be between 10 and 255
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Tractor....] on line  83, value length should be between 10 and 255
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [SEAT 600E...] on line  86, value length should be between 10 and 255
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [SEAT 600E...] on line  87, value length should be between 10 and 255
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [bmw 120d...] on line  88, value length should be between 10 and 255
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Dyanne 6...] on line  122, value length should be between 10 and 255
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw 530d...] on line  126, value length should be between 10 and 255
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volvo s70...] on line  146, value length should be between 10 and 255
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Coche...] on line  149, value length should be between 10 and 255
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Seat 850...] on line  170, value length should be between 10 and 255
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw 328i...] on line  183, value length should be between 10 and 255
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Coche...] on line  185, value length should be between 10 and 255
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Toyota...] on line  188, value length should be between 10 and 255
+2019-10-17 09:40:06,986 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Seat 600...] on line  198, value length should be between 10 and 255
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw e60...] on line  212, value length should be between 10 and 255
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Rover 75...] on line  252, value length should be between 10 and 255
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [207 cc...] on line  262, value length should be between 10 and 255
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.22
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - True - 1
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: Land Rover Mo...] on line  0, value length should be between 0 and 255
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: Mercedes-Benz...] on line  1, value length should be between 0 and 255
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: Peugeot Model...] on line  2, value length should be between 0 and 255
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: Ford Modelo: ...] on line  3, value length should be between 0 and 255
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: BMW Modelo: Z...] on line  4, value length should be between 0 and 255
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: Chrysler Mode...] on line  5, value length should be between 0 and 255
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: SsangYong Mod...] on line  7, value length should be between 0 and 255
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: SEAT Modelo: ...] on line  8, value length should be between 0 and 255
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: Renault Model...] on line  9, value length should be between 0 and 255
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: SEAT Modelo: ...] on line  12, value length should be between 0 and 255
+2019-10-17 09:40:06,987 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: Ford Modelo: ...] on line  14, value length should be between 0 and 255
+2019-10-17 09:40:06,988 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: Opel Modelo: ...] on line  16, value length should be between 0 and 255
+2019-10-17 09:40:06,988 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: SEAT Modelo: ...] on line  18, value length should be between 0 and 255
+2019-10-17 09:40:06,988 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: Volkswagen Mo...] on line  19, value length should be between 0 and 255
+2019-10-17 09:40:06,988 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: BMW Modelo: S...] on line  20, value length should be between 0 and 255
+2019-10-17 09:40:06,988 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: Honda Modelo:...] on line  21, value length should be between 0 and 255
+2019-10-17 09:40:06,988 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: Ford Modelo: ...] on line  22, value length should be between 0 and 255
+2019-10-17 09:40:06,988 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Se vende zip malossi...] on line  25, value length should be between 0 and 255
+2019-10-17 09:40:06,988 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: Mercedes-Benz...] on line  27, value length should be between 0 and 255
+2019-10-17 09:40:06,988 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Marca: Dodge Modelo:...] on line  28, value length should be between 0 and 255
+2019-10-17 09:40:06,988 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 22.06
+2019-10-17 09:40:06,988 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - OPTIONS - False - 0
+2019-10-17 09:40:06,988 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,988 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-10-17 09:40:06,988 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,988 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-10-17 09:40:06,988 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 0 should be in ['int']
+2019-10-17 09:40:06,988 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 1 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 2 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 3 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 4 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 7 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 9 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 12 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 13 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 14 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 16 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 19 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 21 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 28 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 30 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 31 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 32 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 33 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 35 should be in ['int']
+2019-10-17 09:40:06,989 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7.0 on line 37 should be in ['int']
+2019-10-17 09:40:06,990 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-10-17 09:40:06,990 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PLACE - False - 0
+2019-10-17 09:40:06,990 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 94.47
+2019-10-17 09:40:06,990 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - True - 1
+2019-10-17 09:40:06,990 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 85.84
+2019-10-17 09:40:06,990 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-10-17 09:40:06,990 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,990 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PORTE - True - 1
+2019-10-17 09:40:06,990 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,990 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-10-17 09:40:06,990 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,990 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-10-17 09:40:06,990 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,990 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - True - 1
+2019-10-17 09:40:06,990 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,990 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-10-17 09:40:06,990 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 15.93
+2019-10-17 09:40:06,991 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - False - 0
+2019-10-17 09:40:06,991 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,991 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-10-17 09:40:06,991 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,991 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-10-17 09:40:06,991 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-10-17 09:40:06,991 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-10-17 09:40:06,991 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-10-17 09:40:06,991 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-10-17 09:40:06,991 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - False - 0
+2019-10-17 09:40:06,991 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 49342
+2019-10-17 09:40:06,991 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 161590
+2019-10-17 09:40:06,991 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 1026
+2019-10-17 09:40:06,991 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 2210
+2019-10-17 09:40:06,991 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 1
+2019-10-17 09:40:06,991 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 3
+2019-10-17 09:40:06,992 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-10-17 09:40:06,992 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-10-17 09:40:06,992 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 52
+2019-10-17 09:40:06,992 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 6860
+2019-10-17 09:40:06,992 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 52
+2019-10-17 09:40:06,992 - VO - ES - WALLAPOP - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - GARAGE_ID - total number of unique rows - 146703

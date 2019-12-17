@@ -1,0 +1,163 @@
+2019-10-23 10:49:56,882 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-10-23 10:49:56,882 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,883 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ACHAT_LOC - True - 1
+2019-10-23 10:49:56,883 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,883 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - ACHAT_LOC - True - 1
+2019-10-23 10:49:56,883 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 99.56
+2019-10-23 10:49:56,883 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - True - 1
+2019-10-23 10:49:56,883 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.72
+2019-10-23 10:49:56,883 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ADRESSE - False - 0
+2019-10-23 10:49:56,883 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 77.34
+2019-10-23 10:49:56,883 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_CP - False - 0
+2019-10-23 10:49:56,883 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5480 on line 106, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,883 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5480 on line 115, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,883 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 3014 on line 2433, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,883 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 8580 on line 2813, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,883 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 7218 on line 3313, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,883 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 043147 on line 4590, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,883 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 3014 on line 4799, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,883 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 3014 on line 4915, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5690 on line 5897, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 3014 on line 5949, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 3014 on line 6660, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 8280 on line 7173, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6014 on line 7181, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6203 on line 7616, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 1097 on line 7906, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 1097 on line 7909, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 1097 on line 7910, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 1097 on line 7911, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 3014 on line 8310, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 0118712 on line 8459, value should match regexp ^[0-9]{5}$
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 99.58
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - AGENCE_CP - False - 0
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ID - True - 1
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 99.3
+2019-10-23 10:49:56,884 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_NOM - True - 1
+2019-10-23 10:49:56,885 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.84
+2019-10-23 10:49:56,885 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - AGENCE_TEL - True - 1
+2019-10-23 10:49:56,885 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 82.16
+2019-10-23 10:49:56,885 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_TEL - False - 0
+2019-10-23 10:49:56,885 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 77.59
+2019-10-23 10:49:56,885 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_VILLE - False - 0
+2019-10-23 10:49:56,885 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,885 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_DATE - True - 1
+2019-10-23 10:49:56,885 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,885 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-10-23 10:49:56,885 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-23 10:49:56,885 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-10-23 10:49:56,885 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.64
+2019-10-23 10:49:56,885 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-10-23 10:49:56,885 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2625 on line 13645, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,885 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1010 on line 20180, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,885 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1010 on line 20736, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4414 on line 58289, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 5416 on line 59942, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2625 on line 97065, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3334 on line 100024, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 414 on line 108706, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2625 on line 175055, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1458 on line 175762, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9453 on line 235178, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6493 on line 263556, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4189 on line 267549, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 475 on line 268292, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 0856 on line 275714, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3334 on line 285574, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4107 on line 309982, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4428 on line 316315, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 8404 on line 320184, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 0000 on line 320367, value should match regexp [0-9]{5}
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 99.99
+2019-10-23 10:49:56,886 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-10-23 10:49:56,887 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 99.64
+2019-10-23 10:49:56,887 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - True - 1
+2019-10-23 10:49:56,887 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 357383
+2019-10-23 10:49:56,887 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,887 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-10-23 10:49:56,887 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-23 10:49:56,887 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-10-23 10:49:56,887 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 142.0 on line 0 should be int
+2019-10-23 10:49:56,887 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 54.0 on line 1 should be int
+2019-10-23 10:49:56,887 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 60.94 on line 2 should be int
+2019-10-23 10:49:56,887 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 9.0 on line 3 should be int
+2019-10-23 10:49:56,887 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 57.58 on line 4 should be int
+2019-10-23 10:49:56,887 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 20.0 on line 5 should be int
+2019-10-23 10:49:56,887 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 8.0 on line 6 should be int
+2019-10-23 10:49:56,887 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 89.0 on line 7 should be int
+2019-10-23 10:49:56,887 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 102.0 on line 8 should be int
+2019-10-23 10:49:56,887 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 113.5 on line 9 should be int
+2019-10-23 10:49:56,888 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 9.0 on line 10 should be int
+2019-10-23 10:49:56,888 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 85.0 on line 11 should be int
+2019-10-23 10:49:56,888 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 100.0 on line 12 should be int
+2019-10-23 10:49:56,888 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 148.0 on line 13 should be int
+2019-10-23 10:49:56,888 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 68.54 on line 14 should be int
+2019-10-23 10:49:56,888 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 25.35 on line 15 should be int
+2019-10-23 10:49:56,888 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 198.0 on line 16 should be int
+2019-10-23 10:49:56,888 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 110.0 on line 17 should be int
+2019-10-23 10:49:56,888 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 141.5 on line 18 should be int
+2019-10-23 10:49:56,888 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 135.0 on line 19 should be int
+2019-10-23 10:49:56,888 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-10-23 10:49:56,888 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2 - False - 0
+2019-10-23 10:49:56,888 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 99.47
+2019-10-23 10:49:56,888 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2 - True - 1
+2019-10-23 10:49:56,888 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,888 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MAISON_APT - True - 1
+2019-10-23 10:49:56,888 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - unexpected count - 0
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MAISON_APT - True - 1
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 99.64
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MINI_SITE_ID - True - 1
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - True - 1
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 97.34
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PIECE - True - 1
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PIECE - True - 1
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,889 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PRIX - True - 1
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRO_IND - True - 1
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - PRO_IND - True - 1
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - False - 0
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 0 should be int
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 1 should be int
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 2 should be int
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 3 should be int
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 4 should be int
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 5 should be int
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 6 should be int
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 7 should be int
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 8 should be int
+2019-10-23 10:49:56,890 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 9 should be int
+2019-10-23 10:49:56,891 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 10 should be int
+2019-10-23 10:49:56,891 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 11 should be int
+2019-10-23 10:49:56,891 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 12 should be int
+2019-10-23 10:49:56,891 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 13 should be int
+2019-10-23 10:49:56,891 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 14 should be int
+2019-10-23 10:49:56,891 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 15 should be int
+2019-10-23 10:49:56,891 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 16 should be int
+2019-10-23 10:49:56,891 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 17 should be int
+2019-10-23 10:49:56,891 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 18 should be int
+2019-10-23 10:49:56,891 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 19 should be int
+2019-10-23 10:49:56,891 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-10-23 10:49:56,891 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - SURFACE_TERRAIN - False - 0
+2019-10-23 10:49:56,891 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-10-23 10:49:56,891 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - VILLE - True - 1
+2019-10-23 10:49:56,891 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.64
+2019-10-23 10:49:56,891 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-10-23 10:49:56,891 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 419
+2019-10-23 10:49:56,892 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 329972
+2019-10-23 10:49:56,892 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 27411
+2019-10-23 10:49:56,892 - IMMO - DE - IMMOBILIENSCOUT - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 17

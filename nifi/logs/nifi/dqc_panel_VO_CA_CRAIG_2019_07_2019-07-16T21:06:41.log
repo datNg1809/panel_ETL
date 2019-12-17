@@ -1,0 +1,96 @@
+2019-07-16 21:16:40,397 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-07-16 21:16:40,397 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,397 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 98.35
+2019-07-16 21:16:40,397 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,397 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 90496, value should match regexp ^[0-9]{4}$
+2019-07-16 21:16:40,397 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 90540, value should match regexp ^[0-9]{4}$
+2019-07-16 21:16:40,397 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 94701, value should match regexp ^[0-9]{4}$
+2019-07-16 21:16:40,397 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,397 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,397 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-07-16 21:16:40,397 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 99.84
+2019-07-16 21:16:40,398 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 56.74
+2019-07-16 21:16:40,398 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-07-16 21:16:40,398 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 57.29
+2019-07-16 21:16:40,398 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,398 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-07-16 21:16:40,398 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 96601
+2019-07-16 21:16:40,398 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,398 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,398 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,398 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,398 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,398 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,398 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 0.0
+2019-07-16 21:16:40,398 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,398 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-07-16 21:16:40,398 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-07-16 21:16:40,399 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-07-16 21:16:40,400 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-07-16 21:16:40,400 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,400 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,400 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,400 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.99
+2019-07-16 21:16:40,400 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [- Powered by 185HP -...] on line  25, value length should be between 0 and 255
+2019-07-16 21:16:40,400 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Power Seats Parking ...] on line  490, value length should be between 0 and 255
+2019-07-16 21:16:40,400 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [-Tubular Side Steps ...] on line  818, value length should be between 0 and 255
+2019-07-16 21:16:40,400 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Vehicle Type: pickup...] on line  997, value length should be between 0 and 255
+2019-07-16 21:16:40,400 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Vehicle Type: pickup...] on line  999, value length should be between 0 and 255
+2019-07-16 21:16:40,400 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Vehicle Type: pickup...] on line  1000, value length should be between 0 and 255
+2019-07-16 21:16:40,400 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [â?¢ Tru Trac Serpent...] on line  1707, value length should be between 0 and 255
+2019-07-16 21:16:40,400 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Edura Plastic Paint ...] on line  1877, value length should be between 0 and 255
+2019-07-16 21:16:40,400 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [- powerful 7.5L V8 (...] on line  3394, value length should be between 0 and 255
+2019-07-16 21:16:40,400 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [4x4 with E-locker El...] on line  5210, value length should be between 0 and 255
+2019-07-16 21:16:40,400 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Working A/C Sunroof ...] on line  6045, value length should be between 0 and 255
+2019-07-16 21:16:40,401 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [A multifunction stee...] on line  9408, value length should be between 0 and 255
+2019-07-16 21:16:40,401 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Engine 3.2L V6 SOHC ...] on line  10886, value length should be between 0 and 255
+2019-07-16 21:16:40,401 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [-FWD -ABS -Cruise co...] on line  10932, value length should be between 0 and 255
+2019-07-16 21:16:40,401 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Engine 3.2L V6 SOHC ...] on line  11062, value length should be between 0 and 255
+2019-07-16 21:16:40,401 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Mileage: 111,350  KM...] on line  11543, value length should be between 0 and 255
+2019-07-16 21:16:40,401 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Engine 3.2L V6 SOHC ...] on line  11997, value length should be between 0 and 255
+2019-07-16 21:16:40,401 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Mileage: 94,200  KM ...] on line  12367, value length should be between 0 and 255
+2019-07-16 21:16:40,401 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [â?¢ Climate Control ...] on line  12955, value length should be between 0 and 255
+2019-07-16 21:16:40,401 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [â?¢ Climate Control ...] on line  12957, value length should be between 0 and 255
+2019-07-16 21:16:40,401 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 38.05
+2019-07-16 21:16:40,401 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,401 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,401 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-07-16 21:16:40,401 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-07-16 21:16:40,401 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,401 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,401 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-07-16 21:16:40,402 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,402 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 60.65
+2019-07-16 21:16:40,402 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.68
+2019-07-16 21:16:40,402 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,402 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-07-16 21:16:40,402 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 88.32
+2019-07-16 21:16:40,402 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,402 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-07-16 21:16:40,402 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 5987
+2019-07-16 21:16:40,402 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 900
+2019-07-16 21:16:40,402 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 13
+2019-07-16 21:16:40,402 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 5
+2019-07-16 21:16:40,402 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-07-16 21:16:40,403 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-07-16 21:16:40,403 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 7294
+2019-07-16 21:16:40,403 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-07-16 21:16:40,403 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 73088
+2019-07-16 21:16:40,403 - VO - CA - CRAIG - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 23513

@@ -1,0 +1,266 @@
+2019-11-22 14:26:27,315 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-11-22 14:26:27,315 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 88.43
+2019-11-22 14:26:27,315 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-11-22 14:26:27,315 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,315 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-11-22 14:26:27,315 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.16
+2019-11-22 14:26:27,315 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 1617
+2019-11-22 14:26:27,315 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - True - 1
+2019-11-22 14:26:27,315 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,315 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-11-22 14:26:27,315 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 627, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,315 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 760, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,315 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 859, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,315 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 861, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,315 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 862, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,315 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 863, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 864, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 865, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 869, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 870, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 871, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 872, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 873, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 896, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 952, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1016, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1155, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1217, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1430, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1644, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.72
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,316 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - True - 1
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - True - 1
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 97.76
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 5503LV on line 0, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2992LB on line 1, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3122AE on line 2, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3122AE on line 3, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2678CV on line 4, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3263RA on line 5, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2678CV on line 6, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2992LB on line 7, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3319AJ on line 8, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,317 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3319AJ on line 9, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2908LC on line 10, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3263RA on line 11, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4421PV on line 16, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4421PV on line 17, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4421PV on line 18, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4421PV on line 19, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4421PV on line 20, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4421PV on line 21, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 9005XS on line 22, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1628JS on line 23, value should match regexp ^[0-9]{4}$
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 0.7
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - True - 1
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-11-22 14:26:27,318 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 192781
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 86.75
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - True - 1
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - True - 1
+2019-11-22 14:26:27,319 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 258, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 268, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 418, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 419, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 486, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 501, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 627, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 760, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 825, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 859, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 861, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 862, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 863, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 864, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 865, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 869, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 870, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 871, value should be between 1 and 12
+2019-11-22 14:26:27,320 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 872, value should be between 1 and 12
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 873, value should be between 1 and 12
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 86.97
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - unexpected count - 25114
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MOIS - False - 0
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - MOIS - True - 1
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford Ranger 3.2 TD A...] on line  2383, value length should be between 10 and 255
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW M3...] on line  3283, value length should be between 10 and 255
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi Q7...] on line  3714, value length should be between 10 and 255
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford Ranger 3.2 TDCI...] on line  4123, value length should be between 10 and 255
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volkswagen Passat Va...] on line  5649, value length should be between 10 and 255
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford Ranger 3.2TD AU...] on line  7199, value length should be between 10 and 255
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Renault Espace 1.8 T...] on line  11229, value length should be between 10 and 255
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A6 50TDi 286pk ...] on line  11384, value length should be between 10 and 255
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Renault Talisman 1.8...] on line  12167, value length should be between 10 and 255
+2019-11-22 14:26:27,321 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volkswagen Golf Spor...] on line  12518, value length should be between 10 and 255
+2019-11-22 14:26:27,322 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 5-Serie 520d Hig...] on line  15573, value length should be between 10 and 255
+2019-11-22 14:26:27,322 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fiat 500...] on line  15830, value length should be between 10 and 255
+2019-11-22 14:26:27,322 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A3 Limousine 1....] on line  17134, value length should be between 10 and 255
+2019-11-22 14:26:27,322 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 1-Serie 118i Cor...] on line  17284, value length should be between 10 and 255
+2019-11-22 14:26:27,322 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 2-Serie Coupe M2...] on line  17412, value length should be between 10 and 255
+2019-11-22 14:26:27,322 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bentley Continental ...] on line  18182, value length should be between 10 and 255
+2019-11-22 14:26:27,322 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volvo XC90 7% Bijtel...] on line  18724, value length should be between 10 and 255
+2019-11-22 14:26:27,322 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford Ranger 3.2TD AU...] on line  19133, value length should be between 10 and 255
+2019-11-22 14:26:27,322 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 5-Serie 520i Hig...] on line  19510, value length should be between 10 and 255
+2019-11-22 14:26:27,322 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW 6-Serie Gran Cou...] on line  19565, value length should be between 10 and 255
+2019-11-22 14:26:27,322 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.58
+2019-11-22 14:26:27,322 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-11-22 14:26:27,322 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 98.64
+2019-11-22 14:26:27,322 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - True - 1
+2019-11-22 14:26:27,322 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Cruise control, Elek...] on line  1, value length should be between 0 and 255
+2019-11-22 14:26:27,322 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airconditioning, Bek...] on line  2, value length should be between 0 and 255
+2019-11-22 14:26:27,322 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airconditioning, Bek...] on line  3, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Armsteun achter, Bek...] on line  4, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Achterbank deelbaar,...] on line  6, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Cruise control, Elek...] on line  7, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airconditioning, Arm...] on line  11, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Bekleding leder, Boo...] on line  13, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Achterbank deelbaar,...] on line  14, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airconditioning, Arm...] on line  15, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [5 persoons, Aircondi...] on line  18, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [5 persoons, Armsteun...] on line  19, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airconditioning, Arm...] on line  20, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [5 persoons, Bekledin...] on line  22, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airconditioning, Bek...] on line  23, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [5 persoons, Achterba...] on line  24, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airconditioning, Bek...] on line  25, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [5 persoons, Aircondi...] on line  26, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [5 persoons, Aircondi...] on line  27, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Armsteun voor, Bekle...] on line  28, value length should be between 0 and 255
+2019-11-22 14:26:27,323 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 3.52
+2019-11-22 14:26:27,324 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - OPTIONS - False - 0
+2019-11-22 14:26:27,324 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,324 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-11-22 14:26:27,324 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,324 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-11-22 14:26:27,324 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3 on line 0 should be in ['int']
+2019-11-22 14:26:27,324 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5 on line 1 should be in ['int']
+2019-11-22 14:26:27,324 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7 on line 2 should be in ['int']
+2019-11-22 14:26:27,324 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7 on line 3 should be in ['int']
+2019-11-22 14:26:27,324 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3 on line 4 should be in ['int']
+2019-11-22 14:26:27,324 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5 on line 5 should be in ['int']
+2019-11-22 14:26:27,324 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 6 on line 6 should be in ['int']
+2019-11-22 14:26:27,324 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5 on line 7 should be in ['int']
+2019-11-22 14:26:27,324 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5 on line 8 should be in ['int']
+2019-11-22 14:26:27,324 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5 on line 9 should be in ['int']
+2019-11-22 14:26:27,324 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5 on line 10 should be in ['int']
+2019-11-22 14:26:27,324 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5 on line 11 should be in ['int']
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: - on line 12 should be in ['int']
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4 on line 13 should be in ['int']
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5 on line 14 should be in ['int']
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: - on line 15 should be in ['int']
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 6 on line 16 should be in ['int']
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5 on line 17 should be in ['int']
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 6 on line 18 should be in ['int']
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 6 on line 19 should be in ['int']
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PLACE - False - 0
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 98.96
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - True - 1
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 99.99
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - True - 1
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 2 on line 0 should be in ['int', 'float']
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 1 should be in ['int', 'float']
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 4 on line 2 should be in ['int', 'float']
+2019-11-22 14:26:27,325 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 4 on line 3 should be in ['int', 'float']
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 2 on line 4 should be in ['int', 'float']
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 5 should be in ['int', 'float']
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 4 on line 6 should be in ['int', 'float']
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 7 should be in ['int', 'float']
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 8 should be in ['int', 'float']
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 9 should be in ['int', 'float']
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 10 should be in ['int', 'float']
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 4 on line 11 should be in ['int', 'float']
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 4 on line 12 should be in ['int', 'float']
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 3 on line 13 should be in ['int', 'float']
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 14 should be in ['int', 'float']
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 2 on line 15 should be in ['int', 'float']
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 16 should be in ['int', 'float']
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 3 on line 17 should be in ['int', 'float']
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 18 should be in ['int', 'float']
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: 5 on line 19 should be in ['int', 'float']
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 0.0
+2019-11-22 14:26:27,326 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PORTE - False - 0
+2019-11-22 14:26:27,327 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,327 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-11-22 14:26:27,327 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,327 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-11-22 14:26:27,327 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-11-22 14:26:27,327 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - False - 0
+2019-11-22 14:26:27,327 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,327 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-11-22 14:26:27,327 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 98.94
+2019-11-22 14:26:27,327 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-11-22 14:26:27,327 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,327 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-11-22 14:26:27,327 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,327 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-11-22 14:26:27,327 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-11-22 14:26:27,327 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,327 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - True - 1
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - VN_IND - True - 1
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 188905
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 3876
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 165
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 1150
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 23
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 13
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 8.78
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.229 on line 1 should be in ['int']
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 5.700 on line 2 should be in ['int']
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 5.700 on line 3 should be in ['int']
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 5.666 on line 4 should be in ['int']
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.242 on line 5 should be in ['int']
+2019-11-22 14:26:27,328 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 5.663 on line 6 should be in ['int']
+2019-11-22 14:26:27,329 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.229 on line 7 should be in ['int']
+2019-11-22 14:26:27,329 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.399 on line 8 should be in ['int']
+2019-11-22 14:26:27,329 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.390 on line 9 should be in ['int']
+2019-11-22 14:26:27,329 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.242 on line 10 should be in ['int']
+2019-11-22 14:26:27,329 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.742 on line 11 should be in ['int']
+2019-11-22 14:26:27,329 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.997 on line 16 should be in ['int']
+2019-11-22 14:26:27,329 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.461 on line 17 should be in ['int']
+2019-11-22 14:26:27,329 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.231 on line 18 should be in ['int']
+2019-11-22 14:26:27,329 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.997 on line 19 should be in ['int']
+2019-11-22 14:26:27,329 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.796 on line 20 should be in ['int']
+2019-11-22 14:26:27,329 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.108 on line 21 should be in ['int']
+2019-11-22 14:26:27,329 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.995 on line 22 should be in ['int']
+2019-11-22 14:26:27,329 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.248 on line 23 should be in ['int']
+2019-11-22 14:26:27,329 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.870 on line 24 should be in ['int']
+2019-11-22 14:26:27,329 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-11-22 14:26:27,329 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - CYLINDRE - False - 0
+2019-11-22 14:26:27,329 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-11-22 14:26:27,330 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 1649
+2019-11-22 14:26:27,330 - VO - NL - AUTOTRACK - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0

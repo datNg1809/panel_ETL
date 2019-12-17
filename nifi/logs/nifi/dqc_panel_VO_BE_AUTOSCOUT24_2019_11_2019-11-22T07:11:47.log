@@ -1,0 +1,186 @@
+2019-11-22 07:57:34,767 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-11-22 07:57:34,767 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 62.32
+2019-11-22 07:57:34,767 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-11-22 07:57:34,767 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,767 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-11-22 07:57:34,767 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 92.19
+2019-11-22 07:57:34,767 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 9312
+2019-11-22 07:57:34,767 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - True - 1
+2019-11-22 07:57:34,767 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,767 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-11-22 07:57:34,767 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 10, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,767 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 37, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 38, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 39, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 40, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 47, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 50, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 53, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 56, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 67, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 76, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 79, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 89, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 109, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 181, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 184, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 188, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 326, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 330, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 456, value should match regexp ^[0-9]{4}$
+2019-11-22 07:57:34,768 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 93.86
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - True - 1
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - True - 1
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-11-22 07:57:34,769 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 119192
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - True - 1
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - True - 1
+2019-11-22 07:57:34,770 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 37, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 38, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 39, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 40, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 47, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 50, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 53, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 56, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 67, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 76, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 79, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 89, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 109, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 181, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 184, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 188, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 326, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 330, value should be between 1 and 12
+2019-11-22 07:57:34,771 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 456, value should be between 1 and 12
+2019-11-22 07:57:34,772 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 93.82
+2019-11-22 07:57:34,772 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - unexpected count - 7372
+2019-11-22 07:57:34,772 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MOIS - False - 0
+2019-11-22 07:57:34,772 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,772 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - MOIS - True - 1
+2019-11-22 07:57:34,772 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,772 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-11-22 07:57:34,772 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [fourgon...] on line  16, value length should be between 10 and 255
+2019-11-22 07:57:34,772 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [0...] on line  17, value length should be between 10 and 255
+2019-11-22 07:57:34,772 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2.5D...] on line  23, value length should be between 10 and 255
+2019-11-22 07:57:34,772 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [1.7 S...] on line  24, value length should be between 10 and 255
+2019-11-22 07:57:34,772 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [SL 500...] on line  25, value length should be between 10 and 255
+2019-11-22 07:57:34,772 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [525 d...] on line  41, value length should be between 10 and 255
+2019-11-22 07:57:34,772 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [0...] on line  43, value length should be between 10 and 255
+2019-11-22 07:57:34,772 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [3.9 HD...] on line  75, value length should be between 10 and 255
+2019-11-22 07:57:34,772 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [0...] on line  76, value length should be between 10 and 255
+2019-11-22 07:57:34,772 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [1.3 S...] on line  85, value length should be between 10 and 255
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [1.6 sti...] on line  87, value length should be between 10 and 255
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Touring...] on line  94, value length should be between 10 and 255
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [0...] on line  95, value length should be between 10 and 255
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [d...] on line  96, value length should be between 10 and 255
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [0...] on line  97, value length should be between 10 and 255
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [1.6i GTi...] on line  99, value length should be between 10 and 255
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [i...] on line  115, value length should be between 10 and 255
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [0...] on line  137, value length should be between 10 and 255
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [92000 km...] on line  152, value length should be between 10 and 255
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [0...] on line  156, value length should be between 10 and 255
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 83.81
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - True - 1
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - OPTIONS - True - 1
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-11-22 07:57:34,773 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - True - 1
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PORTE - True - 1
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - False - 0
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 93.27
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-11-22 07:57:34,774 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.9
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 6.62
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - False - 0
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - VN_IND - True - 1
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 124
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 1300
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 1
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 8
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 93.69
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - True - 1
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1870.0 on line 0 should be in ['int']
+2019-11-22 07:57:34,775 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2200.0 on line 1 should be in ['int']
+2019-11-22 07:57:34,776 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2295.0 on line 2 should be in ['int']
+2019-11-22 07:57:34,776 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1998.0 on line 4 should be in ['int']
+2019-11-22 07:57:34,776 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4600.0 on line 5 should be in ['int']
+2019-11-22 07:57:34,776 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4966.0 on line 7 should be in ['int']
+2019-11-22 07:57:34,776 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1899.0 on line 8 should be in ['int']
+2019-11-22 07:57:34,776 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2188.0 on line 9 should be in ['int']
+2019-11-22 07:57:34,776 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4164.0 on line 10 should be in ['int']
+2019-11-22 07:57:34,776 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2993.0 on line 11 should be in ['int']
+2019-11-22 07:57:34,776 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3724.0 on line 12 should be in ['int']
+2019-11-22 07:57:34,776 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1780.0 on line 13 should be in ['int']
+2019-11-22 07:57:34,776 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1870.0 on line 14 should be in ['int']
+2019-11-22 07:57:34,776 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1995.0 on line 15 should be in ['int']
+2019-11-22 07:57:34,776 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2500.0 on line 16 should be in ['int']
+2019-11-22 07:57:34,776 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1870.0 on line 18 should be in ['int']
+2019-11-22 07:57:34,776 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1900.0 on line 19 should be in ['int']
+2019-11-22 07:57:34,776 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1500.0 on line 20 should be in ['int']
+2019-11-22 07:57:34,776 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1896.0 on line 21 should be in ['int']
+2019-11-22 07:57:34,777 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1461.0 on line 22 should be in ['int']
+2019-11-22 07:57:34,777 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-11-22 07:57:34,777 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - CYLINDRE - False - 0
+2019-11-22 07:57:34,777 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-11-22 07:57:34,777 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 5928
+2019-11-22 07:57:34,777 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-11-22 07:57:34,777 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 0
+2019-11-22 07:57:34,777 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-11-22 07:57:34,777 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_NEWCARS - total number of row with conditions - 0
+2019-11-22 07:57:34,777 - VO - BE - AUTOSCOUT24 - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - GARAGE_ID - total number of unique rows - 39685

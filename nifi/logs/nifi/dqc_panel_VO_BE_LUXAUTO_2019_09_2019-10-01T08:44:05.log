@@ -1,0 +1,139 @@
+2019-10-01 08:44:27,625 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 84.02
+2019-10-01 08:44:27,625 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,626 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 97.13
+2019-10-01 08:44:27,626 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,626 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 44, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,626 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 71, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,626 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 80, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,626 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 83, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,626 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 160, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,626 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 162, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,626 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 202, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,626 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 427, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,626 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 539, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,626 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 768, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,626 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 769, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,626 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 780, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,626 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 784, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,626 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 814, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,626 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 815, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,627 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 816, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,627 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 817, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,627 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 976, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,627 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1001, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,627 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1019, value should match regexp ^[0-9]{4}$
+2019-10-01 08:44:27,627 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 98.9
+2019-10-01 08:44:27,627 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,627 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-01 08:44:27,627 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,627 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-10-01 08:44:27,627 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 86.59
+2019-10-01 08:44:27,627 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,627 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 82.13
+2019-10-01 08:44:27,627 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,627 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-01 08:44:27,627 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 11512
+2019-10-01 08:44:27,627 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,628 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,628 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,628 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,628 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,628 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 0.0
+2019-10-01 08:44:27,628 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 0.0
+2019-10-01 08:44:27,628 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,628 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 36, value should be between 1 and 12
+2019-10-01 08:44:27,628 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 44, value should be between 1 and 12
+2019-10-01 08:44:27,628 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 71, value should be between 1 and 12
+2019-10-01 08:44:27,628 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 80, value should be between 1 and 12
+2019-10-01 08:44:27,628 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 83, value should be between 1 and 12
+2019-10-01 08:44:27,628 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 91, value should be between 1 and 12
+2019-10-01 08:44:27,628 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 93, value should be between 1 and 12
+2019-10-01 08:44:27,628 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 94, value should be between 1 and 12
+2019-10-01 08:44:27,628 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 95, value should be between 1 and 12
+2019-10-01 08:44:27,628 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 97, value should be between 1 and 12
+2019-10-01 08:44:27,629 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 159, value should be between 1 and 12
+2019-10-01 08:44:27,629 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 160, value should be between 1 and 12
+2019-10-01 08:44:27,629 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 162, value should be between 1 and 12
+2019-10-01 08:44:27,629 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 202, value should be between 1 and 12
+2019-10-01 08:44:27,629 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 252, value should be between 1 and 12
+2019-10-01 08:44:27,629 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 287, value should be between 1 and 12
+2019-10-01 08:44:27,629 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 407, value should be between 1 and 12
+2019-10-01 08:44:27,629 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 427, value should be between 1 and 12
+2019-10-01 08:44:27,629 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 512, value should be between 1 and 12
+2019-10-01 08:44:27,629 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 539, value should be between 1 and 12
+2019-10-01 08:44:27,629 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 96.92
+2019-10-01 08:44:27,629 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,629 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,629 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW i3...] on line  2581, value length should be between 10 and 255
+2019-10-01 08:44:27,629 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [BMW i3...] on line  8986, value length should be between 10 and 255
+2019-10-01 08:44:27,629 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.98
+2019-10-01 08:44:27,629 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-10-01 08:44:27,630 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,630 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,630 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 0 should be in ['int']
+2019-10-01 08:44:27,630 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 1 should be in ['int']
+2019-10-01 08:44:27,630 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 2 should be in ['int']
+2019-10-01 08:44:27,630 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 3 should be in ['int']
+2019-10-01 08:44:27,630 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 4 should be in ['int']
+2019-10-01 08:44:27,630 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 5 should be in ['int']
+2019-10-01 08:44:27,630 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 6 should be in ['int']
+2019-10-01 08:44:27,630 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 7 should be in ['int']
+2019-10-01 08:44:27,630 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 8 should be in ['int']
+2019-10-01 08:44:27,630 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7.0 on line 9 should be in ['int']
+2019-10-01 08:44:27,630 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 10 should be in ['int']
+2019-10-01 08:44:27,630 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7.0 on line 12 should be in ['int']
+2019-10-01 08:44:27,630 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 13 should be in ['int']
+2019-10-01 08:44:27,630 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 14 should be in ['int']
+2019-10-01 08:44:27,630 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 15 should be in ['int']
+2019-10-01 08:44:27,631 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 16 should be in ['int']
+2019-10-01 08:44:27,631 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 17 should be in ['int']
+2019-10-01 08:44:27,631 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 5.0 on line 18 should be in ['int']
+2019-10-01 08:44:27,631 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 19 should be in ['int']
+2019-10-01 08:44:27,631 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 4.0 on line 20 should be in ['int']
+2019-10-01 08:44:27,631 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-10-01 08:44:27,631 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 97.29
+2019-10-01 08:44:27,631 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,631 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,631 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,631 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,631 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-10-01 08:44:27,631 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,631 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,631 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.98
+2019-10-01 08:44:27,631 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,631 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-10-01 08:44:27,632 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-10-01 08:44:27,632 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-10-01 08:44:27,632 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 87
+2019-10-01 08:44:27,632 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 652
+2019-10-01 08:44:27,632 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-10-01 08:44:27,632 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 6
+2019-10-01 08:44:27,632 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 99.48
+2019-10-01 08:44:27,632 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 5204.0 on line 0 should be in ['int']
+2019-10-01 08:44:27,632 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1984.0 on line 1 should be in ['int']
+2019-10-01 08:44:27,632 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3800.0 on line 2 should be in ['int']
+2019-10-01 08:44:27,632 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3982.0 on line 3 should be in ['int']
+2019-10-01 08:44:27,632 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 5204.0 on line 4 should be in ['int']
+2019-10-01 08:44:27,632 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 5 should be in ['int']
+2019-10-01 08:44:27,632 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1995.0 on line 6 should be in ['int']
+2019-10-01 08:44:27,632 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1498.0 on line 7 should be in ['int']
+2019-10-01 08:44:27,632 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 8 should be in ['int']
+2019-10-01 08:44:27,633 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2995.0 on line 9 should be in ['int']
+2019-10-01 08:44:27,633 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4735.0 on line 10 should be in ['int']
+2019-10-01 08:44:27,633 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2998.0 on line 11 should be in ['int']
+2019-10-01 08:44:27,633 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1968.0 on line 12 should be in ['int']
+2019-10-01 08:44:27,633 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1997.0 on line 13 should be in ['int']
+2019-10-01 08:44:27,633 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1995.0 on line 14 should be in ['int']
+2019-10-01 08:44:27,633 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3436.0 on line 15 should be in ['int']
+2019-10-01 08:44:27,633 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1582.0 on line 16 should be in ['int']
+2019-10-01 08:44:27,633 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2999.0 on line 17 should be in ['int']
+2019-10-01 08:44:27,633 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2979.0 on line 18 should be in ['int']
+2019-10-01 08:44:27,633 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 5204.0 on line 19 should be in ['int']
+2019-10-01 08:44:27,633 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-10-01 08:44:27,633 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-10-01 08:44:27,633 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 572
+2019-10-01 08:44:27,633 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-10-01 08:44:27,634 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 0
+2019-10-01 08:44:27,634 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-10-01 08:44:27,634 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_NEWCARS - total number of row with conditions - 0
+2019-10-01 08:44:27,634 - VO - BE - LUXAUTO - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - GARAGE_ID - total number of unique rows - 390

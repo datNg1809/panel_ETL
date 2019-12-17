@@ -1,0 +1,208 @@
+2019-11-22 09:04:08,320 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-11-22 09:04:08,320 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-11-22 09:04:08,320 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-11-22 09:04:08,320 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,320 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-11-22 09:04:08,320 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 0, value should be between 1980 and 2019
+2019-11-22 09:04:08,320 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 3, value should be between 1980 and 2019
+2019-11-22 09:04:08,320 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 7, value should be between 1980 and 2019
+2019-11-22 09:04:08,321 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 8, value should be between 1980 and 2019
+2019-11-22 09:04:08,321 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 9, value should be between 1980 and 2019
+2019-11-22 09:04:08,321 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 10, value should be between 1980 and 2019
+2019-11-22 09:04:08,321 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 11, value should be between 1980 and 2019
+2019-11-22 09:04:08,321 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 12, value should be between 1980 and 2019
+2019-11-22 09:04:08,321 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 13, value should be between 1980 and 2019
+2019-11-22 09:04:08,321 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 14, value should be between 1980 and 2019
+2019-11-22 09:04:08,321 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 15, value should be between 1980 and 2019
+2019-11-22 09:04:08,321 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 17, value should be between 1980 and 2019
+2019-11-22 09:04:08,321 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 26, value should be between 1980 and 2019
+2019-11-22 09:04:08,321 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 27, value should be between 1980 and 2019
+2019-11-22 09:04:08,321 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 28, value should be between 1980 and 2019
+2019-11-22 09:04:08,321 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 29, value should be between 1980 and 2019
+2019-11-22 09:04:08,321 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 30, value should be between 1980 and 2019
+2019-11-22 09:04:08,321 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 2020 on line 33, value should be between 1980 and 2019
+2019-11-22 09:04:08,321 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 35, value should be between 1980 and 2019
+2019-11-22 09:04:08,321 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 36, value should be between 1980 and 2019
+2019-11-22 09:04:08,322 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 81.62
+2019-11-22 09:04:08,322 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 7614
+2019-11-22 09:04:08,322 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - False - 0
+2019-11-22 09:04:08,322 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,322 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-11-22 09:04:08,322 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,322 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,322 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 8, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,322 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,322 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 10, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,322 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 11, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,322 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 12, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,322 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 13, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,322 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 14, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,322 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 15, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,322 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 17, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,323 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 26, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,323 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 27, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,323 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 28, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,323 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 29, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,323 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 30, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,323 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 35, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,323 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 36, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,323 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 37, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,323 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 47, value should match regexp ^[0-9]{4}$
+2019-11-22 09:04:08,323 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 94.79
+2019-11-22 09:04:08,323 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-11-22 09:04:08,323 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,323 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-11-22 09:04:08,323 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-11-22 09:04:08,323 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-11-22 09:04:08,323 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 0.02
+2019-11-22 09:04:08,324 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - False - 0
+2019-11-22 09:04:08,324 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-11-22 09:04:08,324 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - False - 0
+2019-11-22 09:04:08,324 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-11-22 09:04:08,324 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - False - 0
+2019-11-22 09:04:08,324 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 99.32
+2019-11-22 09:04:08,324 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-11-22 09:04:08,324 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,324 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-11-22 09:04:08,324 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-11-22 09:04:08,324 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-11-22 09:04:08,324 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 41421
+2019-11-22 09:04:08,324 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,324 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-11-22 09:04:08,324 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,324 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-11-22 09:04:08,325 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,325 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-11-22 09:04:08,325 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,325 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-11-22 09:04:08,325 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,325 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-11-22 09:04:08,325 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 82.02
+2019-11-22 09:04:08,325 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - False - 0
+2019-11-22 09:04:08,325 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 43.24
+2019-11-22 09:04:08,325 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - False - 0
+2019-11-22 09:04:08,325 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,325 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - True - 1
+2019-11-22 09:04:08,325 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-11-22 09:04:08,325 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-11-22 09:04:08,325 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-11-22 09:04:08,325 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-11-22 09:04:08,325 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-11-22 09:04:08,326 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-11-22 09:04:08,326 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-11-22 09:04:08,326 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-11-22 09:04:08,326 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-11-22 09:04:08,326 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-11-22 09:04:08,326 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-11-22 09:04:08,326 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-11-22 09:04:08,326 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-11-22 09:04:08,326 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-11-22 09:04:08,326 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-11-22 09:04:08,326 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-11-22 09:04:08,326 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-11-22 09:04:08,326 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-11-22 09:04:08,326 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-11-22 09:04:08,326 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-11-22 09:04:08,326 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-11-22 09:04:08,326 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - unexpected count - 41421
+2019-11-22 09:04:08,327 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MOIS - False - 0
+2019-11-22 09:04:08,327 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,327 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - MOIS - True - 1
+2019-11-22 09:04:08,327 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,327 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-11-22 09:04:08,327 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [AMPHIBIE...] on line  950, value length should be between 10 and 255
+2019-11-22 09:04:08,327 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ponton...] on line  1732, value length should be between 10 and 255
+2019-11-22 09:04:08,327 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [epandeur...] on line  4148, value length should be between 10 and 255
+2019-11-22 09:04:08,327 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Lift...] on line  5698, value length should be between 10 and 255
+2019-11-22 09:04:08,327 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Motoneige...] on line  7553, value length should be between 10 and 255
+2019-11-22 09:04:08,327 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Motorise...] on line  7662, value length should be between 10 and 255
+2019-11-22 09:04:08,327 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Mach Z...] on line  7818, value length should be between 10 and 255
+2019-11-22 09:04:08,327 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Motorise...] on line  8087, value length should be between 10 and 255
+2019-11-22 09:04:08,327 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ponton...] on line  8968, value length should be between 10 and 255
+2019-11-22 09:04:08,327 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [GNRATRICE...] on line  9250, value length should be between 10 and 255
+2019-11-22 09:04:08,327 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Motorise...] on line  9678, value length should be between 10 and 255
+2019-11-22 09:04:08,327 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Yamaha R6...] on line  9749, value length should be between 10 and 255
+2019-11-22 09:04:08,328 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Mud flap...] on line  10402, value length should be between 10 and 255
+2019-11-22 09:04:08,328 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [roullotte...] on line  10453, value length should be between 10 and 255
+2019-11-22 09:04:08,328 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [cobalt...] on line  10692, value length should be between 10 and 255
+2019-11-22 09:04:08,328 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Roulottes...] on line  10694, value length should be between 10 and 255
+2019-11-22 09:04:08,328 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [tracteur...] on line  10976, value length should be between 10 and 255
+2019-11-22 09:04:08,328 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [charrue...] on line  11016, value length should be between 10 and 255
+2019-11-22 09:04:08,328 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ktm rc8...] on line  11311, value length should be between 10 and 255
+2019-11-22 09:04:08,328 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Gsxr 1000...] on line  11434, value length should be between 10 and 255
+2019-11-22 09:04:08,328 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.08
+2019-11-22 09:04:08,328 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-11-22 09:04:08,328 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 8.54
+2019-11-22 09:04:08,328 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-11-22 09:04:08,328 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Convertisseur de cou...] on line  16, value length should be between 0 and 255
+2019-11-22 09:04:08,328 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Climatiseur  conduit...] on line  38, value length should be between 0 and 255
+2019-11-22 09:04:08,328 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Pilote automatique, ...] on line  42, value length should be between 0 and 255
+2019-11-22 09:04:08,329 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Convertisseur de cou...] on line  55, value length should be between 0 and 255
+2019-11-22 09:04:08,329 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Climatiseur  conduit...] on line  56, value length should be between 0 and 255
+2019-11-22 09:04:08,329 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Reservoir de propane...] on line  156, value length should be between 0 and 255
+2019-11-22 09:04:08,329 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Jantes aluminium, Re...] on line  202, value length should be between 0 and 255
+2019-11-22 09:04:08,329 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Jantes aluminium, Re...] on line  205, value length should be between 0 and 255
+2019-11-22 09:04:08,329 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Reservoir de propane...] on line  206, value length should be between 0 and 255
+2019-11-22 09:04:08,329 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Pilote automatique, ...] on line  209, value length should be between 0 and 255
+2019-11-22 09:04:08,329 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Jantes aluminium, Re...] on line  233, value length should be between 0 and 255
+2019-11-22 09:04:08,329 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Jantes aluminium, Co...] on line  284, value length should be between 0 and 255
+2019-11-22 09:04:08,329 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Jantes aluminium, Co...] on line  286, value length should be between 0 and 255
+2019-11-22 09:04:08,329 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Jantes aluminium, Co...] on line  287, value length should be between 0 and 255
+2019-11-22 09:04:08,329 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Reservoir de propane...] on line  289, value length should be between 0 and 255
+2019-11-22 09:04:08,329 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Reservoir de propane...] on line  296, value length should be between 0 and 255
+2019-11-22 09:04:08,329 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Reservoir de propane...] on line  298, value length should be between 0 and 255
+2019-11-22 09:04:08,329 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Jantes aluminium, Re...] on line  299, value length should be between 0 and 255
+2019-11-22 09:04:08,329 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Reservoir de propane...] on line  310, value length should be between 0 and 255
+2019-11-22 09:04:08,329 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Climatiseur  conduit...] on line  333, value length should be between 0 and 255
+2019-11-22 09:04:08,330 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 71.95
+2019-11-22 09:04:08,330 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - OPTIONS - False - 0
+2019-11-22 09:04:08,330 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,330 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-11-22 09:04:08,330 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,330 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-11-22 09:04:08,330 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,330 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PLACE - True - 1
+2019-11-22 09:04:08,330 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,330 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - True - 1
+2019-11-22 09:04:08,330 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-11-22 09:04:08,330 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-11-22 09:04:08,330 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,330 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-11-22 09:04:08,330 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,330 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-11-22 09:04:08,331 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,331 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - True - 1
+2019-11-22 09:04:08,331 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,331 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-11-22 09:04:08,331 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 96.31
+2019-11-22 09:04:08,331 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-11-22 09:04:08,331 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.26
+2019-11-22 09:04:08,331 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-11-22 09:04:08,331 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,331 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-11-22 09:04:08,331 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-11-22 09:04:08,331 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,331 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-11-22 09:04:08,331 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,331 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - True - 1
+2019-11-22 09:04:08,331 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-11-22 09:04:08,331 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - VN_IND - True - 1
+2019-11-22 09:04:08,332 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 211
+2019-11-22 09:04:08,332 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 5491
+2019-11-22 09:04:08,332 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-11-22 09:04:08,332 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 3
+2019-11-22 09:04:08,332 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-11-22 09:04:08,332 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-11-22 09:04:08,332 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 1
+2019-11-22 09:04:08,332 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 923
+2019-11-22 09:04:08,332 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-11-22 09:04:08,332 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 33571
+2019-11-22 09:04:08,332 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 7850
+2019-11-22 09:04:08,332 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - SOUS_CATEGORIE_CORRECTED - Travel_trailers_campers - 5753
+2019-11-22 09:04:08,332 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - SOUS_CATEGORIE_CORRECTED - Farm_equipment - 1114
+2019-11-22 09:04:08,332 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - SOUS_CATEGORIE_CORRECTED - Boats - 5286
+2019-11-22 09:04:08,332 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - SOUS_CATEGORIE_CORRECTED - snowmobiles - 7229
+2019-11-22 09:04:08,333 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - SOUS_CATEGORIE_CORRECTED - Other - 5198
+2019-11-22 09:04:08,333 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - SOUS_CATEGORIE_CORRECTED - motorcycles - 13805
+2019-11-22 09:04:08,333 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - SOUS_CATEGORIE_CORRECTED - Heavy_Equipment - 928
+2019-11-22 09:04:08,333 - NPV - CA - LESPACS - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - SOUS_CATEGORIE_CORRECTED - RVs_motorhome - 1660

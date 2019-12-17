@@ -1,0 +1,255 @@
+2019-06-11 20:39:24,644 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 95.87
+2019-06-11 20:39:24,644 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-06-11 20:39:24,644 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.09
+2019-06-11 20:39:24,644 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 99.98
+2019-06-11 20:39:24,644 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2013.0 on line 0, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,644 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 1, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,644 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2007.0 on line 2, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,644 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2016.0 on line 3, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,644 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 4, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,645 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 5, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,645 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 6, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,645 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2019.0 on line 7, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,645 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2016.0 on line 8, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,645 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2015.0 on line 9, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,645 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 10, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,645 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 11, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,645 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2016.0 on line 12, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,645 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2010.0 on line 13, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,645 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2019.0 on line 14, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,645 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2012.0 on line 15, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,645 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2019.0 on line 16, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,645 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 17, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,645 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2019.0 on line 18, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,645 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2016.0 on line 19, value should match regexp ^[0-9]{4}$
+2019-06-11 20:39:24,645 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 0.0
+2019-06-11 20:39:24,645 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 99.93
+2019-06-11 20:39:24,646 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-06-11 20:39:24,646 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 98.98
+2019-06-11 20:39:24,646 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-06-11 20:39:24,646 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.02
+2019-06-11 20:39:24,646 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 5618, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,646 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 19664, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,646 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 19667, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,646 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 33747, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,646 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 33750, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,646 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 33753, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,646 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 33756, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,646 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 46260, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,646 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 114871, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,646 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 114877, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,646 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 114891, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,646 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 114917, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,646 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 114922, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 114928, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 114945, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 114955, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 115050, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 115103, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 115193, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: particuliers on line 115364, value should match regexp [0-9]{5}-[0-9]{3}
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 0.0
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 99.2
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 5618, value should be unique
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 5619, value should be unique
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 19664, value should be unique
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 19665, value should be unique
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 19667, value should be unique
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 19668, value should be unique
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 33747, value should be unique
+2019-06-11 20:39:24,647 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 33748, value should be unique
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 33750, value should be unique
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 33751, value should be unique
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 33753, value should be unique
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 33754, value should be unique
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 33756, value should be unique
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 33757, value should be unique
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 46260, value should be unique
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 46261, value should be unique
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 114871, value should be unique
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 114872, value should be unique
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 114877, value should be unique
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ID_CLIENT - Unexpected value: 0 on line 114878, value should be unique
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 99.95
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 198298
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 99.93
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 50.0 on line 0 should be in ['int']
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 98500.0 on line 2 should be in ['int']
+2019-06-11 20:39:24,648 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 56000.0 on line 3 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 52000.0 on line 4 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 89000.0 on line 5 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 52000.0 on line 6 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 29000.0 on line 8 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 33000.0 on line 9 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 86365.0 on line 10 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 6000.0 on line 11 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 68600.0 on line 12 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 76000.0 on line 13 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 78000.0 on line 15 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 18000.0 on line 17 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 69500.0 on line 19 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 127000.0 on line 20 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 65000.0 on line 23 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 80000.0 on line 36 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 47000.0 on line 37 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 130000.0 on line 38 should be in ['int']
+2019-06-11 20:39:24,649 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 0.0
+2019-06-11 20:39:24,650 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 83.92
+2019-06-11 20:39:24,650 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-06-11 20:39:24,650 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 99.93
+2019-06-11 20:39:24,650 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 99.98
+2019-06-11 20:39:24,650 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 0.02
+2019-06-11 20:39:24,650 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 99.93
+2019-06-11 20:39:24,650 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 0, value should be between 1 and 12
+2019-06-11 20:39:24,650 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 1, value should be between 1 and 12
+2019-06-11 20:39:24,650 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 2, value should be between 1 and 12
+2019-06-11 20:39:24,650 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 3, value should be between 1 and 12
+2019-06-11 20:39:24,650 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 4, value should be between 1 and 12
+2019-06-11 20:39:24,650 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 5, value should be between 1 and 12
+2019-06-11 20:39:24,650 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 6, value should be between 1 and 12
+2019-06-11 20:39:24,650 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 7, value should be between 1 and 12
+2019-06-11 20:39:24,650 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 8, value should be between 1 and 12
+2019-06-11 20:39:24,650 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 9, value should be between 1 and 12
+2019-06-11 20:39:24,651 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 10, value should be between 1 and 12
+2019-06-11 20:39:24,651 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 11, value should be between 1 and 12
+2019-06-11 20:39:24,651 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 12, value should be between 1 and 12
+2019-06-11 20:39:24,651 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 13, value should be between 1 and 12
+2019-06-11 20:39:24,651 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 14, value should be between 1 and 12
+2019-06-11 20:39:24,651 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 15, value should be between 1 and 12
+2019-06-11 20:39:24,651 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 16, value should be between 1 and 12
+2019-06-11 20:39:24,651 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 17, value should be between 1 and 12
+2019-06-11 20:39:24,651 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 18, value should be between 1 and 12
+2019-06-11 20:39:24,651 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0.0 on line 19, value should be between 1 and 12
+2019-06-11 20:39:24,651 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-06-11 20:39:24,651 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 0, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,651 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 1, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,651 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 2, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,651 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 3, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,651 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 4, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,651 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 5, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,652 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 6, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,652 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 7, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,652 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 8, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,652 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 9, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,652 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 10, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,652 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 11, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,652 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 12, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,652 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 13, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,652 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 14, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,652 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 15, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,652 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 16, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,652 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 17, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,652 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 18, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,652 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - MOIS - Unexpected value: 0.0 on line 19, value should match regexp ^[0-9]{1,2}$
+2019-06-11 20:39:24,652 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 0.0
+2019-06-11 20:39:24,652 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 99.2
+2019-06-11 20:39:24,652 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [9...] on line  5619, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2...] on line  19665, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [6...] on line  19668, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [19...] on line  33748, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [25...] on line  33751, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [34...] on line  33754, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [36...] on line  33757, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [9...] on line  46261, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [2...] on line  114872, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [9...] on line  114878, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [8...] on line  114892, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [5...] on line  114918, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [8...] on line  114923, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [9...] on line  114929, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [5...] on line  114946, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [9...] on line  114956, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [8...] on line  115051, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [5...] on line  115104, value length should be between 10 and 255
+2019-06-11 20:39:24,653 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [9...] on line  115194, value length should be between 10 and 255
+2019-06-11 20:39:24,654 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [8...] on line  115365, value length should be between 10 and 255
+2019-06-11 20:39:24,654 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.98
+2019-06-11 20:39:24,654 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.02
+2019-06-11 20:39:24,654 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 100.0
+2019-06-11 20:39:24,654 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 0 should be in ['int']
+2019-06-11 20:39:24,654 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 7.0 on line 1 should be in ['int']
+2019-06-11 20:39:24,654 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 6.0 on line 2 should be in ['int']
+2019-06-11 20:39:24,654 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 3 should be in ['int']
+2019-06-11 20:39:24,654 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 4 should be in ['int']
+2019-06-11 20:39:24,654 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 4.0 on line 5 should be in ['int']
+2019-06-11 20:39:24,654 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 4.0 on line 6 should be in ['int']
+2019-06-11 20:39:24,654 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 7 should be in ['int']
+2019-06-11 20:39:24,654 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 8 should be in ['int']
+2019-06-11 20:39:24,654 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 9 should be in ['int']
+2019-06-11 20:39:24,654 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 7.0 on line 10 should be in ['int']
+2019-06-11 20:39:24,654 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 8.0 on line 11 should be in ['int']
+2019-06-11 20:39:24,654 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 12 should be in ['int']
+2019-06-11 20:39:24,655 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 8.0 on line 13 should be in ['int']
+2019-06-11 20:39:24,655 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 14 should be in ['int']
+2019-06-11 20:39:24,655 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 15 should be in ['int']
+2019-06-11 20:39:24,655 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 16 should be in ['int']
+2019-06-11 20:39:24,655 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 17 should be in ['int']
+2019-06-11 20:39:24,655 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 18 should be in ['int']
+2019-06-11 20:39:24,655 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 9.0 on line 19 should be in ['int']
+2019-06-11 20:39:24,655 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 0.0
+2019-06-11 20:39:24,655 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 99.93
+2019-06-11 20:39:24,655 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 0 should be in ['int']
+2019-06-11 20:39:24,655 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 1 should be in ['int']
+2019-06-11 20:39:24,655 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 2 should be in ['int']
+2019-06-11 20:39:24,655 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 3 should be in ['int']
+2019-06-11 20:39:24,655 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 4 should be in ['int']
+2019-06-11 20:39:24,655 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 5 should be in ['int']
+2019-06-11 20:39:24,655 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 6 should be in ['int']
+2019-06-11 20:39:24,655 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 7 should be in ['int']
+2019-06-11 20:39:24,656 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 8 should be in ['int']
+2019-06-11 20:39:24,656 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 9 should be in ['int']
+2019-06-11 20:39:24,656 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 10 should be in ['int']
+2019-06-11 20:39:24,656 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 11 should be in ['int']
+2019-06-11 20:39:24,656 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 12 should be in ['int']
+2019-06-11 20:39:24,656 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 13 should be in ['int']
+2019-06-11 20:39:24,656 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 14 should be in ['int']
+2019-06-11 20:39:24,656 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 15 should be in ['int']
+2019-06-11 20:39:24,656 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 16 should be in ['int']
+2019-06-11 20:39:24,656 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 17 should be in ['int']
+2019-06-11 20:39:24,656 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 18 should be in ['int']
+2019-06-11 20:39:24,656 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 0.0 on line 19 should be in ['int']
+2019-06-11 20:39:24,656 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-06-11 20:39:24,656 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 99.93
+2019-06-11 20:39:24,656 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 92.85
+2019-06-11 20:39:24,656 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-06-11 20:39:24,656 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 32990 on line 0 should be in ['int']
+2019-06-11 20:39:24,657 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 115990 on line 1 should be in ['int']
+2019-06-11 20:39:24,657 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 26500 on line 2 should be in ['int']
+2019-06-11 20:39:24,657 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 69800 on line 3 should be in ['int']
+2019-06-11 20:39:24,657 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 35900 on line 4 should be in ['int']
+2019-06-11 20:39:24,657 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 43000 on line 5 should be in ['int']
+2019-06-11 20:39:24,657 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 29900 on line 6 should be in ['int']
+2019-06-11 20:39:24,657 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 56990 on line 7 should be in ['int']
+2019-06-11 20:39:24,657 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 82000 on line 8 should be in ['int']
+2019-06-11 20:39:24,657 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 85000 on line 9 should be in ['int']
+2019-06-11 20:39:24,657 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 58790 on line 10 should be in ['int']
+2019-06-11 20:39:24,657 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 145000 on line 11 should be in ['int']
+2019-06-11 20:39:24,657 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 130000 on line 12 should be in ['int']
+2019-06-11 20:39:24,657 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 31900 on line 13 should be in ['int']
+2019-06-11 20:39:24,657 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 55990 on line 14 should be in ['int']
+2019-06-11 20:39:24,657 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 27900 on line 15 should be in ['int']
+2019-06-11 20:39:24,657 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 55990 on line 16 should be in ['int']
+2019-06-11 20:39:24,657 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 62900 on line 17 should be in ['int']
+2019-06-11 20:39:24,658 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 49990 on line 18 should be in ['int']
+2019-06-11 20:39:24,658 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 79900 on line 19 should be in ['int']
+2019-06-11 20:39:24,658 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 61.98
+2019-06-11 20:39:24,658 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 99.98
+2019-06-11 20:39:24,658 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 99.93
+2019-06-11 20:39:24,658 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 99.95
+2019-06-11 20:39:24,658 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 98.87
+2019-06-11 20:39:24,658 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 95.17
+2019-06-11 20:39:24,658 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 99.98
+2019-06-11 20:39:24,658 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-06-11 20:39:24,658 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.95
+2019-06-11 20:39:24,658 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-06-11 20:39:24,658 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 191881
+2019-06-11 20:39:24,658 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 6282
+2019-06-11 20:39:24,658 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 63
+2019-06-11 20:39:24,658 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 458
+2019-06-11 20:39:24,658 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-06-11 20:39:24,659 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 5
+2019-06-11 20:39:24,659 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-06-11 20:39:24,659 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 27
+2019-06-11 20:39:24,659 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 853
+2019-06-11 20:39:24,659 - VO - BR - ICARROS - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 7

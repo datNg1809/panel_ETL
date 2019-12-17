@@ -1,0 +1,131 @@
+2019-08-30 13:30:33,638 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 99.46
+2019-08-30 13:30:33,639 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,639 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.73
+2019-08-30 13:30:33,639 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,639 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,639 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,639 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-08-30 13:30:33,639 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 55.88
+2019-08-30 13:30:33,639 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,639 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,639 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,639 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 98.71
+2019-08-30 13:30:33,639 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,639 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-08-30 13:30:33,639 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 1861
+2019-08-30 13:30:33,639 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,639 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,640 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,640 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,640 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,640 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,640 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 0.0
+2019-08-30 13:30:33,640 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,640 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [P230...] on line  1, value length should be between 10 and 255
+2019-08-30 13:30:33,640 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [37 M3...] on line  3, value length should be between 10 and 255
+2019-08-30 13:30:33,640 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [R480...] on line  11, value length should be between 10 and 255
+2019-08-30 13:30:33,640 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FH500 6x4...] on line  12, value length should be between 10 and 255
+2019-08-30 13:30:33,640 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [C351F...] on line  13, value length should be between 10 and 255
+2019-08-30 13:30:33,640 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Kole...] on line  17, value length should be between 10 and 255
+2019-08-30 13:30:33,640 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [34 pl....] on line  18, value length should be between 10 and 255
+2019-08-30 13:30:33,640 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Kuhl...] on line  24, value length should be between 10 and 255
+2019-08-30 13:30:33,640 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FH420 6X2...] on line  32, value length should be between 10 and 255
+2019-08-30 13:30:33,640 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Trakker...] on line  33, value length should be between 10 and 255
+2019-08-30 13:30:33,640 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Kol/frys...] on line  35, value length should be between 10 and 255
+2019-08-30 13:30:33,641 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FH480...] on line  43, value length should be between 10 and 255
+2019-08-30 13:30:33,641 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FM 340...] on line  46, value length should be between 10 and 255
+2019-08-30 13:30:33,641 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [GARDIN...] on line  51, value length should be between 10 and 255
+2019-08-30 13:30:33,641 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [NV200...] on line  56, value length should be between 10 and 255
+2019-08-30 13:30:33,641 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FH460 6x2...] on line  61, value length should be between 10 and 255
+2019-08-30 13:30:33,641 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [FL210...] on line  65, value length should be between 10 and 255
+2019-08-30 13:30:33,641 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Tank...] on line  78, value length should be between 10 and 255
+2019-08-30 13:30:33,641 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Aben...] on line  81, value length should be between 10 and 255
+2019-08-30 13:30:33,641 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [519 4x4...] on line  84, value length should be between 10 and 255
+2019-08-30 13:30:33,641 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 77.22
+2019-08-30 13:30:33,641 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 78.24
+2019-08-30 13:30:33,641 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,641 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,641 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,641 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 7 should be in ['int']
+2019-08-30 13:30:33,641 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 31 should be in ['int']
+2019-08-30 13:30:33,641 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 56 should be in ['int']
+2019-08-30 13:30:33,642 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 70 should be in ['int']
+2019-08-30 13:30:33,642 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 105 should be in ['int']
+2019-08-30 13:30:33,642 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 121 should be in ['int']
+2019-08-30 13:30:33,642 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 133 should be in ['int']
+2019-08-30 13:30:33,642 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 135 should be in ['int']
+2019-08-30 13:30:33,642 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 138 should be in ['int']
+2019-08-30 13:30:33,642 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 150 should be in ['int']
+2019-08-30 13:30:33,642 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 176 should be in ['int']
+2019-08-30 13:30:33,642 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 194 should be in ['int']
+2019-08-30 13:30:33,642 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 196 should be in ['int']
+2019-08-30 13:30:33,642 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 217 should be in ['int']
+2019-08-30 13:30:33,642 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 233 should be in ['int']
+2019-08-30 13:30:33,642 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 297 should be in ['int']
+2019-08-30 13:30:33,642 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 1.0 on line 298 should be in ['int']
+2019-08-30 13:30:33,642 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 308 should be in ['int']
+2019-08-30 13:30:33,642 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 326 should be in ['int']
+2019-08-30 13:30:33,642 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 347 should be in ['int']
+2019-08-30 13:30:33,643 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-08-30 13:30:33,643 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 5.96
+2019-08-30 13:30:33,643 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-08-30 13:30:33,643 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,643 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,643 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-08-30 13:30:33,643 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,643 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,643 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,643 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,643 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-08-30 13:30:33,643 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,643 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.16
+2019-08-30 13:30:33,643 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-08-30 13:30:33,643 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 71
+2019-08-30 13:30:33,643 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 99
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 51
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 4
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 15.64
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 229.0 on line 7 should be in ['int']
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 400.0 on line 20 should be in ['int']
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 245.0 on line 31 should be in ['int']
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 128.0 on line 33 should be in ['int']
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 146.0 on line 56 should be in ['int']
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 159.0 on line 60 should be in ['int']
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 228.0 on line 69 should be in ['int']
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 219.0 on line 70 should be in ['int']
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 119.0 on line 79 should be in ['int']
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 124.0 on line 83 should be in ['int']
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 944.0 on line 98 should be in ['int']
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 175.0 on line 107 should be in ['int']
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 128.0 on line 119 should be in ['int']
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 146.0 on line 121 should be in ['int']
+2019-08-30 13:30:33,644 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 160.0 on line 129 should be in ['int']
+2019-08-30 13:30:33,645 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 199.0 on line 130 should be in ['int']
+2019-08-30 13:30:33,645 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 300.0 on line 133 should be in ['int']
+2019-08-30 13:30:33,645 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 124.0 on line 136 should be in ['int']
+2019-08-30 13:30:33,645 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 214.0 on line 138 should be in ['int']
+2019-08-30 13:30:33,645 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 219.0 on line 144 should be in ['int']
+2019-08-30 13:30:33,645 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-08-30 13:30:33,645 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-08-30 13:30:33,645 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 53
+2019-08-30 13:30:33,645 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 5
+2019-08-30 13:30:33,645 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 1837
+2019-08-30 13:30:33,645 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 24
+2019-08-30 13:30:33,645 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRUCKS - total number of row with conditions - 406
+2019-08-30 13:30:33,645 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRACTOR UNITS - total number of row with conditions - 440
+2019-08-30 13:30:33,645 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRAILERS - total number of row with conditions - 56
+2019-08-30 13:30:33,645 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - VANS - total number of row with conditions - 324
+2019-08-30 13:30:33,645 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - HEAVY EQUIPMENTS - total number of row with conditions - 2
+2019-08-30 13:30:33,645 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - SEMI TRAILERS - total number of row with conditions - 633
+2019-08-30 13:30:33,646 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRUCKS - total number of row with conditions - 397
+2019-08-30 13:30:33,646 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRUCKS - total number of row with conditions - 9
+2019-08-30 13:30:33,646 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRACTOR UNITS - total number of row with conditions - 435
+2019-08-30 13:30:33,646 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRACTOR UNITS - total number of row with conditions - 5
+2019-08-30 13:30:33,646 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRAILERS - total number of row with conditions - 54
+2019-08-30 13:30:33,646 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRAILERS - total number of row with conditions - 2
+2019-08-30 13:30:33,646 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_VANS - total number of row with conditions - 318
+2019-08-30 13:30:33,646 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_VANS - total number of row with conditions - 6
+2019-08-30 13:30:33,646 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_HEAVY EQUIPMENTS - total number of row with conditions - 1
+2019-08-30 13:30:33,646 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_HEAVY EQUIPMENTS - total number of row with conditions - 1
+2019-08-30 13:30:33,646 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_SEMI TRAILERS - total number of row with conditions - 632
+2019-08-30 13:30:33,646 - CAMION - DK - MOBILEDE - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_SEMI TRAILERS - total number of row with conditions - 1

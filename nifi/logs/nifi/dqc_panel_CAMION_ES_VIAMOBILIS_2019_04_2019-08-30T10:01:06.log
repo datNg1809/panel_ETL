@@ -1,0 +1,186 @@
+2019-08-30 10:01:07,609 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 94.52
+2019-08-30 10:01:07,609 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2013 on line 0 should be in ['int', 'float']
+2019-08-30 10:01:07,609 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2009 on line 1 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 0 on line 2 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 0 on line 3 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 0 on line 4 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 1999 on line 5 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2004 on line 6 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2009 on line 7 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 1994 on line 8 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2000 on line 9 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 1990 on line 10 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2001 on line 11 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2001 on line 12 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2001 on line 13 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 1998 on line 14 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2003 on line 15 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 2005 on line 16 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 1990 on line 17 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 1998 on line 18 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - ANNEE - Wrong type for value: 1995 on line 19 should be in ['int', 'float']
+2019-08-30 10:01:07,610 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 0.0
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 35, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 56, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 57, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 108, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 113, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 141, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 170, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 177, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 225, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 266, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 287, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 290, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 296, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,611 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 297, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 298, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 319, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 327, value should match regexp ^[0-9]{4}$
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 88.47
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 21.62
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 99.43
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 6280
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0 on line 0 should be in ['int']
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 671000 on line 1 should be in ['int']
+2019-08-30 10:01:07,612 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0 on line 2 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0 on line 3 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0 on line 4 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0 on line 5 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0 on line 6 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0 on line 7 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0 on line 8 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0 on line 9 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0 on line 10 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 999999 on line 11 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 999999 on line 12 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 520000 on line 13 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 250000 on line 14 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 850000 on line 15 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0 on line 16 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0 on line 17 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0 on line 18 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0 on line 19 should be in ['int']
+2019-08-30 10:01:07,613 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 0.0
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 0 should be in ['int', 'float']
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 1 should be in ['int', 'float']
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 2 should be in ['int', 'float']
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 3 should be in ['int', 'float']
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 4 should be in ['int', 'float']
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 5 should be in ['int', 'float']
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 6 should be in ['int', 'float']
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 7 should be in ['int', 'float']
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 8 should be in ['int', 'float']
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 9 should be in ['int', 'float']
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 10 should be in ['int', 'float']
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 11 should be in ['int', 'float']
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 12 should be in ['int', 'float']
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 13 should be in ['int', 'float']
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 14 should be in ['int', 'float']
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 15 should be in ['int', 'float']
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 16 should be in ['int', 'float']
+2019-08-30 10:01:07,614 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 17 should be in ['int', 'float']
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 18 should be in ['int', 'float']
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - LITRE - Wrong type for value: 0.0 on line 19 should be in ['int', 'float']
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 0.0
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 99.98
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 35.11
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 0 should be in ['int']
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 1 should be in ['int']
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 2 should be in ['int']
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 3 should be in ['int']
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 4 should be in ['int']
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 5 should be in ['int']
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 6 should be in ['int']
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 7 should be in ['int']
+2019-08-30 10:01:07,615 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 8 should be in ['int']
+2019-08-30 10:01:07,616 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 9 should be in ['int']
+2019-08-30 10:01:07,616 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 10 should be in ['int']
+2019-08-30 10:01:07,616 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 11 should be in ['int']
+2019-08-30 10:01:07,616 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 12 should be in ['int']
+2019-08-30 10:01:07,616 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 13 should be in ['int']
+2019-08-30 10:01:07,616 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 14 should be in ['int']
+2019-08-30 10:01:07,616 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 15 should be in ['int']
+2019-08-30 10:01:07,616 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 16 should be in ['int']
+2019-08-30 10:01:07,616 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 17 should be in ['int']
+2019-08-30 10:01:07,616 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 18 should be in ['int']
+2019-08-30 10:01:07,616 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1 on line 19 should be in ['int']
+2019-08-30 10:01:07,616 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 0.0
+2019-08-30 10:01:07,616 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-08-30 10:01:07,616 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-08-30 10:01:07,616 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-08-30 10:01:07,616 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 13770 on line 0 should be in ['int']
+2019-08-30 10:01:07,616 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 29000 on line 1 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 11149 on line 2 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 1 on line 3 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 8841 on line 4 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 0 on line 5 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 0 on line 6 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 0 on line 7 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 9500 on line 8 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 0 on line 9 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 0 on line 10 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 0 on line 11 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 0 on line 12 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 0 on line 13 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 0 on line 14 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 0 on line 15 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 1 on line 16 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 0 on line 17 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 0 on line 18 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PRIX - Wrong type for value: 0 on line 19 should be in ['int']
+2019-08-30 10:01:07,617 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 0.0
+2019-08-30 10:01:07,618 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-08-30 10:01:07,618 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-08-30 10:01:07,618 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-08-30 10:01:07,618 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-08-30 10:01:07,618 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.01
+2019-08-30 10:01:07,618 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-08-30 10:01:07,618 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-08-30 10:01:07,618 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-08-30 10:01:07,618 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-08-30 10:01:07,618 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 355
+2019-08-30 10:01:07,618 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 321
+2019-08-30 10:01:07,618 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-08-30 10:01:07,618 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 6
+2019-08-30 10:01:07,618 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-08-30 10:01:07,618 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-08-30 10:01:07,618 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 307
+2019-08-30 10:01:07,618 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 6280
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRUCKS - total number of row with conditions - 1496
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRACTOR UNITS - total number of row with conditions - 1429
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRAILERS - total number of row with conditions - 75
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - VANS - total number of row with conditions - 351
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - HEAVY EQUIPMENTS - total number of row with conditions - 2218
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - SEMI TRAILERS - total number of row with conditions - 711
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRUCKS - total number of row with conditions - 1496
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRUCKS - total number of row with conditions - 0
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRACTOR UNITS - total number of row with conditions - 1429
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRACTOR UNITS - total number of row with conditions - 0
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRAILERS - total number of row with conditions - 75
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRAILERS - total number of row with conditions - 0
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_VANS - total number of row with conditions - 351
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_VANS - total number of row with conditions - 0
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_HEAVY EQUIPMENTS - total number of row with conditions - 2218
+2019-08-30 10:01:07,619 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_HEAVY EQUIPMENTS - total number of row with conditions - 0
+2019-08-30 10:01:07,620 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_SEMI TRAILERS - total number of row with conditions - 711
+2019-08-30 10:01:07,620 - CAMION - ES - VIAMOBILIS - 2019-04-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_SEMI TRAILERS - total number of row with conditions - 0

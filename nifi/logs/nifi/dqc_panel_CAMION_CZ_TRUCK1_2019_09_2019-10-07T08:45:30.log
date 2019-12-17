@@ -1,0 +1,91 @@
+2019-10-07 08:45:31,611 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-10-07 08:45:31,611 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,612 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.21
+2019-10-07 08:45:31,612 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,612 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 87, value should match regexp ^[0-9]{4}$
+2019-10-07 08:45:31,612 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 260, value should match regexp ^[0-9]{4}$
+2019-10-07 08:45:31,612 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 266, value should match regexp ^[0-9]{4}$
+2019-10-07 08:45:31,612 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 353, value should match regexp ^[0-9]{4}$
+2019-10-07 08:45:31,612 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 409, value should match regexp ^[0-9]{4}$
+2019-10-07 08:45:31,612 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 623, value should match regexp ^[0-9]{4}$
+2019-10-07 08:45:31,612 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.32
+2019-10-07 08:45:31,612 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,612 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-07 08:45:31,612 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 68.56
+2019-10-07 08:45:31,612 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-10-07 08:45:31,612 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.66
+2019-10-07 08:45:31,612 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 99.89
+2019-10-07 08:45:31,612 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,613 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,613 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-07 08:45:31,613 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 881
+2019-10-07 08:45:31,613 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,613 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,613 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,613 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,613 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,613 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 99.55
+2019-10-07 08:45:31,613 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 78.66
+2019-10-07 08:45:31,613 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,613 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [INPRO PV...] on line  280, value length should be between 10 and 255
+2019-10-07 08:45:31,613 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [DAF CF75...] on line  333, value length should be between 10 and 255
+2019-10-07 08:45:31,613 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Volvo L70...] on line  353, value length should be between 10 and 255
+2019-10-07 08:45:31,613 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [HaW 90m3...] on line  492, value length should be between 10 and 255
+2019-10-07 08:45:31,613 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Krone SD...] on line  557, value length should be between 10 and 255
+2019-10-07 08:45:31,614 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Krone SD...] on line  602, value length should be between 10 and 255
+2019-10-07 08:45:31,614 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Van Hool...] on line  649, value length should be between 10 and 255
+2019-10-07 08:45:31,614 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Krone SD...] on line  650, value length should be between 10 and 255
+2019-10-07 08:45:31,614 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Van Hool...] on line  656, value length should be between 10 and 255
+2019-10-07 08:45:31,614 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Van Hool...] on line  657, value length should be between 10 and 255
+2019-10-07 08:45:31,614 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Van Hool...] on line  660, value length should be between 10 and 255
+2019-10-07 08:45:31,614 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Krone SD...] on line  661, value length should be between 10 and 255
+2019-10-07 08:45:31,614 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [CAT M 315...] on line  665, value length should be between 10 and 255
+2019-10-07 08:45:31,614 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [ZORZI 24R...] on line  750, value length should be between 10 and 255
+2019-10-07 08:45:31,614 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Diesel...] on line  800, value length should be between 10 and 255
+2019-10-07 08:45:31,614 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Krone SD...] on line  805, value length should be between 10 and 255
+2019-10-07 08:45:31,614 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Krone SD...] on line  835, value length should be between 10 and 255
+2019-10-07 08:45:31,614 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Krone SD...] on line  861, value length should be between 10 and 255
+2019-10-07 08:45:31,614 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 97.96
+2019-10-07 08:45:31,614 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-10-07 08:45:31,614 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,615 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,615 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-10-07 08:45:31,615 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-10-07 08:45:31,615 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,615 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,615 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-10-07 08:45:31,615 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,615 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,615 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,615 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,615 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-10-07 08:45:31,615 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-10-07 08:45:31,615 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-10-07 08:45:31,616 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 49
+2019-10-07 08:45:31,616 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 39
+2019-10-07 08:45:31,616 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-10-07 08:45:31,616 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 3
+2019-10-07 08:45:31,616 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-10-07 08:45:31,616 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-10-07 08:45:31,616 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 14
+2019-10-07 08:45:31,616 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 7
+2019-10-07 08:45:31,616 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 881
+2019-10-07 08:45:31,616 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-10-07 08:45:31,616 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRUCKS - total number of row with conditions - 282
+2019-10-07 08:45:31,616 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRACTOR UNITS - total number of row with conditions - 321
+2019-10-07 08:45:31,616 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRAILERS - total number of row with conditions - 43
+2019-10-07 08:45:31,616 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - VANS - total number of row with conditions - 0
+2019-10-07 08:45:31,616 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - HEAVY EQUIPMENTS - total number of row with conditions - 42
+2019-10-07 08:45:31,616 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - SEMI TRAILERS - total number of row with conditions - 193
+2019-10-07 08:45:31,617 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRUCKS - total number of row with conditions - 282
+2019-10-07 08:45:31,617 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRUCKS - total number of row with conditions - 0
+2019-10-07 08:45:31,617 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRACTOR UNITS - total number of row with conditions - 321
+2019-10-07 08:45:31,617 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRACTOR UNITS - total number of row with conditions - 0
+2019-10-07 08:45:31,617 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRAILERS - total number of row with conditions - 43
+2019-10-07 08:45:31,617 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRAILERS - total number of row with conditions - 0
+2019-10-07 08:45:31,617 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_VANS - total number of row with conditions - 0
+2019-10-07 08:45:31,617 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_VANS - total number of row with conditions - 0
+2019-10-07 08:45:31,617 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_HEAVY EQUIPMENTS - total number of row with conditions - 42
+2019-10-07 08:45:31,617 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_HEAVY EQUIPMENTS - total number of row with conditions - 0
+2019-10-07 08:45:31,617 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_SEMI TRAILERS - total number of row with conditions - 193
+2019-10-07 08:45:31,617 - CAMION - CZ - TRUCK1 - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_SEMI TRAILERS - total number of row with conditions - 0

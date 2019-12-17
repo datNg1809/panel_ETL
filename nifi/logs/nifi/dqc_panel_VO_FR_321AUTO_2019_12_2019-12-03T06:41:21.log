@@ -1,0 +1,202 @@
+2019-12-03 07:26:26,767 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-12-03 07:26:26,767 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 98.16
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 2841
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - True - 1
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7620, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7622, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7659, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7663, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7751, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7769, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7779, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7780, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7781, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,768 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 7782, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,769 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9331, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,769 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9332, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,769 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9333, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,769 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9334, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,769 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9336, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,769 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9337, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,769 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9338, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,769 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9339, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,769 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9340, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,769 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 9341, value should match regexp ^[0-9]{4}$
+2019-12-03 07:26:26,769 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 98.65
+2019-12-03 07:26:26,769 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-12-03 07:26:26,769 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,769 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-12-03 07:26:26,769 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-12-03 07:26:26,769 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-12-03 07:26:26,769 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 99.6
+2019-12-03 07:26:26,770 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - True - 1
+2019-12-03 07:26:26,770 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-12-03 07:26:26,770 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - False - 0
+2019-12-03 07:26:26,770 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 98.62
+2019-12-03 07:26:26,770 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-12-03 07:26:26,770 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 99.65
+2019-12-03 07:26:26,770 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-12-03 07:26:26,770 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-12-03 07:26:26,770 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-12-03 07:26:26,770 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,770 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-12-03 07:26:26,770 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-12-03 07:26:26,770 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-12-03 07:26:26,770 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 154822
+2019-12-03 07:26:26,770 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,770 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 99.58
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - True - 1
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - True - 1
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-12-03 07:26:26,771 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - unexpected count - 154822
+2019-12-03 07:26:26,772 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MOIS - False - 0
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - MOIS - True - 1
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  417, value length should be between 10 and 255
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  1554, value length should be between 10 and 255
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  1556, value length should be between 10 and 255
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  1563, value length should be between 10 and 255
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  1565, value length should be between 10 and 255
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  1573, value length should be between 10 and 255
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  1574, value length should be between 10 and 255
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  1576, value length should be between 10 and 255
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  1579, value length should be between 10 and 255
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  1581, value length should be between 10 and 255
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  1618, value length should be between 10 and 255
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  1620, value length should be between 10 and 255
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  1621, value length should be between 10 and 255
+2019-12-03 07:26:26,773 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  2789, value length should be between 10 and 255
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  3999, value length should be between 10 and 255
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  5110, value length should be between 10 and 255
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  5593, value length should be between 10 and 255
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  6282, value length should be between 10 and 255
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  7140, value length should be between 10 and 255
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Autre...] on line  7151, value length should be between 10 and 255
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.59
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 17.93
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2.0 35TDI QUATTRO 16...] on line  2, value length should be between 0 and 255
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2.0 40TDI QUATTRO 19...] on line  106, value length should be between 0 and 255
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2.0 35TDI QUATTRO 16...] on line  215, value length should be between 0 and 255
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2.0 40TDI QUATTRO 19...] on line  320, value length should be between 0 and 255
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2.0 40TDI QUATTRO 19...] on line  431, value length should be between 0 and 255
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2.0 40TDI QUATTRO 19...] on line  537, value length should be between 0 and 255
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2.0 40TDI QUATTRO 19...] on line  642, value length should be between 0 and 255
+2019-12-03 07:26:26,774 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2.0 TDI QUATTRO 190C...] on line  746, value length should be between 0 and 255
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2.0 35TDI QUATTRO 16...] on line  855, value length should be between 0 and 255
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [DS7 2.0 BLUEHDI 180C...] on line  960, value length should be between 0 and 255
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [DS7 1.6 PURETECH 180...] on line  1063, value length should be between 0 and 255
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2.0 35TDI 150CV S-TR...] on line  1170, value length should be between 0 and 255
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2.0 35TDI 150CV S-TR...] on line  1274, value length should be between 0 and 255
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [1.5 35TFSI 150CV BVM...] on line  1381, value length should be between 0 and 255
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [1.5 35TFSI 150CV BVM...] on line  1487, value length should be between 0 and 255
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [1.5 35TFSI 150CV BVM...] on line  1594, value length should be between 0 and 255
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [1.5 35TFSI 150CV BVM...] on line  1701, value length should be between 0 and 255
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [1.5 35TFSI 150CV S-T...] on line  1804, value length should be between 0 and 255
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2.0 TDI 150CV BVM6 C...] on line  1908, value length should be between 0 and 255
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [2.0 TDI 150CV BVM6 C...] on line  2016, value length should be between 0 and 255
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 21.85
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - OPTIONS - False - 0
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,775 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 95.22
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - True - 1
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PORTE - True - 1
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - False - 0
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 92.7
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.95
+2019-12-03 07:26:26,776 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-12-03 07:26:26,777 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-12-03 07:26:26,777 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-12-03 07:26:26,777 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-12-03 07:26:26,777 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 98.77
+2019-12-03 07:26:26,777 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-12-03 07:26:26,777 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-12-03 07:26:26,777 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - False - 0
+2019-12-03 07:26:26,777 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 154822
+2019-12-03 07:26:26,777 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-12-03 07:26:26,777 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 96
+2019-12-03 07:26:26,777 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 898
+2019-12-03 07:26:26,777 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-12-03 07:26:26,777 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 5
+2019-12-03 07:26:26,777 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 55.79
+2019-12-03 07:26:26,777 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-12-03 07:26:26,777 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.0 on line 1 should be in ['int']
+2019-12-03 07:26:26,777 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 2 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.5 on line 12 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.5 on line 13 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3.3 on line 22 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.5 on line 24 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 33 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.2 on line 43 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3.0 on line 61 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 64 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.4 on line 96 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 106 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 117 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 128 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.4 on line 150 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 161 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 172 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.4 on line 182 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 193 should be in ['int']
+2019-12-03 07:26:26,778 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 215 should be in ['int']
+2019-12-03 07:26:26,779 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-12-03 07:26:26,779 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - CYLINDRE - False - 0
+2019-12-03 07:26:26,779 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-12-03 07:26:26,779 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 1290
+2019-12-03 07:26:26,779 - VO - FR - 321AUTO - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 97

@@ -1,0 +1,222 @@
+2019-10-09 17:11:10,171 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-10-09 17:11:10,171 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 98.35
+2019-10-09 17:11:10,171 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - True - 1
+2019-10-09 17:11:10,171 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,171 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-10-09 17:11:10,171 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 0, value should be between 1980 and 2019
+2019-10-09 17:11:10,171 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 1, value should be between 1980 and 2019
+2019-10-09 17:11:10,171 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1977 on line 2, value should be between 1980 and 2019
+2019-10-09 17:11:10,171 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 4, value should be between 1980 and 2019
+2019-10-09 17:11:10,171 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 5, value should be between 1980 and 2019
+2019-10-09 17:11:10,171 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 6, value should be between 1980 and 2019
+2019-10-09 17:11:10,171 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1976 on line 7, value should be between 1980 and 2019
+2019-10-09 17:11:10,171 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 10, value should be between 1980 and 2019
+2019-10-09 17:11:10,171 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 13, value should be between 1980 and 2019
+2019-10-09 17:11:10,171 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 17, value should be between 1980 and 2019
+2019-10-09 17:11:10,171 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1975 on line 20, value should be between 1980 and 2019
+2019-10-09 17:11:10,172 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 22, value should be between 1980 and 2019
+2019-10-09 17:11:10,172 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 24, value should be between 1980 and 2019
+2019-10-09 17:11:10,172 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 25, value should be between 1980 and 2019
+2019-10-09 17:11:10,172 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 26, value should be between 1980 and 2019
+2019-10-09 17:11:10,172 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 27, value should be between 1980 and 2019
+2019-10-09 17:11:10,172 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 28, value should be between 1980 and 2019
+2019-10-09 17:11:10,172 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 29, value should be between 1980 and 2019
+2019-10-09 17:11:10,172 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 32, value should be between 1980 and 2019
+2019-10-09 17:11:10,172 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 0 on line 33, value should be between 1980 and 2019
+2019-10-09 17:11:10,172 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 77.86
+2019-10-09 17:11:10,172 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 51603
+2019-10-09 17:11:10,172 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - False - 0
+2019-10-09 17:11:10,172 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,172 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-10-09 17:11:10,172 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 0, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,172 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,172 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 5, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 6, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 10, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 13, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 17, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 22, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 24, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 25, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 26, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 27, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 28, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 29, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 32, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 33, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 37, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 38, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 39, value should match regexp ^[0-9]{4}$
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 87.09
+2019-10-09 17:11:10,173 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-10-09 17:11:10,174 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,174 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-10-09 17:11:10,174 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-09 17:11:10,174 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-10-09 17:11:10,174 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 0.01
+2019-10-09 17:11:10,174 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - False - 0
+2019-10-09 17:11:10,174 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-10-09 17:11:10,174 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - False - 0
+2019-10-09 17:11:10,174 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 88.36
+2019-10-09 17:11:10,174 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - False - 0
+2019-10-09 17:11:10,174 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: E8S1G5 on line 1, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,174 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: N0J1Z0 on line 2, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,174 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M8Z2G9 on line 3, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,174 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M1M2Z4 on line 4, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,174 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: J0B1W0 on line 7, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,174 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: J7E4L2 on line 8, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,174 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: L1N8E6 on line 9, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: L1N8E6 on line 10, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: H7P5H2 on line 11, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: S0G1H0 on line 12, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: G5Y5G5 on line 13, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: T8N1X2 on line 14, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: N3P1M6 on line 15, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: N5X2J7 on line 17, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: K0C1B0 on line 18, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: K0C1B0 on line 19, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: C0A1N0 on line 20, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: G6V9R6 on line 23, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: E2N1L4 on line 24, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: L3Z2N1 on line 27, value should match regexp [A-Z]{1}[0-9]{1}[A-Z]{1} [0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 76.91
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 98.35
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,175 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-10-09 17:11:10,176 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-09 17:11:10,176 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-10-09 17:11:10,176 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 233026
+2019-10-09 17:11:10,176 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,176 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-10-09 17:11:10,176 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,176 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-10-09 17:11:10,176 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,176 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-10-09 17:11:10,176 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,176 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-10-09 17:11:10,176 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,176 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-10-09 17:11:10,176 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 22.64
+2019-10-09 17:11:10,176 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - False - 0
+2019-10-09 17:11:10,176 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 23.67
+2019-10-09 17:11:10,176 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - False - 0
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - True - 1
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-10-09 17:11:10,177 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - unexpected count - 233026
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MOIS - False - 0
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - MOIS - True - 1
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [a vendre...] on line  32, value length should be between 10 and 255
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [View all...] on line  44, value length should be between 10 and 255
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [View all...] on line  52, value length should be between 10 and 255
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Hyster...] on line  53, value length should be between 10 and 255
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [View all...] on line  58, value length should be between 10 and 255
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Pants...] on line  67, value length should be between 10 and 255
+2019-10-09 17:11:10,178 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [5050...] on line  86, value length should be between 10 and 255
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [remorque...] on line  111, value length should be between 10 and 255
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [View all...] on line  158, value length should be between 10 and 255
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [View all...] on line  192, value length should be between 10 and 255
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [View all...] on line  224, value length should be between 10 and 255
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [View all...] on line  263, value length should be between 10 and 255
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [remorque...] on line  303, value length should be between 10 and 255
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [View all...] on line  313, value length should be between 10 and 255
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [View all...] on line  336, value length should be between 10 and 255
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [View all...] on line  338, value length should be between 10 and 255
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [View all...] on line  353, value length should be between 10 and 255
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [View all...] on line  360, value length should be between 10 and 255
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [View all...] on line  369, value length should be between 10 and 255
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Motoneige...] on line  371, value length should be between 10 and 255
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 93.76
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 2.05
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - False - 0
+2019-10-09 17:11:10,179 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aluminum Wheels,  Pr...] on line  582, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aluminum Wheels,  DC...] on line  746, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aluminum Wheels,  DC...] on line  749, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aluminum Wheels,  DC...] on line  862, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [DC Converter,  Propa...] on line  1256, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Awning ,  Aluminum W...] on line  1346, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [DC Converter,  Propa...] on line  1437, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aluminum Wheels,  Pr...] on line  1731, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [DC Converter,  Propa...] on line  1783, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aluminum Wheels,  DC...] on line  1908, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aluminum Wheels,  DC...] on line  1947, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Overdrive Transmissi...] on line  1991, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aluminum Wheels,  Pr...] on line  2083, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aluminum Wheels,  Pr...] on line  2085, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aluminum Wheels,  Ai...] on line  2086, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aluminum Wheels,  Pr...] on line  2087, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aluminum Wheels,  Ga...] on line  2088, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aluminum Wheels,  Ga...] on line  2089, value length should be between 0 and 255
+2019-10-09 17:11:10,180 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Propane Tank,  Air C...] on line  2090, value length should be between 0 and 255
+2019-10-09 17:11:10,181 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Aluminum Wheels,  DC...] on line  2107, value length should be between 0 and 255
+2019-10-09 17:11:10,181 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 62.03
+2019-10-09 17:11:10,181 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - OPTIONS - False - 0
+2019-10-09 17:11:10,181 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,181 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-10-09 17:11:10,181 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,181 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-10-09 17:11:10,181 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,181 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PLACE - True - 1
+2019-10-09 17:11:10,181 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,181 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - True - 1
+2019-10-09 17:11:10,181 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-10-09 17:11:10,181 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - False - 0
+2019-10-09 17:11:10,181 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,181 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-10-09 17:11:10,181 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,181 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - True - 1
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 51.97
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - False - 0
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.97
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 98.35
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 98.34
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - True - 1
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - VN_IND - True - 1
+2019-10-09 17:11:10,182 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 174
+2019-10-09 17:11:10,183 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 317
+2019-10-09 17:11:10,183 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-10-09 17:11:10,183 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 1
+2019-10-09 17:11:10,183 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-10-09 17:11:10,183 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - False - 0
+2019-10-09 17:11:10,183 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 22
+2019-10-09 17:11:10,183 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 110
+2019-10-09 17:11:10,183 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-10-09 17:11:10,183 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 102719
+2019-10-09 17:11:10,183 - NPV - CA - KIJIJI - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 126453

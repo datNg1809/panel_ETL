@@ -1,0 +1,163 @@
+2019-12-12 09:39:09,803 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-12-12 09:39:09,803 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,803 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ACHAT_LOC - True - 1
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 3 on line 40, value should among [1, 2]
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 3 on line 210, value should among [1, 2]
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 3 on line 316, value should among [1, 2]
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 924, value should among [1, 2]
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 925, value should among [1, 2]
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 926, value should among [1, 2]
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 927, value should among [1, 2]
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 930, value should among [1, 2]
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 931, value should among [1, 2]
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 932, value should among [1, 2]
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 935, value should among [1, 2]
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 937, value should among [1, 2]
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 938, value should among [1, 2]
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 940, value should among [1, 2]
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 941, value should among [1, 2]
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 943, value should among [1, 2]
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 945, value should among [1, 2]
+2019-12-12 09:39:09,804 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 948, value should among [1, 2]
+2019-12-12 09:39:09,805 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 949, value should among [1, 2]
+2019-12-12 09:39:09,805 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_set - ACHAT_LOC - Unexpected value: 8 on line 952, value should among [1, 2]
+2019-12-12 09:39:09,805 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 87.55
+2019-12-12 09:39:09,805 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - ACHAT_LOC - False - 0
+2019-12-12 09:39:09,805 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-12-12 09:39:09,805 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-12-12 09:39:09,805 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-12-12 09:39:09,805 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ADRESSE - False - 0
+2019-12-12 09:39:09,805 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-12-12 09:39:09,805 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_CP - False - 0
+2019-12-12 09:39:09,805 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,805 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ID - True - 1
+2019-12-12 09:39:09,805 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 81.75
+2019-12-12 09:39:09,805 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_NOM - False - 0
+2019-12-12 09:39:09,805 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 0.0
+2019-12-12 09:39:09,805 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_TEL - False - 0
+2019-12-12 09:39:09,805 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_VILLE - False - 0
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_DATE - True - 1
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 0.0
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_TEXT - False - 0
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CATEGORIE - True - 1
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 96.96
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - True - 1
+2019-12-12 09:39:09,806 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 358884
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 105.0 on line 0 should be int
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 600.0 on line 1 should be int
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 110.0 on line 2 should be int
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 126.0 on line 3 should be int
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 231.0 on line 4 should be int
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 200.0 on line 5 should be int
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 300.0 on line 6 should be int
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 80.0 on line 7 should be int
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 426.0 on line 8 should be int
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 208.0 on line 9 should be int
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 180.0 on line 10 should be int
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 56.0 on line 11 should be int
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 298.0 on line 12 should be int
+2019-12-12 09:39:09,807 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 245.0 on line 13 should be int
+2019-12-12 09:39:09,808 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 200.0 on line 14 should be int
+2019-12-12 09:39:09,808 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 110.0 on line 15 should be int
+2019-12-12 09:39:09,808 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 193.0 on line 16 should be int
+2019-12-12 09:39:09,808 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 270.0 on line 17 should be int
+2019-12-12 09:39:09,808 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 180.0 on line 18 should be int
+2019-12-12 09:39:09,808 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 277.0 on line 19 should be int
+2019-12-12 09:39:09,808 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-12-12 09:39:09,808 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2 - False - 0
+2019-12-12 09:39:09,808 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 84.51
+2019-12-12 09:39:09,808 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2 - False - 0
+2019-12-12 09:39:09,808 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 105.0 on line 0 should be int
+2019-12-12 09:39:09,808 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 600.0 on line 1 should be int
+2019-12-12 09:39:09,808 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 110.0 on line 2 should be int
+2019-12-12 09:39:09,808 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 126.0 on line 3 should be int
+2019-12-12 09:39:09,808 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 231.0 on line 4 should be int
+2019-12-12 09:39:09,808 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 200.0 on line 5 should be int
+2019-12-12 09:39:09,808 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 300.0 on line 6 should be int
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 80.0 on line 7 should be int
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 426.0 on line 8 should be int
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 208.0 on line 9 should be int
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 180.0 on line 10 should be int
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 56.0 on line 11 should be int
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 298.0 on line 12 should be int
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 245.0 on line 13 should be int
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 200.0 on line 14 should be int
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 110.0 on line 15 should be int
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 193.0 on line 16 should be int
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 270.0 on line 17 should be int
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 180.0 on line 18 should be int
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 277.0 on line 19 should be int
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2_TOTALE - False - 0
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2_TOTALE - True - 1
+2019-12-12 09:39:09,809 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,810 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MAISON_APT - True - 1
+2019-12-12 09:39:09,810 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,810 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - unexpected count - 0
+2019-12-12 09:39:09,810 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MAISON_APT - True - 1
+2019-12-12 09:39:09,810 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 80.8
+2019-12-12 09:39:09,810 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MINI_SITE_ID - False - 0
+2019-12-12 09:39:09,810 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,810 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-12-12 09:39:09,810 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,810 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - True - 1
+2019-12-12 09:39:09,810 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 0.0
+2019-12-12 09:39:09,810 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PAYS_AD - False - 0
+2019-12-12 09:39:09,810 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,810 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-12-12 09:39:09,810 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,810 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-12-12 09:39:09,810 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PIECE - True - 1
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PIECE - True - 1
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 75000.0 on line 0 should be int
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 550000.0 on line 1 should be int
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 229000.0 on line 2 should be int
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 200000.0 on line 3 should be int
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 380000.0 on line 4 should be int
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 200000.0 on line 5 should be int
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 500000.0 on line 6 should be int
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 270000.0 on line 7 should be int
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1800000.0 on line 8 should be int
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 180000.0 on line 9 should be int
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 23500.0 on line 10 should be int
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 260000.0 on line 11 should be int
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 310000.0 on line 12 should be int
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 160000.0 on line 13 should be int
+2019-12-12 09:39:09,811 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 240000.0 on line 14 should be int
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 230000.0 on line 15 should be int
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 412900.0 on line 16 should be int
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 500000.0 on line 17 should be int
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 225000.0 on line 18 should be int
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 498000.0 on line 19 should be int
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PRIX - False - 0
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 99.81
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - False - 0
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - VILLE - True - 1
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 26344
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 26745
+2019-12-12 09:39:09,812 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 332139
+2019-12-12 09:39:09,813 - IMMO - FR - PARUVENDU - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 95

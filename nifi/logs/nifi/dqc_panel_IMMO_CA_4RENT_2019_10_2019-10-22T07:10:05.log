@@ -1,0 +1,141 @@
+2019-10-22 07:10:06,004 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-10-22 07:10:06,004 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,004 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ACHAT_LOC - True - 1
+2019-10-22 07:10:06,004 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,004 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - ACHAT_LOC - True - 1
+2019-10-22 07:10:06,004 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,004 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - True - 1
+2019-10-22 07:10:06,004 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-10-22 07:10:06,004 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ADRESSE - False - 0
+2019-10-22 07:10:06,004 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-10-22 07:10:06,004 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_CP - False - 0
+2019-10-22 07:10:06,004 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,004 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ID - True - 1
+2019-10-22 07:10:06,004 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,004 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_NOM - True - 1
+2019-10-22 07:10:06,005 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,005 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - AGENCE_TEL - True - 1
+2019-10-22 07:10:06,005 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 99.94
+2019-10-22 07:10:06,005 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_TEL - True - 1
+2019-10-22 07:10:06,005 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-10-22 07:10:06,005 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_VILLE - False - 0
+2019-10-22 07:10:06,005 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,005 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_DATE - True - 1
+2019-10-22 07:10:06,006 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,006 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-10-22 07:10:06,006 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-22 07:10:06,006 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-10-22 07:10:06,006 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.36
+2019-10-22 07:10:06,006 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-10-22 07:10:06,006 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M9W 1V9 on line 0, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,006 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M1W 2Y6 on line 1, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,006 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M6B 3T4 on line 2, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,006 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M4C 5A2 on line 3, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,006 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M2R 1Z4 on line 4, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,006 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: L5A 3P8 on line 5, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,006 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M2L 2H7 on line 6, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,006 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M4Y 1P5 on line 7, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,006 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M4A 2X5 on line 8, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,006 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M9N 2T7 on line 9, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,006 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M6K 2Y5 on line 10, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M6A 2E2 on line 11, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M2L 2H7 on line 12, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M2R 2A2 on line 13, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M3C 1E6 on line 14, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: M4C 2C3 on line 15, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: L6T 4A8 on line 16, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: L5A 2H5 on line 17, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: L5A 3Y5 on line 18, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: L6Y 2K3 on line 19, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 3.62
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_match_regex - CP - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_match_regex - CP - True - 1
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 0.0
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - False - 0
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 1724
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-10-22 07:10:06,007 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-22 07:10:06,008 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-10-22 07:10:06,008 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 0.0
+2019-10-22 07:10:06,008 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2 - False - 0
+2019-10-22 07:10:06,008 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,008 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MAISON_APT - True - 1
+2019-10-22 07:10:06,008 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,008 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - unexpected count - 0
+2019-10-22 07:10:06,008 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MAISON_APT - True - 1
+2019-10-22 07:10:06,008 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-10-22 07:10:06,008 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MINI_SITE_ID - False - 0
+2019-10-22 07:10:06,008 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 0.0
+2019-10-22 07:10:06,008 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - False - 0
+2019-10-22 07:10:06,008 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PHOTO - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,008 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PHOTO - True - 1
+2019-10-22 07:10:06,008 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,008 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-10-22 07:10:06,008 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PIECE - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PIECE - True - 1
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PIECE - True - 1
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PIECE - True - 1
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1699.0 on line 0 should be int
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2009.0 on line 2 should be int
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1952.0 on line 4 should be int
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1759.0 on line 6 should be int
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2104.0 on line 7 should be int
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1799.0 on line 8 should be int
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1899.0 on line 9 should be int
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1659.0 on line 10 should be int
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1999.0 on line 11 should be int
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1759.0 on line 12 should be int
+2019-10-22 07:10:06,009 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1952.0 on line 13 should be int
+2019-10-22 07:10:06,010 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2000.0 on line 16 should be int
+2019-10-22 07:10:06,010 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1665.0 on line 17 should be int
+2019-10-22 07:10:06,010 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1697.0 on line 18 should be int
+2019-10-22 07:10:06,010 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2025.0 on line 21 should be int
+2019-10-22 07:10:06,010 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1647.0 on line 22 should be int
+2019-10-22 07:10:06,010 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1647.0 on line 23 should be int
+2019-10-22 07:10:06,010 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1647.0 on line 24 should be int
+2019-10-22 07:10:06,010 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2175.0 on line 26 should be int
+2019-10-22 07:10:06,010 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1799.0 on line 28 should be int
+2019-10-22 07:10:06,010 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-10-22 07:10:06,010 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PRIX - False - 0
+2019-10-22 07:10:06,010 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 82.48
+2019-10-22 07:10:06,010 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - False - 0
+2019-10-22 07:10:06,010 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,010 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRO_IND - True - 1
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - PRO_IND - True - 1
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - False - 0
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 0 should be int
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 1 should be int
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 2 should be int
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 3 should be int
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 4 should be int
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 5 should be int
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 6 should be int
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 7 should be int
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 8 should be int
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 9 should be int
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 10 should be int
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 11 should be int
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 12 should be int
+2019-10-22 07:10:06,011 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 13 should be int
+2019-10-22 07:10:06,012 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 14 should be int
+2019-10-22 07:10:06,012 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 15 should be int
+2019-10-22 07:10:06,012 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 16 should be int
+2019-10-22 07:10:06,012 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 17 should be int
+2019-10-22 07:10:06,012 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 18 should be int
+2019-10-22 07:10:06,012 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 19 should be int
+2019-10-22 07:10:06,012 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-10-22 07:10:06,012 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - SURFACE_TERRAIN - False - 0
+2019-10-22 07:10:06,012 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 96.58
+2019-10-22 07:10:06,012 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - VILLE - True - 1
+2019-10-22 07:10:06,012 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-10-22 07:10:06,012 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-10-22 07:10:06,012 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0
+2019-10-22 07:10:06,012 - IMMO - CA - 4RENT - 2019-10-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 1724

@@ -1,0 +1,97 @@
+2019-08-08 09:18:01,307 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-08-08 09:18:01,307 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-08-08 09:18:01,307 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 91.04
+2019-08-08 09:18:01,307 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-08-08 09:18:01,307 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-08-08 09:18:01,307 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-08-08 09:18:01,307 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 0.0
+2019-08-08 09:18:01,307 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 0.0
+2019-08-08 09:18:01,307 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-08-08 09:18:01,307 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-08-08 09:18:01,307 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-08-08 09:18:01,307 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: http://www.zapimoveis.com.br/imovel/venda-apartamento-1-quarto-aflitos-recife-pe-32m2-id-2286325473?paginaoferta=491 on line 858617, value should be unique
+2019-08-08 09:18:01,308 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: http://www.zapimoveis.com.br/imovel/venda-apartamento-1-quarto-aflitos-recife-pe-32m2-id-2286325473?paginaoferta=491 on line 2493554, value should be unique
+2019-08-08 09:18:01,308 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-08-08 09:18:01,308 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-08-08 09:18:01,308 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-08-08 09:18:01,308 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 2493555
+2019-08-08 09:18:01,308 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-08-08 09:18:01,308 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-08-08 09:18:01,308 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 0 should be int
+2019-08-08 09:18:01,308 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 1 should be int
+2019-08-08 09:18:01,308 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 2 should be int
+2019-08-08 09:18:01,308 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 3 should be int
+2019-08-08 09:18:01,308 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 4 should be int
+2019-08-08 09:18:01,308 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 5 should be int
+2019-08-08 09:18:01,308 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 6 should be int
+2019-08-08 09:18:01,308 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 7 should be int
+2019-08-08 09:18:01,308 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 8 should be int
+2019-08-08 09:18:01,308 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 9 should be int
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 10 should be int
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 11 should be int
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 12 should be int
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 13 should be int
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 14 should be int
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 15 should be int
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 16 should be int
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 17 should be int
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 18 should be int
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 19 should be int
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 100.0
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 0 should be int
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 1 should be int
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 2 should be int
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 3 should be int
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 4 should be int
+2019-08-08 09:18:01,309 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 5 should be int
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 6 should be int
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 7 should be int
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 8 should be int
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 9 should be int
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 10 should be int
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 11 should be int
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 12 should be int
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 13 should be int
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 14 should be int
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 15 should be int
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 16 should be int
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 17 should be int
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 18 should be int
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 0.0 on line 19 should be int
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 100.0
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 0.0
+2019-08-08 09:18:01,310 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-08-08 09:18:01,311 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 0.0
+2019-08-08 09:18:01,311 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 0.0
+2019-08-08 09:18:01,311 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-08-08 09:18:01,311 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-08-08 09:18:01,311 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1779000.0 on line 0 should be int
+2019-08-08 09:18:01,311 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 249000.0 on line 2 should be int
+2019-08-08 09:18:01,311 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 145000.0 on line 3 should be int
+2019-08-08 09:18:01,311 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 115000.0 on line 4 should be int
+2019-08-08 09:18:01,311 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 146210.0 on line 7 should be int
+2019-08-08 09:18:01,311 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 572000.0 on line 8 should be int
+2019-08-08 09:18:01,311 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 379000.0 on line 9 should be int
+2019-08-08 09:18:01,311 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 549000.0 on line 10 should be int
+2019-08-08 09:18:01,311 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 429900.0 on line 11 should be int
+2019-08-08 09:18:01,311 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 750000.0 on line 12 should be int
+2019-08-08 09:18:01,311 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 146297.0 on line 13 should be int
+2019-08-08 09:18:01,311 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 143659.0 on line 14 should be int
+2019-08-08 09:18:01,311 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 146999.0 on line 15 should be int
+2019-08-08 09:18:01,312 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 133547.0 on line 16 should be int
+2019-08-08 09:18:01,312 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 832900.0 on line 17 should be int
+2019-08-08 09:18:01,312 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 115796.0 on line 18 should be int
+2019-08-08 09:18:01,312 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 135137.0 on line 19 should be int
+2019-08-08 09:18:01,312 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 161829.0 on line 20 should be int
+2019-08-08 09:18:01,312 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 139952.0 on line 22 should be int
+2019-08-08 09:18:01,312 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 275000.0 on line 23 should be int
+2019-08-08 09:18:01,312 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-08-08 09:18:01,312 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 99.99
+2019-08-08 09:18:01,312 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 98.24
+2019-08-08 09:18:01,312 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-08-08 09:18:01,312 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0
+2019-08-08 09:18:01,312 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 0
+2019-08-08 09:18:01,312 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 18527
+2019-08-08 09:18:01,312 - IMMO - BR - ZAP - 2019-08-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 27

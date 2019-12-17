@@ -1,0 +1,125 @@
+2019-10-01 12:55:27,428 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-10-01 12:55:27,428 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,428 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 95.86
+2019-10-01 12:55:27,428 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,428 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 218 on line 4809, value should match regexp ^[0-9]{4}$
+2019-10-01 12:55:27,428 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 436685 on line 48346, value should match regexp ^[0-9]{4}$
+2019-10-01 12:55:27,428 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 201 on line 92188, value should match regexp ^[0-9]{4}$
+2019-10-01 12:55:27,428 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 436690 on line 116721, value should match regexp ^[0-9]{4}$
+2019-10-01 12:55:27,428 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 436698 on line 131079, value should match regexp ^[0-9]{4}$
+2019-10-01 12:55:27,428 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 436677 on line 133928, value should match regexp ^[0-9]{4}$
+2019-10-01 12:55:27,428 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 20164 on line 143641, value should match regexp ^[0-9]{4}$
+2019-10-01 12:55:27,428 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 20164 on line 143655, value should match regexp ^[0-9]{4}$
+2019-10-01 12:55:27,428 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 460382 on line 163843, value should match regexp ^[0-9]{4}$
+2019-10-01 12:55:27,429 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 173378, value should match regexp ^[0-9]{4}$
+2019-10-01 12:55:27,429 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 175622, value should match regexp ^[0-9]{4}$
+2019-10-01 12:55:27,429 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 175708, value should match regexp ^[0-9]{4}$
+2019-10-01 12:55:27,429 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.99
+2019-10-01 12:55:27,429 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,429 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-01 12:55:27,429 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 99.66
+2019-10-01 12:55:27,429 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-10-01 12:55:27,429 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 0.0
+2019-10-01 12:55:27,429 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-10-01 12:55:27,429 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,429 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-01 12:55:27,429 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 175894
+2019-10-01 12:55:27,429 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,429 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 83000.0 on line 0 should be in ['int']
+2019-10-01 12:55:27,429 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 190000.0 on line 1 should be in ['int']
+2019-10-01 12:55:27,429 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 183000.0 on line 2 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 3 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 51000.0 on line 4 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 5 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 53000.0 on line 6 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 78590.0 on line 7 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 8 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 1.0 on line 9 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 177000.0 on line 10 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 11 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 45000.0 on line 12 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 45000.0 on line 13 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 45000.0 on line 14 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 45000.0 on line 15 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 45000.0 on line 16 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 17 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 18 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - KM - Wrong type for value: 0.0 on line 19 should be in ['int']
+2019-10-01 12:55:27,430 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 0.0
+2019-10-01 12:55:27,431 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,431 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,431 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,431 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,431 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 99.91
+2019-10-01 12:55:27,431 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,431 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 0, value should be between 1 and 12
+2019-10-01 12:55:27,431 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-10-01 12:55:27,431 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 2, value should be between 1 and 12
+2019-10-01 12:55:27,431 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-10-01 12:55:27,431 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-10-01 12:55:27,431 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 5, value should be between 1 and 12
+2019-10-01 12:55:27,431 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-10-01 12:55:27,431 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-10-01 12:55:27,431 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-10-01 12:55:27,431 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-10-01 12:55:27,431 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 10, value should be between 1 and 12
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 11, value should be between 1 and 12
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 15, value should be between 1 and 12
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 0.0
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A3...] on line  13, value length should be between 10 and 255
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Santa Fe...] on line  418, value length should be between 10 and 255
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw X3...] on line  1308, value length should be between 10 and 255
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi A4...] on line  1804, value length should be between 10 and 255
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford Ka...] on line  2367, value length should be between 10 and 255
+2019-10-01 12:55:27,432 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fiat 147...] on line  3013, value length should be between 10 and 255
+2019-10-01 12:55:27,433 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fiat Uno...] on line  5373, value length should be between 10 and 255
+2019-10-01 12:55:27,433 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Uno 1.0...] on line  6959, value length should be between 10 and 255
+2019-10-01 12:55:27,433 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Honda Fit...] on line  7022, value length should be between 10 and 255
+2019-10-01 12:55:27,433 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Honda Fit...] on line  7109, value length should be between 10 and 255
+2019-10-01 12:55:27,433 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw X1...] on line  7609, value length should be between 10 and 255
+2019-10-01 12:55:27,433 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fiat Uno...] on line  8142, value length should be between 10 and 255
+2019-10-01 12:55:27,433 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw 528i...] on line  8415, value length should be between 10 and 255
+2019-10-01 12:55:27,433 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Fiat Uno...] on line  8847, value length should be between 10 and 255
+2019-10-01 12:55:27,433 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Audi Q3...] on line  8876, value length should be between 10 and 255
+2019-10-01 12:55:27,433 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Honda Fit...] on line  8879, value length should be between 10 and 255
+2019-10-01 12:55:27,433 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw Z8...] on line  9167, value length should be between 10 and 255
+2019-10-01 12:55:27,433 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Bmw 320 I...] on line  10183, value length should be between 10 and 255
+2019-10-01 12:55:27,433 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Ford Ka...] on line  10362, value length should be between 10 and 255
+2019-10-01 12:55:27,433 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Lifan X60...] on line  10740, value length should be between 10 and 255
+2019-10-01 12:55:27,433 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.65
+2019-10-01 12:55:27,433 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-10-01 12:55:27,433 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,434 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,434 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,434 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,434 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 96.4
+2019-10-01 12:55:27,434 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,434 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,434 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,434 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-10-01 12:55:27,434 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,434 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 99.74
+2019-10-01 12:55:27,434 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.77
+2019-10-01 12:55:27,434 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,434 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-10-01 12:55:27,434 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-10-01 12:55:27,434 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-10-01 12:55:27,434 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 122901
+2019-10-01 12:55:27,435 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 52993
+2019-10-01 12:55:27,435 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 192
+2019-10-01 12:55:27,435 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 1001
+2019-10-01 12:55:27,435 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-10-01 12:55:27,435 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 23
+2019-10-01 12:55:27,435 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-10-01 12:55:27,435 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-10-01 12:55:27,435 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 46
+2019-10-01 12:55:27,435 - VO - BR - MERCADOLIVRE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 26

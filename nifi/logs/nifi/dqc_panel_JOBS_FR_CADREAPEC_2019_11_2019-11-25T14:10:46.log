@@ -1,0 +1,282 @@
+2019-11-25 14:10:48,775 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+
+2019-11-25 14:10:48,775 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+
+2019-11-25 14:10:48,775 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+
+2019-11-25 14:10:48,775 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+
+2019-11-25 14:10:48,775 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+
+2019-11-25 14:10:48,775 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 99.97
+
+2019-11-25 14:10:48,775 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_TEXT - True - 1
+
+2019-11-25 14:10:48,775 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Rattaché(e) à la Dir...] on line  0, value length should be between 0 and 255
+
+2019-11-25 14:10:48,775 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Notre client est un ...] on line  1, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [ICOA France recherch...] on line  2, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Rattaché(e) au Respo...] on line  3, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Dans le cadre dâ??un...] on line  4, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Intégré(e) au sein d...] on line  5, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Le chef dâ??atelier ...] on line  6, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Dans le cadre de not...] on line  7, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Sous la responsabili...] on line  8, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [COMMERCIALISATION DE...] on line  9, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [MISSIONS Dans le cad...] on line  10, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Dans le cadre du dév...] on line  11, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Afin de construire l...] on line  12, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Rattaché(e) au Manag...] on line  13, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [GESER BEST GRENOBLE ...] on line  14, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Activités :    Sous ...] on line  15, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Vous êtes passionné ...] on line  16, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Véritable Bras Droit...] on line  17, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Kolibri Consulting r...] on line  18, value length should be between 0 and 255
+
+2019-11-25 14:10:48,776 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Notre cabinet interv...] on line  19, value length should be between 0 and 255
+
+2019-11-25 14:10:48,777 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 0.72
+
+2019-11-25 14:10:48,777 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - False - 0
+
+2019-11-25 14:10:48,777 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCEUR - correctly filled rate (%) - 99.91
+
+2019-11-25 14:10:48,777 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCEUR - True - 1
+
+2019-11-25 14:10:48,777 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCEUR_ID - correctly filled rate (%) - 99.91
+
+2019-11-25 14:10:48,777 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCEUR_ID - True - 1
+
+2019-11-25 14:10:48,777 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: ZZ_CONF on line 3, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,777 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: ZZ_CONF on line 4, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,777 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: ZZ_CONF on line 30, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,777 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: ZZ_CONF on line 33, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,777 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: ZZ_CONF on line 126, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,777 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: ZZ_CONF on line 135, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,777 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: ZZ_CONF on line 150, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,777 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: ZZ_CONF on line 210, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,777 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: ZZ_CONF on line 212, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,777 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: ZZ_CONF on line 213, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,777 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: ZZ_CONF on line 238, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: ZZ_CONF on line 253, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: ZZ_CONF on line 257, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: ZZ_CONF on line 258, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: ZZ_CONF on line 344, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: T&SENGI on line 351, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: API&YOU on line 361, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: T&SENGI on line 400, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: ZZ_CONF on line 416, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: LÂIIINS on line 419, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNONCEUR_ID - correctly filled rate (%) - 96.56
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNONCEUR_ID - False - 0
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCEUR_ID_3 - correctly filled rate (%) - 99.91
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCEUR_ID_3 - True - 1
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ZZ_CO on line 3, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ZZ_CO on line 4, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ZZ_CO on line 30, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ZZ_CO on line 33, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,778 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ZZ_CO on line 126, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ZZ_CO on line 135, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ZZ_CO on line 150, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ZZ_CO on line 210, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ZZ_CO on line 212, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ZZ_CO on line 213, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ZZ_CO on line 238, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ZZ_CO on line 253, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ZZ_CO on line 257, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ZZ_CO on line 258, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ZZ_CO on line 344, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: T&SEN on line 351, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: API&Y on line 361, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: T&SEN on line 400, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ZZ_CO on line 416, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: LÂIII on line 419, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - correctly filled rate (%) - 97.26
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - False - 0
+
+2019-11-25 14:10:48,779 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CABINET - correctly filled rate (%) - 100.0
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CABINET - True - 1
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - CABINET - observed proportion - 100.0
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CABINET - CABINET RH - 25727
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CABINET - AUTRE - 46985
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CABINET - SSII - 5685
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CONTRAT - correctly filled rate (%) - 100.0
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CONTRAT - True - 1
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - CONTRAT - observed proportion - 100.0
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CONTRAT - CDI - 72523
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CONTRAT - CDD - 4158
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CONTRAT - Interim - 1715
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CONTRAT - AUTRE - 1
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 99.99
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - True - 1
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 1.0 on line 0, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 38.0 on line 1, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 10.0 on line 2, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,780 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 69.0 on line 3, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 13.0 on line 4, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 44.0 on line 5, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 69.0 on line 6, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 69.0 on line 7, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 92.0 on line 8, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 54.0 on line 9, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 78.0 on line 10, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 17.0 on line 11, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 59.0 on line 12, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 75.0 on line 13, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 38.0 on line 14, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 75.0 on line 15, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 92.0 on line 16, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 92.0 on line 17, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 49.0 on line 18, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 13.0 on line 19, value should match regexp ^[0-9]{2}$
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - DEPARTEMENT - correctly filled rate (%) - 0.0
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - DEPARTEMENT - False - 0
+
+2019-11-25 14:10:48,781 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ENTREPRISE - correctly filled rate (%) - 99.91
+
+2019-11-25 14:10:48,782 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ENTREPRISE - True - 1
+
+2019-11-25 14:10:48,782 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+
+2019-11-25 14:10:48,782 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+
+2019-11-25 14:10:48,782 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+
+2019-11-25 14:10:48,782 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+
+2019-11-25 14:10:48,782 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 78397
+
+2019-11-25 14:10:48,782 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LIEU - correctly filled rate (%) - 100.0
+
+2019-11-25 14:10:48,782 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LIEU - True - 1
+
+2019-11-25 14:10:48,782 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - METIER - correctly filled rate (%) - 100.0
+
+2019-11-25 14:10:48,782 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - METIER - True - 1
+
+2019-11-25 14:10:48,782 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - ON_SITE - observed proportion - 100.0
+
+2019-11-25 14:10:48,782 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ON_SITE - correctly filled rate (%) - 100.0
+
+2019-11-25 14:10:48,782 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ON_SITE - True - 1
+
+2019-11-25 14:10:48,782 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OTHER_SITE - correctly filled rate (%) - 0.02
+
+2019-11-25 14:10:48,782 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OTHER_SITE - False - 0
+
+2019-11-25 14:10:48,782 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 99.99
+
+2019-11-25 14:10:48,782 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - True - 1
+
+2019-11-25 14:10:48,783 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - REGION - total number of unique rows - 20
+
+2019-11-25 14:10:48,783 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE_EMPLOI - correctly filled rate (%) - 100.0
+
+2019-11-25 14:10:48,783 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE_EMPLOI - True - 1
+
+2019-11-25 14:10:48,783 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SALAIRE - correctly filled rate (%) - 100.0
+
+2019-11-25 14:10:48,783 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SALAIRE - True - 1
+
+2019-11-25 14:10:48,783 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SECTEUR - correctly filled rate (%) - 95.98
+
+2019-11-25 14:10:48,783 - JOBS - FR - CADREAPEC - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SECTEUR - True - 1
+

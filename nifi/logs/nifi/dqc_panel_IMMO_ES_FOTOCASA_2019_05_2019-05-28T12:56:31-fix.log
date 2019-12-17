@@ -1,0 +1,123 @@
+2019-05-28 12:58:01,027 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,027 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,027 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 29.16
+2019-05-28 12:58:01,027 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 75.48
+2019-05-28 12:58:01,027 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 70.15
+2019-05-28 12:58:01,027 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Córdoba Capital on line 1, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,027 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Granada on line 977, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,027 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Granada on line 1000, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,027 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Benalmádena on line 1444, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,027 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Granada on line 1968, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,027 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Sant Cugat del Vallès on line 2192, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,027 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Granada on line 2219, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,027 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Sant Cugat del Vallès on line 2530, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,027 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Granada on line 2574, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,027 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Sant Cugat del Vallès on line 2604, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,028 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Sant Cugat del Vallès on line 2728, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,028 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Sant Cugat del Vallès on line 2872, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,028 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Sant Cugat del Vallès on line 2881, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,028 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Granada on line 2929, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,028 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Algeciras on line 3009, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,028 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Granada on line 3013, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,028 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Las Palmas on line 3038, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,028 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Granada on line 3205, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,028 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Sant Cugat del Vallès on line 3287, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,028 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: Sant Cugat del Vallès on line 3294, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,028 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 99.19
+2019-05-28 12:58:01,028 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,028 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 87.39
+2019-05-28 12:58:01,028 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 965091056.0 on line 0, value should match a phone number format
+2019-05-28 12:58:01,028 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 912188593.0 on line 2, value should match a phone number format
+2019-05-28 12:58:01,028 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 942915647.0 on line 3, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 959954274.0 on line 4, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 935438239.0 on line 5, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 935438239.0 on line 6, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 925586371.0 on line 7, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 923927945.0 on line 8, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 932932351.0 on line 9, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 942915647.0 on line 10, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 926282054.0 on line 11, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 972933091.0 on line 12, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 911799421.0 on line 13, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 979972094.0 on line 14, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 958928156.0 on line 15, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 958926208.0 on line 16, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 960964676.0 on line 17, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 876276071.0 on line 18, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 958928156.0 on line 19, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 951983021.0 on line 20, value should match a phone number format
+2019-05-28 12:58:01,029 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 0.0
+2019-05-28 12:58:01,030 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 98.93
+2019-05-28 12:58:01,030 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 74.51
+2019-05-28 12:58:01,030 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,030 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,030 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-05-28 12:58:01,030 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,030 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 0.37
+2019-05-28 12:58:01,030 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 0.45
+2019-05-28 12:58:01,030 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.94
+2019-05-28 12:58:01,030 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD200 on line 121, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,030 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD200 on line 182, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,030 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD700 on line 1845, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,030 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD500 on line 3919, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,030 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD600 on line 4271, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,030 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD400 on line 5258, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,030 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD400 on line 5320, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,030 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD400 on line 5425, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,031 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: AD600 on line 5567, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,031 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1560 on line 5935, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,031 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 8191 on line 6316, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,031 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7819 on line 6973, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,031 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 8001 on line 6978, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,031 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 7819 on line 6979, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,031 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1320 on line 7051, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,031 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3190 on line 7058, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,031 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4740 on line 7138, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,031 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3560 on line 7184, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,031 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 8906 on line 7247, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,031 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3700 on line 7249, value should match regexp ^[0-9]{5}$
+2019-05-28 12:58:01,031 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 96.56
+2019-05-28 12:58:01,031 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 760504
+2019-05-28 12:58:01,031 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,031 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 95.0 on line 0 should be int
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 105.0 on line 1 should be int
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 81.0 on line 2 should be int
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 240.0 on line 3 should be int
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 120.0 on line 4 should be int
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 186.0 on line 5 should be int
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 70.0 on line 6 should be int
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 132.0 on line 7 should be int
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 90.0 on line 8 should be int
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 99.0 on line 9 should be int
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 150.0 on line 10 should be int
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 70.0 on line 11 should be int
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 150.0 on line 12 should be int
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 125.0 on line 13 should be int
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 75.0 on line 14 should be int
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 140.0 on line 15 should be int
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 101.0 on line 16 should be int
+2019-05-28 12:58:01,032 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 65.0 on line 17 should be int
+2019-05-28 12:58:01,033 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 40.0 on line 18 should be int
+2019-05-28 12:58:01,033 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 216.0 on line 19 should be int
+2019-05-28 12:58:01,033 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-05-28 12:58:01,033 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,033 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,033 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,033 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 85.66
+2019-05-28 12:58:01,033 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 96.35
+2019-05-28 12:58:01,033 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,033 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 99.64
+2019-05-28 12:58:01,033 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,033 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,033 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,033 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,033 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,034 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,034 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 99.64
+2019-05-28 12:58:01,034 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 99.64
+2019-05-28 12:58:01,034 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,034 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-05-28 12:58:01,034 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 6817
+2019-05-28 12:58:01,034 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 99784
+2019-05-28 12:58:01,034 - IMMO - ES - FOTOCASA - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 657990

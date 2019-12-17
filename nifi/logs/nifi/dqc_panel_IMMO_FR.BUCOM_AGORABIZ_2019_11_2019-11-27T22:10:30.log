@@ -1,0 +1,145 @@
+2019-11-27 22:13:51,096 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-11-27 22:13:51,096 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,096 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ACHAT_LOC - True - 1
+2019-11-27 22:13:51,096 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,096 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - ACHAT_LOC - True - 1
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - True - 1
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 97.52
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_ADRESSE - True - 1
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 97.5
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_CP - True - 1
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6500 on line 4, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6560 on line 65, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6285 on line 66, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6285 on line 107, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6000 on line 182, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6000 on line 188, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6200 on line 192, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6500 on line 207, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6000 on line 221, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6000 on line 225, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6200 on line 528, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,097 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6285 on line 662, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,098 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 2800 on line 684, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,098 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6100 on line 699, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,098 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6000 on line 724, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,098 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6000 on line 773, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,098 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6500 on line 802, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,098 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6000 on line 834, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,098 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6000 on line 836, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,098 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6000 on line 875, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,098 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 94.96
+2019-11-27 22:13:51,098 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - AGENCE_CP - False - 0
+2019-11-27 22:13:51,098 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 99.99
+2019-11-27 22:13:51,098 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_NOM - True - 1
+2019-11-27 22:13:51,098 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.99
+2019-11-27 22:13:51,098 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - AGENCE_TEL - True - 1
+2019-11-27 22:13:51,098 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 99.17
+2019-11-27 22:13:51,098 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_TEL - True - 1
+2019-11-27 22:13:51,098 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 93.62
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - AGENCE_VILLE - True - 1
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 0.0
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_DATE - False - 0
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - True - 1
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_TEXT - True - 1
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CATEGORIE - True - 1
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6500 on line 4, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6560 on line 65, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6000 on line 66, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,099 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6560 on line 107, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6000 on line 182, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6000 on line 188, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6000 on line 192, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6500 on line 207, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6800 on line 221, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6000 on line 225, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6000 on line 248, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6400 on line 268, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6800 on line 269, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6800 on line 270, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6700 on line 271, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6800 on line 272, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6800 on line 273, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6160 on line 283, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6000 on line 286, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6000 on line 290, value should match regexp ^[0-9]{5}$
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 94.4
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - False - 0
+2019-11-27 22:13:51,100 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - DEPARTEMENT - True - 1
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 48738
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1280.0 on line 1 should be int
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1300.0 on line 2 should be int
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 60.0 on line 3 should be int
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 22.0 on line 4 should be int
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 221.0 on line 5 should be int
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1150.0 on line 6 should be int
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 469.0 on line 7 should be int
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 90.0 on line 8 should be int
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 150.0 on line 9 should be int
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 580.0 on line 10 should be int
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1300.0 on line 11 should be int
+2019-11-27 22:13:51,101 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1870.0 on line 12 should be int
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 100.0 on line 13 should be int
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 428.0 on line 14 should be int
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 73.0 on line 17 should be int
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 3.0 on line 18 should be int
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 25.0 on line 19 should be int
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 1000.0 on line 21 should be int
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 70.0 on line 22 should be int
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 121.0 on line 23 should be int
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - M2_TOTALE - False - 0
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 94.91
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - M2_TOTALE - True - 1
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 0.0
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MAISON_APT - False - 0
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MINI_SITE_ID - False - 0
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,102 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - True - 1
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - PAYS_AD - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - PAYS_AD - True - 1
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PAYS_AD - True - 1
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 92.32
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 0.0
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PIECE - False - 0
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_of_type - PRIX - True - 1
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 0.0
+2019-11-27 22:13:51,103 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRO_IND - False - 0
+2019-11-27 22:13:51,104 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 99.85
+2019-11-27 22:13:51,104 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - REGION - True - 1
+2019-11-27 22:13:51,104 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,104 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SELLER_TYPE - True - 1
+2019-11-27 22:13:51,104 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - SELLER_TYPE - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,104 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - SELLER_TYPE - True - 1
+2019-11-27 22:13:51,104 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-11-27 22:13:51,104 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - VILLE - True - 1
+2019-11-27 22:13:51,104 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.85
+2019-11-27 22:13:51,104 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-11-27 22:13:51,104 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 3046
+2019-11-27 22:13:51,104 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 48738
+2019-11-27 22:13:51,104 - IMMO - FR.BUCOM - AGORABIZ - 2019-11-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0

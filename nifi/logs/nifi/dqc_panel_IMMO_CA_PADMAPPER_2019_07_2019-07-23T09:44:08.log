@@ -1,0 +1,144 @@
+2019-07-23 09:44:12,492 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 99.93
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 0.0
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 99.99
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 52.86
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 5145665036.0 on line 0, value should match a phone number format
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 84432646775177.0 on line 1, value should match a phone number format
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 84433435909147.0 on line 2, value should match a phone number format
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 84432638608594.0 on line 3, value should match a phone number format
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 84432934932708.0 on line 4, value should match a phone number format
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 5142666601.0 on line 5, value should match a phone number format
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 84432638604409.0 on line 6, value should match a phone number format
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 84431119084061.0 on line 7, value should match a phone number format
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 5145665036.0 on line 8, value should match a phone number format
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 4164472447.0 on line 9, value should match a phone number format
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 84433555361271.0 on line 10, value should match a phone number format
+2019-07-23 09:44:12,493 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 84432554409598.0 on line 11, value should match a phone number format
+2019-07-23 09:44:12,494 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 84433472697057.0 on line 12, value should match a phone number format
+2019-07-23 09:44:12,494 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 84431147958486.0 on line 14, value should match a phone number format
+2019-07-23 09:44:12,494 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 84426278074122.0 on line 15, value should match a phone number format
+2019-07-23 09:44:12,494 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 84432658775174.0 on line 16, value should match a phone number format
+2019-07-23 09:44:12,494 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 84427818171983.0 on line 17, value should match a phone number format
+2019-07-23 09:44:12,494 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 5146999448.0 on line 18, value should match a phone number format
+2019-07-23 09:44:12,494 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 84432560486238.0 on line 19, value should match a phone number format
+2019-07-23 09:44:12,494 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 5142167753.0 on line 21, value should match a phone number format
+2019-07-23 09:44:12,494 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 0.0
+2019-07-23 09:44:12,494 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 65.93
+2019-07-23 09:44:12,494 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 0.0
+2019-07-23 09:44:12,494 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-07-23 09:44:12,494 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-07-23 09:44:12,494 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-07-23 09:44:12,494 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 0.0
+2019-07-23 09:44:12,494 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 58.98
+2019-07-23 09:44:12,494 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: QCH2Z1P5 on line 689, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:44:12,495 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: N1C4DR on line 17029, value should match regexp ^[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}[A-Z]{1}[0-9]{1}
+2019-07-23 09:44:12,495 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 99.98
+2019-07-23 09:44:12,495 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_match_regex - CP - correctly filled rate (%) - 100.0
+2019-07-23 09:44:12,495 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 0.0
+2019-07-23 09:44:12,495 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 17635
+2019-07-23 09:44:12,495 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-07-23 09:44:12,495 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-07-23 09:44:12,495 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 0.0
+2019-07-23 09:44:12,495 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-07-23 09:44:12,495 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-07-23 09:44:12,495 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-07-23 09:44:12,495 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 0.0
+2019-07-23 09:44:12,495 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 14.0 on line 0 should be int
+2019-07-23 09:44:12,495 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 5.0 on line 1 should be int
+2019-07-23 09:44:12,495 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 0.0 on line 2 should be int
+2019-07-23 09:44:12,495 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 0.0 on line 3 should be int
+2019-07-23 09:44:12,495 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 5.0 on line 4 should be int
+2019-07-23 09:44:12,496 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 15.0 on line 5 should be int
+2019-07-23 09:44:12,496 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 49.0 on line 6 should be int
+2019-07-23 09:44:12,496 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 9.0 on line 7 should be int
+2019-07-23 09:44:12,496 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 17.0 on line 8 should be int
+2019-07-23 09:44:12,496 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 8.0 on line 9 should be int
+2019-07-23 09:44:12,496 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 26.0 on line 10 should be int
+2019-07-23 09:44:12,496 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 3.0 on line 11 should be int
+2019-07-23 09:44:12,496 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 13.0 on line 12 should be int
+2019-07-23 09:44:12,496 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 7.0 on line 13 should be int
+2019-07-23 09:44:12,496 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 5.0 on line 14 should be int
+2019-07-23 09:44:12,496 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 7.0 on line 15 should be int
+2019-07-23 09:44:12,496 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 18.0 on line 16 should be int
+2019-07-23 09:44:12,496 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 11.0 on line 17 should be int
+2019-07-23 09:44:12,496 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 34.0 on line 18 should be int
+2019-07-23 09:44:12,496 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PHOTO - Wrong type for value: 10.0 on line 19 should be int
+2019-07-23 09:44:12,496 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PHOTO - correctly filled rate (%) - 0.0
+2019-07-23 09:44:12,496 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 93.86
+2019-07-23 09:44:12,497 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-07-23 09:44:12,497 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PIECE - correctly filled rate (%) - 100.0
+2019-07-23 09:44:12,497 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-07-23 09:44:12,497 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-07-23 09:44:12,497 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 950.0 on line 0 should be int
+2019-07-23 09:44:12,497 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1395.0 on line 1 should be int
+2019-07-23 09:44:12,497 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2400.0 on line 2 should be int
+2019-07-23 09:44:12,497 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 580.0 on line 3 should be int
+2019-07-23 09:44:12,497 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1075.0 on line 4 should be int
+2019-07-23 09:44:12,497 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2300.0 on line 5 should be int
+2019-07-23 09:44:12,497 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1340.0 on line 6 should be int
+2019-07-23 09:44:12,497 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2100.0 on line 7 should be int
+2019-07-23 09:44:12,497 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1150.0 on line 8 should be int
+2019-07-23 09:44:12,497 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1750.0 on line 9 should be int
+2019-07-23 09:44:12,497 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1300.0 on line 10 should be int
+2019-07-23 09:44:12,497 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 775.0 on line 11 should be int
+2019-07-23 09:44:12,497 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1900.0 on line 12 should be int
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1100.0 on line 13 should be int
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1850.0 on line 14 should be int
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1530.0 on line 15 should be int
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2050.0 on line 16 should be int
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1350.0 on line 17 should be int
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 1980.0 on line 18 should be int
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 2500.0 on line 19 should be int
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 93.86
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 33.96
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 99.98
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 0 should be int
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 1 should be int
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 2 should be int
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 3 should be int
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 4 should be int
+2019-07-23 09:44:12,498 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 5 should be int
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 6 should be int
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 7 should be int
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 8 should be int
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 9 should be int
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 10 should be int
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 11 should be int
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 12 should be int
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 13 should be int
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 14 should be int
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 15 should be int
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 16 should be int
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 17 should be int
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 18 should be int
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - SURFACE_TERRAIN - Wrong type for value: 0.0 on line 19 should be int
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - SURFACE_TERRAIN - correctly filled rate (%) - 0.0
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 0, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 1, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 3, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,499 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 4, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 5, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 6, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 7, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 8, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 10, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 11, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 12, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 15, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 16, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 17, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 18, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 19, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 21, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 22, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 24, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - VILLE - Unexpected value: Montréal on line 29, value should match regexp ^[A-Za-z /]{2,}$
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 87.02
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-07-23 09:44:12,500 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0
+2019-07-23 09:44:12,501 - IMMO - CA - PADMAPPER - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 5988

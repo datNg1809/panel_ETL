@@ -1,0 +1,114 @@
+2019-09-30 15:13:44,732 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-09-30 15:13:44,732 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,732 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.93
+2019-09-30 15:13:44,732 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,732 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,732 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,732 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-09-30 15:13:44,732 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,732 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,732 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,732 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,732 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,732 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,732 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 174591
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 19, value should be between 1 and 12
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 20, value should be between 1 and 12
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 21, value should be between 1 and 12
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 22, value should be between 1 and 12
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 42, value should be between 1 and 12
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 43, value should be between 1 and 12
+2019-09-30 15:13:44,733 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 51, value should be between 1 and 12
+2019-09-30 15:13:44,734 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 67, value should be between 1 and 12
+2019-09-30 15:13:44,734 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 68, value should be between 1 and 12
+2019-09-30 15:13:44,734 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 69, value should be between 1 and 12
+2019-09-30 15:13:44,734 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 70, value should be between 1 and 12
+2019-09-30 15:13:44,734 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 71, value should be between 1 and 12
+2019-09-30 15:13:44,734 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 72, value should be between 1 and 12
+2019-09-30 15:13:44,734 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 73, value should be between 1 and 12
+2019-09-30 15:13:44,734 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 74, value should be between 1 and 12
+2019-09-30 15:13:44,734 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 75, value should be between 1 and 12
+2019-09-30 15:13:44,734 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 76, value should be between 1 and 12
+2019-09-30 15:13:44,734 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 77, value should be between 1 and 12
+2019-09-30 15:13:44,734 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 83.89
+2019-09-30 15:13:44,734 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,734 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,734 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,734 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 98.75
+2019-09-30 15:13:44,734 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airbag per la testa,...] on line  0, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Alzacristalli elettr...] on line  1, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Appoggiatesta poster...] on line  2, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Alzacristalli elettr...] on line  3, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Alzacristalli elettr...] on line  4, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [1 immatricolazione r...] on line  5, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [TRENO GOMME INVERNAL...] on line  6, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [VETTURA IN PERFETTE ...] on line  7, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airbag frontali,&#x2...] on line  8, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS,&#x200b; Airbag ...] on line  9, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [SPESE DI CONSEGNA ES...] on line  10, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airbag per la testa,...] on line  11, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [SD C4RD EUROPA PARK ...] on line  12, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [<h3>Informazioni agg...] on line  13, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [<h3>Informazioni agg...] on line  14, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [<h3>Informazioni agg...] on line  15, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [<h3>Informazioni agg...] on line  16, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [<h3>Informazioni agg...] on line  17, value length should be between 0 and 255
+2019-09-30 15:13:44,735 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [La dotazione tecnica...] on line  18, value length should be between 0 and 255
+2019-09-30 15:13:44,736 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [La dotazione tecnica...] on line  19, value length should be between 0 and 255
+2019-09-30 15:13:44,736 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 65.35
+2019-09-30 15:13:44,736 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,736 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,736 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-09-30 15:13:44,736 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 8.92
+2019-09-30 15:13:44,736 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,736 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,736 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,736 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.32
+2019-09-30 15:13:44,736 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,736 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 0.0
+2019-09-30 15:13:44,736 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,736 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-09-30 15:13:44,736 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-09-30 15:13:44,736 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-09-30 15:13:44,736 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 174591
+2019-09-30 15:13:44,737 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-09-30 15:13:44,737 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 95
+2019-09-30 15:13:44,737 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 872
+2019-09-30 15:13:44,737 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 10
+2019-09-30 15:13:44,737 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 24
+2019-09-30 15:13:44,737 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 74.23
+2019-09-30 15:13:44,737 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1968.0 on line 0 should be in ['int']
+2019-09-30 15:13:44,737 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 2 should be in ['int']
+2019-09-30 15:13:44,737 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2967.0 on line 3 should be in ['int']
+2019-09-30 15:13:44,737 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 4134.0 on line 4 should be in ['int']
+2019-09-30 15:13:44,737 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2993.0 on line 6 should be in ['int']
+2019-09-30 15:13:44,737 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1248.0 on line 8 should be in ['int']
+2019-09-30 15:13:44,737 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2143.0 on line 9 should be in ['int']
+2019-09-30 15:13:44,737 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 11 should be in ['int']
+2019-09-30 15:13:44,737 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1461.0 on line 13 should be in ['int']
+2019-09-30 15:13:44,737 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1747.0 on line 14 should be in ['int']
+2019-09-30 15:13:44,737 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 19 should be in ['int']
+2019-09-30 15:13:44,738 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1560.0 on line 21 should be in ['int']
+2019-09-30 15:13:44,738 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1984.0 on line 22 should be in ['int']
+2019-09-30 15:13:44,738 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2967.0 on line 23 should be in ['int']
+2019-09-30 15:13:44,738 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1984.0 on line 24 should be in ['int']
+2019-09-30 15:13:44,738 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1984.0 on line 26 should be in ['int']
+2019-09-30 15:13:44,738 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1968.0 on line 27 should be in ['int']
+2019-09-30 15:13:44,738 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2967.0 on line 31 should be in ['int']
+2019-09-30 15:13:44,738 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1422.0 on line 32 should be in ['int']
+2019-09-30 15:13:44,738 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1968.0 on line 34 should be in ['int']
+2019-09-30 15:13:44,738 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-09-30 15:13:44,738 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 71
+2019-09-30 15:13:44,738 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 1736
+2019-09-30 15:13:44,738 - VO - IT - CARGURUS - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 102

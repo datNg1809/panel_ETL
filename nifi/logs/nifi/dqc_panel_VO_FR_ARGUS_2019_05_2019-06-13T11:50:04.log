@@ -1,0 +1,196 @@
+2019-06-13 11:50:22,592 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 92.14
+2019-06-13 11:50:22,593 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-06-13 11:50:22,593 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.96
+2019-06-13 11:50:22,593 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-06-13 11:50:22,593 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2017.0 on line 0, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,593 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 1, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,593 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2013.0 on line 2, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,593 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 3, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,593 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 4, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,593 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2007.0 on line 5, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,593 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 6, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,593 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 7, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,593 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 8, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,593 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2017.0 on line 9, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,593 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2015.0 on line 10, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,593 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2017.0 on line 11, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,593 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 12, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2017.0 on line 13, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 14, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 15, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2014.0 on line 16, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2015.0 on line 17, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2018.0 on line 18, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 2016.0 on line 19, value should match regexp ^[0-9]{4}$
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 0.0
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 844, value should be unique
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 4991, value should be unique
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 6328, value should be unique
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 6530, value should be unique
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 8543, value should be unique
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 8687, value should be unique
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 9722, value should be unique
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 9785, value should be unique
+2019-06-13 11:50:22,594 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 11119, value should be unique
+2019-06-13 11:50:22,595 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 15104, value should be unique
+2019-06-13 11:50:22,595 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 16653, value should be unique
+2019-06-13 11:50:22,595 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 17637, value should be unique
+2019-06-13 11:50:22,595 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 22405, value should be unique
+2019-06-13 11:50:22,595 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 26576, value should be unique
+2019-06-13 11:50:22,595 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 30361, value should be unique
+2019-06-13 11:50:22,595 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 34718, value should be unique
+2019-06-13 11:50:22,595 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 36391, value should be unique
+2019-06-13 11:50:22,595 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 38484, value should be unique
+2019-06-13 11:50:22,595 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 39191, value should be unique
+2019-06-13 11:50:22,595 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 0 on line 39727, value should be unique
+2019-06-13 11:50:22,595 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 99.96
+2019-06-13 11:50:22,595 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-06-13 11:50:22,595 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-06-13 11:50:22,595 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.99
+2019-06-13 11:50:22,595 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 95.73
+2019-06-13 11:50:22,595 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 99.96
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 99.96
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 134897
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 99.92
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 99.92
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 99.96
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 0.0
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1, value should be between 1 and 12
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 3, value should be between 1 and 12
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 4, value should be between 1 and 12
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 6, value should be between 1 and 12
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 7, value should be between 1 and 12
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 8, value should be between 1 and 12
+2019-06-13 11:50:22,596 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 9, value should be between 1 and 12
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 12, value should be between 1 and 12
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 13, value should be between 1 and 12
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 14, value should be between 1 and 12
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 16, value should be between 1 and 12
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 17, value should be between 1 and 12
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 18, value should be between 1 and 12
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 20, value should be between 1 and 12
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 21, value should be between 1 and 12
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 22, value should be between 1 and 12
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 23, value should be between 1 and 12
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 24, value should be between 1 and 12
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 26, value should be between 1 and 12
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 29, value should be between 1 and 12
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 46.73
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  844, value length should be between 10 and 255
+2019-06-13 11:50:22,597 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  4991, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  6328, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  6530, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  8687, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  9785, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  11119, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  17637, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  22405, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  30361, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  34718, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  36391, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  39727, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  54998, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  55437, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  60118, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  64962, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  66073, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  67985, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Manuelle...] on line  87842, value length should be between 10 and 255
+2019-06-13 11:50:22,598 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.98
+2019-06-13 11:50:22,599 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.04
+2019-06-13 11:50:22,599 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 100.0
+2019-06-13 11:50:22,599 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 15.0 on line 0 should be in ['int']
+2019-06-13 11:50:22,599 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1.0 on line 1 should be in ['int']
+2019-06-13 11:50:22,599 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 15.0 on line 2 should be in ['int']
+2019-06-13 11:50:22,599 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 3.0 on line 3 should be in ['int']
+2019-06-13 11:50:22,599 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1.0 on line 4 should be in ['int']
+2019-06-13 11:50:22,599 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 12.0 on line 5 should be in ['int']
+2019-06-13 11:50:22,599 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 8.0 on line 6 should be in ['int']
+2019-06-13 11:50:22,599 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1.0 on line 7 should be in ['int']
+2019-06-13 11:50:22,599 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1.0 on line 8 should be in ['int']
+2019-06-13 11:50:22,599 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1.0 on line 9 should be in ['int']
+2019-06-13 11:50:22,599 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 7.0 on line 10 should be in ['int']
+2019-06-13 11:50:22,599 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 14.0 on line 11 should be in ['int']
+2019-06-13 11:50:22,599 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1.0 on line 12 should be in ['int']
+2019-06-13 11:50:22,599 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 1.0 on line 13 should be in ['int']
+2019-06-13 11:50:22,599 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 7.0 on line 14 should be in ['int']
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 15.0 on line 15 should be in ['int']
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 10.0 on line 16 should be in ['int']
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 15.0 on line 17 should be in ['int']
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 8.0 on line 18 should be in ['int']
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PHOTO - Wrong type for value: 12.0 on line 19 should be in ['int']
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 0.0
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 99.96
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 99.09
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 99.96
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 99.97
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 411921846.0 on line 0, value should match a phone number format
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 176362615.0 on line 1, value should match a phone number format
+2019-06-13 11:50:22,600 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 481928224.0 on line 2, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 176390785.0 on line 3, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 176341120.0 on line 4, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 182410750.0 on line 5, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 485882123.0 on line 6, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 489883742.0 on line 7, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 368781047.0 on line 8, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 240672727.0 on line 9, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 482811718.0 on line 10, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 326210808.0 on line 11, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 186652653.0 on line 12, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 484802460.0 on line 13, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 176351068.0 on line 14, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 524449923.0 on line 15, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 384828448.0 on line 16, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 366883020.0 on line 17, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 366883158.0 on line 18, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - TELEPHONE - Unexpected value: 230210855.0 on line 19, value should match a phone number format
+2019-06-13 11:50:22,601 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 0.01
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 99.92
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 134897
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 68
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 710
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 8
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 56.81
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 0 should be in ['int']
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.0 on line 1 should be in ['int']
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.5 on line 2 should be in ['int']
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.3 on line 4 should be in ['int']
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 5 should be in ['int']
+2019-06-13 11:50:22,602 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.2 on line 6 should be in ['int']
+2019-06-13 11:50:22,603 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 10 should be in ['int']
+2019-06-13 11:50:22,603 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.2 on line 13 should be in ['int']
+2019-06-13 11:50:22,603 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 15 should be in ['int']
+2019-06-13 11:50:22,603 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.5 on line 17 should be in ['int']
+2019-06-13 11:50:22,603 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.0 on line 18 should be in ['int']
+2019-06-13 11:50:22,603 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.5 on line 19 should be in ['int']
+2019-06-13 11:50:22,603 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.2 on line 23 should be in ['int']
+2019-06-13 11:50:22,603 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.2 on line 29 should be in ['int']
+2019-06-13 11:50:22,603 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 30 should be in ['int']
+2019-06-13 11:50:22,603 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.2 on line 33 should be in ['int']
+2019-06-13 11:50:22,603 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 35 should be in ['int']
+2019-06-13 11:50:22,603 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.6 on line 36 should be in ['int']
+2019-06-13 11:50:22,603 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2.0 on line 37 should be in ['int']
+2019-06-13 11:50:22,603 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1.4 on line 38 should be in ['int']
+2019-06-13 11:50:22,603 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-06-13 11:50:22,603 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-06-13 11:50:22,603 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 1270
+2019-06-13 11:50:22,604 - VO - FR - ARGUS - 2019-05-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 98

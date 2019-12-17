@@ -1,0 +1,240 @@
+2019-08-14 09:09:13,024 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+
+2019-08-14 09:09:13,024 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://fr.viadeo.com/fr/jobs/ingenieur-e-d-integration-test-et-validation-systeme-dans-le-domaine-de-la-cryptographie-junior-e-h- on line 993, value should be unique
+
+2019-08-14 09:09:13,025 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://fr.viadeo.com/fr/jobs/ingenieur-e-d-etudes-et-developpement-logiciel-de-systemes-d-information-pour-la-maitrise-des-emissi on line 4800, value should be unique
+
+2019-08-14 09:09:13,025 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://fr.viadeo.com/fr/jobs/ingenieur-e-d-etudes-et-developpement-systemes-embarquees-de-capteurs-de-contole-du-spectre-electrom on line 5102, value should be unique
+
+2019-08-14 09:09:13,025 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://fr.viadeo.com/fr/jobs/ingenieur-experimente-en-developpement-logiciel-d-exploitation-capteur-de-renseignement-d-origine-el on line 17208, value should be unique
+
+2019-08-14 09:09:13,025 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://fr.viadeo.com/fr/jobs/ingenieur-experimente-en-developpement-logiciel-d-exploitation-capteur-de-renseignement-d-origine-el on line 20735, value should be unique
+
+2019-08-14 09:09:13,025 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://fr.viadeo.com/fr/jobs/ingenieur-e-d-integration-test-et-validation-systeme-dans-le-domaine-de-la-cryptographie-junior-e-h- on line 22291, value should be unique
+
+2019-08-14 09:09:13,025 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://fr.viadeo.com/fr/jobs/ingenieur-e-d-etudes-et-developpement-logiciel-de-systemes-d-information-pour-la-maitrise-des-emissi on line 22651, value should be unique
+
+2019-08-14 09:09:13,025 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: https://fr.viadeo.com/fr/jobs/ingenieur-e-d-etudes-et-developpement-systemes-embarquees-de-capteurs-de-contole-du-spectre-electrom on line 31320, value should be unique
+
+2019-08-14 09:09:13,025 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 99.98
+
+2019-08-14 09:09:13,025 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 99.67
+
+2019-08-14 09:09:13,025 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Vos missions princip...] on line  0, value length should be between 0 and 255
+
+2019-08-14 09:09:13,025 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Nous offrons un parc...] on line  1, value length should be between 0 and 255
+
+2019-08-14 09:09:13,025 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Description de l ent...] on line  2, value length should be between 0 and 255
+
+2019-08-14 09:09:13,025 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Vos missions ? Votre...] on line  3, value length should be between 0 and 255
+
+2019-08-14 09:09:13,025 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Avec un fort esprit ...] on line  4, value length should be between 0 and 255
+
+2019-08-14 09:09:13,025 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Description de l ent...] on line  5, value length should be between 0 and 255
+
+2019-08-14 09:09:13,025 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Rattaché(e) au servi...] on line  6, value length should be between 0 and 255
+
+2019-08-14 09:09:13,025 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Vos principales tâch...] on line  7, value length should be between 0 and 255
+
+2019-08-14 09:09:13,026 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [CE QUE NOUS POUVONS ...] on line  8, value length should be between 0 and 255
+
+2019-08-14 09:09:13,026 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Vous êtes en charge ...] on line  9, value length should be between 0 and 255
+
+2019-08-14 09:09:13,026 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Nous recrutons un in...] on line  10, value length should be between 0 and 255
+
+2019-08-14 09:09:13,026 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Mission aux périodes...] on line  11, value length should be between 0 and 255
+
+2019-08-14 09:09:13,026 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [En lien direct avec ...] on line  12, value length should be between 0 and 255
+
+2019-08-14 09:09:13,026 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [En nous rejoignant, ...] on line  13, value length should be between 0 and 255
+
+2019-08-14 09:09:13,026 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Pathologie neurologi...] on line  14, value length should be between 0 and 255
+
+2019-08-14 09:09:13,026 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Vous ferez partie de...] on line  15, value length should be between 0 and 255
+
+2019-08-14 09:09:13,026 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Vous serez en charge...] on line  16, value length should be between 0 and 255
+
+2019-08-14 09:09:13,026 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Que diriez-vous de r...] on line  17, value length should be between 0 and 255
+
+2019-08-14 09:09:13,026 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Rattaché au Directeu...] on line  18, value length should be between 0 and 255
+
+2019-08-14 09:09:13,026 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - Unexpected characters count of: [Sous la direction du...] on line  19, value length should be between 0 and 255
+
+2019-08-14 09:09:13,026 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 2.9
+
+2019-08-14 09:09:13,026 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCEUR - correctly filled rate (%) - 98.87
+
+2019-08-14 09:09:13,026 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCEUR_ID - correctly filled rate (%) - 98.87
+
+2019-08-14 09:09:13,026 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 0, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,026 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 7, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 10, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 11, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 14, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 16, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 21, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: FEDINGÉ on line 24, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 29, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 32, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 34, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 35, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 36, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 43, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 46, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 53, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 57, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 73, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 77, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,027 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID - Unexpected value: APPELMÉ on line 82, value should match regexp ^[0-9A-Za-z]{,7}$
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNONCEUR_ID - correctly filled rate (%) - 76.49
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCEUR_ID_3 - correctly filled rate (%) - 98.87
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ALPHÉ on line 196, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ALPHÉ on line 198, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: FEDLÉ on line 206, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: SYSTÈ on line 221, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ALPHÉ on line 262, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ALPHÉ on line 451, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: CRÉDI on line 472, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ALPHÉ on line 504, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: RPC&A on line 553, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: M&APR on line 653, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: PÉNÉL on line 668, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: SOCIÉ on line 933, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: PÉNÉL on line 988, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ALPHÉ on line 1078, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ALPHÉ on line 1138, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,028 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ALPHÉ on line 1143, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ALPHÉ on line 1398, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: PÉNÉL on line 1685, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: ALPHÉ on line 1926, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - Unexpected value: S&YOU on line 1966, value should match regexp ^[0-9A-Za-z]{,5}$
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNONCEUR_ID_3 - correctly filled rate (%) - 98.94
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CABINET - correctly filled rate (%) - 100.0
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - CABINET - observed proportion - 100.0
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CABINET - count of value CABINET RH - 25516
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CABINET - count of value SSII - 1778
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CABINET - count of value AUTRE - 5545
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CONTRAT - correctly filled rate (%) - 100.0
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - CONTRAT - observed proportion - 100.0
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CONTRAT - count of value CDD - 12891
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CONTRAT - count of value CDI - 18394
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_groupby - CONTRAT - count of value AUTRE - 1554
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 95.45
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 27.0 on line 0, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,029 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 8.0 on line 2, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,030 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 82.0 on line 3, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,030 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 74.0 on line 4, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,030 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 13.0 on line 5, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,030 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 68.0 on line 6, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,030 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 83.0 on line 7, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,030 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 31.0 on line 8, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,030 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 68.0 on line 9, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,030 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 35.0 on line 10, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,030 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 63.0 on line 11, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,030 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 59.0 on line 12, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,030 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 33.0 on line 13, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,030 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 11.0 on line 14, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,030 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 94.0 on line 15, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,030 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 69.0 on line 16, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,030 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 75.0 on line 17, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,030 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 33.0 on line 18, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,030 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 13.0 on line 19, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,031 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - DEPARTEMENT - Unexpected value: 44.0 on line 20, value should match regexp ^[0-9]{2}$
+
+2019-08-14 09:09:13,031 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - DEPARTEMENT - correctly filled rate (%) - 0.0
+
+2019-08-14 09:09:13,031 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ENTREPRISE - correctly filled rate (%) - 98.87
+
+2019-08-14 09:09:13,031 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+
+2019-08-14 09:09:13,031 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+
+2019-08-14 09:09:13,031 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 32839
+
+2019-08-14 09:09:13,031 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LIEU - correctly filled rate (%) - 99.07
+
+2019-08-14 09:09:13,031 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - METIER - correctly filled rate (%) - 99.99
+
+2019-08-14 09:09:13,031 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ON_SITE - correctly filled rate (%) - 0.0
+
+2019-08-14 09:09:13,031 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OTHER_SITE - correctly filled rate (%) - 0.0
+
+2019-08-14 09:09:13,031 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 95.53
+
+2019-08-14 09:09:13,031 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - REGION - total number of unique rows - 22
+
+2019-08-14 09:09:13,031 - JOBS - FR - VIADEO - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE_EMPLOI - correctly filled rate (%) - 100.0
+

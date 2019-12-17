@@ -1,0 +1,67 @@
+2019-08-30 13:13:30,874 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,874 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,874 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.36
+2019-08-30 13:13:30,874 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,874 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,874 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,874 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-08-30 13:13:30,874 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 3.82
+2019-08-30 13:13:30,874 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 0.0
+2019-08-30 13:13:30,875 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,875 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,875 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,875 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,875 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-08-30 13:13:30,875 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 157
+2019-08-30 13:13:30,875 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,875 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,875 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,875 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,875 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,875 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,876 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,876 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,876 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,876 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 0.0
+2019-08-30 13:13:30,876 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,876 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,876 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-08-30 13:13:30,876 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-08-30 13:13:30,876 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,876 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,876 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-08-30 13:13:30,876 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,876 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,876 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,877 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,877 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-08-30 13:13:30,877 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-08-30 13:13:30,877 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 0.0
+2019-08-30 13:13:30,877 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 17
+2019-08-30 13:13:30,877 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 29
+2019-08-30 13:13:30,877 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 0
+2019-08-30 13:13:30,877 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 1
+2019-08-30 13:13:30,877 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 0.0
+2019-08-30 13:13:30,877 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-08-30 13:13:30,877 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 2
+2019-08-30 13:13:30,877 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 2
+2019-08-30 13:13:30,877 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 157
+2019-08-30 13:13:30,877 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRUCKS - total number of row with conditions - 27
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRACTOR UNITS - total number of row with conditions - 5
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRAILERS - total number of row with conditions - 1
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - VANS - total number of row with conditions - 0
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - HEAVY EQUIPMENTS - total number of row with conditions - 0
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - SEMI TRAILERS - total number of row with conditions - 124
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRUCKS - total number of row with conditions - 27
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRUCKS - total number of row with conditions - 0
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRACTOR UNITS - total number of row with conditions - 5
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRACTOR UNITS - total number of row with conditions - 0
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRAILERS - total number of row with conditions - 1
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRAILERS - total number of row with conditions - 0
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_VANS - total number of row with conditions - 0
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_VANS - total number of row with conditions - 0
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_HEAVY EQUIPMENTS - total number of row with conditions - 0
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_HEAVY EQUIPMENTS - total number of row with conditions - 0
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_SEMI TRAILERS - total number of row with conditions - 124
+2019-08-30 13:13:30,878 - CAMION - DK - TRUCKSCOUT24 - 2019-06-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_SEMI TRAILERS - total number of row with conditions - 0

@@ -1,0 +1,151 @@
+2019-10-07 09:01:03,283 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 94.25
+2019-10-07 09:01:03,283 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,283 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 98.97
+2019-10-07 09:01:03,283 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,283 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 43, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,283 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 57, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,283 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 75, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,283 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 337, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,283 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 343, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,283 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 352, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,283 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 354, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,283 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 429, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,283 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 595, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,283 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 870, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,284 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1059, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,284 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1119, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,284 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1193, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,284 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1229, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,284 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1632, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,284 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1663, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,284 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1685, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,284 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1772, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,284 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1823, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,284 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 1827, value should match regexp ^[0-9]{4}$
+2019-10-07 09:01:03,284 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.15
+2019-10-07 09:01:03,284 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,284 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-07 09:01:03,284 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 66.29
+2019-10-07 09:01:03,284 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,285 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,285 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,285 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 89.65
+2019-10-07 09:01:03,285 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,285 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-07 09:01:03,285 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 5621
+2019-10-07 09:01:03,285 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,285 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,285 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,285 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,285 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,285 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,285 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 0.0
+2019-10-07 09:01:03,285 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,285 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [LE 280B...] on line  2, value length should be between 10 and 255
+2019-10-07 09:01:03,286 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [XF460...] on line  18, value length should be between 10 and 255
+2019-10-07 09:01:03,286 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [EUT 35,3...] on line  27, value length should be between 10 and 255
+2019-10-07 09:01:03,286 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [PW 140-7...] on line  48, value length should be between 10 and 255
+2019-10-07 09:01:03,286 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Atego 815...] on line  63, value length should be between 10 and 255
+2019-10-07 09:01:03,286 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [B25D...] on line  70, value length should be between 10 and 255
+2019-10-07 09:01:03,286 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Stas...] on line  93, value length should be between 10 and 255
+2019-10-07 09:01:03,286 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [75 CF ATI...] on line  99, value length should be between 10 and 255
+2019-10-07 09:01:03,286 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [R470 6x4...] on line  100, value length should be between 10 and 255
+2019-10-07 09:01:03,286 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [93M 280...] on line  104, value length should be between 10 and 255
+2019-10-07 09:01:03,286 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [TGX...] on line  116, value length should be between 10 and 255
+2019-10-07 09:01:03,286 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [XF460...] on line  124, value length should be between 10 and 255
+2019-10-07 09:01:03,286 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [STRALIS...] on line  136, value length should be between 10 and 255
+2019-10-07 09:01:03,286 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [KMK 2025...] on line  138, value length should be between 10 and 255
+2019-10-07 09:01:03,286 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Actros...] on line  144, value length should be between 10 and 255
+2019-10-07 09:01:03,286 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [PW95...] on line  181, value length should be between 10 and 255
+2019-10-07 09:01:03,286 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Cat d5...] on line  186, value length should be between 10 and 255
+2019-10-07 09:01:03,287 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [35.380...] on line  190, value length should be between 10 and 255
+2019-10-07 09:01:03,287 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [JS160W...] on line  201, value length should be between 10 and 255
+2019-10-07 09:01:03,287 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [CF 85.410...] on line  202, value length should be between 10 and 255
+2019-10-07 09:01:03,287 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 91.44
+2019-10-07 09:01:03,287 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 79.88
+2019-10-07 09:01:03,287 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,287 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,287 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,287 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 0 should be in ['int']
+2019-10-07 09:01:03,287 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 4 should be in ['int']
+2019-10-07 09:01:03,287 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 5 should be in ['int']
+2019-10-07 09:01:03,287 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7.0 on line 12 should be in ['int']
+2019-10-07 09:01:03,287 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 16 should be in ['int']
+2019-10-07 09:01:03,287 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 22 should be in ['int']
+2019-10-07 09:01:03,287 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 25 should be in ['int']
+2019-10-07 09:01:03,288 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 38 should be in ['int']
+2019-10-07 09:01:03,288 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 50 should be in ['int']
+2019-10-07 09:01:03,288 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 52 should be in ['int']
+2019-10-07 09:01:03,288 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 53 should be in ['int']
+2019-10-07 09:01:03,288 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 58 should be in ['int']
+2019-10-07 09:01:03,288 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 60 should be in ['int']
+2019-10-07 09:01:03,288 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 9.0 on line 72 should be in ['int']
+2019-10-07 09:01:03,288 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 91 should be in ['int']
+2019-10-07 09:01:03,288 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 118 should be in ['int']
+2019-10-07 09:01:03,288 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 3.0 on line 119 should be in ['int']
+2019-10-07 09:01:03,288 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 121 should be in ['int']
+2019-10-07 09:01:03,288 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 2.0 on line 123 should be in ['int']
+2019-10-07 09:01:03,288 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PLACE - Wrong type for value: 7.0 on line 129 should be in ['int']
+2019-10-07 09:01:03,288 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PLACE - correctly filled rate (%) - 0.0
+2019-10-07 09:01:03,288 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 14.68
+2019-10-07 09:01:03,288 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 0.0
+2019-10-07 09:01:03,289 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,289 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,289 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-10-07 09:01:03,289 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,289 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,289 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 99.66
+2019-10-07 09:01:03,289 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,289 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-10-07 09:01:03,289 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,289 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 8.54
+2019-10-07 09:01:03,289 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-10-07 09:01:03,289 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 168
+2019-10-07 09:01:03,289 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 159
+2019-10-07 09:01:03,289 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 77
+2019-10-07 09:01:03,289 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 5
+2019-10-07 09:01:03,290 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 52.39
+2019-10-07 09:01:03,290 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 200.0 on line 0 should be in ['int']
+2019-10-07 09:01:03,290 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 128.0 on line 1 should be in ['int']
+2019-10-07 09:01:03,290 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 687.0 on line 2 should be in ['int']
+2019-10-07 09:01:03,290 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 127.0 on line 3 should be in ['int']
+2019-10-07 09:01:03,290 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 299.0 on line 4 should be in ['int']
+2019-10-07 09:01:03,290 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 214.0 on line 5 should be in ['int']
+2019-10-07 09:01:03,290 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 299.0 on line 6 should be in ['int']
+2019-10-07 09:01:03,290 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 105.0 on line 11 should be in ['int']
+2019-10-07 09:01:03,290 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 230.0 on line 12 should be in ['int']
+2019-10-07 09:01:03,290 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 106.0 on line 13 should be in ['int']
+2019-10-07 09:01:03,290 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 127.0 on line 14 should be in ['int']
+2019-10-07 09:01:03,290 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 298.0 on line 16 should be in ['int']
+2019-10-07 09:01:03,290 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 127.0 on line 17 should be in ['int']
+2019-10-07 09:01:03,291 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 129.0 on line 18 should be in ['int']
+2019-10-07 09:01:03,291 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 127.0 on line 20 should be in ['int']
+2019-10-07 09:01:03,291 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 200.0 on line 22 should be in ['int']
+2019-10-07 09:01:03,291 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 230.0 on line 25 should be in ['int']
+2019-10-07 09:01:03,291 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 480.0 on line 26 should be in ['int']
+2019-10-07 09:01:03,291 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 637.0 on line 28 should be in ['int']
+2019-10-07 09:01:03,291 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 128.0 on line 32 should be in ['int']
+2019-10-07 09:01:03,291 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-10-07 09:01:03,291 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-10-07 09:01:03,291 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 482
+2019-10-07 09:01:03,291 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-10-07 09:01:03,291 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 5039
+2019-10-07 09:01:03,291 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 582
+2019-10-07 09:01:03,291 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRUCKS - total number of row with conditions - 2059
+2019-10-07 09:01:03,291 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRACTOR UNITS - total number of row with conditions - 1140
+2019-10-07 09:01:03,292 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - TRAILERS - total number of row with conditions - 270
+2019-10-07 09:01:03,292 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - VANS - total number of row with conditions - 974
+2019-10-07 09:01:03,292 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - HEAVY EQUIPMENTS - total number of row with conditions - 390
+2019-10-07 09:01:03,292 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - SEMI TRAILERS - total number of row with conditions - 788
+2019-10-07 09:01:03,292 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRUCKS - total number of row with conditions - 1834
+2019-10-07 09:01:03,292 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRUCKS - total number of row with conditions - 225
+2019-10-07 09:01:03,292 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRACTOR UNITS - total number of row with conditions - 1011
+2019-10-07 09:01:03,292 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRACTOR UNITS - total number of row with conditions - 129
+2019-10-07 09:01:03,292 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_TRAILERS - total number of row with conditions - 262
+2019-10-07 09:01:03,292 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_TRAILERS - total number of row with conditions - 8
+2019-10-07 09:01:03,292 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_VANS - total number of row with conditions - 901
+2019-10-07 09:01:03,292 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_VANS - total number of row with conditions - 73
+2019-10-07 09:01:03,292 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_HEAVY EQUIPMENTS - total number of row with conditions - 331
+2019-10-07 09:01:03,292 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_HEAVY EQUIPMENTS - total number of row with conditions - 59
+2019-10-07 09:01:03,292 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_SEMI TRAILERS - total number of row with conditions - 700
+2019-10-07 09:01:03,292 - CAMION - PL - MOBILEDE - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_SEMI TRAILERS - total number of row with conditions - 88

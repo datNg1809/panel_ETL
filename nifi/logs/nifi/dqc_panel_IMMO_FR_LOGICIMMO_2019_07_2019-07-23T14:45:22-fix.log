@@ -1,0 +1,186 @@
+2019-07-24 11:50:22,658 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-07-24 11:50:22,658 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 99.8
+2019-07-24 11:50:22,658 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-07-24 11:50:22,658 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 76.3
+2019-07-24 11:50:22,658 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 99.72
+2019-07-24 11:50:22,658 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 53000.0 on line 0, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,659 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 6150.0 on line 1, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,659 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 13006.0 on line 2, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,659 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 78140.0 on line 3, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,659 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 69410.0 on line 4, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,659 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 29150.0 on line 5, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,659 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 38250.0 on line 6, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,659 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 83400.0 on line 7, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,659 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 78480.0 on line 8, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,659 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 26100.0 on line 9, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,659 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 1000.0 on line 10, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,659 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 77564.0 on line 11, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,659 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 93110.0 on line 12, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,659 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 15000.0 on line 13, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,659 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 3104.0 on line 14, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,660 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 76210.0 on line 15, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,660 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 14000.0 on line 16, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,660 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 59570.0 on line 17, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,660 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 81000.0 on line 18, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,660 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 76360.0 on line 19, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,660 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 0.0
+2019-07-24 11:50:22,660 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 99.83
+2019-07-24 11:50:22,660 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 92.58
+2019-07-24 11:50:22,660 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 243531117.0 on line 0, value should match a phone number format
+2019-07-24 11:50:22,660 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 493909002.0 on line 1, value should match a phone number format
+2019-07-24 11:50:22,660 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 768889108.0 on line 2, value should match a phone number format
+2019-07-24 11:50:22,660 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 800734734.0 on line 3, value should match a phone number format
+2019-07-24 11:50:22,661 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 472522345.0 on line 4, value should match a phone number format
+2019-07-24 11:50:22,661 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 298995966.0 on line 5, value should match a phone number format
+2019-07-24 11:50:22,661 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 476170881.0 on line 6, value should match a phone number format
+2019-07-24 11:50:22,661 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 607769155.0 on line 7, value should match a phone number format
+2019-07-24 11:50:22,661 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 139117062.0 on line 8, value should match a phone number format
+2019-07-24 11:50:22,661 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 608768165.0 on line 9, value should match a phone number format
+2019-07-24 11:50:22,661 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 474730678.0 on line 10, value should match a phone number format
+2019-07-24 11:50:22,661 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 676087567.0 on line 11, value should match a phone number format
+2019-07-24 11:50:22,661 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 149351560.0 on line 12, value should match a phone number format
+2019-07-24 11:50:22,661 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 471643855.0 on line 13, value should match a phone number format
+2019-07-24 11:50:22,661 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 470050505.0 on line 14, value should match a phone number format
+2019-07-24 11:50:22,661 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 235311923.0 on line 15, value should match a phone number format
+2019-07-24 11:50:22,661 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 231348391.0 on line 16, value should match a phone number format
+2019-07-24 11:50:22,662 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 327631115.0 on line 17, value should match a phone number format
+2019-07-24 11:50:22,662 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 563432727.0 on line 18, value should match a phone number format
+2019-07-24 11:50:22,662 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_phone_number - AGENCE_TEL - Unexpected value: 617483573.0 on line 19, value should match a phone number format
+2019-07-24 11:50:22,662 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 0.01
+2019-07-24 11:50:22,662 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 99.82
+2019-07-24 11:50:22,662 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 99.89
+2019-07-24 11:50:22,662 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 99.91
+2019-07-24 11:50:22,662 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-07-24 11:50:22,662 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-05-23 00:00:00 on line 3469, value should be unique
+2019-07-24 11:50:22,662 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-06-29 00:00:00 on line 3761, value should be unique
+2019-07-24 11:50:22,662 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-06-25 00:00:00 on line 7016, value should be unique
+2019-07-24 11:50:22,662 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-07-04 00:00:00 on line 7664, value should be unique
+2019-07-24 11:50:22,662 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-07-01 00:00:00 on line 7697, value should be unique
+2019-07-24 11:50:22,663 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-05-16 00:00:00 on line 8466, value should be unique
+2019-07-24 11:50:22,663 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-06-18 00:00:00 on line 8922, value should be unique
+2019-07-24 11:50:22,663 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-05-16 00:00:00 on line 9462, value should be unique
+2019-07-24 11:50:22,663 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-05-29 00:00:00 on line 10532, value should be unique
+2019-07-24 11:50:22,663 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-06-22 00:00:00 on line 11357, value should be unique
+2019-07-24 11:50:22,663 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-04-01 00:00:00 on line 11570, value should be unique
+2019-07-24 11:50:22,663 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-06-01 00:00:00 on line 12098, value should be unique
+2019-07-24 11:50:22,663 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2018-10-19 00:00:00 on line 13161, value should be unique
+2019-07-24 11:50:22,663 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-05-30 00:00:00 on line 15435, value should be unique
+2019-07-24 11:50:22,663 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-07-04 00:00:00 on line 15749, value should be unique
+2019-07-24 11:50:22,663 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-04-01 00:00:00 on line 18800, value should be unique
+2019-07-24 11:50:22,663 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-05-29 00:00:00 on line 19568, value should be unique
+2019-07-24 11:50:22,663 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-04-01 00:00:00 on line 20684, value should be unique
+2019-07-24 11:50:22,664 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-05-17 00:00:00 on line 21165, value should be unique
+2019-07-24 11:50:22,664 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_unique - ANNONCE_LINK - Unexpected value: 2019-05-17 00:00:00 on line 22051, value should be unique
+2019-07-24 11:50:22,664 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 99.92
+2019-07-24 11:50:22,664 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - ANNONCE_TEXT - correctly filled rate (%) - 100.0
+2019-07-24 11:50:22,664 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_TEXT - correctly filled rate (%) - 0.17
+2019-07-24 11:50:22,664 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 99.83
+2019-07-24 11:50:22,664 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-07-24 11:50:22,664 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1100 on line 10, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,664 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3100 on line 14, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,664 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2200 on line 23, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,664 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6000 on line 25, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,664 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6510 on line 31, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,664 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6600 on line 32, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,665 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3700 on line 65, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,665 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6100 on line 73, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,665 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3200 on line 119, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,665 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1280 on line 155, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,665 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2200 on line 168, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,665 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6000 on line 184, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,665 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6200 on line 187, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,665 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4800 on line 208, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,665 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6220 on line 221, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,665 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6590 on line 224, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,665 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6650 on line 230, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,665 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 6530 on line 231, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,665 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4300 on line 239, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,666 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1210 on line 245, value should match regexp ^[0-9]{5}$
+2019-07-24 11:50:22,666 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 92.64
+2019-07-24 11:50:22,666 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - DEPARTEMENT - correctly filled rate (%) - 100.0
+2019-07-24 11:50:22,666 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 717771
+2019-07-24 11:50:22,666 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-07-24 11:50:22,666 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-07-24 11:50:22,666 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 140.0 on line 0 should be int
+2019-07-24 11:50:22,666 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 100.0 on line 1 should be int
+2019-07-24 11:50:22,666 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 84.0 on line 2 should be int
+2019-07-24 11:50:22,666 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 61.0 on line 3 should be int
+2019-07-24 11:50:22,666 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 20.0 on line 4 should be int
+2019-07-24 11:50:22,666 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 119.0 on line 5 should be int
+2019-07-24 11:50:22,666 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 22.0 on line 6 should be int
+2019-07-24 11:50:22,667 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 28.0 on line 7 should be int
+2019-07-24 11:50:22,667 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 185.0 on line 8 should be int
+2019-07-24 11:50:22,667 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 67.0 on line 9 should be int
+2019-07-24 11:50:22,667 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 15.0 on line 10 should be int
+2019-07-24 11:50:22,667 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 86.0 on line 11 should be int
+2019-07-24 11:50:22,667 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 97.0 on line 12 should be int
+2019-07-24 11:50:22,667 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 45.0 on line 13 should be int
+2019-07-24 11:50:22,667 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 81.0 on line 14 should be int
+2019-07-24 11:50:22,667 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 350.0 on line 15 should be int
+2019-07-24 11:50:22,667 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 130.0 on line 16 should be int
+2019-07-24 11:50:22,667 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 125.0 on line 17 should be int
+2019-07-24 11:50:22,667 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 115.0 on line 18 should be int
+2019-07-24 11:50:22,667 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 105.0 on line 19 should be int
+2019-07-24 11:50:22,668 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-07-24 11:50:22,668 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 95.96
+2019-07-24 11:50:22,668 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 140.0 on line 0 should be int
+2019-07-24 11:50:22,668 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 100.0 on line 1 should be int
+2019-07-24 11:50:22,668 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 84.0 on line 2 should be int
+2019-07-24 11:50:22,668 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 61.0 on line 3 should be int
+2019-07-24 11:50:22,668 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 20.0 on line 4 should be int
+2019-07-24 11:50:22,668 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 119.0 on line 5 should be int
+2019-07-24 11:50:22,668 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 22.0 on line 6 should be int
+2019-07-24 11:50:22,668 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 28.0 on line 7 should be int
+2019-07-24 11:50:22,668 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 185.0 on line 8 should be int
+2019-07-24 11:50:22,668 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 67.0 on line 9 should be int
+2019-07-24 11:50:22,668 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 15.0 on line 10 should be int
+2019-07-24 11:50:22,669 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 86.0 on line 11 should be int
+2019-07-24 11:50:22,669 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 97.0 on line 12 should be int
+2019-07-24 11:50:22,669 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 45.0 on line 13 should be int
+2019-07-24 11:50:22,669 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 81.0 on line 14 should be int
+2019-07-24 11:50:22,669 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 350.0 on line 15 should be int
+2019-07-24 11:50:22,669 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 130.0 on line 16 should be int
+2019-07-24 11:50:22,669 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 125.0 on line 17 should be int
+2019-07-24 11:50:22,669 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 115.0 on line 18 should be int
+2019-07-24 11:50:22,669 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2_TOTALE - Wrong type for value: 105.0 on line 19 should be int
+2019-07-24 11:50:22,669 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2_TOTALE - correctly filled rate (%) - 0.0
+2019-07-24 11:50:22,669 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2_TOTALE - correctly filled rate (%) - 99.83
+2019-07-24 11:50:22,669 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-07-24 11:50:22,670 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-07-24 11:50:22,670 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 0.0
+2019-07-24 11:50:22,670 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 0.2
+2019-07-24 11:50:22,670 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-07-24 11:50:22,670 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PAYS_AD - correctly filled rate (%) - 0.0
+2019-07-24 11:50:22,670 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 99.82
+2019-07-24 11:50:22,670 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-07-24 11:50:22,670 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-07-24 11:50:22,670 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-07-24 11:50:22,670 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 80250.0 on line 0 should be int
+2019-07-24 11:50:22,670 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 302000.0 on line 1 should be int
+2019-07-24 11:50:22,670 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 281500.0 on line 2 should be int
+2019-07-24 11:50:22,671 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 296700.0 on line 3 should be int
+2019-07-24 11:50:22,671 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 400.0 on line 4 should be int
+2019-07-24 11:50:22,671 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 176550.0 on line 5 should be int
+2019-07-24 11:50:22,671 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 89500.0 on line 6 should be int
+2019-07-24 11:50:22,671 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 90000.0 on line 7 should be int
+2019-07-24 11:50:22,671 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 345600.0 on line 8 should be int
+2019-07-24 11:50:22,671 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 132000.0 on line 9 should be int
+2019-07-24 11:50:22,671 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 48.0 on line 10 should be int
+2019-07-24 11:50:22,671 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 121000.0 on line 11 should be int
+2019-07-24 11:50:22,671 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 359000.0 on line 12 should be int
+2019-07-24 11:50:22,671 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 423.0 on line 13 should be int
+2019-07-24 11:50:22,671 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 66600.0 on line 14 should be int
+2019-07-24 11:50:22,671 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 36000.0 on line 15 should be int
+2019-07-24 11:50:22,672 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 221000.0 on line 16 should be int
+2019-07-24 11:50:22,672 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 122500.0 on line 17 should be int
+2019-07-24 11:50:22,672 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 740.0 on line 18 should be int
+2019-07-24 11:50:22,672 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - PRIX - Wrong type for value: 190000.0 on line 19 should be int
+2019-07-24 11:50:22,672 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 0.0
+2019-07-24 11:50:22,672 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 99.87
+2019-07-24 11:50:22,672 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-07-24 11:50:22,672 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-07-24 11:50:22,672 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-07-24 11:50:22,672 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 102762
+2019-07-24 11:50:22,672 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 0
+2019-07-24 11:50:22,672 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 716532
+2019-07-24 11:50:22,672 - IMMO - FR - LOGICIMMO - 2019-07-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 97

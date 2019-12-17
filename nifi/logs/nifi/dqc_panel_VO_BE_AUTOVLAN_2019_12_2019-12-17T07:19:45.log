@@ -1,0 +1,230 @@
+2019-12-17 07:19:53,046 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_file_to_be_validated - EVERY_COLUMNS - False - 0
+2019-12-17 07:19:53,046 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-12-17 07:19:53,046 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ADRESSE - False - 0
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - ANNEE - True - 1
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1965 on line 0, value should be between 1980 and 2019
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1966 on line 2, value should be between 1980 and 2019
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1972 on line 3, value should be between 1980 and 2019
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1970 on line 4, value should be between 1980 and 2019
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1972 on line 5, value should be between 1980 and 2019
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1972 on line 6, value should be between 1980 and 2019
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1960 on line 7, value should be between 1980 and 2019
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1960 on line 8, value should be between 1980 and 2019
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1979 on line 9, value should be between 1980 and 2019
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1973 on line 12, value should be between 1980 and 2019
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1962 on line 15, value should be between 1980 and 2019
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1970 on line 16, value should be between 1980 and 2019
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1972 on line 17, value should be between 1980 and 2019
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1973 on line 18, value should be between 1980 and 2019
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1962 on line 22, value should be between 1980 and 2019
+2019-12-17 07:19:53,047 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1975 on line 23, value should be between 1980 and 2019
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1966 on line 26, value should be between 1980 and 2019
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1960 on line 27, value should be between 1980 and 2019
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1972 on line 29, value should be between 1980 and 2019
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - ANNEE - Unexpected value: 1960 on line 30, value should be between 1980 and 2019
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 78.9
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - unexpected count - 10966
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - ANNEE - False - 0
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNEE - True - 1
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 465, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 487, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 488, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 491, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 492, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 497, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 502, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 504, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,048 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 514, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,049 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 516, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,049 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 518, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,049 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 521, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,049 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 526, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,049 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 527, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,049 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 532, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,049 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 533, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,049 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 534, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,049 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 539, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,049 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 540, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,049 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 548, value should match regexp ^[0-9]{4}$
+2019-12-17 07:19:53,049 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 82.1
+2019-12-17 07:19:53,049 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - ANNEE - False - 0
+2019-12-17 07:19:53,049 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,049 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ANNONCE_LINK - True - 1
+2019-12-17 07:19:53,049 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-12-17 07:19:53,049 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ANNONCE_LINK - True - 1
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 99.51
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARBURANT - True - 1
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CARROSSERIE - True - 1
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 99.01
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CP - True - 1
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - CP - True - 1
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 97.1
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - GARAGE_ID - False - 0
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - ID_CLIENT - True - 1
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_unique - ID_CLIENT - True - 1
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 51960
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - IMMAT - True - 1
+2019-12-17 07:19:53,050 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - KM - True - 1
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - KM - True - 1
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - LITRE - True - 1
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - LITRE - True - 1
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MARQUE - True - 1
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 99.99
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MODELE - True - 1
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - MOIS - True - 1
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 465, value should be between 1 and 12
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 487, value should be between 1 and 12
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 488, value should be between 1 and 12
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 491, value should be between 1 and 12
+2019-12-17 07:19:53,051 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 492, value should be between 1 and 12
+2019-12-17 07:19:53,052 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 497, value should be between 1 and 12
+2019-12-17 07:19:53,052 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 502, value should be between 1 and 12
+2019-12-17 07:19:53,052 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 504, value should be between 1 and 12
+2019-12-17 07:19:53,052 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 514, value should be between 1 and 12
+2019-12-17 07:19:53,052 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 516, value should be between 1 and 12
+2019-12-17 07:19:53,052 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 518, value should be between 1 and 12
+2019-12-17 07:19:53,052 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 521, value should be between 1 and 12
+2019-12-17 07:19:53,052 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 526, value should be between 1 and 12
+2019-12-17 07:19:53,052 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 527, value should be between 1 and 12
+2019-12-17 07:19:53,052 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 532, value should be between 1 and 12
+2019-12-17 07:19:53,052 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 533, value should be between 1 and 12
+2019-12-17 07:19:53,052 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 534, value should be between 1 and 12
+2019-12-17 07:19:53,052 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 539, value should be between 1 and 12
+2019-12-17 07:19:53,052 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 540, value should be between 1 and 12
+2019-12-17 07:19:53,052 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 548, value should be between 1 and 12
+2019-12-17 07:19:53,052 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 82.11
+2019-12-17 07:19:53,052 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - unexpected count - 9296
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_between - MOIS - False - 0
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_match_regex - MOIS - True - 1
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - NOM - True - 1
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [</title><meta name=v...] on line  9550, value length should be between 10 and 255
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [</title><meta name=v...] on line  14362, value length should be between 10 and 255
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Stock Kia Niro 1.6 G...] on line  40163, value length should be between 10 and 255
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [Occasion Kia Cee'd 1...] on line  47826, value length should be between 10 and 255
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 99.99
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - NOM - False - 0
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 93.38
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - OPTIONS - True - 1
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airbag arriere   Ant...] on line  487, value length should be between 0 and 255
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airbag conducteur   ...] on line  490, value length should be between 0 and 255
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airbag arriere   Iso...] on line  492, value length should be between 0 and 255
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airbag arriere   Air...] on line  494, value length should be between 0 and 255
+2019-12-17 07:19:53,053 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Anti-patinage   Airb...] on line  495, value length should be between 0 and 255
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airbag conducteur   ...] on line  498, value length should be between 0 and 255
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airbag arriere   Air...] on line  499, value length should be between 0 and 255
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airbag conducteur   ...] on line  500, value length should be between 0 and 255
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airbag avant   Airba...] on line  508, value length should be between 0 and 255
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airbag avant   Airba...] on line  510, value length should be between 0 and 255
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airbag conducteur   ...] on line  511, value length should be between 0 and 255
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Airbag avant   Airba...] on line  517, value length should be between 0 and 255
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Climatisation   ABS ...] on line  521, value length should be between 0 and 255
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Camera d'aide au sta...] on line  523, value length should be between 0 and 255
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Vitres electriques  ...] on line  524, value length should be between 0 and 255
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Retroviseurs laterau...] on line  525, value length should be between 0 and 255
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Retroviseurs laterau...] on line  526, value length should be between 0 and 255
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Retroviseurs laterau...] on line  527, value length should be between 0 and 255
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Vitres electriques  ...] on line  528, value length should be between 0 and 255
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [Vitres electriques  ...] on line  530, value length should be between 0 and 255
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 41.75
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_value_lengths_to_be_between - OPTIONS - False - 0
+2019-12-17 07:19:53,054 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,055 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PHOTO - True - 1
+2019-12-17 07:19:53,055 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,055 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PHOTO - True - 1
+2019-12-17 07:19:53,055 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-12-17 07:19:53,055 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PLACE - False - 0
+2019-12-17 07:19:53,055 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,055 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PORTE - True - 1
+2019-12-17 07:19:53,055 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 0 should be in ['int', 'float']
+2019-12-17 07:19:53,055 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 1 should be in ['int', 'float']
+2019-12-17 07:19:53,055 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 2 should be in ['int', 'float']
+2019-12-17 07:19:53,055 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 3 should be in ['int', 'float']
+2019-12-17 07:19:53,055 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 4 should be in ['int', 'float']
+2019-12-17 07:19:53,055 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 5 should be in ['int', 'float']
+2019-12-17 07:19:53,055 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 6 should be in ['int', 'float']
+2019-12-17 07:19:53,055 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 7 should be in ['int', 'float']
+2019-12-17 07:19:53,055 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 8 should be in ['int', 'float']
+2019-12-17 07:19:53,055 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 9 should be in ['int', 'float']
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 10 should be in ['int', 'float']
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 11 should be in ['int', 'float']
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 12 should be in ['int', 'float']
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 13 should be in ['int', 'float']
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 14 should be in ['int', 'float']
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 15 should be in ['int', 'float']
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 16 should be in ['int', 'float']
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 17 should be in ['int', 'float']
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 18 should be in ['int', 'float']
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - PORTE - Wrong type for value: - on line 19 should be in ['int', 'float']
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 0.0
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PORTE - False - 0
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - PRIX - True - 1
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PRIX - True - 1
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 0.0
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - PROVINCE - False - 0
+2019-12-17 07:19:53,056 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,057 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - SITE - True - 1
+2019-12-17 07:19:53,057 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 97.59
+2019-12-17 07:19:53,057 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TELEPHONE - True - 1
+2019-12-17 07:19:53,057 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,057 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_phone_number - TELEPHONE - True - 1
+2019-12-17 07:19:53,057 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,057 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - TYPE - True - 1
+2019-12-17 07:19:53,057 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-12-17 07:19:53,057 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 99.0
+2019-12-17 07:19:53,057 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VILLE - True - 1
+2019-12-17 07:19:53,057 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 95.49
+2019-12-17 07:19:53,057 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - VN_IND - False - 0
+2019-12-17 07:19:53,057 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-12-17 07:19:53,057 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_set - VN_IND - True - 1
+2019-12-17 07:19:53,057 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 111
+2019-12-17 07:19:53,057 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 954
+2019-12-17 07:19:53,057 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 16
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 8
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 91.87
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_not_be_null - CYLINDRE - True - 1
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 15953.0 on line 487 should be in ['int']
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 23003.0 on line 488 should be in ['int']
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 11493.0 on line 489 should be in ['int']
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 17963.0 on line 490 should be in ['int']
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 8973.0 on line 492 should be in ['int']
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 15983.0 on line 494 should be in ['int']
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 19683.0 on line 495 should be in ['int']
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 21433.0 on line 498 should be in ['int']
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 20003.0 on line 500 should be in ['int']
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 19953.0 on line 504 should be in ['int']
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 21953.0 on line 506 should be in ['int']
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 12423.0 on line 508 should be in ['int']
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 14963.0 on line 510 should be in ['int']
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 20003.0 on line 511 should be in ['int']
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 15823.0 on line 512 should be in ['int']
+2019-12-17 07:19:53,058 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 9983.0 on line 513 should be in ['int']
+2019-12-17 07:19:53,059 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 13963.0 on line 515 should be in ['int']
+2019-12-17 07:19:53,059 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 14993.0 on line 519 should be in ['int']
+2019-12-17 07:19:53,059 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 19993.0 on line 521 should be in ['int']
+2019-12-17 07:19:53,059 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 19843.0 on line 522 should be in ['int']
+2019-12-17 07:19:53,059 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-12-17 07:19:53,059 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - FILE_VALIDATE - expect_column_values_to_be_in_type_list - CYLINDRE - False - 0
+2019-12-17 07:19:53,059 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 0
+2019-12-17 07:19:53,059 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 1237
+2019-12-17 07:19:53,059 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 0
+2019-12-17 07:19:53,059 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 0
+2019-12-17 07:19:53,059 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-12-17 07:19:53,059 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_NEWCARS - total number of row with conditions - 0
+2019-12-17 07:19:53,059 - VO - BE - AUTOVLAN - 2019-12-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - GARAGE_ID - total number of unique rows - 1591

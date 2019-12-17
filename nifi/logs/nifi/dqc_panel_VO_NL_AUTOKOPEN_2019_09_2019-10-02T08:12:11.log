@@ -1,0 +1,137 @@
+2019-10-02 08:12:15,215 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,215 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - ANNEE - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - ANNEE - correctly filled rate (%) - 99.19
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNEE - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 64, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 157, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 2887, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 3854, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4474, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4566, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4601, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4716, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4717, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4720, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4721, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4812, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 4943, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 5062, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 5063, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,216 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 5234, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 5235, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 5236, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 5292, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - ANNEE - Unexpected value: 0 on line 5293, value should match regexp ^[0-9]{4}$
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - ANNEE - correctly filled rate (%) - 99.5
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARBURANT - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CARROSSERIE - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - GARAGE_ID - correctly filled rate (%) - 0.0
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 25756
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - IMMAT - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - KM - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,217 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - KM - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - LITRE - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - LITRE - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MARQUE - correctly filled rate (%) - 0.0
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MODELE - correctly filled rate (%) - 0.0
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MOIS - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 64, value should be between 1 and 12
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 139, value should be between 1 and 12
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 157, value should be between 1 and 12
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 432, value should be between 1 and 12
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 464, value should be between 1 and 12
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 475, value should be between 1 and 12
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 673, value should be between 1 and 12
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 749, value should be between 1 and 12
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 767, value should be between 1 and 12
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 802, value should be between 1 and 12
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 858, value should be between 1 and 12
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 876, value should be between 1 and 12
+2019-10-02 08:12:15,218 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 884, value should be between 1 and 12
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 917, value should be between 1 and 12
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 918, value should be between 1 and 12
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1006, value should be between 1 and 12
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1042, value should be between 1 and 12
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1175, value should be between 1 and 12
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1184, value should be between 1 and 12
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_between - MOIS - Unexpected value: 0 on line 1338, value should be between 1 and 12
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MOIS - correctly filled rate (%) - 98.09
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - MOIS - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - NOM - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - NOM - Unexpected characters count of: [MG A 1500...] on line  9680, value length should be between 10 and 255
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - NOM - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - OPTIONS - correctly filled rate (%) - 99.28
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Achterbank neerk...] on line  5, value length should be between 0 and 255
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Achterbank neerk...] on line  9, value length should be between 0 and 255
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Achterbank neerk...] on line  11, value length should be between 0 and 255
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS ASR (anti slip r...] on line  14, value length should be between 0 and 255
+2019-10-02 08:12:15,219 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Achterbank neerk...] on line  15, value length should be between 0 and 255
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [12Volt aansluiting A...] on line  17, value length should be between 0 and 255
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Achterbank neerk...] on line  18, value length should be between 0 and 255
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Achterbank neerk...] on line  23, value length should be between 0 and 255
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS ASR (anti slip r...] on line  26, value length should be between 0 and 255
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS ASR (anti slip r...] on line  27, value length should be between 0 and 255
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS ASR (anti slip r...] on line  29, value length should be between 0 and 255
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Achterbank neerk...] on line  61, value length should be between 0 and 255
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS ASR en EDS Airba...] on line  65, value length should be between 0 and 255
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [# FULL OPTIONS # 381...] on line  72, value length should be between 0 and 255
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [12-Volt aansluiting ...] on line  74, value length should be between 0 and 255
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [3-inch kleurenscherm...] on line  76, value length should be between 0 and 255
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag bestuurde...] on line  83, value length should be between 0 and 255
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Achterbank neerk...] on line  89, value length should be between 0 and 255
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [197U Obsidiaanzwart ...] on line  90, value length should be between 0 and 255
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_value_lengths_to_be_between - OPTIONS - Unexpected characters count of: [ABS Airbag bestuurde...] on line  97, value length should be between 0 and 255
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_value_lengths_to_be_between - OPTIONS - correctly filled rate (%) - 37.74
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,220 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,221 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PLACE - correctly filled rate (%) - 0.0
+2019-10-02 08:12:15,221 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PORTE - correctly filled rate (%) - 92.81
+2019-10-02 08:12:15,221 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PORTE - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,221 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PRIX - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,221 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,221 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PROVINCE - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,221 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - SITE - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,221 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TELEPHONE - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,221 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - TELEPHONE - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,221 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - TYPE - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,221 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set_2 - TYPE - observed proportion - 100.0
+2019-10-02 08:12:15,221 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,221 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VN_IND - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,221 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - VN_IND - correctly filled rate (%) - 100.0
+2019-10-02 08:12:15,221 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_USEDCARS - total number of row with conditions - 25756
+2019-10-02 08:12:15,221 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_USEDCARS - total number of row with conditions - 0
+2019-10-02 08:12:15,221 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MARQUE_CORRECTED - total number of unique rows - 71
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - MODELE_CORRECTED - total number of unique rows - 702
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARROSSERIE - total number of unique rows - 10
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - CARBURANT - total number of unique rows - 8
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CYLINDRE - correctly filled rate (%) - 91.77
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1896.0 on line 0 should be in ['int']
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1870.0 on line 1 should be in ['int']
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1391.0 on line 2 should be in ['int']
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2967.0 on line 3 should be in ['int']
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1995.0 on line 4 should be in ['int']
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1998.0 on line 5 should be in ['int']
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1596.0 on line 6 should be in ['int']
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1596.0 on line 7 should be in ['int']
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1895.0 on line 8 should be in ['int']
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2171.0 on line 9 should be in ['int']
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1598.0 on line 10 should be in ['int']
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 3498.0 on line 11 should be in ['int']
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1794.0 on line 12 should be in ['int']
+2019-10-02 08:12:15,222 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2494.0 on line 13 should be in ['int']
+2019-10-02 08:12:15,223 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 5786.0 on line 14 should be in ['int']
+2019-10-02 08:12:15,223 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 2188.0 on line 15 should be in ['int']
+2019-10-02 08:12:15,223 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1998.0 on line 16 should be in ['int']
+2019-10-02 08:12:15,223 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1997.0 on line 17 should be in ['int']
+2019-10-02 08:12:15,223 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1783.0 on line 18 should be in ['int']
+2019-10-02 08:12:15,223 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_in_type_list - CYLINDRE - Wrong type for value: 1390.0 on line 19 should be in ['int']
+2019-10-02 08:12:15,223 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - CYLINDRE - correctly filled rate (%) - 0.0
+2019-10-02 08:12:15,223 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - PROVINCE - total number of unique rows - 12
+2019-10-02 08:12:15,223 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 284
+2019-10-02 08:12:15,223 - VO - NL - AUTOKOPEN - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - DEPARTEMENT - total number of unique rows - 12

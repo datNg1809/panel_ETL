@@ -1,0 +1,94 @@
+2019-09-30 14:00:31,333 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,333 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - ACHAT_LOC - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,333 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ADRESSE - correctly filled rate (%) - 0.0
+2019-09-30 14:00:31,333 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ADRESSE - correctly filled rate (%) - 3.1
+2019-09-30 14:00:31,333 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_CP - correctly filled rate (%) - 2.98
+2019-09-30 14:00:31,333 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5013 on line 81329, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,333 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5013 on line 149272, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,333 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5013 on line 157195, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,334 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5013 on line 180325, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,334 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5013 on line 213569, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,334 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5013 on line 261188, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,334 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5013 on line 308706, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,334 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5013 on line 328295, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,334 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5013 on line 375213, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,334 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5013 on line 390721, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,334 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5013 on line 393468, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,334 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5013 on line 461513, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,334 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5013 on line 503728, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,334 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5013 on line 508143, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,335 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - AGENCE_CP - Unexpected value: 5013 on line 528655, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,335 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - AGENCE_CP - correctly filled rate (%) - 99.91
+2019-09-30 14:00:31,335 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_ID - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,335 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_NOM - correctly filled rate (%) - 3.39
+2019-09-30 14:00:31,335 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_phone_number - AGENCE_TEL - correctly filled rate (%) - 99.99
+2019-09-30 14:00:31,335 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_TEL - correctly filled rate (%) - 99.52
+2019-09-30 14:00:31,335 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - AGENCE_VILLE - correctly filled rate (%) - 3.24
+2019-09-30 14:00:31,335 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_DATE - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,335 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ANNONCE_LINK - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,335 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ANNONCE_LINK - observed proportion - 100.0
+2019-09-30 14:00:31,335 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CATEGORIE - correctly filled rate (%) - 9.32
+2019-09-30 14:00:31,335 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - CP - correctly filled rate (%) - 2.71
+2019-09-30 14:00:31,335 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1085 on line 249, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,335 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1280 on line 459, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,335 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1791 on line 473, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,335 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2345 on line 599, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,335 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1245 on line 812, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 4100 on line 829, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1893 on line 940, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1104 on line 1738, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1733 on line 2098, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1761 on line 2762, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2225 on line 3484, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 3146 on line 3942, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2022 on line 3963, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1727 on line 4263, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 2224 on line 4359, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1058 on line 4494, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1561 on line 4597, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1071 on line 5776, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1271 on line 6545, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_match_regex - CP - Unexpected value: 1080 on line 7724, value should match regexp ^[0-9]{5}$
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - CP - correctly filled rate (%) - 91.41
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count - EVERY_COLUMNS - total number of rows - 569439
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - ID_CLIENT - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,336 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_unique - ID_CLIENT - observed proportion - 100.0
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 34.0 on line 0 should be int
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 122.0 on line 1 should be int
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 114.0 on line 2 should be int
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 557.0 on line 3 should be int
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 65.0 on line 4 should be int
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 86.0 on line 5 should be int
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 212.0 on line 6 should be int
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 376.0 on line 7 should be int
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 130.0 on line 8 should be int
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 100.0 on line 9 should be int
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 0.0 on line 10 should be int
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 81.0 on line 11 should be int
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 68.0 on line 12 should be int
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 140.0 on line 13 should be int
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 330.0 on line 14 should be int
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 145.0 on line 15 should be int
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 60.0 on line 16 should be int
+2019-09-30 14:00:31,337 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 100.0 on line 17 should be int
+2019-09-30 14:00:31,338 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 150.0 on line 18 should be int
+2019-09-30 14:00:31,338 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - FILE_CHECK - expect_column_values_to_be_of_type - M2 - Wrong type for value: 63.0 on line 19 should be int
+2019-09-30 14:00:31,338 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - M2 - correctly filled rate (%) - 0.0
+2019-09-30 14:00:31,338 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - M2 - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,338 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MAISON_APT - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,338 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_between - MAISON_APT - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,338 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - MINI_SITE_ID - correctly filled rate (%) - 3.39
+2019-09-30 14:00:31,338 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PHOTO - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,338 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PHOTO - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,338 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PIECE - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,338 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_type_list - PIECE - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,338 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_of_type - PRIX - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,338 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRIX - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,338 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - PRO_IND - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,338 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_be_in_set - PRO_IND - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,338 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - REGION - correctly filled rate (%) - 0.0
+2019-09-30 14:00:31,338 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_match_regex - VILLE - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,339 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_column_values_to_not_be_null - VILLE - correctly filled rate (%) - 100.0
+2019-09-30 14:00:31,339 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_unique_count - VILLE - total number of unique rows - 110
+2019-09-30 14:00:31,339 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - PRIVATE_LISTINGS - total number of row with conditions - 15166
+2019-09-30 14:00:31,339 - IMMO - IT - BAKECA - 2019-09-01 00:00:00 - ERROR - STAT - expect_returning_row_count_on_conditions - DEALER_LISTINGS - total number of row with conditions - 554273
