@@ -12,6 +12,6 @@ COPY --chown=nifi:nifi ./logs/nifi /opt/nifi/nifi-current/logs
 COPY --chown=nifi:nifi ./application /usr/local/src
 COPY --chown=nifi:nifi ./data /usr/local/data
 
-RUN  chmod -R 755 /usr/local/src/config
+RUN  chmod -R 775 /usr/local/src/config/final_config
 
 USER nifi
