@@ -81,7 +81,7 @@ def main(market, country, year, month, logger):
         query_a = """
                 select distinct SITE 
                 from {name}_{year}_{month};
-                """.format(name=adapt_filename(market, country), year=year, month=month)
+                """.format(name=country, year=year, month=month)
         df_a = pd.read_sql_query(query_a, connector)
 
         # Check log to skip websites which are already downloaded in the month
@@ -103,7 +103,7 @@ def main(market, country, year, month, logger):
 
         # Second query to download data per website
         for website in website_list:
-            query_b = query_vo.format(name=adapt_filename(market, country), year=year, month=month, website=website)
+            query_b = query_vo.format(name= country, year=year, month=month, website=website)
             official_website = adapt_website_name(market, country,website.upper())
             print("filename=" + market + "_" + country + "_" + official_website.upper() + "_" + year + "_" + month)
             df_b = pd.read_sql_query(query_b, connector)
