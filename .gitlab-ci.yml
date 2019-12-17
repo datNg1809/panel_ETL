@@ -34,6 +34,10 @@ build:
     - bash ./.cicd_tools_project_specific/build_and_push_dqc_panel_docker_images.sh ${DOCKER_REGISTRY} ${DOCKER_NAMESPACE} ${CI_COMMIT_SHA:0:8}
   tags:
     - docker
+  only:
+    - master        
+  
+  when: manual
 
 deploy:
   stage: deploy
@@ -46,4 +50,6 @@ deploy:
     - execute_docker_compose_up
   tags:
     - docker
+  only:
+    - master        
   when: manual
