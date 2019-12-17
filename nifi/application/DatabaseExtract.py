@@ -53,7 +53,7 @@ query_vo = """select ADRESSE, ANNEE, ANNONCE_LINK,
                         MODELE_CORRECTED, CYLINDRE, DEPARTEMENT
                 From {name}_{year}_{month}
                 Where SITE='{website}' 
-                limit 400;"""
+                ;"""
 query_immo = """Select ACHAT_LOC, ADRESSE, AGENCE_ADRESSE,
                         AGENCE_CP, AGENCE_ID, AGENCE_NOM,
                         AGENCE_TEL, AGENCE_VILLE, ANNONCE_DATE,
@@ -72,7 +72,7 @@ query_jobs = """Select ANNONCE_LINK, ANNONCE_TEXT, ANNONCEUR,
                 From {};"""
 
 
-def main(market, country, year, month, logger):
+def main(market, country, year, month, logger, overwrite):
     connector = mariadb.connect(user='PANEL-RO', password='PNL-P@n3l', database='DMT_PANEL_{}'.format(market),
                                 host='dwh',
                                 port=3306)
@@ -88,17 +88,21 @@ def main(market, country, year, month, logger):
         f = open("./export_log/{}_{}_{}_{}.log".format(market, country, year, month), "r")
         log_lines = f.readlines()
         website_list = []
-        for web in df_a['SITE']:
-            official_web = adapt_website_name(market, country,web.upper())
-            ticker = "n"
-            for line in log_lines:
-                if "{}_{}_{}_{}_{} has been downloaded".format(market, country, official_web.upper(), year, month) in line:
-                    # if market is VO or NPV, website will be downloaded again 3 days after the first downloading time
-                    previous_date = datetime.strptime(line[0:10], "%Y-%m-%d")
-                    three_days_after = previous_date + timedelta(3)
-                    if datetime.date(three_days_after) != datetime.date(datetime.now()):
-                        ticker = "y"
-            if ticker == "n":
+        if overwrite == "NO":
+            for web in df_a['SITE']:
+                official_web = adapt_website_name(market, country,web.upper())
+                ticker = "n"
+                for line in log_lines:
+                    if "{}_{}_{}_{}_{} has been downloaded".format(market, country, official_web.upper(), year, month) in line:
+                        # if market is VO or NPV, website will be downloaded again 3 days after the first downloading time
+                        previous_date = datetime.strptime(line[0:10], "%Y-%m-%d")
+                        three_days_after = previous_date + timedelta(3)
+                        if datetime.date(three_days_after) != datetime.date(datetime.now()):
+                            ticker = "y"
+                if ticker == "n":
+                    website_list.append(web)
+        elif overwrite == "YES":
+            for web in df_a['SITE']:
                 website_list.append(web)
 
         # Second query to download data per website
@@ -123,17 +127,23 @@ def main(market, country, year, month, logger):
                     and table_schema='dmt_panel_{}';
                     """.format(adapt_filename(market, country), year, month, market)
         df_a = pd.read_sql_query(query_a, connector)
+
         # Check log to skip files which are already downloaded in the month
         f = open("./export_log/{}_{}_{}_{}.log".format(market, country, year, month), "r")
         log_lines = f.readlines()
         table_list = []
-        ticker = "n"
-        for table_name in df_a['table_name']:
-            for line in log_lines:
-                if "{} has been downloaded".format(table_name) in line:
-                    ticker = "y"
-            if ticker == "n":
+        if overwrite == "NO":
+            ticker = "n"
+            for table_name in df_a['table_name']:
+                for line in log_lines:
+                    if "{} has been downloaded".format(table_name) in line:
+                        ticker = "y"
+                if ticker == "n":
+                    table_list.append(table_name)
+        elif overwrite == "YES":
+            for table_name in df_a['table_name']:
                 table_list.append(table_name)
+
         # Second query to download data per table
         for table in table_list:
             if market == "IMMO":
@@ -169,6 +179,10 @@ if __name__ == "__main__":
             month = sys.argv[4]
         else:
             month = datetime.today().strftime('%m')
+        if sys.argv[5] != "":
+            overwrite = sys.argv[5]
+        else: 
+            overwrite = "NO"
 
         # Setup logger
         logger = logging.getLogger(__name__)
@@ -178,7 +192,7 @@ if __name__ == "__main__":
         file_handler.setFormatter(formatter)
         logger.addHandler(file_handler)
 
-        main(market, country, year, month, logger)
+        main(market, country, year, month, logger,overwrite)
     except Exception as e:
         logger.error("{}_{}_{}_{} was affected : ".format(market, country, year, month) + str(e))
         print("{}_{}_{}_{} was affected : ".format(market, country, year, month) + str(e))
