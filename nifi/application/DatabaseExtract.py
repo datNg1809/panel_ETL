@@ -15,6 +15,8 @@ def adapt_filename(market, country):
     :param country:
     :return:
     """
+    if "." in country:
+        country.replace(".", "_")
     return market + "_" + country
 
 
@@ -81,7 +83,7 @@ def main(market, country, year, month, logger, overwrite):
         query_a = """
                 select distinct SITE 
                 from {name}_{year}_{month};
-                """.format(name=country, year=year, month=month)
+                """.format(name=adapt_filename(market, country), year=year, month=month)
         df_a = pd.read_sql_query(query_a, connector)
 
         # Check log to skip websites which are already downloaded in the month
