@@ -2,10 +2,10 @@
 [[servers]]
 host = "exch2k16.autobiz.com"
 
-port = 389
-use_ssl = false
+port = 636
+use_ssl = true
 start_tls = false
-ssl_skip_verify = false
+ssl_skip_verify = true
 bind_dn = "CptSvc_grafana"
 bind_password = 'sdz85KK8erhb488/zafvAZAeZ6'
 search_filter = "(sAMAccountName=%s)"
@@ -17,32 +17,3 @@ surname = "sn"
 username = "sAMAccountName"
 member_of = "memberOf"
 email =  "mail"
-
-
-## Map ldap groups to grafana org roles
-#[[servers.group_mappings]]
-##group_dn = "cn=admins,dc=grafana,dc=org"
-#group_dn = "admins"
-#org_role = "Admin"
-## To make user an instance admin  (Grafana Admin) uncomment line below
-## grafana_admin = true
-## The Grafana organization database id, optional, if left out the default org (id 1) will be used
-## org_id = 1
-#
-[[servers.group_mappings]]
-##group_dn = "cn=users,dc=grafana,dc=org"
-##org_role = "Editor"
-#
-group_dn = "*"
-org_role = "Editor"
-#
-#
-#[[servers.group_mappings]]
-## If you want to match all (or no ldap groups) then you can use wildcard
-##group_dn = "*"
-##org_role = "Viewer"
-#
-#group_dn = "users"
-##group_dn = "cn=users,dc=grafana,dc=org"
-#
-#org_role = "Viewer"
